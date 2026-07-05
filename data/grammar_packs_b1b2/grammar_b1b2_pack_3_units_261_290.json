@@ -1,0 +1,4982 @@
+[
+  {
+    "unit": 261,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 61,
+    "level": "B2",
+    "topic": "be used to / get used to",
+    "title_ru": "Be used to / get used to",
+    "explanation_ru": "be used to + V-ing = быть привыкшим; get used to + V-ing = привыкать. Не путать с used to + V1 = раньше делал.",
+    "formula": "be/get used to + noun/V-ing",
+    "examples": [
+      {
+        "en": "I'm used to getting up early.",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "She is getting used to living abroad.",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "I used to smoke, but I stopped.",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "get up",
+        "correct": "getting up",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "live",
+        "correct": "living",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "am used",
+        "correct": "used",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I'm used to ___ early.",
+        "options": [
+          "getting up",
+          "get up",
+          "to get up"
+        ],
+        "correct_answer": "getting up",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "get up": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "to get up": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She is getting used to ___ abroad.",
+        "options": [
+          "living",
+          "live",
+          "to live"
+        ],
+        "correct_answer": "living",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "live": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "to live": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I ___ to smoke, but I stopped.",
+        "options": [
+          "used",
+          "am used",
+          "get used"
+        ],
+        "correct_answer": "used",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "am used": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "get used": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Are you used to ___ alone?",
+        "options": [
+          "working",
+          "work",
+          "to work"
+        ],
+        "correct_answer": "working",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "work": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "to work": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It took time to get used to ___ on the left.",
+        "options": [
+          "driving",
+          "drive",
+          "drove"
+        ],
+        "correct_answer": "driving",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "drive": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "drove": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'm not used to ___ so much noise.",
+        "options": [
+          "having",
+          "have",
+          "to have"
+        ],
+        "correct_answer": "having",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "have": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "to have": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I'm used to this weather.",
+          "I'm used this weather.",
+          "I'm used to be this weather."
+        ],
+        "correct_answer": "I'm used to this weather.",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "I'm used this weather.": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "I'm used to be this weather.": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He'll soon get used to ___ here.",
+        "options": [
+          "living",
+          "live",
+          "lived"
+        ],
+        "correct_answer": "living",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "live": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "lived": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 262,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 62,
+    "level": "B2",
+    "topic": "verb + preposition + ing",
+    "title_ru": "Verb + preposition + -ing",
+    "explanation_ru": "После глагола с предлогом глагол ставится в -ing: succeed in doing, insist on doing, apologise for being late.",
+    "formula": "verb + preposition + V-ing",
+    "examples": [
+      {
+        "en": "He succeeded in solving the problem.",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "She insisted on paying for dinner.",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "I apologised for being late.",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "to solve",
+        "correct": "solving",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "to pay for",
+        "correct": "paying for",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "to be",
+        "correct": "being",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "He succeeded in ___ the problem.",
+        "options": [
+          "solving",
+          "to solve",
+          "solve"
+        ],
+        "correct_answer": "solving",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "to solve": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "solve": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She insisted on ___ dinner.",
+        "options": [
+          "paying for",
+          "to pay for",
+          "pay"
+        ],
+        "correct_answer": "paying for",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "to pay for": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "pay": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I apologised for ___ late.",
+        "options": [
+          "being",
+          "to be",
+          "be"
+        ],
+        "correct_answer": "being",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "to be": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "be": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We're thinking of ___ a car.",
+        "options": [
+          "buying",
+          "to buy",
+          "buy"
+        ],
+        "correct_answer": "buying",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "to buy": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "buy": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He was accused of ___ money.",
+        "options": [
+          "stealing",
+          "to steal",
+          "steal"
+        ],
+        "correct_answer": "stealing",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "to steal": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "steal": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They complained about ___ too much.",
+        "options": [
+          "working",
+          "to work",
+          "work"
+        ],
+        "correct_answer": "working",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "to work": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "work": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "She doesn't approve of smoking.",
+          "She doesn't approve to smoke.",
+          "She doesn't approve of to smoke."
+        ],
+        "correct_answer": "She doesn't approve of smoking.",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "She doesn't approve to smoke.": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "She doesn't approve of to smoke.": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'm looking forward to ___ you.",
+        "options": [
+          "seeing",
+          "see",
+          "to see"
+        ],
+        "correct_answer": "seeing",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "see": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "to see": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 263,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 63,
+    "level": "B2",
+    "topic": "expressions + ing",
+    "title_ru": "Expressions + -ing",
+    "explanation_ru": "После it's no use, it's worth, have difficulty, spend/waste time используется -ing.",
+    "formula": "It's no use / worth / difficulty + V-ing",
+    "examples": [
+      {
+        "en": "It's no use complaining.",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "The museum is worth visiting.",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "I had difficulty finding the address.",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "to complain",
+        "correct": "complaining",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "to visit",
+        "correct": "visiting",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "to find",
+        "correct": "finding",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "It's no use ___.",
+        "options": [
+          "complaining",
+          "to complain",
+          "complain"
+        ],
+        "correct_answer": "complaining",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "to complain": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "complain": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The museum is worth ___.",
+        "options": [
+          "visiting",
+          "to visit",
+          "visit"
+        ],
+        "correct_answer": "visiting",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "to visit": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "visit": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I had difficulty ___ the address.",
+        "options": [
+          "finding",
+          "to find",
+          "find"
+        ],
+        "correct_answer": "finding",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "to find": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "find": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She spent all day ___ emails.",
+        "options": [
+          "answering",
+          "to answer",
+          "answer"
+        ],
+        "correct_answer": "answering",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "to answer": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "answer": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Don't waste time ___ about it.",
+        "options": [
+          "worrying",
+          "to worry",
+          "worry"
+        ],
+        "correct_answer": "worrying",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "to worry": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "worry": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We went ___ yesterday.",
+        "options": [
+          "shopping",
+          "to shopping",
+          "shop"
+        ],
+        "correct_answer": "shopping",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "to shopping": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "shop": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I had trouble sleeping.",
+          "I had trouble to sleep.",
+          "I had trouble sleep."
+        ],
+        "correct_answer": "I had trouble sleeping.",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "I had trouble to sleep.": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "I had trouble sleep.": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It's not worth ___.",
+        "options": [
+          "arguing",
+          "to argue",
+          "argue"
+        ],
+        "correct_answer": "arguing",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "to argue": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "argue": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 264,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 64,
+    "level": "B1",
+    "topic": "to / for / so that",
+    "title_ru": "To / for / so that",
+    "explanation_ru": "To + verb показывает цель действия. For + noun/-ing показывает назначение. So that + clause объясняет цель через отдельное предложение.",
+    "formula": "to + V1; for + noun/V-ing; so that + clause",
+    "examples": [
+      {
+        "en": "I went out to buy some milk.",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "This knife is for cutting bread.",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "She whispered so that nobody could hear.",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "for buy",
+        "correct": "to buy",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "to",
+        "correct": "for",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "to",
+        "correct": "could",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I went out ___ some milk.",
+        "options": [
+          "to buy",
+          "for buy",
+          "for to buy"
+        ],
+        "correct_answer": "to buy",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "for buy": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "for to buy": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "This knife is ___ cutting bread.",
+        "options": [
+          "for",
+          "to",
+          "so that"
+        ],
+        "correct_answer": "for",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "to": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "so that": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She whispered so that nobody ___ hear.",
+        "options": [
+          "could",
+          "to",
+          "for"
+        ],
+        "correct_answer": "could",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "to": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "for": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I need a key ___ open this door.",
+        "options": [
+          "to",
+          "for",
+          "so that"
+        ],
+        "correct_answer": "to",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "for": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "so that": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We left early ___ miss traffic.",
+        "options": [
+          "to",
+          "for",
+          "so"
+        ],
+        "correct_answer": "to",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "for": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "so": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I gave him my number so that he ___ call me.",
+        "options": [
+          "could",
+          "to",
+          "for"
+        ],
+        "correct_answer": "could",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "to": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "for": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I came here to see you.",
+          "I came here for see you.",
+          "I came here for to see you."
+        ],
+        "correct_answer": "I came here to see you.",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "I came here for see you.": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "I came here for to see you.": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "This money is ___ food.",
+        "options": [
+          "for",
+          "to",
+          "so that"
+        ],
+        "correct_answer": "for",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "to": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "so that": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 265,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 65,
+    "level": "B1",
+    "topic": "adjective + to",
+    "title_ru": "Adjective + to",
+    "explanation_ru": "После многих adjectives используется to + verb: easy to do, difficult to understand, nice to meet you.",
+    "formula": "adjective + to + V1",
+    "examples": [
+      {
+        "en": "It's hard to explain.",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "This book is easy to read.",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "It was nice of you to help me.",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "for",
+        "correct": "to",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "reading",
+        "correct": "to read",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "helping",
+        "correct": "to help",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "It's hard ___ explain.",
+        "options": [
+          "to",
+          "for",
+          "at"
+        ],
+        "correct_answer": "to",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "for": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "at": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "This book is easy ___.",
+        "options": [
+          "to read",
+          "reading",
+          "read"
+        ],
+        "correct_answer": "to read",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "reading": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "read": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It was nice of you ___ me.",
+        "options": [
+          "to help",
+          "helping",
+          "help"
+        ],
+        "correct_answer": "to help",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "helping": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "help": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'm sorry ___ you waiting.",
+        "options": [
+          "to keep",
+          "keeping",
+          "keep"
+        ],
+        "correct_answer": "to keep",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "keeping": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "keep": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "This problem is impossible ___.",
+        "options": [
+          "to solve",
+          "solving",
+          "solve"
+        ],
+        "correct_answer": "to solve",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "solving": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "solve": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It was stupid of me ___ that.",
+        "options": [
+          "to say",
+          "saying",
+          "say"
+        ],
+        "correct_answer": "to say",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "saying": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "say": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I'm pleased to meet you.",
+          "I'm pleased meeting you.",
+          "I'm pleased meet you."
+        ],
+        "correct_answer": "I'm pleased to meet you.",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "I'm pleased meeting you.": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "I'm pleased meet you.": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The instructions are difficult ___.",
+        "options": [
+          "to follow",
+          "following",
+          "follow"
+        ],
+        "correct_answer": "to follow",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "following": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "follow": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 266,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 66,
+    "level": "B2",
+    "topic": "adjective to vs preposition ing",
+    "title_ru": "Adjective + to / preposition + -ing",
+    "explanation_ru": "После adjective может идти to + verb или preposition + -ing. Afraid to do = боюсь сделать; afraid of doing = боюсь события/последствий.",
+    "formula": "adjective + to + V1 / adjective + prep + V-ing",
+    "examples": [
+      {
+        "en": "I'm afraid to go out alone.",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "I'm afraid of making mistakes.",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "She's interested in studying music.",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "going",
+        "correct": "to go",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "to make",
+        "correct": "making",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "to study",
+        "correct": "studying",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I'm afraid ___ out alone.",
+        "options": [
+          "to go",
+          "going",
+          "go"
+        ],
+        "correct_answer": "to go",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "going": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "go": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'm afraid of ___ mistakes.",
+        "options": [
+          "making",
+          "to make",
+          "make"
+        ],
+        "correct_answer": "making",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "to make": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "make": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She's interested in ___ music.",
+        "options": [
+          "studying",
+          "to study",
+          "study"
+        ],
+        "correct_answer": "studying",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "to study": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "study": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He's good at ___.",
+        "options": [
+          "cooking",
+          "to cook",
+          "cook"
+        ],
+        "correct_answer": "cooking",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "to cook": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "cook": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'm sorry ___ that.",
+        "options": [
+          "to hear",
+          "hearing",
+          "hear"
+        ],
+        "correct_answer": "to hear",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "hearing": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "hear": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'm tired of ___ the same thing.",
+        "options": [
+          "doing",
+          "to do",
+          "do"
+        ],
+        "correct_answer": "doing",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "to do": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "do": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "She is afraid of being late.",
+          "She is afraid of to be late.",
+          "She is afraid be late."
+        ],
+        "correct_answer": "She is afraid of being late.",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "She is afraid of to be late.": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "She is afraid be late.": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It was nice ___ you to call.",
+        "options": [
+          "of",
+          "for",
+          "to"
+        ],
+        "correct_answer": "of",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "for": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "to": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 267,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 67,
+    "level": "B2",
+    "topic": "see somebody do / doing",
+    "title_ru": "See somebody do / doing",
+    "explanation_ru": "See/hear/watch + object + V1 показывает действие целиком; object + -ing показывает процесс.",
+    "formula": "see/hear/watch + object + V1/V-ing",
+    "examples": [
+      {
+        "en": "I saw him cross the street.",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "I saw him crossing the street.",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "Did you hear someone shout?",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "to cross",
+        "correct": "cross",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "to crossing",
+        "correct": "crossing",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "to shout",
+        "correct": "shout",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I saw him ___ the street.",
+        "options": [
+          "cross",
+          "to cross",
+          "crossed"
+        ],
+        "correct_answer": "cross",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "to cross": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "crossed": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I saw him ___ the street.",
+        "options": [
+          "crossing",
+          "to crossing",
+          "crossed"
+        ],
+        "correct_answer": "crossing",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "to crossing": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "crossed": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Did you hear someone ___?",
+        "options": [
+          "shout",
+          "to shout",
+          "shouted"
+        ],
+        "correct_answer": "shout",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "to shout": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "shouted": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We watched the children ___ football.",
+        "options": [
+          "playing",
+          "to play",
+          "played"
+        ],
+        "correct_answer": "playing",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "to play": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "played": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I noticed her ___ the room.",
+        "options": [
+          "leave",
+          "to leave",
+          "left"
+        ],
+        "correct_answer": "leave",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "to leave": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "left": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Can you smell something ___?",
+        "options": [
+          "burning",
+          "to burn",
+          "burned"
+        ],
+        "correct_answer": "burning",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "to burn": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "burned": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I heard him open the door.",
+          "I heard him to open the door.",
+          "I heard him opened the door."
+        ],
+        "correct_answer": "I heard him open the door.",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "I heard him to open the door.": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "I heard him opened the door.": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She felt something ___ her arm.",
+        "options": [
+          "touching",
+          "to touch",
+          "touched"
+        ],
+        "correct_answer": "touching",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "to touch": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "touched": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 268,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 68,
+    "level": "B2",
+    "topic": "ing clauses",
+    "title_ru": "-ing clauses",
+    "explanation_ru": "-ing clauses сокращают придаточные причины/времени: Feeling tired, I went home. Walking home, I met Anna.",
+    "formula": "V-ing clause + main clause",
+    "examples": [
+      {
+        "en": "Feeling tired, I went to bed.",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "Walking home, I met Anna.",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "Not knowing what to say, he stayed silent.",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "Felt",
+        "correct": "Feeling",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "Walked",
+        "correct": "Walking",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "Not know",
+        "correct": "Not knowing",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "___ tired, I went to bed.",
+        "options": [
+          "Feeling",
+          "Felt",
+          "Feel"
+        ],
+        "correct_answer": "Feeling",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "Felt": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "Feel": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ home, I met Anna.",
+        "options": [
+          "Walking",
+          "Walked",
+          "To walk"
+        ],
+        "correct_answer": "Walking",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "Walked": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "To walk": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ what to say, he stayed silent.",
+        "options": [
+          "Not knowing",
+          "Not know",
+          "Not knew"
+        ],
+        "correct_answer": "Not knowing",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "Not know": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "Not knew": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The man ___ next to me was asleep.",
+        "options": [
+          "sitting",
+          "sat",
+          "to sit"
+        ],
+        "correct_answer": "sitting",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "sat": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "to sit": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "People ___ in the city often use buses.",
+        "options": [
+          "living",
+          "live",
+          "lived"
+        ],
+        "correct_answer": "living",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "live": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "lived": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ the door, she went out.",
+        "options": [
+          "Opening",
+          "Opened",
+          "Open"
+        ],
+        "correct_answer": "Opening",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "Opened": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "Open": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "Being late, we took a taxi.",
+          "Been late, we took a taxi.",
+          "Be late, we took a taxi."
+        ],
+        "correct_answer": "Being late, we took a taxi.",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "Been late, we took a taxi.": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "Be late, we took a taxi.": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He hurt his knee ___ football.",
+        "options": [
+          "playing",
+          "played",
+          "to play"
+        ],
+        "correct_answer": "playing",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "played": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "to play": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 269,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 69,
+    "level": "B1",
+    "topic": "countable uncountable 1",
+    "title_ru": "Countable / uncountable 1",
+    "explanation_ru": "Countable можно посчитать; uncountable обычно без a/an и plural: advice, information, furniture, luggage, money.",
+    "formula": "countable: a/an/plural; uncountable: no a/an",
+    "examples": [
+      {
+        "en": "I need some advice.",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "The furniture is old.",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "I have two suitcases.",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "an",
+        "correct": "some",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "are",
+        "correct": "is",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "luggage",
+        "correct": "suitcases",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I need ___ advice.",
+        "options": [
+          "some",
+          "an",
+          "many"
+        ],
+        "correct_answer": "some",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "an": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "many": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The furniture ___ old.",
+        "options": [
+          "is",
+          "are",
+          "were"
+        ],
+        "correct_answer": "is",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "are": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "were": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I have two ___.",
+        "options": [
+          "suitcases",
+          "luggage",
+          "advice"
+        ],
+        "correct_answer": "suitcases",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "luggage": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "advice": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She gave me ___ information.",
+        "options": [
+          "some",
+          "an",
+          "many"
+        ],
+        "correct_answer": "some",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "an": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "many": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I don't have much ___.",
+        "options": [
+          "money",
+          "moneys",
+          "a money"
+        ],
+        "correct_answer": "money",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "moneys": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "a money": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There ___ too much traffic.",
+        "options": [
+          "is",
+          "are",
+          "were"
+        ],
+        "correct_answer": "is",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "are": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "were": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I need a piece of advice.",
+          "I need an advice.",
+          "I need advices."
+        ],
+        "correct_answer": "I need a piece of advice.",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "I need an advice.": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "I need advices.": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We bought two ___ for the trip.",
+        "options": [
+          "bags",
+          "luggage",
+          "equipments"
+        ],
+        "correct_answer": "bags",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "luggage": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "equipments": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 270,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 70,
+    "level": "B1",
+    "topic": "countable uncountable 2",
+    "title_ru": "Countable / uncountable 2",
+    "explanation_ru": "Некоторые nouns меняют смысл: paper = бумага, a paper = газета/работа; chicken = мясо, a chicken = птица.",
+    "formula": "uncountable material/idea vs countable item/event",
+    "examples": [
+      {
+        "en": "I need some paper to write on.",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "I bought a paper this morning.",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "We had chicken for dinner.",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "a",
+        "correct": "some",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "some",
+        "correct": "a",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "a chicken",
+        "correct": "chicken",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I need ___ paper to write on.",
+        "options": [
+          "some",
+          "a",
+          "many"
+        ],
+        "correct_answer": "some",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "a": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "many": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I bought ___ paper this morning.",
+        "options": [
+          "a",
+          "some",
+          "many"
+        ],
+        "correct_answer": "a",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "some": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "many": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We had ___ for dinner.",
+        "options": [
+          "chicken",
+          "a chicken",
+          "many chicken"
+        ],
+        "correct_answer": "chicken",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "a chicken": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "many chicken": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They keep ___ in the garden.",
+        "options": [
+          "chickens",
+          "chicken",
+          "a chicken meat"
+        ],
+        "correct_answer": "chickens",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "chicken": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "a chicken meat": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She has a lot of ___ in marketing.",
+        "options": [
+          "experience",
+          "experiences",
+          "an experience"
+        ],
+        "correct_answer": "experience",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "experiences": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "an experience": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It was ___ I'll never forget.",
+        "options": [
+          "an experience",
+          "experience",
+          "many experience"
+        ],
+        "correct_answer": "an experience",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "experience": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "many experience": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I need some glass for the window.",
+          "I need a glass for the window.",
+          "I need many glass for the window."
+        ],
+        "correct_answer": "I need some glass for the window.",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "I need a glass for the window.": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "I need many glass for the window.": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Would you like ___?",
+        "options": [
+          "a coffee",
+          "many coffee",
+          "an coffee"
+        ],
+        "correct_answer": "a coffee",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "many coffee": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "an coffee": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 271,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 71,
+    "level": "B1",
+    "topic": "a/an some countable",
+    "title_ru": "A/an and some",
+    "explanation_ru": "A/an с singular countable. Some с plural countable или uncountable.",
+    "formula": "a/an + singular countable; some + plural/uncountable",
+    "examples": [
+      {
+        "en": "I need an umbrella.",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "I need some chairs.",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "Can I have some water?",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "a",
+        "correct": "an",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "a",
+        "correct": "some",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "a",
+        "correct": "some",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I need ___ umbrella.",
+        "options": [
+          "an",
+          "a",
+          "some"
+        ],
+        "correct_answer": "an",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "a": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "some": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I need ___ chairs.",
+        "options": [
+          "some",
+          "a",
+          "an"
+        ],
+        "correct_answer": "some",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "a": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "an": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Can I have ___ water?",
+        "options": [
+          "some",
+          "a",
+          "an"
+        ],
+        "correct_answer": "some",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "a": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "an": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She bought ___ new phone.",
+        "options": [
+          "a",
+          "some",
+          "an"
+        ],
+        "correct_answer": "a",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "some": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "an": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There are ___ people outside.",
+        "options": [
+          "some",
+          "a",
+          "an"
+        ],
+        "correct_answer": "some",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "a": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "an": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I don't have ___ car.",
+        "options": [
+          "a",
+          "some",
+          "an"
+        ],
+        "correct_answer": "a",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "some": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "an": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I need some information.",
+          "I need an information.",
+          "I need informations."
+        ],
+        "correct_answer": "I need some information.",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "I need an information.": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "I need informations.": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There is ___ problem.",
+        "options": [
+          "a",
+          "some",
+          "an"
+        ],
+        "correct_answer": "a",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "some": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "an": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 272,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 72,
+    "level": "B1",
+    "topic": "a/an and the",
+    "title_ru": "A/an and the",
+    "explanation_ru": "A/an — первое упоминание или любой предмет. The — конкретный, уже известный или понятный из ситуации.",
+    "formula": "a/an = non-specific; the = specific",
+    "examples": [
+      {
+        "en": "I saw a / The cat. a / The cat was white.",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "Can you open the window?",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "I need a pen.",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "the / A",
+        "correct": "a / The",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "a",
+        "correct": "the",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "the",
+        "correct": "a",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I saw ___ cat. ___ cat was white.",
+        "options": [
+          "a / The",
+          "the / A",
+          "a / A"
+        ],
+        "correct_answer": "a / The",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "the / A": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "a / A": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Can you open ___ window?",
+        "options": [
+          "the",
+          "a",
+          "an"
+        ],
+        "correct_answer": "the",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "a": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "an": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I need ___ pen.",
+        "options": [
+          "a",
+          "the",
+          "an"
+        ],
+        "correct_answer": "a",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "the": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "an": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Where is ___ bathroom?",
+        "options": [
+          "the",
+          "a",
+          "an"
+        ],
+        "correct_answer": "the",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "a": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "an": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She bought ___ book yesterday.",
+        "options": [
+          "a",
+          "the",
+          "an"
+        ],
+        "correct_answer": "a",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "the": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "an": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ book she bought is interesting.",
+        "options": [
+          "The",
+          "A",
+          "An"
+        ],
+        "correct_answer": "The",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "A": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "An": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I have a car. The car is red.",
+          "I have the car. A car is red.",
+          "I have car. The car is red."
+        ],
+        "correct_answer": "I have a car. The car is red.",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "I have the car. A car is red.": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "I have car. The car is red.": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Turn off ___ light.",
+        "options": [
+          "the",
+          "a",
+          "an"
+        ],
+        "correct_answer": "the",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "a": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "an": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 273,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 73,
+    "level": "B1",
+    "topic": "the 1",
+    "title_ru": "The 1: specific things",
+    "explanation_ru": "The используется с конкретными/известными/уникальными вещами: the sun, the book on the table.",
+    "formula": "the + specific/unique noun",
+    "examples": [
+      {
+        "en": "The sun is hot.",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "Where is the nearest bank?",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "The book on the table is mine.",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "A",
+        "correct": "The",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "a",
+        "correct": "the",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "A",
+        "correct": "The",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "___ sun is hot.",
+        "options": [
+          "The",
+          "A",
+          "-"
+        ],
+        "correct_answer": "The",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "A": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "-": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Where is ___ nearest bank?",
+        "options": [
+          "the",
+          "a",
+          "-"
+        ],
+        "correct_answer": "the",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "a": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "-": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ book on the table is mine.",
+        "options": [
+          "The",
+          "A",
+          "-"
+        ],
+        "correct_answer": "The",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "A": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "-": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I liked ___ music in the film.",
+        "options": [
+          "the",
+          "-",
+          "a"
+        ],
+        "correct_answer": "the",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "-": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "a": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ moon goes round the earth.",
+        "options": [
+          "The",
+          "A",
+          "-"
+        ],
+        "correct_answer": "The",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "A": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "-": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "This is ___ same problem.",
+        "options": [
+          "the",
+          "a",
+          "-"
+        ],
+        "correct_answer": "the",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "a": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "-": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "The people I invited came.",
+          "People I invited came.",
+          "A people I invited came."
+        ],
+        "correct_answer": "The people I invited came.",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "People I invited came.": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "A people I invited came.": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She is ___ best student.",
+        "options": [
+          "the",
+          "a",
+          "-"
+        ],
+        "correct_answer": "the",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "a": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "-": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 274,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 74,
+    "level": "B1",
+    "topic": "the 2",
+    "title_ru": "The 2: general meaning",
+    "explanation_ru": "Когда говорим вообще о plural countable или uncountable, обычно нет the: I like music. Dogs are friendly.",
+    "formula": "general plural/uncountable: no article",
+    "examples": [
+      {
+        "en": "I like - coffee.",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "- cats are independent.",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "I hate - exams.",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "the",
+        "correct": "-",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "The",
+        "correct": "-",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "the",
+        "correct": "-",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I like ___ coffee.",
+        "options": [
+          "-",
+          "the",
+          "a"
+        ],
+        "correct_answer": "-",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "the": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "a": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ cats are independent.",
+        "options": [
+          "-",
+          "The",
+          "A"
+        ],
+        "correct_answer": "-",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "The": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "A": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I hate ___ exams.",
+        "options": [
+          "-",
+          "the",
+          "an"
+        ],
+        "correct_answer": "-",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "the": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "an": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ coffee in this café is good.",
+        "options": [
+          "The",
+          "-",
+          "A"
+        ],
+        "correct_answer": "The",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "-": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "A": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She loves ___ animals.",
+        "options": [
+          "-",
+          "the",
+          "an"
+        ],
+        "correct_answer": "-",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "the": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "an": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ animals in this zoo look healthy.",
+        "options": [
+          "The",
+          "-",
+          "A"
+        ],
+        "correct_answer": "The",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "-": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "A": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I like Italian food.",
+          "I like the Italian food.",
+          "I like an Italian food."
+        ],
+        "correct_answer": "I like Italian food.",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "I like the Italian food.": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "I like an Italian food.": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Children need ___ sleep.",
+        "options": [
+          "-",
+          "the",
+          "a"
+        ],
+        "correct_answer": "-",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "the": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "a": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 275,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 75,
+    "level": "B2",
+    "topic": "the 3",
+    "title_ru": "The 3: groups of people",
+    "explanation_ru": "The + adjective может обозначать группу людей: the rich, the poor, the young. Nationality groups: the French.",
+    "formula": "the + adjective = group",
+    "examples": [
+      {
+        "en": "The rich should help the poor.",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "The unemployed need support.",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "The French are famous for food.",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "A",
+        "correct": "The",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "An",
+        "correct": "The",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "A",
+        "correct": "The",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "___ rich should help the poor.",
+        "options": [
+          "The",
+          "A",
+          "-"
+        ],
+        "correct_answer": "The",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "A": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "-": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ unemployed need support.",
+        "options": [
+          "The",
+          "An",
+          "-"
+        ],
+        "correct_answer": "The",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "An": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "-": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ French are famous for food.",
+        "options": [
+          "The",
+          "A",
+          "-"
+        ],
+        "correct_answer": "The",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "A": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "-": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The young ___ often impatient.",
+        "options": [
+          "are",
+          "is",
+          "was"
+        ],
+        "correct_answer": "are",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "is": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "was": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The elderly ___ more care.",
+        "options": [
+          "need",
+          "needs",
+          "needing"
+        ],
+        "correct_answer": "need",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "needs": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "needing": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ injured were taken to hospital.",
+        "options": [
+          "The",
+          "An",
+          "-"
+        ],
+        "correct_answer": "The",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "An": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "-": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "The poor need help.",
+          "Poor need help.",
+          "The poors need help."
+        ],
+        "correct_answer": "The poor need help.",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "Poor need help.": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "The poors need help.": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ British drive on the left.",
+        "options": [
+          "The",
+          "A",
+          "-"
+        ],
+        "correct_answer": "The",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "A": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "-": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 276,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 76,
+    "level": "B2",
+    "topic": "the 4",
+    "title_ru": "The 4: school / prison / hospital",
+    "explanation_ru": "Go to school, be in prison, go to bed — без the, когда речь о назначении. The нужен для конкретного здания/места.",
+    "formula": "institution use: no the; building/object: the",
+    "examples": [
+      {
+        "en": "Children usually start school at six.",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "My brother is in prison for theft.",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "I went to bed to sleep.",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "the school",
+        "correct": "school",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "the prison",
+        "correct": "prison",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "the bed",
+        "correct": "bed",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "Children usually start ___ at six.",
+        "options": [
+          "school",
+          "the school",
+          "a school"
+        ],
+        "correct_answer": "school",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "the school": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "a school": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "My brother is in ___ for theft.",
+        "options": [
+          "prison",
+          "the prison",
+          "a prison"
+        ],
+        "correct_answer": "prison",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "the prison": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "a prison": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I went to ___ to sleep.",
+        "options": [
+          "bed",
+          "the bed",
+          "a bed"
+        ],
+        "correct_answer": "bed",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "the bed": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "a bed": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I went to ___ hospital to visit Tom.",
+        "options": [
+          "the",
+          "-",
+          "a"
+        ],
+        "correct_answer": "the",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "-": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "a": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She goes to ___ church every Sunday.",
+        "options": [
+          "church",
+          "the church",
+          "a church"
+        ],
+        "correct_answer": "church",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "the church": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "a church": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The tourists visited ___ school.",
+        "options": [
+          "the",
+          "-",
+          "bed"
+        ],
+        "correct_answer": "the",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "-": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "bed": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "He is in prison.",
+          "He is in the prison.",
+          "He is at prisoned."
+        ],
+        "correct_answer": "He is in prison.",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "He is in the prison.": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "He is at prisoned.": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I sat on ___ bed.",
+        "options": [
+          "the",
+          "-",
+          "school"
+        ],
+        "correct_answer": "the",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "-": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "school": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 277,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 77,
+    "level": "B1",
+    "topic": "names with the 1",
+    "title_ru": "Names with and without the 1",
+    "explanation_ru": "Most countries/cities no the. Rivers, oceans, seas, mountain ranges, the USA/the UK use the.",
+    "formula": "no the: France/London; the Nile/the Atlantic",
+    "examples": [
+      {
+        "en": "I live in - Germany.",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "The United States is large.",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "Paris is in - France.",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "the",
+        "correct": "-",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "-",
+        "correct": "The",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "the",
+        "correct": "-",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I live in ___ Germany.",
+        "options": [
+          "-",
+          "the",
+          "a"
+        ],
+        "correct_answer": "-",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "the": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "a": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ United States is large.",
+        "options": [
+          "The",
+          "-",
+          "A"
+        ],
+        "correct_answer": "The",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "-": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "A": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Paris is in ___ France.",
+        "options": [
+          "-",
+          "the",
+          "a"
+        ],
+        "correct_answer": "-",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "the": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "a": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ Nile is a river.",
+        "options": [
+          "The",
+          "-",
+          "A"
+        ],
+        "correct_answer": "The",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "-": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "A": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They crossed ___ Atlantic.",
+        "options": [
+          "the",
+          "-",
+          "a"
+        ],
+        "correct_answer": "the",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "-": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "a": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He lives in ___ Netherlands.",
+        "options": [
+          "the",
+          "-",
+          "a"
+        ],
+        "correct_answer": "the",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "-": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "a": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I visited Italy.",
+          "I visited the Italy.",
+          "I visited an Italy."
+        ],
+        "correct_answer": "I visited Italy.",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "I visited the Italy.": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "I visited an Italy.": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ Alps are beautiful.",
+        "options": [
+          "The",
+          "-",
+          "A"
+        ],
+        "correct_answer": "The",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "-": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "A": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 278,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 78,
+    "level": "B1",
+    "topic": "names with the 2",
+    "title_ru": "Names with and without the 2",
+    "explanation_ru": "Museums, hotels, newspapers, organisations часто с the. Company/street/airport names обычно без the.",
+    "formula": "the + museum/hotel/newspaper; no the + company/street",
+    "examples": [
+      {
+        "en": "We stayed at the Hilton.",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "She works for - Google.",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "I read The Times.",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "-",
+        "correct": "the",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "the",
+        "correct": "-",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "-",
+        "correct": "The",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "We stayed at ___ Hilton.",
+        "options": [
+          "the",
+          "-",
+          "a"
+        ],
+        "correct_answer": "the",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "-": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "a": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She works for ___ Google.",
+        "options": [
+          "-",
+          "the",
+          "a"
+        ],
+        "correct_answer": "-",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "the": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "a": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I read ___ Times.",
+        "options": [
+          "The",
+          "-",
+          "A"
+        ],
+        "correct_answer": "The",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "-": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "A": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We visited ___ Louvre.",
+        "options": [
+          "the",
+          "-",
+          "a"
+        ],
+        "correct_answer": "the",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "-": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "a": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He lives in ___ Baker Street.",
+        "options": [
+          "-",
+          "the",
+          "a"
+        ],
+        "correct_answer": "-",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "the": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "a": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We flew from ___ Heathrow Airport.",
+        "options": [
+          "-",
+          "the",
+          "a"
+        ],
+        "correct_answer": "-",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "the": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "a": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "The BBC is based in London.",
+          "BBC is based in London.",
+          "A BBC is based in London."
+        ],
+        "correct_answer": "The BBC is based in London.",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "BBC is based in London.": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "A BBC is based in London.": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They went to ___ Odeon cinema.",
+        "options": [
+          "the",
+          "-",
+          "a"
+        ],
+        "correct_answer": "the",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "-": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "a": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 279,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 79,
+    "level": "B1",
+    "topic": "singular and plural",
+    "title_ru": "Singular and plural",
+    "explanation_ru": "Regular plurals use -s/-es; irregular: children, men, women, teeth. Some nouns are special: news is, scissors are.",
+    "formula": "regular/irregular plural; special nouns",
+    "examples": [
+      {
+        "en": "Two children were playing outside.",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "The news is good.",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "These scissors are sharp.",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "childs",
+        "correct": "children",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "are",
+        "correct": "is",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "is",
+        "correct": "are",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "Two ___ were playing outside.",
+        "options": [
+          "children",
+          "childs",
+          "child"
+        ],
+        "correct_answer": "children",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "childs": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "child": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The news ___ good.",
+        "options": [
+          "is",
+          "are",
+          "were"
+        ],
+        "correct_answer": "is",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "are": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "were": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "These scissors ___ sharp.",
+        "options": [
+          "are",
+          "is",
+          "was"
+        ],
+        "correct_answer": "are",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "is": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "was": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I need a new pair of ___.",
+        "options": [
+          "jeans",
+          "jean",
+          "jeanses"
+        ],
+        "correct_answer": "jeans",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "jean": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "jeanses": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There are three ___ in the room.",
+        "options": [
+          "women",
+          "womans",
+          "woman"
+        ],
+        "correct_answer": "women",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "womans": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "woman": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "My ___ are hurting.",
+        "options": [
+          "teeth",
+          "tooths",
+          "tooth"
+        ],
+        "correct_answer": "teeth",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "tooths": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "tooth": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "The police are investigating.",
+          "The police is investigating.",
+          "The polices are investigating."
+        ],
+        "correct_answer": "The police are investigating.",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "The police is investigating.": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "The polices are investigating.": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "How many ___ do you have?",
+        "options": [
+          "feet",
+          "foots",
+          "foot"
+        ],
+        "correct_answer": "feet",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "foots": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "foot": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 280,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 80,
+    "level": "B1",
+    "topic": "noun + noun",
+    "title_ru": "Noun + noun",
+    "explanation_ru": "В noun + noun первый noun обычно singular: car park, shoe shop, five-minute walk.",
+    "formula": "noun + noun; first noun usually singular",
+    "examples": [
+      {
+        "en": "It's a car park.",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "She works in a shoe shop.",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "It's a five-minute walk.",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "cars",
+        "correct": "car",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "shoes",
+        "correct": "shoe",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "minutes",
+        "correct": "minute",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "It's a ___ park.",
+        "options": [
+          "car",
+          "cars",
+          "car's"
+        ],
+        "correct_answer": "car",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "cars": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "car's": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She works in a ___ shop.",
+        "options": [
+          "shoe",
+          "shoes",
+          "shoe's"
+        ],
+        "correct_answer": "shoe",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "shoes": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "shoe's": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It's a five-___ walk.",
+        "options": [
+          "minute",
+          "minutes",
+          "minute's"
+        ],
+        "correct_answer": "minute",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "minutes": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "minute's": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I bought a ___ ticket.",
+        "options": [
+          "bus",
+          "bus's",
+          "buses"
+        ],
+        "correct_answer": "bus",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "bus's": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "buses": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We need a ___ table.",
+        "options": [
+          "kitchen",
+          "kitchens",
+          "kitchen's"
+        ],
+        "correct_answer": "kitchen",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "kitchens": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "kitchen's": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It's a ten-___ break.",
+        "options": [
+          "minute",
+          "minutes",
+          "minute's"
+        ],
+        "correct_answer": "minute",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "minutes": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "minute's": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "a tennis ball",
+          "a tennises ball",
+          "a tennis's ball"
+        ],
+        "correct_answer": "a tennis ball",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "a tennises ball": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "a tennis's ball": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He is a ___ driver.",
+        "options": [
+          "taxi",
+          "taxis",
+          "taxi's"
+        ],
+        "correct_answer": "taxi",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "taxis": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "taxi's": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 281,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 81,
+    "level": "B1",
+    "topic": "possessive 's and of",
+    "title_ru": "-'s and of",
+    "explanation_ru": "'s обычно с людьми/животными: Tom's car. Of часто с вещами: the title of the book.",
+    "formula": "person + 's; thing + of",
+    "examples": [
+      {
+        "en": "This is Tom's car.",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "The title of the book is long.",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "My parents' house is near here.",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "Tom",
+        "correct": "Tom's",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "title's",
+        "correct": "title",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "parent's",
+        "correct": "parents'",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "This is ___ car.",
+        "options": [
+          "Tom's",
+          "Tom",
+          "Toms"
+        ],
+        "correct_answer": "Tom's",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "Tom": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "Toms": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The ___ of the book is long.",
+        "options": [
+          "title",
+          "title's",
+          "titles"
+        ],
+        "correct_answer": "title",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "title's": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "titles": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "My ___ house is near here.",
+        "options": [
+          "parents'",
+          "parent's",
+          "parents"
+        ],
+        "correct_answer": "parents'",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "parent's": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "parents": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The ___ leg is broken.",
+        "options": [
+          "dog's",
+          "dogs",
+          "dog"
+        ],
+        "correct_answer": "dog's",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "dogs": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "dog": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The end ___ the film was sad.",
+        "options": [
+          "of",
+          "'s",
+          "for"
+        ],
+        "correct_answer": "of",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "'s": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "for": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ bike is outside.",
+        "options": [
+          "Anna's",
+          "Anna",
+          "Annas"
+        ],
+        "correct_answer": "Anna's",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "Anna": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "Annas": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "The door of the room was open.",
+          "The room's door was open.",
+          "The door's room was open."
+        ],
+        "correct_answer": "The door of the room was open.",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "The room's door was open.": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "The door's room was open.": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The ___ toys were everywhere.",
+        "options": [
+          "children's",
+          "childrens",
+          "childrens'"
+        ],
+        "correct_answer": "children's",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "childrens": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "childrens'": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 282,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 82,
+    "level": "B1",
+    "topic": "reflexive pronouns",
+    "title_ru": "Myself / yourself / themselves",
+    "explanation_ru": "Reflexive pronouns нужны, когда subject и object совпадают, или для акцента: I hurt myself. I did it myself.",
+    "formula": "myself/yourself/himself/herself/ourselves/themselves",
+    "examples": [
+      {
+        "en": "I hurt myself while cooking.",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "She taught herself English.",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "They enjoyed themselves.",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "me",
+        "correct": "myself",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "her",
+        "correct": "herself",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "them",
+        "correct": "themselves",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I hurt ___ while cooking.",
+        "options": [
+          "myself",
+          "me",
+          "mine"
+        ],
+        "correct_answer": "myself",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "me": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "mine": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She taught ___ English.",
+        "options": [
+          "herself",
+          "her",
+          "she"
+        ],
+        "correct_answer": "herself",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "her": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "she": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They enjoyed ___.",
+        "options": [
+          "themselves",
+          "them",
+          "their"
+        ],
+        "correct_answer": "themselves",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "them": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "their": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We painted the room ___.",
+        "options": [
+          "ourselves",
+          "us",
+          "our"
+        ],
+        "correct_answer": "ourselves",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "us": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "our": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He looked at ___ in the mirror.",
+        "options": [
+          "himself",
+          "him",
+          "his"
+        ],
+        "correct_answer": "himself",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "him": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "his": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Be careful! Don't hurt ___.",
+        "options": [
+          "yourself",
+          "you",
+          "your"
+        ],
+        "correct_answer": "yourself",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "you": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "your": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I did it myself.",
+          "I did it me.",
+          "I did it mine."
+        ],
+        "correct_answer": "I did it myself.",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "I did it me.": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "I did it mine.": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The machine turns ___ off.",
+        "options": [
+          "itself",
+          "it",
+          "its"
+        ],
+        "correct_answer": "itself",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "it": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "its": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 283,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 83,
+    "level": "B1",
+    "topic": "a friend of mine / own",
+    "title_ru": "A friend of mine / my own / on my own",
+    "explanation_ru": "A friend of mine = один мой друг. My own = собственный. On my own = один/самостоятельно.",
+    "formula": "of mine; my own; on my own",
+    "examples": [
+      {
+        "en": "A friend of mine called.",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "Is he a friend of yours?",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "I want my own room.",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "me",
+        "correct": "mine",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "your",
+        "correct": "yours",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "mine",
+        "correct": "my",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "A friend of ___ called.",
+        "options": [
+          "mine",
+          "me",
+          "my"
+        ],
+        "correct_answer": "mine",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "me": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "my": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Is he a friend of ___?",
+        "options": [
+          "yours",
+          "your",
+          "you"
+        ],
+        "correct_answer": "yours",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "your": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "you": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I want ___ own room.",
+        "options": [
+          "my",
+          "mine",
+          "me"
+        ],
+        "correct_answer": "my",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "mine": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "me": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She lives on ___ own.",
+        "options": [
+          "her",
+          "hers",
+          "she"
+        ],
+        "correct_answer": "her",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "hers": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "she": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We did it on ___ own.",
+        "options": [
+          "our",
+          "ours",
+          "us"
+        ],
+        "correct_answer": "our",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "ours": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "us": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He has ___ own business.",
+        "options": [
+          "his",
+          "him",
+          "he"
+        ],
+        "correct_answer": "his",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "him": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "he": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I went there by myself.",
+          "I went there by mine.",
+          "I went there on myself."
+        ],
+        "correct_answer": "I went there by myself.",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "I went there by mine.": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "I went there on myself.": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "That's not your bag. It's ___.",
+        "options": [
+          "mine",
+          "my",
+          "me"
+        ],
+        "correct_answer": "mine",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "my": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "me": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 284,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 84,
+    "level": "B1",
+    "topic": "there and it",
+    "title_ru": "There... and it...",
+    "explanation_ru": "There is/are вводит существование. It ссылается на известную вещь или используется для погоды, времени, расстояния.",
+    "formula": "there + be; it = known thing/weather/time",
+    "examples": [
+      {
+        "en": "There is a mistake in your answer.",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "I like this town. It's very quiet.",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "It's cold today.",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "It is",
+        "correct": "There is",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "There's",
+        "correct": "It's",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "There is",
+        "correct": "It's",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "___ a mistake in your answer.",
+        "options": [
+          "There is",
+          "It is",
+          "There has"
+        ],
+        "correct_answer": "There is",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "It is": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "There has": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I like this town. ___ very quiet.",
+        "options": [
+          "It's",
+          "There's",
+          "There are"
+        ],
+        "correct_answer": "It's",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "There's": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "There are": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ cold today.",
+        "options": [
+          "It's",
+          "There is",
+          "There are"
+        ],
+        "correct_answer": "It's",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "There is": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "There are": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ a lot of people outside.",
+        "options": [
+          "There are",
+          "It is",
+          "There is"
+        ],
+        "correct_answer": "There are",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "It is": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "There is": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "How far ___ to the station?",
+        "options": [
+          "is it",
+          "is there",
+          "there is"
+        ],
+        "correct_answer": "is it",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "is there": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "there is": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ no point in waiting.",
+        "options": [
+          "There is",
+          "It is",
+          "There are"
+        ],
+        "correct_answer": "There is",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "It is": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "There are": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "There was a lot of traffic.",
+          "It was a lot of traffic.",
+          "There were a lot of traffic."
+        ],
+        "correct_answer": "There was a lot of traffic.",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "It was a lot of traffic.": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "There were a lot of traffic.": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ time to leave.",
+        "options": [
+          "It's",
+          "There's",
+          "There are"
+        ],
+        "correct_answer": "It's",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "There's": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "There are": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 285,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 85,
+    "level": "B1",
+    "topic": "some and any",
+    "title_ru": "Some and any",
+    "explanation_ru": "Some обычно в утверждениях и предложениях; any — в вопросах/отрицаниях или «любой».",
+    "formula": "some = positive/offers; any = questions/negatives/any one",
+    "examples": [
+      {
+        "en": "I have some friends in Berlin.",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "Do you have any questions?",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "I don't have any money.",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "any",
+        "correct": "some",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "some",
+        "correct": "any",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "some",
+        "correct": "any",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I have ___ friends in Berlin.",
+        "options": [
+          "some",
+          "any",
+          "a"
+        ],
+        "correct_answer": "some",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "any": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "a": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Do you have ___ questions?",
+        "options": [
+          "any",
+          "some",
+          "a"
+        ],
+        "correct_answer": "any",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "some": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "a": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I don't have ___ money.",
+        "options": [
+          "any",
+          "some",
+          "a"
+        ],
+        "correct_answer": "any",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "some": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "a": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Would you like ___ tea?",
+        "options": [
+          "some",
+          "any",
+          "a"
+        ],
+        "correct_answer": "some",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "any": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "a": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "You can come ___ day.",
+        "options": [
+          "any",
+          "some",
+          "a"
+        ],
+        "correct_answer": "any",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "some": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "a": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There isn't ___ milk.",
+        "options": [
+          "any",
+          "some",
+          "many"
+        ],
+        "correct_answer": "any",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "some": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "many": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "Take any book you like.",
+          "Take some book you like.",
+          "Take a any book you like."
+        ],
+        "correct_answer": "Take any book you like.",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "Take some book you like.": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "Take a any book you like.": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Can I have ___ water?",
+        "options": [
+          "some",
+          "any",
+          "many"
+        ],
+        "correct_answer": "some",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "any": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "many": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 286,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 86,
+    "level": "B1",
+    "topic": "no none any",
+    "title_ru": "No / none / any / nobody",
+    "explanation_ru": "No + noun; none без noun или с of. Nobody/nothing уже отрицательные, поэтому не добавляем don't/didn't.",
+    "formula": "no + noun; none of; nobody/nothing + positive verb",
+    "examples": [
+      {
+        "en": "I don't have any time.",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "I have no time.",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "None of them answered.",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "no",
+        "correct": "any",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "any",
+        "correct": "no",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "No",
+        "correct": "None",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I don't have ___ time.",
+        "options": [
+          "any",
+          "no",
+          "none"
+        ],
+        "correct_answer": "any",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "no": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "none": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I have ___ time.",
+        "options": [
+          "no",
+          "any",
+          "none"
+        ],
+        "correct_answer": "no",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "any": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "none": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ of them answered.",
+        "options": [
+          "None",
+          "No",
+          "Any"
+        ],
+        "correct_answer": "None",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "No": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "Any": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ knows the answer.",
+        "options": [
+          "Nobody",
+          "Anybody",
+          "Nothing"
+        ],
+        "correct_answer": "Nobody",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "Anybody": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "Nothing": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I didn't see ___.",
+        "options": [
+          "anything",
+          "nothing",
+          "something"
+        ],
+        "correct_answer": "anything",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "nothing": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "something": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There is ___ in the bag.",
+        "options": [
+          "nothing",
+          "anything",
+          "any"
+        ],
+        "correct_answer": "nothing",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "anything": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "any": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I know nobody here.",
+          "I don't know nobody here.",
+          "I know no of them."
+        ],
+        "correct_answer": "I know nobody here.",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "I don't know nobody here.": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "I know no of them.": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "How many tickets are left? ___.",
+        "options": [
+          "None",
+          "No",
+          "Any"
+        ],
+        "correct_answer": "None",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "No": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "Any": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 287,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 87,
+    "level": "B1",
+    "topic": "much many little few",
+    "title_ru": "Much / many / little / few",
+    "explanation_ru": "Many/few с plural countable. Much/little с uncountable. A few/a little = немного; few/little = мало.",
+    "formula": "many/few + plural; much/little + uncountable",
+    "examples": [
+      {
+        "en": "How many people came?",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "I don't have much time.",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "She has a few close friends.",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "much",
+        "correct": "many",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "many",
+        "correct": "much",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "a little",
+        "correct": "a few",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "How ___ people came?",
+        "options": [
+          "many",
+          "much",
+          "little"
+        ],
+        "correct_answer": "many",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "much": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "little": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I don't have ___ time.",
+        "options": [
+          "much",
+          "many",
+          "few"
+        ],
+        "correct_answer": "much",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "many": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "few": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She has ___ close friends.",
+        "options": [
+          "a few",
+          "a little",
+          "little"
+        ],
+        "correct_answer": "a few",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "a little": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "little": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I speak ___ English.",
+        "options": [
+          "a little",
+          "a few",
+          "few"
+        ],
+        "correct_answer": "a little",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "a few": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "few": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There is ___ hope.",
+        "options": [
+          "little",
+          "few",
+          "a few"
+        ],
+        "correct_answer": "little",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "few": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "a few": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He made ___ mistakes.",
+        "options": [
+          "a few",
+          "a little",
+          "little"
+        ],
+        "correct_answer": "a few",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "a little": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "little": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "We have a lot of work.",
+          "We have many work.",
+          "We have a lot work."
+        ],
+        "correct_answer": "We have a lot of work.",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "We have many work.": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "We have a lot work.": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There were ___ cars in the street.",
+        "options": [
+          "few",
+          "little",
+          "much"
+        ],
+        "correct_answer": "few",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "little": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "much": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 288,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 88,
+    "level": "B1",
+    "topic": "all most some no of",
+    "title_ru": "All / most / some / no / none of",
+    "explanation_ru": "All/most/some/no могут стоять перед noun. С of нужны pronoun/determiner: most of my friends, none of them.",
+    "formula": "all/most/some/no + noun; of + determiner/pronoun",
+    "examples": [
+      {
+        "en": "Most people like holidays.",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "Most of my friends live here.",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "No students failed.",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "Most of",
+        "correct": "Most",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "Most",
+        "correct": "Most of",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "None",
+        "correct": "No",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "___ people like holidays.",
+        "options": [
+          "Most",
+          "Most of",
+          "None"
+        ],
+        "correct_answer": "Most",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "Most of": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "None": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ my friends live here.",
+        "options": [
+          "Most of",
+          "Most",
+          "No"
+        ],
+        "correct_answer": "Most of",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "Most": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "No": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ students failed.",
+        "options": [
+          "No",
+          "None",
+          "Any"
+        ],
+        "correct_answer": "No",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "None": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "Any": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ of them answered.",
+        "options": [
+          "None",
+          "No",
+          "All students"
+        ],
+        "correct_answer": "None",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "No": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "All students": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Do you know ___ of these people?",
+        "options": [
+          "any",
+          "no",
+          "none"
+        ],
+        "correct_answer": "any",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "no": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "none": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ the money is gone.",
+        "options": [
+          "All",
+          "Every",
+          "Most of"
+        ],
+        "correct_answer": "All",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "Every": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "Most of": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "Most people work.",
+          "Most of people work.",
+          "None people work."
+        ],
+        "correct_answer": "Most people work.",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "Most of people work.": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "None people work.": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ of the shops were closed.",
+        "options": [
+          "Some",
+          "Any",
+          "No"
+        ],
+        "correct_answer": "Some",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "Any": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "No": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 289,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 89,
+    "level": "B1",
+    "topic": "both neither either",
+    "title_ru": "Both / either / neither",
+    "explanation_ru": "Both = оба; either = любой из двух; neither = ни один из двух.",
+    "formula": "both + plural; either/neither + singular",
+    "examples": [
+      {
+        "en": "Both my parents are teachers.",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "You can use either computer.",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "Neither answer is right.",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "Either",
+        "correct": "Both",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "both",
+        "correct": "either",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "Both",
+        "correct": "Neither",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "___ my parents are teachers.",
+        "options": [
+          "Both",
+          "Either",
+          "Neither"
+        ],
+        "correct_answer": "Both",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "Either": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "Neither": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "You can use ___ computer.",
+        "options": [
+          "either",
+          "both",
+          "neither"
+        ],
+        "correct_answer": "either",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "both": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "neither": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ answer is right.",
+        "options": [
+          "Neither",
+          "Both",
+          "All"
+        ],
+        "correct_answer": "Neither",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "Both": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "All": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Both of ___ are here.",
+        "options": [
+          "them",
+          "they",
+          "their"
+        ],
+        "correct_answer": "them",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "they": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "their": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Neither of us ___ ready.",
+        "options": [
+          "is",
+          "are",
+          "am"
+        ],
+        "correct_answer": "is",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "are": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "am": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Either of these roads ___ to town.",
+        "options": [
+          "goes",
+          "go",
+          "going"
+        ],
+        "correct_answer": "goes",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "go": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "going": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "Both books are interesting.",
+          "Both book is interesting.",
+          "Either books are interesting."
+        ],
+        "correct_answer": "Both books are interesting.",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "Both book is interesting.": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "Either books are interesting.": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I like ___ of them.",
+        "options": [
+          "both",
+          "either",
+          "neither"
+        ],
+        "correct_answer": "both",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "either": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "neither": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 290,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 90,
+    "level": "B1",
+    "topic": "all every whole",
+    "title_ru": "All / every / whole",
+    "explanation_ru": "All = вся группа/всё количество. Every = каждый отдельный элемент + singular. Whole = целый.",
+    "formula": "all + plural/uncountable; every + singular; the whole + noun",
+    "examples": [
+      {
+        "en": "Every student must register.",
+        "ru": "Пример правильной конструкции из урока.",
+        "note": "Обрати внимание на форму после ключевого слова."
+      },
+      {
+        "en": "All students must register.",
+        "ru": "Второй пример по теме.",
+        "note": "Схема повторяется в похожих фразах."
+      },
+      {
+        "en": "I was tired all day.",
+        "ru": "Третий пример по теме.",
+        "note": "В B1/B2 важно выбирать форму по смыслу."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "All",
+        "correct": "Every",
+        "explanation": "Типичная ошибка в этой теме: используется неправильная форма."
+      },
+      {
+        "wrong": "Every",
+        "correct": "All",
+        "explanation": "Здесь важно соблюдать устойчивую грамматическую схему."
+      },
+      {
+        "wrong": "every",
+        "correct": "all",
+        "explanation": "Ошибка появляется из-за прямого перевода с русского или путаницы форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "___ student must register.",
+        "options": [
+          "Every",
+          "All",
+          "Whole"
+        ],
+        "correct_answer": "Every",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "All": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "Whole": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ students must register.",
+        "options": [
+          "All",
+          "Every",
+          "Whole"
+        ],
+        "correct_answer": "All",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "Every": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "Whole": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I was tired ___ day.",
+        "options": [
+          "all",
+          "every",
+          "whole the"
+        ],
+        "correct_answer": "all",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "every": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "whole the": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She goes running ___ morning.",
+        "options": [
+          "every",
+          "all",
+          "whole"
+        ],
+        "correct_answer": "every",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "all": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "whole": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I read ___ book.",
+        "options": [
+          "the whole",
+          "whole the",
+          "every"
+        ],
+        "correct_answer": "the whole",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "whole the": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "every": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ my friends came.",
+        "options": [
+          "All",
+          "Every",
+          "Whole"
+        ],
+        "correct_answer": "All",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "Every": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "Whole": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "Every child needs love.",
+          "Every children need love.",
+          "All child needs love."
+        ],
+        "correct_answer": "Every child needs love.",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "Every children need love.": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "All child needs love.": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We waited ___ evening.",
+        "options": [
+          "all",
+          "every",
+          "whole the"
+        ],
+        "correct_answer": "all",
+        "explanation_correct": "Верно: эта форма соответствует правилу урока.",
+        "explanation_wrong": {
+          "every": "Этот вариант нарушает схему темы или даёт другой смысл.",
+          "whole the": "Этот вариант не подходит по форме/числу/артиклю для этой конструкции."
+        }
+      }
+    ]
+  }
+]

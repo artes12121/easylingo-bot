@@ -1,0 +1,4922 @@
+[
+  {
+    "unit": 31,
+    "level": "A2",
+    "topic": "can and could",
+    "title_ru": "Can / could: умение, возможность, просьба",
+    "explanation_ru": "Can означает «мочь/уметь»: I can swim. Could — прошедшая форма can или более вежливая просьба: Could you help me? После can/could глагол всегда без to.",
+    "formula": "can + verb\ncan't + verb\ncould + verb\nCould you...? = вежливая просьба",
+    "examples": [
+      {
+        "en": "I can swim.",
+        "ru": "Я умею плавать.",
+        "note": "can + V1."
+      },
+      {
+        "en": "She can't drive.",
+        "ru": "Она не умеет водить.",
+        "note": "can't + V1."
+      },
+      {
+        "en": "Could you open the window?",
+        "ru": "Не могли бы вы открыть окно?",
+        "note": "вежливая просьба."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I can to swim.",
+        "correct": "I can swim.",
+        "explanation": "После can нет to."
+      },
+      {
+        "wrong": "She cans drive.",
+        "correct": "She can drive.",
+        "explanation": "can не меняется по лицам."
+      },
+      {
+        "wrong": "Could you to help me?",
+        "correct": "Could you help me?",
+        "explanation": "После could нет to."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I ___ speak English.",
+        "options": [
+          "can",
+          "am",
+          "do"
+        ],
+        "correct_answer": "can",
+        "explanation_correct": "Can показывает умение.",
+        "explanation_wrong": {
+          "am": "am не используется перед speak.",
+          "do": "do не нужен в утверждении."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She can't ___ a car.",
+        "options": [
+          "drive",
+          "drives",
+          "to drive"
+        ],
+        "correct_answer": "drive",
+        "explanation_correct": "После can't глагол без to и без -s.",
+        "explanation_wrong": {
+          "drives": "После can't нет -s.",
+          "to drive": "После can't нет to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ you help me?",
+        "options": [
+          "Could",
+          "Do",
+          "Are"
+        ],
+        "correct_answer": "Could",
+        "explanation_correct": "Could you...? — вежливая просьба.",
+        "explanation_wrong": {
+          "Do": "Можно Do you help?, но это другой смысл.",
+          "Are": "Are не подходит с help."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He ___ play the guitar when he was young.",
+        "options": [
+          "could",
+          "can",
+          "is"
+        ],
+        "correct_answer": "could",
+        "explanation_correct": "when he was young → прошлая способность.",
+        "explanation_wrong": {
+          "can": "can — настоящее.",
+          "is": "is не строит эту форму."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Can they ___ tomorrow?",
+        "options": [
+          "come",
+          "comes",
+          "to come"
+        ],
+        "correct_answer": "come",
+        "explanation_correct": "can + V1.",
+        "explanation_wrong": {
+          "comes": "После can нет -s.",
+          "to come": "После can нет to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I ___ see you from here.",
+        "options": [
+          "can",
+          "am",
+          "have"
+        ],
+        "correct_answer": "can",
+        "explanation_correct": "can = могу/видно.",
+        "explanation_wrong": {
+          "am": "Нельзя am see.",
+          "have": "Нельзя have see без V3."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "She can sing.",
+          "She cans sing.",
+          "She can to sing."
+        ],
+        "correct_answer": "She can sing.",
+        "explanation_correct": "Can не меняется и не требует to.",
+        "explanation_wrong": {
+          "She cans sing.": "can не получает -s.",
+          "She can to sing.": "После can нет to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Could I ___ your phone?",
+        "options": [
+          "use",
+          "to use",
+          "using"
+        ],
+        "correct_answer": "use",
+        "explanation_correct": "Could I + V1.",
+        "explanation_wrong": {
+          "to use": "После could нет to.",
+          "using": "Нужна обычная форма."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 32,
+    "level": "A2",
+    "topic": "must mustn't needn't",
+    "title_ru": "Must / mustn't / needn't",
+    "explanation_ru": "Must выражает необходимость: нужно, обязан. Mustn't — строгий запрет: нельзя. Needn't — нет необходимости: не нужно, можно не делать.",
+    "formula": "must + verb\nmustn't + verb = нельзя\nneedn't + verb = не нужно",
+    "examples": [
+      {
+        "en": "You must stop.",
+        "ru": "Ты должен остановиться.",
+        "note": "обязательное действие."
+      },
+      {
+        "en": "You mustn't smoke here.",
+        "ru": "Здесь нельзя курить.",
+        "note": "запрет."
+      },
+      {
+        "en": "You needn't hurry.",
+        "ru": "Тебе не нужно спешить.",
+        "note": "нет необходимости."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "You must to go.",
+        "correct": "You must go.",
+        "explanation": "После must нет to."
+      },
+      {
+        "wrong": "You don't must smoke.",
+        "correct": "You mustn't smoke.",
+        "explanation": "Запрет = mustn't."
+      },
+      {
+        "wrong": "You needn't to hurry.",
+        "correct": "You needn't hurry.",
+        "explanation": "После needn't нет to."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "You ___ wear a seat belt.",
+        "options": [
+          "must",
+          "mustn't",
+          "needn't"
+        ],
+        "correct_answer": "must",
+        "explanation_correct": "Это правило/обязанность.",
+        "explanation_wrong": {
+          "mustn't": "mustn't = запрещено, здесь нужен must.",
+          "needn't": "needn't = не нужно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "You ___ smoke in hospital.",
+        "options": [
+          "mustn't",
+          "must",
+          "needn't"
+        ],
+        "correct_answer": "mustn't",
+        "explanation_correct": "Запрет = mustn't.",
+        "explanation_wrong": {
+          "must": "must = обязан, смысл противоположный.",
+          "needn't": "needn't = не нужно, не запрет."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We ___ hurry. We have a lot of time.",
+        "options": [
+          "needn't",
+          "mustn't",
+          "must"
+        ],
+        "correct_answer": "needn't",
+        "explanation_correct": "Нет необходимости спешить.",
+        "explanation_wrong": {
+          "mustn't": "mustn't = запрещено, это не тот смысл.",
+          "must": "must = нужно, но времени много."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She must ___ now.",
+        "options": [
+          "go",
+          "to go",
+          "goes"
+        ],
+        "correct_answer": "go",
+        "explanation_correct": "После must — V1.",
+        "explanation_wrong": {
+          "to go": "После must нет to.",
+          "goes": "После must нет -s."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "You mustn't ___ this door.",
+        "options": [
+          "open",
+          "to open",
+          "opening"
+        ],
+        "correct_answer": "open",
+        "explanation_correct": "mustn't + V1.",
+        "explanation_wrong": {
+          "to open": "После mustn't нет to.",
+          "opening": "Нужна обычная форма."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I needn't ___ early tomorrow.",
+        "options": [
+          "get up",
+          "to get up",
+          "getting up"
+        ],
+        "correct_answer": "get up",
+        "explanation_correct": "needn't + V1.",
+        "explanation_wrong": {
+          "to get up": "После needn't нет to.",
+          "getting up": "Нужна обычная форма."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "You mustn't touch it.",
+          "You don't must touch it.",
+          "You mustn't to touch it."
+        ],
+        "correct_answer": "You mustn't touch it.",
+        "explanation_correct": "Запрет: mustn't + V1.",
+        "explanation_wrong": {
+          "You don't must touch it.": "Так не строится запрет.",
+          "You mustn't to touch it.": "После mustn't нет to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Children ___ play with matches.",
+        "options": [
+          "mustn't",
+          "needn't",
+          "must"
+        ],
+        "correct_answer": "mustn't",
+        "explanation_correct": "Это запрет: детям нельзя играть со спичками.",
+        "explanation_wrong": {
+          "needn't": "needn't слишком мягко: «не нужно».",
+          "must": "Смысл противоположный."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 33,
+    "level": "A2",
+    "topic": "should",
+    "title_ru": "Should: совет",
+    "explanation_ru": "Should означает «следует / стоит». Используем для совета или мнения о правильном действии. После should глагол без to.",
+    "formula": "should + verb\nshouldn't + verb",
+    "examples": [
+      {
+        "en": "You should see a doctor.",
+        "ru": "Тебе стоит обратиться к врачу.",
+        "note": "совет."
+      },
+      {
+        "en": "You shouldn't work so much.",
+        "ru": "Тебе не стоит так много работать.",
+        "note": "совет не делать."
+      },
+      {
+        "en": "What should I do?",
+        "ru": "Что мне делать?",
+        "note": "вопрос за советом."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "You should to rest.",
+        "correct": "You should rest.",
+        "explanation": "После should нет to."
+      },
+      {
+        "wrong": "He shoulds go.",
+        "correct": "He should go.",
+        "explanation": "should не меняется."
+      },
+      {
+        "wrong": "You don't should smoke.",
+        "correct": "You shouldn't smoke.",
+        "explanation": "Отрицание: shouldn't."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "You ___ sleep more.",
+        "options": [
+          "should",
+          "mustn't",
+          "are"
+        ],
+        "correct_answer": "should",
+        "explanation_correct": "Это совет.",
+        "explanation_wrong": {
+          "mustn't": "mustn't = запрещено.",
+          "are": "are не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She shouldn't ___ so fast.",
+        "options": [
+          "drive",
+          "drives",
+          "to drive"
+        ],
+        "correct_answer": "drive",
+        "explanation_correct": "shouldn't + V1.",
+        "explanation_wrong": {
+          "drives": "После shouldn't нет -s.",
+          "to drive": "После shouldn't нет to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "What ___ I do?",
+        "options": [
+          "should",
+          "do",
+          "am"
+        ],
+        "correct_answer": "should",
+        "explanation_correct": "What should I do? — просьба о совете.",
+        "explanation_wrong": {
+          "do": "What do I do? другой смысл.",
+          "am": "am не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He ___ see a dentist.",
+        "options": [
+          "should",
+          "shoulds",
+          "to should"
+        ],
+        "correct_answer": "should",
+        "explanation_correct": "should не меняется.",
+        "explanation_wrong": {
+          "shoulds": "У should нет -s.",
+          "to should": "Так не говорят."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "You should ___ warm clothes.",
+        "options": [
+          "wear",
+          "wears",
+          "wearing"
+        ],
+        "correct_answer": "wear",
+        "explanation_correct": "should + V1.",
+        "explanation_wrong": {
+          "wears": "После should нет -s.",
+          "wearing": "Нужна обычная форма."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They ___ not be late.",
+        "options": [
+          "should",
+          "do",
+          "are"
+        ],
+        "correct_answer": "should",
+        "explanation_correct": "should not = shouldn't.",
+        "explanation_wrong": {
+          "do": "do not be late возможен как императив, но не здесь.",
+          "are": "are not be невозможно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "You should drink water.",
+          "You should to drink water.",
+          "You should drinking water."
+        ],
+        "correct_answer": "You should drink water.",
+        "explanation_correct": "Should + V1 без to.",
+        "explanation_wrong": {
+          "You should to drink water.": "После should нет to.",
+          "You should drinking water.": "Нужна обычная форма."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I think you ___ buy it.",
+        "options": [
+          "should",
+          "are",
+          "have"
+        ],
+        "correct_answer": "should",
+        "explanation_correct": "I think you should... = совет.",
+        "explanation_wrong": {
+          "are": "are buy невозможно.",
+          "have": "have buy невозможно."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 34,
+    "level": "A2",
+    "topic": "have to",
+    "title_ru": "Have to: обязанность из ситуации",
+    "explanation_ru": "Have to означает «приходится / нужно», часто потому что есть правило, работа, обстоятельства. В вопросах и отрицаниях используем do/does/did: Do you have to...? I don't have to...",
+    "formula": "I/you/we/they have to + verb\nhe/she/it has to + verb\nnegative: don't/doesn't have to\nquestion: Do/Does ... have to?",
+    "examples": [
+      {
+        "en": "I have to work tomorrow.",
+        "ru": "Мне нужно работать завтра.",
+        "note": "обстоятельства."
+      },
+      {
+        "en": "She has to get up early.",
+        "ru": "Ей приходится рано вставать.",
+        "note": "she → has to."
+      },
+      {
+        "en": "I don't have to go.",
+        "ru": "Мне не нужно идти.",
+        "note": "нет необходимости."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "She have to work.",
+        "correct": "She has to work.",
+        "explanation": "She = has to."
+      },
+      {
+        "wrong": "Do you have to working?",
+        "correct": "Do you have to work?",
+        "explanation": "После have to — V1."
+      },
+      {
+        "wrong": "I haven't to go.",
+        "correct": "I don't have to go.",
+        "explanation": "Отрицание через don't have to."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I ___ to leave now.",
+        "options": [
+          "have",
+          "has",
+          "mustn't"
+        ],
+        "correct_answer": "have",
+        "explanation_correct": "I have to.",
+        "explanation_wrong": {
+          "has": "С I не используем has.",
+          "mustn't": "mustn't = нельзя."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She ___ to work on Sundays.",
+        "options": [
+          "has",
+          "have",
+          "is"
+        ],
+        "correct_answer": "has",
+        "explanation_correct": "She has to.",
+        "explanation_wrong": {
+          "have": "С she нужно has.",
+          "is": "is to work — другая конструкция."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Do you ___ to pay?",
+        "options": [
+          "have",
+          "has",
+          "must"
+        ],
+        "correct_answer": "have",
+        "explanation_correct": "Do you have to...?",
+        "explanation_wrong": {
+          "has": "После do используем have.",
+          "must": "Do you must не говорят."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He doesn't ___ to go.",
+        "options": [
+          "have",
+          "has",
+          "having"
+        ],
+        "correct_answer": "have",
+        "explanation_correct": "После doesn't — have.",
+        "explanation_wrong": {
+          "has": "После doesn't не has.",
+          "having": "Не та форма."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We don't have to ___ early.",
+        "options": [
+          "get up",
+          "got up",
+          "getting up"
+        ],
+        "correct_answer": "get up",
+        "explanation_correct": "have to + V1.",
+        "explanation_wrong": {
+          "got up": "Нужна обычная форма.",
+          "getting up": "Не та форма."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Did you have to ___?",
+        "options": [
+          "wait",
+          "waited",
+          "waiting"
+        ],
+        "correct_answer": "wait",
+        "explanation_correct": "После did/have to — V1.",
+        "explanation_wrong": {
+          "waited": "После did нет -ed.",
+          "waiting": "Не та форма."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "She has to study.",
+          "She have to study.",
+          "She doesn't has to study."
+        ],
+        "correct_answer": "She has to study.",
+        "explanation_correct": "She = has to.",
+        "explanation_wrong": {
+          "She have to study.": "С she нужно has.",
+          "She doesn't has to study.": "После doesn't — have."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I ___ have to wear a uniform.",
+        "options": [
+          "don't",
+          "doesn't",
+          "am not"
+        ],
+        "correct_answer": "don't",
+        "explanation_correct": "I don't have to.",
+        "explanation_wrong": {
+          "doesn't": "С I — don't.",
+          "am not": "Не строит отрицание have to."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 35,
+    "level": "A2",
+    "topic": "would like",
+    "title_ru": "Would you like / I'd like",
+    "explanation_ru": "Would like — вежливая форма «хотел бы». Используем в предложениях, просьбах и желаниях. После would like часто идёт существительное или to + verb.",
+    "formula": "would like + noun\nwould like to + verb\nWould you like...?",
+    "examples": [
+      {
+        "en": "I'd like a coffee.",
+        "ru": "Я бы хотел кофе.",
+        "note": "I'd = I would."
+      },
+      {
+        "en": "Would you like some tea?",
+        "ru": "Хотите чаю?",
+        "note": "вежливое предложение."
+      },
+      {
+        "en": "I'd like to go home.",
+        "ru": "Я бы хотел пойти домой.",
+        "note": "would like to + verb."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I like a coffee now.",
+        "correct": "I'd like a coffee.",
+        "explanation": "Для желания сейчас вежливее would like."
+      },
+      {
+        "wrong": "I would like go.",
+        "correct": "I would like to go.",
+        "explanation": "После would like перед глаголом нужен to."
+      },
+      {
+        "wrong": "Would you like to coffee?",
+        "correct": "Would you like coffee?",
+        "explanation": "Перед существительным to не нужно."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I'd like ___ apple.",
+        "options": [
+          "an",
+          "a",
+          "to"
+        ],
+        "correct_answer": "an",
+        "explanation_correct": "apple начинается с гласного звука.",
+        "explanation_wrong": {
+          "a": "Перед apple обычно an.",
+          "to": "to перед существительным не нужно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Would you like ___ tea?",
+        "options": [
+          "some",
+          "to",
+          "a"
+        ],
+        "correct_answer": "some",
+        "explanation_correct": "Would you like some tea?",
+        "explanation_wrong": {
+          "to": "Перед tea не нужен to.",
+          "a": "tea обычно неисчисляемое."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'd like ___ go home.",
+        "options": [
+          "to",
+          "-",
+          "for"
+        ],
+        "correct_answer": "to",
+        "explanation_correct": "would like to + verb.",
+        "explanation_wrong": {
+          "-": "Перед глаголом нужен to.",
+          "for": "for не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She'd like ___ new phone.",
+        "options": [
+          "a",
+          "to",
+          "an"
+        ],
+        "correct_answer": "a",
+        "explanation_correct": "new phone — существительное, to не нужно.",
+        "explanation_wrong": {
+          "to": "to нужен перед глаголом.",
+          "an": "new начинается с согласного звука."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Would you like to ___ with us?",
+        "options": [
+          "come",
+          "came",
+          "coming"
+        ],
+        "correct_answer": "come",
+        "explanation_correct": "to + V1.",
+        "explanation_wrong": {
+          "came": "После to нужна обычная форма.",
+          "coming": "Не та форма."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I ___ like a sandwich.",
+        "options": [
+          "would",
+          "do",
+          "am"
+        ],
+        "correct_answer": "would",
+        "explanation_correct": "I'd like = I would like.",
+        "explanation_wrong": {
+          "do": "Do like = любить обычно, не хотел бы.",
+          "am": "am like не используется так."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "Would you like a drink?",
+          "Would you like to a drink?",
+          "Do you would like a drink?"
+        ],
+        "correct_answer": "Would you like a drink?",
+        "explanation_correct": "Would you like + noun.",
+        "explanation_wrong": {
+          "Would you like to a drink?": "to не нужно перед noun.",
+          "Do you would like a drink?": "С would не нужен do."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'd like to ___ English.",
+        "options": [
+          "learn",
+          "learning",
+          "learned"
+        ],
+        "correct_answer": "learn",
+        "explanation_correct": "would like to + V1.",
+        "explanation_wrong": {
+          "learning": "После to здесь V1.",
+          "learned": "Не та форма."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 36,
+    "level": "A1",
+    "topic": "there is there are",
+    "title_ru": "There is / there are",
+    "explanation_ru": "There is / there are означает «есть / находится / имеется». There is — для одного предмета или неисчисляемого, there are — для множественного числа.",
+    "formula": "there is + singular/uncountable\nthere are + plural",
+    "examples": [
+      {
+        "en": "There is a book on the table.",
+        "ru": "На столе есть книга.",
+        "note": "one book → is."
+      },
+      {
+        "en": "There are two chairs.",
+        "ru": "Есть два стула.",
+        "note": "plural → are."
+      },
+      {
+        "en": "There is some water.",
+        "ru": "Есть немного воды.",
+        "note": "water неисчисляемое → is."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "There are a book.",
+        "correct": "There is a book.",
+        "explanation": "Один предмет → is."
+      },
+      {
+        "wrong": "There is two chairs.",
+        "correct": "There are two chairs.",
+        "explanation": "Множественное число → are."
+      },
+      {
+        "wrong": "It is a book on the table.",
+        "correct": "There is a book on the table.",
+        "explanation": "Для «есть/находится» нужен there is."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "There ___ a cat in the room.",
+        "options": [
+          "is",
+          "are",
+          "am"
+        ],
+        "correct_answer": "is",
+        "explanation_correct": "A cat = один предмет.",
+        "explanation_wrong": {
+          "are": "are для plural.",
+          "am": "am только с I."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There ___ three people here.",
+        "options": [
+          "are",
+          "is",
+          "am"
+        ],
+        "correct_answer": "are",
+        "explanation_correct": "Three people = plural.",
+        "explanation_wrong": {
+          "is": "Три человека — are.",
+          "am": "am не используется."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There ___ some milk.",
+        "options": [
+          "is",
+          "are",
+          "am"
+        ],
+        "correct_answer": "is",
+        "explanation_correct": "Milk неисчисляемое, поэтому is.",
+        "explanation_wrong": {
+          "are": "milk не plural.",
+          "am": "am только с I."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ there a bank near here?",
+        "options": [
+          "Is",
+          "Are",
+          "Do"
+        ],
+        "correct_answer": "Is",
+        "explanation_correct": "Is there + singular?",
+        "explanation_wrong": {
+          "Are": "A bank = singular.",
+          "Do": "С there is вопрос через is."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ there any shops?",
+        "options": [
+          "Are",
+          "Is",
+          "Do"
+        ],
+        "correct_answer": "Are",
+        "explanation_correct": "shops = plural.",
+        "explanation_wrong": {
+          "Is": "shops plural.",
+          "Do": "С there are вопрос через are."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There aren't ___ chairs.",
+        "options": [
+          "any",
+          "some",
+          "a"
+        ],
+        "correct_answer": "any",
+        "explanation_correct": "В отрицании plural обычно any.",
+        "explanation_wrong": {
+          "some": "В отрицании чаще any.",
+          "a": "chairs plural."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "There is a problem.",
+          "There are a problem.",
+          "It is a problem here."
+        ],
+        "correct_answer": "There is a problem.",
+        "explanation_correct": "There is + singular.",
+        "explanation_wrong": {
+          "There are a problem.": "a problem = singular.",
+          "It is a problem here.": "Другой смысл."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There ___ no time.",
+        "options": [
+          "is",
+          "are",
+          "am"
+        ],
+        "correct_answer": "is",
+        "explanation_correct": "Time неисчисляемое, there is no time.",
+        "explanation_wrong": {
+          "are": "time не plural.",
+          "am": "am не используется."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 37,
+    "level": "A2",
+    "topic": "there was there has been",
+    "title_ru": "There was/were, there has/have been, there will be",
+    "explanation_ru": "Эта тема расширяет there is/are в прошлое, perfect и будущее: there was/were, there has/have been, there will be.",
+    "formula": "past: there was/were\nperfect: there has/have been\nfuture: there will be",
+    "examples": [
+      {
+        "en": "There was a party yesterday.",
+        "ru": "Вчера была вечеринка.",
+        "note": ""
+      },
+      {
+        "en": "There were many people.",
+        "ru": "Было много людей.",
+        "note": ""
+      },
+      {
+        "en": "There will be a meeting tomorrow.",
+        "ru": "Завтра будет встреча.",
+        "note": ""
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "There is a party yesterday.",
+        "correct": "There was a party yesterday.",
+        "explanation": "Yesterday → was."
+      },
+      {
+        "wrong": "There was many people.",
+        "correct": "There were many people.",
+        "explanation": "People plural → were."
+      },
+      {
+        "wrong": "There will a meeting.",
+        "correct": "There will be a meeting.",
+        "explanation": "После will нужен be."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "There ___ a lot of people at the party.",
+        "options": [
+          "were",
+          "was",
+          "are"
+        ],
+        "correct_answer": "were",
+        "explanation_correct": "People = plural, past = were.",
+        "explanation_wrong": {
+          "was": "people plural.",
+          "are": "Прошедшее время."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There ___ a mistake in your answer.",
+        "options": [
+          "was",
+          "were",
+          "are"
+        ],
+        "correct_answer": "was",
+        "explanation_correct": "A mistake singular, past = was.",
+        "explanation_wrong": {
+          "were": "Один mistake.",
+          "are": "Прошедшее."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There ___ be a test tomorrow.",
+        "options": [
+          "will",
+          "is",
+          "has"
+        ],
+        "correct_answer": "will",
+        "explanation_correct": "Будущее: there will be.",
+        "explanation_wrong": {
+          "is": "Нет be после is.",
+          "has": "Не та конструкция."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There has ___ an accident.",
+        "options": [
+          "been",
+          "be",
+          "was"
+        ],
+        "correct_answer": "been",
+        "explanation_correct": "There has been.",
+        "explanation_wrong": {
+          "be": "После has нужна V3 been.",
+          "was": "has was невозможно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There have ___ many changes.",
+        "options": [
+          "been",
+          "be",
+          "was"
+        ],
+        "correct_answer": "been",
+        "explanation_correct": "There have been + plural changes.",
+        "explanation_wrong": {
+          "be": "После have нужна V3.",
+          "was": "have was невозможно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ there any problems yesterday?",
+        "options": [
+          "Were",
+          "Was",
+          "Are"
+        ],
+        "correct_answer": "Were",
+        "explanation_correct": "Problems plural + past question = were there.",
+        "explanation_wrong": {
+          "Was": "problems plural.",
+          "Are": "yesterday → past."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "There will be a meeting.",
+          "There will a meeting.",
+          "There is be a meeting."
+        ],
+        "correct_answer": "There will be a meeting.",
+        "explanation_correct": "Future: there will be.",
+        "explanation_wrong": {
+          "There will a meeting.": "После will нужен be.",
+          "There is be a meeting.": "Так не строится."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There ___ no cars in the street.",
+        "options": [
+          "were",
+          "was",
+          "is"
+        ],
+        "correct_answer": "were",
+        "explanation_correct": "Cars plural + past.",
+        "explanation_wrong": {
+          "was": "cars plural.",
+          "is": "Прошедший контекст."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 38,
+    "level": "A1",
+    "topic": "it",
+    "title_ru": "It: время, погода, расстояние",
+    "explanation_ru": "It используется как формальное подлежащее, когда говорим о погоде, времени, расстоянии или ситуации в целом. В русском подлежащего часто нет: холодно, поздно, далеко.",
+    "formula": "It is + adjective\nIt is + time/weather/distance",
+    "examples": [
+      {
+        "en": "It is cold today.",
+        "ru": "Сегодня холодно.",
+        "note": "weather/situation."
+      },
+      {
+        "en": "It is ten o'clock.",
+        "ru": "Сейчас десять часов.",
+        "note": "time."
+      },
+      {
+        "en": "It is far from here.",
+        "ru": "Это далеко отсюда.",
+        "note": "distance."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "Is cold today.",
+        "correct": "It is cold today.",
+        "explanation": "В английском нужно подлежащее it."
+      },
+      {
+        "wrong": "Today is cold.",
+        "correct": "It is cold today.",
+        "explanation": "Можно Today is cold, но базовая форма — It is cold today."
+      },
+      {
+        "wrong": "It are late.",
+        "correct": "It is late.",
+        "explanation": "It = is."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "___ is raining.",
+        "options": [
+          "It",
+          "There",
+          "This"
+        ],
+        "correct_answer": "It",
+        "explanation_correct": "Погода: It is raining.",
+        "explanation_wrong": {
+          "There": "There is rain — другая конструкция.",
+          "This": "This is raining неправильно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ is cold today.",
+        "options": [
+          "It",
+          "There",
+          "He"
+        ],
+        "correct_answer": "It",
+        "explanation_correct": "Для погоды используем it.",
+        "explanation_wrong": {
+          "There": "There is cold неправильно.",
+          "He": "He не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It ___ ten o'clock.",
+        "options": [
+          "is",
+          "are",
+          "am"
+        ],
+        "correct_answer": "is",
+        "explanation_correct": "It = is.",
+        "explanation_wrong": {
+          "are": "С it не are.",
+          "am": "am только с I."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ is far from here.",
+        "options": [
+          "It",
+          "There",
+          "They"
+        ],
+        "correct_answer": "It",
+        "explanation_correct": "Расстояние: It is far.",
+        "explanation_wrong": {
+          "There": "There is far неправильно.",
+          "They": "Не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It ___ late.",
+        "options": [
+          "is",
+          "are",
+          "has"
+        ],
+        "correct_answer": "is",
+        "explanation_correct": "It is late.",
+        "explanation_wrong": {
+          "are": "it требует is.",
+          "has": "has не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Was ___ cold yesterday?",
+        "options": [
+          "it",
+          "there",
+          "this"
+        ],
+        "correct_answer": "it",
+        "explanation_correct": "Was it cold?",
+        "explanation_wrong": {
+          "there": "Для погоды — it.",
+          "this": "Менее естественно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "It is sunny.",
+          "There is sunny.",
+          "Is sunny."
+        ],
+        "correct_answer": "It is sunny.",
+        "explanation_correct": "Погода требует формального it.",
+        "explanation_wrong": {
+          "There is sunny.": "There is + noun, не adjective.",
+          "Is sunny.": "Нет подлежащего."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "How far ___ it?",
+        "options": [
+          "is",
+          "are",
+          "does"
+        ],
+        "correct_answer": "is",
+        "explanation_correct": "How far is it?",
+        "explanation_wrong": {
+          "are": "it требует is.",
+          "does": "does не нужен."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 39,
+    "level": "A2",
+    "topic": "auxiliary short answers",
+    "title_ru": "I am / I don't etc.",
+    "explanation_ru": "В коротких ответах и коротких фразах часто используем вспомогательный глагол вместо повторения всей фразы: Yes, I am. No, I don't. She can, but I can't.",
+    "formula": "use the auxiliary: am/is/are, do/does/did, have/has, can/will",
+    "examples": [
+      {
+        "en": "Are you tired? Yes, I am.",
+        "ru": "Ты устал? Да.",
+        "note": "am заменяет полную фразу."
+      },
+      {
+        "en": "Do you like coffee? No, I don't.",
+        "ru": "Любишь кофе? Нет.",
+        "note": "don't = don't like coffee."
+      },
+      {
+        "en": "Can she swim? Yes, she can.",
+        "ru": "Она умеет плавать? Да.",
+        "note": "can повторяется."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "Yes, I tired.",
+        "correct": "Yes, I am.",
+        "explanation": "Короткий ответ требует auxiliary."
+      },
+      {
+        "wrong": "No, I not.",
+        "correct": "No, I don't / I'm not.",
+        "explanation": "Зависит от вопроса."
+      },
+      {
+        "wrong": "Does he work? Yes, he works.",
+        "correct": "Yes, he does.",
+        "explanation": "В коротком ответе используем does."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "Are you hungry? Yes, I ___.",
+        "options": [
+          "am",
+          "do",
+          "have"
+        ],
+        "correct_answer": "am",
+        "explanation_correct": "Вопрос с are → ответ с am.",
+        "explanation_wrong": {
+          "do": "do отвечает на do-questions.",
+          "have": "have для perfect/have got."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Do you smoke? No, I ___.",
+        "options": [
+          "don't",
+          "am not",
+          "haven't"
+        ],
+        "correct_answer": "don't",
+        "explanation_correct": "Вопрос Do you...? → don't.",
+        "explanation_wrong": {
+          "am not": "Не с обычным глаголом smoke.",
+          "haven't": "Не have-question."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Does she work? Yes, she ___.",
+        "options": [
+          "does",
+          "is",
+          "works"
+        ],
+        "correct_answer": "does",
+        "explanation_correct": "Короткий ответ: does.",
+        "explanation_wrong": {
+          "is": "Вопрос не с is.",
+          "works": "В коротком ответе обычно auxiliary."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Can they come? No, they ___.",
+        "options": [
+          "can't",
+          "don't",
+          "aren't"
+        ],
+        "correct_answer": "can't",
+        "explanation_correct": "Вопрос can → can't.",
+        "explanation_wrong": {
+          "don't": "Не do-question.",
+          "aren't": "Не are-question."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Have you finished? Yes, I ___.",
+        "options": [
+          "have",
+          "do",
+          "am"
+        ],
+        "correct_answer": "have",
+        "explanation_correct": "Вопрос have → have.",
+        "explanation_wrong": {
+          "do": "Не do-question.",
+          "am": "Не be-question."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Was he late? No, he ___.",
+        "options": [
+          "wasn't",
+          "didn't",
+          "doesn't"
+        ],
+        "correct_answer": "wasn't",
+        "explanation_correct": "Was he...? → wasn't.",
+        "explanation_wrong": {
+          "didn't": "Не did-question.",
+          "doesn't": "Настоящее время."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "Yes, I am.",
+          "Yes, I do.",
+          "Yes, I have."
+        ],
+        "correct_answer": "Yes, I am.",
+        "explanation_correct": "Для вопроса Are you ready? короткий ответ: Yes, I am.",
+        "explanation_wrong": {
+          "Yes, I do.": "do отвечает на Do you...?",
+          "Yes, I have.": "have отвечает на Have you...?"
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Will you help? Yes, I ___.",
+        "options": [
+          "will",
+          "do",
+          "am"
+        ],
+        "correct_answer": "will",
+        "explanation_correct": "Will-question → will.",
+        "explanation_wrong": {
+          "do": "Не do-question.",
+          "am": "Не be-question."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 40,
+    "level": "A2",
+    "topic": "question tags and replies",
+    "title_ru": "Have you? Are you? Don't you?",
+    "explanation_ru": "Короткие вопросы типа Have you? Are you? Don't you? используют auxiliary из предыдущей фразы. Они помогают переспросить, удивиться или продолжить разговор.",
+    "formula": "Statement auxiliary → short question\nI have... → Have you?\nI don't... → Don't you?",
+    "examples": [
+      {
+        "en": "I am tired. — Are you?",
+        "ru": "Я устал. — Правда?",
+        "note": "Повторяем am как are для you."
+      },
+      {
+        "en": "I don't like tea. — Don't you?",
+        "ru": "Я не люблю чай. — Да?",
+        "note": "Используем don't."
+      },
+      {
+        "en": "She can drive. — Can she?",
+        "ru": "Она умеет водить. — Правда?",
+        "note": "Используем can."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I am tired. — Do you?",
+        "correct": "I am tired. — Are you?",
+        "explanation": "am требует are в ответе к you."
+      },
+      {
+        "wrong": "I can swim. — Do you?",
+        "correct": "I can swim. — Can you?",
+        "explanation": "Используем can."
+      },
+      {
+        "wrong": "She doesn't work. — Isn't she?",
+        "correct": "She doesn't work. — Doesn't she?",
+        "explanation": "Исходный auxiliary — doesn't."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I am hungry. — ___ you?",
+        "options": [
+          "Are",
+          "Do",
+          "Have"
+        ],
+        "correct_answer": "Are",
+        "explanation_correct": "am/is/are → Are you?",
+        "explanation_wrong": {
+          "Do": "Do для Present Simple.",
+          "Have": "Have для perfect/have got."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I don't smoke. — ___ you?",
+        "options": [
+          "Don't",
+          "Aren't",
+          "Haven't"
+        ],
+        "correct_answer": "Don't",
+        "explanation_correct": "don't повторяется.",
+        "explanation_wrong": {
+          "Aren't": "Не be-question.",
+          "Haven't": "Не have-question."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She can sing. — ___ she?",
+        "options": [
+          "Can",
+          "Does",
+          "Is"
+        ],
+        "correct_answer": "Can",
+        "explanation_correct": "can → can.",
+        "explanation_wrong": {
+          "Does": "Не Present Simple.",
+          "Is": "Не be."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He has gone. — ___ he?",
+        "options": [
+          "Has",
+          "Does",
+          "Is"
+        ],
+        "correct_answer": "Has",
+        "explanation_correct": "Present Perfect has gone → Has he?",
+        "explanation_wrong": {
+          "Does": "Не Present Simple.",
+          "Is": "Не continuous/be."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They were late. — ___ they?",
+        "options": [
+          "Were",
+          "Did",
+          "Are"
+        ],
+        "correct_answer": "Were",
+        "explanation_correct": "were → were.",
+        "explanation_wrong": {
+          "Did": "Не Past Simple action.",
+          "Are": "Нужно past."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I will call him. — ___ you?",
+        "options": [
+          "Will",
+          "Do",
+          "Are"
+        ],
+        "correct_answer": "Will",
+        "explanation_correct": "will → will.",
+        "explanation_wrong": {
+          "Do": "Не do-question.",
+          "Are": "Не be."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct reply: I like coffee.",
+        "options": [
+          "Do you?",
+          "Are you?",
+          "Have you?"
+        ],
+        "correct_answer": "Do you?",
+        "explanation_correct": "like в Present Simple → do.",
+        "explanation_wrong": {
+          "Are you?": "Не be.",
+          "Have you?": "Не perfect."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She doesn't know. — ___ she?",
+        "options": [
+          "Doesn't",
+          "Isn't",
+          "Hasn't"
+        ],
+        "correct_answer": "Doesn't",
+        "explanation_correct": "doesn't know → Doesn't she?",
+        "explanation_wrong": {
+          "Isn't": "Не be.",
+          "Hasn't": "Не have."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 41,
+    "level": "A2",
+    "topic": "too either so neither",
+    "title_ru": "too / either / so am I / neither do I",
+    "explanation_ru": "Too/either и so/neither помогают сказать «я тоже» или «я тоже не». Too — в положительных фразах, either — в отрицательных. So/Neither требуют правильный auxiliary.",
+    "formula": "positive: I am too / So am I\nnegative: I am not either / Neither am I",
+    "examples": [
+      {
+        "en": "I am tired. — I am too.",
+        "ru": "Я устал. — Я тоже.",
+        "note": ""
+      },
+      {
+        "en": "I don't like tea. — I don't either.",
+        "ru": "Я не люблю чай. — Я тоже не.",
+        "note": ""
+      },
+      {
+        "en": "I can swim. — So can I.",
+        "ru": "Я умею плавать. — Я тоже.",
+        "note": ""
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I don't like tea. — I don't too.",
+        "correct": "I don't like tea. — I don't either.",
+        "explanation": "В отрицании используем either."
+      },
+      {
+        "wrong": "I am tired. — So do I.",
+        "correct": "I am tired. — So am I.",
+        "explanation": "Нужен auxiliary am."
+      },
+      {
+        "wrong": "She can't drive. — Neither do I.",
+        "correct": "She can't drive. — Neither can I.",
+        "explanation": "Используем can."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I am cold. — So ___ I.",
+        "options": [
+          "am",
+          "do",
+          "have"
+        ],
+        "correct_answer": "am",
+        "explanation_correct": "am cold → So am I.",
+        "explanation_wrong": {
+          "do": "Не Present Simple action.",
+          "have": "Не perfect."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I like coffee. — So ___ I.",
+        "options": [
+          "do",
+          "am",
+          "have"
+        ],
+        "correct_answer": "do",
+        "explanation_correct": "like → do.",
+        "explanation_wrong": {
+          "am": "Не be.",
+          "have": "Не perfect."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I don't smoke. — I don't ___.",
+        "options": [
+          "either",
+          "too",
+          "neither"
+        ],
+        "correct_answer": "either",
+        "explanation_correct": "Отрицательная фраза + either.",
+        "explanation_wrong": {
+          "too": "too для положительных.",
+          "neither": "neither используется с auxiliary: Neither do I."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I can't swim. — Neither ___ I.",
+        "options": [
+          "can",
+          "do",
+          "am"
+        ],
+        "correct_answer": "can",
+        "explanation_correct": "can't → Neither can I.",
+        "explanation_wrong": {
+          "do": "Нужен can.",
+          "am": "Нужен can."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She has been there. — So ___ I.",
+        "options": [
+          "have",
+          "do",
+          "am"
+        ],
+        "correct_answer": "have",
+        "explanation_correct": "Present Perfect → have.",
+        "explanation_wrong": {
+          "do": "Не Present Simple.",
+          "am": "Не be."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They weren't ready. — Neither ___ we.",
+        "options": [
+          "were",
+          "did",
+          "are"
+        ],
+        "correct_answer": "were",
+        "explanation_correct": "weren't → Neither were we.",
+        "explanation_wrong": {
+          "did": "Не Past Simple action.",
+          "are": "Нужно past."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I am too.",
+          "I do too.",
+          "I have too."
+        ],
+        "correct_answer": "I am too.",
+        "explanation_correct": "Для I am tired ответ: I am too.",
+        "explanation_wrong": {
+          "I do too.": "do для обычных глаголов.",
+          "I have too.": "have для perfect/have got."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I went home. — So ___ I.",
+        "options": [
+          "did",
+          "went",
+          "was"
+        ],
+        "correct_answer": "did",
+        "explanation_correct": "Past Simple action → So did I.",
+        "explanation_wrong": {
+          "went": "В этой конструкции нужен auxiliary did.",
+          "was": "Не be."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 42,
+    "level": "A1",
+    "topic": "negatives",
+    "title_ru": "Negatives: isn't / haven't / don't",
+    "explanation_ru": "Отрицание зависит от типа глагола. С be: am not/isn't/aren't. С обычными глаголами: don't/doesn't/didn't. С perfect: haven't/hasn't.",
+    "formula": "be → am not/isn't/aren't\nPresent Simple → don't/doesn't\nPast Simple → didn't\nPerfect → haven't/hasn't",
+    "examples": [
+      {
+        "en": "She isn't at home.",
+        "ru": "Она не дома.",
+        "note": "be → isn't."
+      },
+      {
+        "en": "I don't know.",
+        "ru": "Я не знаю.",
+        "note": "обычный глагол → don't."
+      },
+      {
+        "en": "I haven't finished.",
+        "ru": "Я не закончил.",
+        "note": "perfect → haven't."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I amn't ready.",
+        "correct": "I'm not ready.",
+        "explanation": "С I говорим I'm not."
+      },
+      {
+        "wrong": "She don't work.",
+        "correct": "She doesn't work.",
+        "explanation": "She → doesn't."
+      },
+      {
+        "wrong": "I haven't know.",
+        "correct": "I don't know.",
+        "explanation": "know в Present Simple → don't."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "She ___ at home.",
+        "options": [
+          "isn't",
+          "doesn't",
+          "hasn't"
+        ],
+        "correct_answer": "isn't",
+        "explanation_correct": "at home с be.",
+        "explanation_wrong": {
+          "doesn't": "doesn't нужен перед обычным глаголом.",
+          "hasn't": "Не perfect."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I ___ like it.",
+        "options": [
+          "don't",
+          "am not",
+          "haven't"
+        ],
+        "correct_answer": "don't",
+        "explanation_correct": "like — обычный глагол.",
+        "explanation_wrong": {
+          "am not": "Нельзя am not like.",
+          "haven't": "Не perfect."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He ___ work here.",
+        "options": [
+          "doesn't",
+          "isn't",
+          "hasn't"
+        ],
+        "correct_answer": "doesn't",
+        "explanation_correct": "work — обычный глагол; he → doesn't.",
+        "explanation_wrong": {
+          "isn't": "Нельзя isn't work.",
+          "hasn't": "Не perfect."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They ___ ready.",
+        "options": [
+          "aren't",
+          "don't",
+          "haven't"
+        ],
+        "correct_answer": "aren't",
+        "explanation_correct": "ready с be.",
+        "explanation_wrong": {
+          "don't": "Нет обычного глагола.",
+          "haven't": "Не perfect."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I ___ seen this film.",
+        "options": [
+          "haven't",
+          "don't",
+          "am not"
+        ],
+        "correct_answer": "haven't",
+        "explanation_correct": "Present Perfect: haven't seen.",
+        "explanation_wrong": {
+          "don't": "Не с V3 seen.",
+          "am not": "Не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She ___ go yesterday.",
+        "options": [
+          "didn't",
+          "doesn't",
+          "wasn't"
+        ],
+        "correct_answer": "didn't",
+        "explanation_correct": "Past Simple negative.",
+        "explanation_wrong": {
+          "doesn't": "Это настоящее.",
+          "wasn't": "go — обычный глагол."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I'm not hungry.",
+          "I amn't hungry.",
+          "I don't hungry."
+        ],
+        "correct_answer": "I'm not hungry.",
+        "explanation_correct": "С I + be отрицание: I'm not.",
+        "explanation_wrong": {
+          "I amn't hungry.": "В стандартном английском говорят I'm not.",
+          "I don't hungry.": "hungry — adjective, нужен be."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We ___ have a car.",
+        "options": [
+          "don't",
+          "aren't",
+          "haven't"
+        ],
+        "correct_answer": "don't",
+        "explanation_correct": "have как обычный глагол: don't have.",
+        "explanation_wrong": {
+          "aren't": "Не be.",
+          "haven't": "Вариант possible в BrE с got: haven't got, но тут без got — don't have."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 43,
+    "level": "A1",
+    "topic": "questions 1",
+    "title_ru": "Questions 1: порядок слов",
+    "explanation_ru": "В английском вопрос строится через вспомогательный глагол перед подлежащим: Are you...? Do you...? Have you...? Нельзя оставлять порядок как в утверждении.",
+    "formula": "auxiliary + subject + main verb?\nWhere/What/Why + auxiliary + subject + verb?",
+    "examples": [
+      {
+        "en": "Are you ready?",
+        "ru": "Ты готов?",
+        "note": "are перед you."
+      },
+      {
+        "en": "Do you live here?",
+        "ru": "Ты живёшь здесь?",
+        "note": "do перед you."
+      },
+      {
+        "en": "Where does she work?",
+        "ru": "Где она работает?",
+        "note": "where + does + she + work."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "You are ready?",
+        "correct": "Are you ready?",
+        "explanation": "Вопрос требует инверсии."
+      },
+      {
+        "wrong": "Where she works?",
+        "correct": "Where does she work?",
+        "explanation": "Нужен does и глагол без -s."
+      },
+      {
+        "wrong": "What you did?",
+        "correct": "What did you do?",
+        "explanation": "Нужен did перед subject."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "___ you ready?",
+        "options": [
+          "Are",
+          "Do",
+          "Have"
+        ],
+        "correct_answer": "Are",
+        "explanation_correct": "ready требует be.",
+        "explanation_wrong": {
+          "Do": "Do используется с обычным глаголом.",
+          "Have": "Не perfect."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ you live here?",
+        "options": [
+          "Do",
+          "Are",
+          "Have"
+        ],
+        "correct_answer": "Do",
+        "explanation_correct": "live — обычный глагол.",
+        "explanation_wrong": {
+          "Are": "Нельзя Are you live.",
+          "Have": "Не perfect."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Where ___ she work?",
+        "options": [
+          "does",
+          "is",
+          "do"
+        ],
+        "correct_answer": "does",
+        "explanation_correct": "she + Present Simple question = does.",
+        "explanation_wrong": {
+          "is": "Нельзя Where is she work.",
+          "do": "С she нужен does."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "What ___ you do yesterday?",
+        "options": [
+          "did",
+          "do",
+          "are"
+        ],
+        "correct_answer": "did",
+        "explanation_correct": "yesterday → did.",
+        "explanation_wrong": {
+          "do": "Настоящее.",
+          "are": "Не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Have you ___ your homework?",
+        "options": [
+          "done",
+          "did",
+          "do"
+        ],
+        "correct_answer": "done",
+        "explanation_correct": "Have + V3.",
+        "explanation_wrong": {
+          "did": "После have нужна V3.",
+          "do": "Не V3."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Why ___ they late?",
+        "options": [
+          "are",
+          "do",
+          "have"
+        ],
+        "correct_answer": "are",
+        "explanation_correct": "late требует be.",
+        "explanation_wrong": {
+          "do": "Нет обычного глагола.",
+          "have": "Не perfect."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "Where do you live?",
+          "Where you live?",
+          "Where are you live?"
+        ],
+        "correct_answer": "Where do you live?",
+        "explanation_correct": "Present Simple question: do + subject + verb.",
+        "explanation_wrong": {
+          "Where you live?": "Нет auxiliary.",
+          "Where are you live?": "Нельзя are + live."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ he finished?",
+        "options": [
+          "Has",
+          "Does",
+          "Is"
+        ],
+        "correct_answer": "Has",
+        "explanation_correct": "Present Perfect: Has he finished?",
+        "explanation_wrong": {
+          "Does": "Не does finished.",
+          "Is": "Не passive/continuous."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 44,
+    "level": "A2",
+    "topic": "questions 2 subject object",
+    "title_ru": "Who saw you? / Who did you see?",
+    "explanation_ru": "Если who/what — подлежащее, do/does/did не нужен: Who saw you? Если who/what — объект, нужен auxiliary: Who did you see?",
+    "formula": "subject question: Who saw you?\nobject question: Who did you see?",
+    "examples": [
+      {
+        "en": "Who saw you?",
+        "ru": "Кто тебя видел?",
+        "note": "Who = subject."
+      },
+      {
+        "en": "Who did you see?",
+        "ru": "Кого ты видел?",
+        "note": "Who = object."
+      },
+      {
+        "en": "What happened?",
+        "ru": "Что случилось?",
+        "note": "What = subject."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "Who did see you?",
+        "correct": "Who saw you?",
+        "explanation": "Если who — подлежащее, did не нужен."
+      },
+      {
+        "wrong": "Who you saw?",
+        "correct": "Who did you see?",
+        "explanation": "Если who — объект, нужен did."
+      },
+      {
+        "wrong": "What did happen?",
+        "correct": "What happened?",
+        "explanation": "What как subject → без did."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "___ saw you?",
+        "options": [
+          "Who",
+          "Who did",
+          "Did who"
+        ],
+        "correct_answer": "Who",
+        "explanation_correct": "Who = подлежащее.",
+        "explanation_wrong": {
+          "Who did": "did не нужен, если who subject.",
+          "Did who": "Неверный порядок."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Who ___ you see?",
+        "options": [
+          "did",
+          "-",
+          "does"
+        ],
+        "correct_answer": "did",
+        "explanation_correct": "Who = object, нужен did.",
+        "explanation_wrong": {
+          "-": "Нужен auxiliary did.",
+          "does": "Прошлое время see/saw."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "What ___ happened?",
+        "options": [
+          "-",
+          "did",
+          "does"
+        ],
+        "correct_answer": "-",
+        "explanation_correct": "What happened? без did.",
+        "explanation_wrong": {
+          "did": "Если what subject, did не нужен.",
+          "does": "Не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "What ___ you buy?",
+        "options": [
+          "did",
+          "-",
+          "does"
+        ],
+        "correct_answer": "did",
+        "explanation_correct": "What = object, нужен did.",
+        "explanation_wrong": {
+          "-": "Нужен did.",
+          "does": "Past context buy/bought."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Who ___ this book?",
+        "options": [
+          "wrote",
+          "did write",
+          "does wrote"
+        ],
+        "correct_answer": "wrote",
+        "explanation_correct": "Who subject: Who wrote...?",
+        "explanation_wrong": {
+          "did write": "В обычном subject question did не нужен.",
+          "does wrote": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Who did she ___?",
+        "options": [
+          "call",
+          "called",
+          "calls"
+        ],
+        "correct_answer": "call",
+        "explanation_correct": "После did V1.",
+        "explanation_wrong": {
+          "called": "После did нет -ed.",
+          "calls": "После did нет -s."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "Who called you?",
+          "Who did call you?",
+          "Who you called?"
+        ],
+        "correct_answer": "Who called you?",
+        "explanation_correct": "Who = subject.",
+        "explanation_wrong": {
+          "Who did call you?": "В нейтральном вопросе did не нужен.",
+          "Who you called?": "Нет auxiliary для object question."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Who ___ you talking to?",
+        "options": [
+          "are",
+          "do",
+          "did"
+        ],
+        "correct_answer": "are",
+        "explanation_correct": "Present Continuous: Who are you talking to?",
+        "explanation_wrong": {
+          "do": "Не с -ing.",
+          "did": "Не past simple."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 45,
+    "level": "A2",
+    "topic": "questions 3 prepositions",
+    "title_ru": "Who is she talking to? / What is it like?",
+    "explanation_ru": "В вопросах с предлогами предлог часто стоит в конце: Who are you talking to? What are you looking at? What is it like? — Какой он/это?",
+    "formula": "question word + auxiliary + subject + verb + preposition?",
+    "examples": [
+      {
+        "en": "Who are you waiting for?",
+        "ru": "Кого ты ждёшь?",
+        "note": "for в конце."
+      },
+      {
+        "en": "What are you looking at?",
+        "ru": "На что ты смотришь?",
+        "note": "at в конце."
+      },
+      {
+        "en": "What is it like?",
+        "ru": "Какое оно?",
+        "note": "вопрос о характеристике."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "For who are you waiting?",
+        "correct": "Who are you waiting for?",
+        "explanation": "В разговорном английском предлог часто в конце."
+      },
+      {
+        "wrong": "What are you looking?",
+        "correct": "What are you looking at?",
+        "explanation": "look at требует at."
+      },
+      {
+        "wrong": "How is it like?",
+        "correct": "What is it like?",
+        "explanation": "Правильно: What is it like?"
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "Who are you waiting ___?",
+        "options": [
+          "for",
+          "at",
+          "to"
+        ],
+        "correct_answer": "for",
+        "explanation_correct": "wait for someone.",
+        "explanation_wrong": {
+          "at": "look at, не wait at.",
+          "to": "wait to + verb, не person."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "What are you looking ___?",
+        "options": [
+          "at",
+          "for",
+          "to"
+        ],
+        "correct_answer": "at",
+        "explanation_correct": "look at something.",
+        "explanation_wrong": {
+          "for": "look for = искать, другой смысл.",
+          "to": "look to не здесь."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Who is she talking ___?",
+        "options": [
+          "to",
+          "at",
+          "for"
+        ],
+        "correct_answer": "to",
+        "explanation_correct": "talk to someone.",
+        "explanation_wrong": {
+          "at": "talk at возможно, но другой оттенок.",
+          "for": "Не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "What is your city ___?",
+        "options": [
+          "like",
+          "look",
+          "as"
+        ],
+        "correct_answer": "like",
+        "explanation_correct": "What is it like? = Какой?",
+        "explanation_wrong": {
+          "look": "What does it look like? другая структура.",
+          "as": "Не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Where are you ___ from?",
+        "options": [
+          "-",
+          "to",
+          "at"
+        ],
+        "correct_answer": "-",
+        "explanation_correct": "Where are you from? без предлога в конце.",
+        "explanation_wrong": {
+          "to": "Неверно.",
+          "at": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Which hotel did you stay ___?",
+        "options": [
+          "at",
+          "to",
+          "for"
+        ],
+        "correct_answer": "at",
+        "explanation_correct": "stay at a hotel.",
+        "explanation_wrong": {
+          "to": "Неверно.",
+          "for": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "Who did you go with?",
+          "With who did you go?",
+          "Who did you go?"
+        ],
+        "correct_answer": "Who did you go with?",
+        "explanation_correct": "Предлог with нужен и обычно стоит в конце.",
+        "explanation_wrong": {
+          "With who did you go?": "Формально возможно, но менее разговорно; whom было бы формальнее.",
+          "Who did you go?": "Не хватает with."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "What are you afraid ___?",
+        "options": [
+          "of",
+          "from",
+          "about"
+        ],
+        "correct_answer": "of",
+        "explanation_correct": "afraid of.",
+        "explanation_wrong": {
+          "from": "Неверно.",
+          "about": "worried about, но afraid of."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 46,
+    "level": "A1",
+    "topic": "what which how",
+    "title_ru": "What / Which / How",
+    "explanation_ru": "What спрашивает «что/какой», когда выбор широкий. Which — «который», когда выбор ограничен. How — «как/насколько/сколько» в выражениях типа how old, how much.",
+    "formula": "What + noun?\nWhich + limited choice?\nHow + adjective/adverb?",
+    "examples": [
+      {
+        "en": "What colour is your car?",
+        "ru": "Какого цвета твоя машина?",
+        "note": "what colour."
+      },
+      {
+        "en": "Which bag is yours?",
+        "ru": "Какая сумка твоя?",
+        "note": "выбор из сумок."
+      },
+      {
+        "en": "How old are you?",
+        "ru": "Сколько тебе лет?",
+        "note": "how old."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "How colour is it?",
+        "correct": "What colour is it?",
+        "explanation": "Для цвета: what colour."
+      },
+      {
+        "wrong": "What of these two?",
+        "correct": "Which of these two?",
+        "explanation": "При ограниченном выборе — which."
+      },
+      {
+        "wrong": "What old are you?",
+        "correct": "How old are you?",
+        "explanation": "Возраст: how old."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "___ colour is your bag?",
+        "options": [
+          "What",
+          "How",
+          "Which"
+        ],
+        "correct_answer": "What",
+        "explanation_correct": "What colour.",
+        "explanation_wrong": {
+          "How": "How colour не говорят.",
+          "Which": "Можно при выборе, но базово what colour."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ old is she?",
+        "options": [
+          "How",
+          "What",
+          "Which"
+        ],
+        "correct_answer": "How",
+        "explanation_correct": "How old.",
+        "explanation_wrong": {
+          "What": "What old неверно.",
+          "Which": "Which old неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ one do you want, tea or coffee?",
+        "options": [
+          "Which",
+          "What",
+          "How"
+        ],
+        "correct_answer": "Which",
+        "explanation_correct": "Выбор из двух — which.",
+        "explanation_wrong": {
+          "What": "What возможно шире, но при выборе лучше which.",
+          "How": "Не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ much is it?",
+        "options": [
+          "How",
+          "What",
+          "Which"
+        ],
+        "correct_answer": "How",
+        "explanation_correct": "How much = сколько стоит.",
+        "explanation_wrong": {
+          "What": "What much неверно.",
+          "Which": "Не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ is your name?",
+        "options": [
+          "What",
+          "How",
+          "Which"
+        ],
+        "correct_answer": "What",
+        "explanation_correct": "What is your name?",
+        "explanation_wrong": {
+          "How": "How is your name? неверно.",
+          "Which": "Which name только при выборе."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ tall are you?",
+        "options": [
+          "How",
+          "What",
+          "Which"
+        ],
+        "correct_answer": "How",
+        "explanation_correct": "How tall.",
+        "explanation_wrong": {
+          "What": "What tall неверно.",
+          "Which": "Не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "Which train goes to London?",
+          "How train goes to London?",
+          "What old are you?"
+        ],
+        "correct_answer": "Which train goes to London?",
+        "explanation_correct": "Which + noun при выборе.",
+        "explanation_wrong": {
+          "How train goes to London?": "Неверная структура.",
+          "What old are you?": "Возраст = How old."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ far is the station?",
+        "options": [
+          "How",
+          "What",
+          "Which"
+        ],
+        "correct_answer": "How",
+        "explanation_correct": "How far = как далеко.",
+        "explanation_wrong": {
+          "What": "What far неверно.",
+          "Which": "Не подходит."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 47,
+    "level": "A2",
+    "topic": "how long does it take",
+    "title_ru": "How long does it take?",
+    "explanation_ru": "How long does it take? спрашивает, сколько времени занимает действие. Ответ часто: It takes ten minutes. С человеком: It takes me ten minutes to get there.",
+    "formula": "How long does it take?\nIt takes + time\nIt takes + person + time + to + verb",
+    "examples": [
+      {
+        "en": "How long does it take?",
+        "ru": "Сколько времени это занимает?",
+        "note": "общий вопрос."
+      },
+      {
+        "en": "It takes 20 minutes.",
+        "ru": "Это занимает 20 минут.",
+        "note": "time."
+      },
+      {
+        "en": "It takes me an hour to get to work.",
+        "ru": "Мне нужен час, чтобы добраться до работы.",
+        "note": "person + time + to."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "How much time it takes?",
+        "correct": "How long does it take?",
+        "explanation": "Стандартный вопрос: How long does it take?"
+      },
+      {
+        "wrong": "It takes me an hour get there.",
+        "correct": "It takes me an hour to get there.",
+        "explanation": "Нужен to + verb."
+      },
+      {
+        "wrong": "It take 20 minutes.",
+        "correct": "It takes 20 minutes.",
+        "explanation": "It = takes."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "How long ___ it take?",
+        "options": [
+          "does",
+          "do",
+          "is"
+        ],
+        "correct_answer": "does",
+        "explanation_correct": "It → does.",
+        "explanation_wrong": {
+          "do": "С it нужен does.",
+          "is": "Не та структура."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It ___ 30 minutes.",
+        "options": [
+          "takes",
+          "take",
+          "is take"
+        ],
+        "correct_answer": "takes",
+        "explanation_correct": "It takes.",
+        "explanation_wrong": {
+          "take": "It требует takes.",
+          "is take": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It takes me an hour ___ get there.",
+        "options": [
+          "to",
+          "for",
+          "-"
+        ],
+        "correct_answer": "to",
+        "explanation_correct": "to + verb.",
+        "explanation_wrong": {
+          "for": "Не перед глаголом.",
+          "-": "Нужен to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "How long did it ___?",
+        "options": [
+          "take",
+          "took",
+          "takes"
+        ],
+        "correct_answer": "take",
+        "explanation_correct": "После did — V1.",
+        "explanation_wrong": {
+          "took": "После did не V2.",
+          "takes": "После did не -s."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It ___ us two hours to drive there.",
+        "options": [
+          "takes",
+          "take",
+          "does"
+        ],
+        "correct_answer": "takes",
+        "explanation_correct": "It takes us...",
+        "explanation_wrong": {
+          "take": "It требует takes.",
+          "does": "does не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Does it take long ___ learn?",
+        "options": [
+          "to",
+          "for",
+          "-"
+        ],
+        "correct_answer": "to",
+        "explanation_correct": "to learn.",
+        "explanation_wrong": {
+          "for": "Не перед verb.",
+          "-": "Нужен to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "How long does it take?",
+          "How long it takes?",
+          "How much long does it take?"
+        ],
+        "correct_answer": "How long does it take?",
+        "explanation_correct": "Правильный порядок: does + it + take.",
+        "explanation_wrong": {
+          "How long it takes?": "Нет auxiliary перед subject.",
+          "How much long does it take?": "Так не говорят."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It doesn't ___ long.",
+        "options": [
+          "take",
+          "takes",
+          "took"
+        ],
+        "correct_answer": "take",
+        "explanation_correct": "После doesn't — V1.",
+        "explanation_wrong": {
+          "takes": "После doesn't нет -s.",
+          "took": "Не past."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 48,
+    "level": "A2",
+    "topic": "indirect questions",
+    "title_ru": "Do you know where...? / I don't know what...",
+    "explanation_ru": "В косвенных вопросах после Do you know... / I don't know... порядок слов как в утверждении: where he lives, what it means. Не используем do/does/did внутри второй части.",
+    "formula": "Do you know + question word + subject + verb?\nI don't know + question word + subject + verb",
+    "examples": [
+      {
+        "en": "Do you know where she lives?",
+        "ru": "Ты знаешь, где она живёт?",
+        "note": "she lives — прямой порядок."
+      },
+      {
+        "en": "I don't know what it means.",
+        "ru": "Я не знаю, что это значит.",
+        "note": "it means, не does it mean."
+      },
+      {
+        "en": "Can you tell me where the station is?",
+        "ru": "Можете сказать, где станция?",
+        "note": "station is в конце."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "Do you know where does she live?",
+        "correct": "Do you know where she lives?",
+        "explanation": "В косвенном вопросе нет does."
+      },
+      {
+        "wrong": "I don't know what does it mean.",
+        "correct": "I don't know what it means.",
+        "explanation": "Порядок как в утверждении."
+      },
+      {
+        "wrong": "Can you tell me where is the station?",
+        "correct": "Can you tell me where the station is?",
+        "explanation": "Вторая часть без инверсии."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "Do you know where she ___?",
+        "options": [
+          "lives",
+          "does live",
+          "live"
+        ],
+        "correct_answer": "lives",
+        "explanation_correct": "Косвенный вопрос: she lives.",
+        "explanation_wrong": {
+          "does live": "do/does не нужен внутри.",
+          "live": "She требует lives."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I don't know what it ___.",
+        "options": [
+          "means",
+          "does mean",
+          "mean"
+        ],
+        "correct_answer": "means",
+        "explanation_correct": "it means.",
+        "explanation_wrong": {
+          "does mean": "Не нужен does.",
+          "mean": "It требует means."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Can you tell me where the bank ___?",
+        "options": [
+          "is",
+          "is it",
+          "does"
+        ],
+        "correct_answer": "is",
+        "explanation_correct": "where the bank is.",
+        "explanation_wrong": {
+          "is it": "Инверсия не нужна.",
+          "does": "Не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Do you know what time ___?",
+        "options": [
+          "it is",
+          "is it",
+          "does it"
+        ],
+        "correct_answer": "it is",
+        "explanation_correct": "Косвенный вопрос: what time it is.",
+        "explanation_wrong": {
+          "is it": "Это прямой вопрос.",
+          "does it": "Не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I don't know where they ___.",
+        "options": [
+          "went",
+          "did go",
+          "goes"
+        ],
+        "correct_answer": "went",
+        "explanation_correct": "Косвенный вопрос в Past Simple без did.",
+        "explanation_wrong": {
+          "did go": "did не нужен.",
+          "goes": "They не goes."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Could you tell me how much it ___?",
+        "options": [
+          "costs",
+          "does cost",
+          "cost"
+        ],
+        "correct_answer": "costs",
+        "explanation_correct": "it costs.",
+        "explanation_wrong": {
+          "does cost": "Не нужен does.",
+          "cost": "It требует costs."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "Do you know where he works?",
+          "Do you know where does he work?",
+          "Do you know where works he?"
+        ],
+        "correct_answer": "Do you know where he works?",
+        "explanation_correct": "Косвенный вопрос: subject + verb.",
+        "explanation_wrong": {
+          "Do you know where does he work?": "does лишний.",
+          "Do you know where works he?": "Неверный порядок."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I don't know why she ___ angry.",
+        "options": [
+          "is",
+          "is she",
+          "does"
+        ],
+        "correct_answer": "is",
+        "explanation_correct": "why she is angry.",
+        "explanation_wrong": {
+          "is she": "Инверсия не нужна.",
+          "does": "angry требует be."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 49,
+    "level": "A2",
+    "topic": "reported speech",
+    "title_ru": "She said that / He told me that",
+    "explanation_ru": "Reported speech передаёт чужие слова. Say обычно без объекта: She said that... Tell требует объект: He told me that... В базовой грамматике важно различать said и told.",
+    "formula": "say/said + that\n tell/told + person + that",
+    "examples": [
+      {
+        "en": "She said that she was tired.",
+        "ru": "Она сказала, что устала.",
+        "note": "said that."
+      },
+      {
+        "en": "He told me that he was busy.",
+        "ru": "Он сказал мне, что занят.",
+        "note": "told + me."
+      },
+      {
+        "en": "They said they were happy.",
+        "ru": "Они сказали, что счастливы.",
+        "note": "that можно опустить."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "He said me that...",
+        "correct": "He told me that... / He said that...",
+        "explanation": "После said обычно нет me."
+      },
+      {
+        "wrong": "She told that she was tired.",
+        "correct": "She said that she was tired.",
+        "explanation": "Tell требует объект: told me/him/us."
+      },
+      {
+        "wrong": "He told to me.",
+        "correct": "He told me.",
+        "explanation": "После told объект без to."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "She ___ that she was ill.",
+        "options": [
+          "said",
+          "told",
+          "spoke"
+        ],
+        "correct_answer": "said",
+        "explanation_correct": "said that...",
+        "explanation_wrong": {
+          "told": "told требует объект: told me.",
+          "spoke": "Не эта структура."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He ___ me that he was busy.",
+        "options": [
+          "told",
+          "said",
+          "spoke"
+        ],
+        "correct_answer": "told",
+        "explanation_correct": "told + person + that.",
+        "explanation_wrong": {
+          "said": "He said me неверно.",
+          "spoke": "Не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They ___ they were tired.",
+        "options": [
+          "said",
+          "told",
+          "told me"
+        ],
+        "correct_answer": "said",
+        "explanation_correct": "said можно без that.",
+        "explanation_wrong": {
+          "told": "told требует объект.",
+          "told me": "Тогда было бы told me they..."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She told ___ that she was leaving.",
+        "options": [
+          "me",
+          "to me",
+          "I"
+        ],
+        "correct_answer": "me",
+        "explanation_correct": "told me.",
+        "explanation_wrong": {
+          "to me": "После told не нужен to.",
+          "I": "Нужен объект me."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He said ___ was cold.",
+        "options": [
+          "it",
+          "me",
+          "to me"
+        ],
+        "correct_answer": "it",
+        "explanation_correct": "He said it was cold.",
+        "explanation_wrong": {
+          "me": "said me неверно.",
+          "to me": "He said to me возможно, но дальше нужно that; базовая форма лучше He told me."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Anna ___ us about the meeting.",
+        "options": [
+          "told",
+          "said",
+          "spoke"
+        ],
+        "correct_answer": "told",
+        "explanation_correct": "tell someone about something.",
+        "explanation_wrong": {
+          "said": "said us неверно.",
+          "spoke": "spoke to us, но не spoke us."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "He told me he was tired.",
+          "He said me he was tired.",
+          "He told to me he was tired."
+        ],
+        "correct_answer": "He told me he was tired.",
+        "explanation_correct": "Tell + object.",
+        "explanation_wrong": {
+          "He said me he was tired.": "После said нет me.",
+          "He told to me he was tired.": "После told объект без to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She ___ goodbye.",
+        "options": [
+          "said",
+          "told",
+          "told me"
+        ],
+        "correct_answer": "said",
+        "explanation_correct": "We say goodbye.",
+        "explanation_wrong": {
+          "told": "Не told goodbye.",
+          "told me": "told me goodbye возможно в AmE, но базово say goodbye."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 50,
+    "level": "A2",
+    "topic": "verb ing forms",
+    "title_ru": "work / working, go / going, do / doing",
+    "explanation_ru": "После некоторых конструкций нужна форма -ing, после других — обычный глагол. Continuous требует V-ing; после can/must/should/will — обычная форма.",
+    "formula": "be + V-ing\nmodal + V1\nlike/enjoy + V-ing",
+    "examples": [
+      {
+        "en": "I am working.",
+        "ru": "Я работаю сейчас.",
+        "note": "be + working."
+      },
+      {
+        "en": "I can work.",
+        "ru": "Я могу работать.",
+        "note": "can + work."
+      },
+      {
+        "en": "I enjoy working.",
+        "ru": "Мне нравится работать.",
+        "note": "enjoy + -ing."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I am work.",
+        "correct": "I am working.",
+        "explanation": "После am нужен -ing для continuous."
+      },
+      {
+        "wrong": "I can working.",
+        "correct": "I can work.",
+        "explanation": "После can V1."
+      },
+      {
+        "wrong": "I enjoy to work.",
+        "correct": "I enjoy working.",
+        "explanation": "После enjoy обычно -ing."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "She is ___.",
+        "options": [
+          "working",
+          "work",
+          "works"
+        ],
+        "correct_answer": "working",
+        "explanation_correct": "is + V-ing.",
+        "explanation_wrong": {
+          "work": "Нужен -ing.",
+          "works": "Present Simple, не continuous."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I can ___.",
+        "options": [
+          "swim",
+          "swimming",
+          "to swim"
+        ],
+        "correct_answer": "swim",
+        "explanation_correct": "can + V1.",
+        "explanation_wrong": {
+          "swimming": "После can не -ing.",
+          "to swim": "После can нет to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They are ___ football.",
+        "options": [
+          "playing",
+          "play",
+          "plays"
+        ],
+        "correct_answer": "playing",
+        "explanation_correct": "are + V-ing.",
+        "explanation_wrong": {
+          "play": "Нужен -ing.",
+          "plays": "С they не plays."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I enjoy ___.",
+        "options": [
+          "reading",
+          "read",
+          "to read"
+        ],
+        "correct_answer": "reading",
+        "explanation_correct": "enjoy + -ing.",
+        "explanation_wrong": {
+          "read": "После enjoy нужен -ing.",
+          "to read": "В базовой форме с enjoy — reading."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He will ___.",
+        "options": [
+          "come",
+          "coming",
+          "comes"
+        ],
+        "correct_answer": "come",
+        "explanation_correct": "will + V1.",
+        "explanation_wrong": {
+          "coming": "После will не -ing.",
+          "comes": "После will нет -s."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We must ___.",
+        "options": [
+          "go",
+          "going",
+          "to go"
+        ],
+        "correct_answer": "go",
+        "explanation_correct": "must + V1.",
+        "explanation_wrong": {
+          "going": "После must не -ing.",
+          "to go": "После must нет to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I am doing homework.",
+          "I am do homework.",
+          "I can doing homework."
+        ],
+        "correct_answer": "I am doing homework.",
+        "explanation_correct": "Continuous: am + doing.",
+        "explanation_wrong": {
+          "I am do homework.": "Нужен -ing.",
+          "I can doing homework.": "После can нужен do."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She likes ___.",
+        "options": [
+          "dancing",
+          "dance",
+          "dances"
+        ],
+        "correct_answer": "dancing",
+        "explanation_correct": "like + -ing часто используется для общего предпочтения.",
+        "explanation_wrong": {
+          "dance": "Возможен like to dance, но без to лучше dancing.",
+          "dances": "Не после likes."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 51,
+    "level": "A2",
+    "topic": "to and ing",
+    "title_ru": "to ... and -ing",
+    "explanation_ru": "После одних глаголов используется to + verb, после других -ing. Want/decide/hope часто требуют to. Enjoy/finish/mind требуют -ing.",
+    "formula": "want/decide/hope + to + verb\nenjoy/finish/mind + V-ing",
+    "examples": [
+      {
+        "en": "I want to go home.",
+        "ru": "Я хочу домой.",
+        "note": "want to + V1."
+      },
+      {
+        "en": "She decided to leave.",
+        "ru": "Она решила уйти.",
+        "note": "decide to."
+      },
+      {
+        "en": "I enjoy reading.",
+        "ru": "Мне нравится читать.",
+        "note": "enjoy + -ing."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I want go.",
+        "correct": "I want to go.",
+        "explanation": "После want нужен to."
+      },
+      {
+        "wrong": "I enjoy to read.",
+        "correct": "I enjoy reading.",
+        "explanation": "После enjoy обычно -ing."
+      },
+      {
+        "wrong": "She finished to work.",
+        "correct": "She finished working.",
+        "explanation": "После finish — -ing."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I want ___ home.",
+        "options": [
+          "to go",
+          "going",
+          "go"
+        ],
+        "correct_answer": "to go",
+        "explanation_correct": "want to + verb.",
+        "explanation_wrong": {
+          "going": "После want нужен to go.",
+          "go": "Не хватает to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She enjoys ___.",
+        "options": [
+          "swimming",
+          "to swim",
+          "swim"
+        ],
+        "correct_answer": "swimming",
+        "explanation_correct": "enjoy + -ing.",
+        "explanation_wrong": {
+          "to swim": "С enjoy обычно -ing.",
+          "swim": "Не та форма."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They decided ___ a car.",
+        "options": [
+          "to buy",
+          "buying",
+          "buy"
+        ],
+        "correct_answer": "to buy",
+        "explanation_correct": "decide to + verb.",
+        "explanation_wrong": {
+          "buying": "После decide нужен to.",
+          "buy": "Не хватает to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He finished ___ dinner.",
+        "options": [
+          "cooking",
+          "to cook",
+          "cook"
+        ],
+        "correct_answer": "cooking",
+        "explanation_correct": "finish + -ing.",
+        "explanation_wrong": {
+          "to cook": "После finish обычно -ing.",
+          "cook": "Не та форма."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Would you like ___?",
+        "options": [
+          "to come",
+          "coming",
+          "come"
+        ],
+        "correct_answer": "to come",
+        "explanation_correct": "would like to + verb.",
+        "explanation_wrong": {
+          "coming": "Не после would like.",
+          "come": "Не хватает to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I don't mind ___.",
+        "options": [
+          "waiting",
+          "to wait",
+          "wait"
+        ],
+        "correct_answer": "waiting",
+        "explanation_correct": "mind + -ing.",
+        "explanation_wrong": {
+          "to wait": "После mind обычно -ing.",
+          "wait": "Не та форма."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I hope to see you.",
+          "I hope seeing you.",
+          "I hope see you."
+        ],
+        "correct_answer": "I hope to see you.",
+        "explanation_correct": "hope to + V1.",
+        "explanation_wrong": {
+          "I hope seeing you.": "После hope нужен to.",
+          "I hope see you.": "Не хватает to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Stop ___!",
+        "options": [
+          "talking",
+          "to talk",
+          "talk"
+        ],
+        "correct_answer": "talking",
+        "explanation_correct": "Stop doing something = прекрати делать.",
+        "explanation_wrong": {
+          "to talk": "stop to talk = остановиться, чтобы поговорить, другой смысл.",
+          "talk": "Не та форма."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 52,
+    "level": "A2",
+    "topic": "want someone to",
+    "title_ru": "I want you to / I told you to",
+    "explanation_ru": "Конструкция object + to + verb: I want you to help. I told him to wait. В русском это часто «хочу, чтобы ты...» или «сказал ему...».",
+    "formula": "want/tell/ask/would like + object + to + verb",
+    "examples": [
+      {
+        "en": "I want you to help me.",
+        "ru": "Я хочу, чтобы ты помог мне.",
+        "note": "want + object + to."
+      },
+      {
+        "en": "She told me to wait.",
+        "ru": "Она сказала мне подождать.",
+        "note": "told + me + to."
+      },
+      {
+        "en": "We asked him to come.",
+        "ru": "Мы попросили его прийти.",
+        "note": "ask + object + to."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I want that you help me.",
+        "correct": "I want you to help me.",
+        "explanation": "В английском: want + object + to."
+      },
+      {
+        "wrong": "She told me wait.",
+        "correct": "She told me to wait.",
+        "explanation": "После told someone нужен to."
+      },
+      {
+        "wrong": "I asked to him to come.",
+        "correct": "I asked him to come.",
+        "explanation": "После ask объект без to."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I want you ___ me.",
+        "options": [
+          "to help",
+          "help",
+          "helping"
+        ],
+        "correct_answer": "to help",
+        "explanation_correct": "want + object + to + verb.",
+        "explanation_wrong": {
+          "help": "Не хватает to.",
+          "helping": "Не та форма."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She told me ___ quiet.",
+        "options": [
+          "to be",
+          "be",
+          "being"
+        ],
+        "correct_answer": "to be",
+        "explanation_correct": "told me to be.",
+        "explanation_wrong": {
+          "be": "Не хватает to.",
+          "being": "Не та форма."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We asked him ___ us.",
+        "options": [
+          "to call",
+          "call",
+          "calling"
+        ],
+        "correct_answer": "to call",
+        "explanation_correct": "asked + object + to.",
+        "explanation_wrong": {
+          "call": "Не хватает to.",
+          "calling": "Не та форма."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Would you like me ___?",
+        "options": [
+          "to help",
+          "help",
+          "helping"
+        ],
+        "correct_answer": "to help",
+        "explanation_correct": "would like + object + to.",
+        "explanation_wrong": {
+          "help": "Не хватает to.",
+          "helping": "Не та форма."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I don't want them ___ late.",
+        "options": [
+          "to be",
+          "be",
+          "being"
+        ],
+        "correct_answer": "to be",
+        "explanation_correct": "want + object + to be.",
+        "explanation_wrong": {
+          "be": "Не хватает to.",
+          "being": "Не та форма."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He told us ___ there.",
+        "options": [
+          "not to go",
+          "to not go",
+          "not go"
+        ],
+        "correct_answer": "not to go",
+        "explanation_correct": "Отрицание infinitive: not to go.",
+        "explanation_wrong": {
+          "to not go": "В базовом курсе лучше not to go.",
+          "not go": "Не хватает to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I want her to stay.",
+          "I want that she stays.",
+          "I want she to stay."
+        ],
+        "correct_answer": "I want her to stay.",
+        "explanation_correct": "want + object pronoun + to.",
+        "explanation_wrong": {
+          "I want that she stays.": "Русская калька.",
+          "I want she to stay.": "Нужен объект her."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They invited me ___ dinner.",
+        "options": [
+          "to have",
+          "have",
+          "having"
+        ],
+        "correct_answer": "to have",
+        "explanation_correct": "invite someone to do something.",
+        "explanation_wrong": {
+          "have": "Не хватает to.",
+          "having": "Не та форма."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 53,
+    "level": "A2",
+    "topic": "purpose to",
+    "title_ru": "I went to the shop to...",
+    "explanation_ru": "To + verb может показывать цель: зачем я что-то сделал. I went to the shop to buy bread = пошёл в магазин, чтобы купить хлеб.",
+    "formula": "action + to + verb = purpose",
+    "examples": [
+      {
+        "en": "I went to the shop to buy bread.",
+        "ru": "Я пошёл в магазин, чтобы купить хлеб.",
+        "note": "цель."
+      },
+      {
+        "en": "She called me to ask a question.",
+        "ru": "Она позвонила, чтобы задать вопрос.",
+        "note": "зачем позвонила."
+      },
+      {
+        "en": "We sat down to rest.",
+        "ru": "Мы сели отдохнуть.",
+        "note": "цель."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I went for buy bread.",
+        "correct": "I went to buy bread.",
+        "explanation": "Цель выражается to + verb."
+      },
+      {
+        "wrong": "She called me for ask.",
+        "correct": "She called me to ask.",
+        "explanation": "Перед глаголом цели — to."
+      },
+      {
+        "wrong": "I went to the shop for to buy.",
+        "correct": "I went to the shop to buy.",
+        "explanation": "for to неверно."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I went to the shop ___ milk.",
+        "options": [
+          "to buy",
+          "for buy",
+          "buying"
+        ],
+        "correct_answer": "to buy",
+        "explanation_correct": "Цель: to buy.",
+        "explanation_wrong": {
+          "for buy": "После for нужен noun/ing, не V1.",
+          "buying": "Не показывает цель в этой структуре."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She phoned ___ me.",
+        "options": [
+          "to help",
+          "for help",
+          "helping"
+        ],
+        "correct_answer": "to help",
+        "explanation_correct": "Позвонила, чтобы помочь.",
+        "explanation_wrong": {
+          "for help": "for help = за помощью, другой смысл.",
+          "helping": "Не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We stopped ___ a rest.",
+        "options": [
+          "to have",
+          "for have",
+          "having"
+        ],
+        "correct_answer": "to have",
+        "explanation_correct": "Остановились, чтобы отдохнуть.",
+        "explanation_wrong": {
+          "for have": "Неверно.",
+          "having": "Не та структура."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He opened the door ___ out.",
+        "options": [
+          "to go",
+          "for go",
+          "going"
+        ],
+        "correct_answer": "to go",
+        "explanation_correct": "Чтобы выйти.",
+        "explanation_wrong": {
+          "for go": "Неверно.",
+          "going": "Не цель."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I need money ___ food.",
+        "options": [
+          "to buy",
+          "for buy",
+          "buying"
+        ],
+        "correct_answer": "to buy",
+        "explanation_correct": "Нужны деньги, чтобы купить.",
+        "explanation_wrong": {
+          "for buy": "Неверно.",
+          "buying": "Не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She went home ___ dinner.",
+        "options": [
+          "to cook",
+          "for cook",
+          "cooking"
+        ],
+        "correct_answer": "to cook",
+        "explanation_correct": "Цель: to cook.",
+        "explanation_wrong": {
+          "for cook": "Неверно.",
+          "cooking": "Не та форма."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I came here to see you.",
+          "I came here for see you.",
+          "I came here for to see you."
+        ],
+        "correct_answer": "I came here to see you.",
+        "explanation_correct": "Цель действия = to + verb.",
+        "explanation_wrong": {
+          "I came here for see you": "Неверно.",
+          "I came here for to see you.": "for to неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They studied hard ___ the exam.",
+        "options": [
+          "to pass",
+          "for pass",
+          "passing"
+        ],
+        "correct_answer": "to pass",
+        "explanation_correct": "Цель: to pass.",
+        "explanation_wrong": {
+          "for pass": "Неверно.",
+          "passing": "Не та структура."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 54,
+    "level": "A2",
+    "topic": "go to go on go for go ing",
+    "title_ru": "go to / go on / go for / go -ing",
+    "explanation_ru": "После go используются разные модели: go to a place, go on holiday/a trip, go for a walk/swim, go shopping/swimming. Это устойчивые конструкции.",
+    "formula": "go to + place\ngo on + trip/holiday\ngo for + walk/swim\ngo + V-ing",
+    "examples": [
+      {
+        "en": "I go to work by bus.",
+        "ru": "Я езжу на работу на автобусе.",
+        "note": "go to + place/activity."
+      },
+      {
+        "en": "We went on holiday.",
+        "ru": "Мы поехали в отпуск.",
+        "note": "go on holiday."
+      },
+      {
+        "en": "Let's go for a walk.",
+        "ru": "Давай прогуляемся.",
+        "note": "go for a walk."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "go to home",
+        "correct": "go home",
+        "explanation": "Home без to."
+      },
+      {
+        "wrong": "go for shopping",
+        "correct": "go shopping",
+        "explanation": "С shopping обычно go + -ing."
+      },
+      {
+        "wrong": "go on a walk",
+        "correct": "go for a walk",
+        "explanation": "Устойчивая форма: for a walk."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I go ___ work every day.",
+        "options": [
+          "to",
+          "for",
+          "on"
+        ],
+        "correct_answer": "to",
+        "explanation_correct": "go to work.",
+        "explanation_wrong": {
+          "for": "Не здесь.",
+          "on": "Не здесь."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Let's go ___ a walk.",
+        "options": [
+          "for",
+          "to",
+          "on"
+        ],
+        "correct_answer": "for",
+        "explanation_correct": "go for a walk.",
+        "explanation_wrong": {
+          "to": "Не с walk.",
+          "on": "Не базовая форма."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We went ___ holiday.",
+        "options": [
+          "on",
+          "to",
+          "for"
+        ],
+        "correct_answer": "on",
+        "explanation_correct": "go on holiday.",
+        "explanation_wrong": {
+          "to": "Не с holiday.",
+          "for": "Не базовая форма."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She went ___ yesterday.",
+        "options": [
+          "shopping",
+          "to shopping",
+          "for shopping"
+        ],
+        "correct_answer": "shopping",
+        "explanation_correct": "go shopping.",
+        "explanation_wrong": {
+          "to shopping": "Неверно.",
+          "for shopping": "Не базово."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He goes ___ school.",
+        "options": [
+          "to",
+          "for",
+          "on"
+        ],
+        "correct_answer": "to",
+        "explanation_correct": "go to school.",
+        "explanation_wrong": {
+          "for": "Неверно.",
+          "on": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We went ___ a trip.",
+        "options": [
+          "on",
+          "for",
+          "to"
+        ],
+        "correct_answer": "on",
+        "explanation_correct": "go on a trip.",
+        "explanation_wrong": {
+          "for": "Не базовая конструкция.",
+          "to": "Не здесь."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I went home.",
+          "I went to home.",
+          "I went for home."
+        ],
+        "correct_answer": "I went home.",
+        "explanation_correct": "Home обычно без to.",
+        "explanation_wrong": {
+          "I went to home.": "Home без to.",
+          "I went for home.": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They often go ___.",
+        "options": [
+          "swimming",
+          "to swimming",
+          "for swimming"
+        ],
+        "correct_answer": "swimming",
+        "explanation_correct": "go swimming.",
+        "explanation_wrong": {
+          "to swimming": "Неверно.",
+          "for swimming": "Не базово."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 55,
+    "level": "A2",
+    "topic": "get",
+    "title_ru": "Get",
+    "explanation_ru": "Get — очень частотный глагол с разными значениями: получить, стать, добраться, купить. Значение зависит от контекста.",
+    "formula": "get + noun = receive/buy\nget + adjective = become\nget to + place = arrive",
+    "examples": [
+      {
+        "en": "I got your email.",
+        "ru": "Я получил твоё письмо.",
+        "note": "receive."
+      },
+      {
+        "en": "It's getting cold.",
+        "ru": "Становится холодно.",
+        "note": "become."
+      },
+      {
+        "en": "How do I get to the station?",
+        "ru": "Как добраться до станции?",
+        "note": "arrive/reach."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I got cold yesterday.",
+        "correct": "I got a cold yesterday.",
+        "explanation": "Простуда = get a cold."
+      },
+      {
+        "wrong": "How can I get station?",
+        "correct": "How can I get to the station?",
+        "explanation": "get to + place."
+      },
+      {
+        "wrong": "It gets darking.",
+        "correct": "It gets dark.",
+        "explanation": "get + adjective."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "How do I get ___ the airport?",
+        "options": [
+          "to",
+          "at",
+          "in"
+        ],
+        "correct_answer": "to",
+        "explanation_correct": "get to a place.",
+        "explanation_wrong": {
+          "at": "arrive at, но get to.",
+          "in": "Не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It's getting ___.",
+        "options": [
+          "late",
+          "lately",
+          "lateness"
+        ],
+        "correct_answer": "late",
+        "explanation_correct": "get + adjective.",
+        "explanation_wrong": {
+          "lately": "Наречие.",
+          "lateness": "Существительное."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I got ___ email.",
+        "options": [
+          "your",
+          "to your",
+          "you"
+        ],
+        "correct_answer": "your",
+        "explanation_correct": "got your email = получил.",
+        "explanation_wrong": {
+          "to your": "Неверно.",
+          "you": "Нужно your email."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She got ___ last year.",
+        "options": [
+          "married",
+          "marry",
+          "marries"
+        ],
+        "correct_answer": "married",
+        "explanation_correct": "get married.",
+        "explanation_wrong": {
+          "marry": "Не с got.",
+          "marries": "Не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "What time did you get ___ home?",
+        "options": [
+          "-",
+          "to",
+          "at"
+        ],
+        "correct_answer": "-",
+        "explanation_correct": "get home без to.",
+        "explanation_wrong": {
+          "to": "home без to.",
+          "at": "Не здесь."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I need to get ___ ticket.",
+        "options": [
+          "a",
+          "to",
+          "-"
+        ],
+        "correct_answer": "a",
+        "explanation_correct": "get a ticket = купить/получить билет.",
+        "explanation_wrong": {
+          "to": "Неверно.",
+          "-": "Нужен артикль."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "It is getting dark.",
+          "It is getting darking.",
+          "It gets to dark."
+        ],
+        "correct_answer": "It is getting dark.",
+        "explanation_correct": "get + adjective.",
+        "explanation_wrong": {
+          "It is getting darking.": "dark — adjective, не verb.",
+          "It gets to dark.": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Did you get ___ my message?",
+        "options": [
+          "-",
+          "to",
+          "at"
+        ],
+        "correct_answer": "-",
+        "explanation_correct": "get my message = получить сообщение.",
+        "explanation_wrong": {
+          "to": "Неверно.",
+          "at": "Неверно."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 56,
+    "level": "A2",
+    "topic": "do and make",
+    "title_ru": "Do and make",
+    "explanation_ru": "Do часто связан с действиями, работой, заданиями. Make — с созданием/производством результата. Многие выражения нужно запомнить как устойчивые.",
+    "formula": "do homework/work/exercises\nmake coffee/a mistake/a decision/a noise",
+    "examples": [
+      {
+        "en": "I do my homework.",
+        "ru": "Я делаю домашку.",
+        "note": "task/activity."
+      },
+      {
+        "en": "She made a mistake.",
+        "ru": "Она сделала ошибку.",
+        "note": "result."
+      },
+      {
+        "en": "Can you make coffee?",
+        "ru": "Можешь сделать кофе?",
+        "note": "create/prepare."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "make homework",
+        "correct": "do homework",
+        "explanation": "Домашку do."
+      },
+      {
+        "wrong": "do a mistake",
+        "correct": "make a mistake",
+        "explanation": "Ошибку make."
+      },
+      {
+        "wrong": "do coffee",
+        "correct": "make coffee",
+        "explanation": "Кофе make."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I need to ___ my homework.",
+        "options": [
+          "do",
+          "make",
+          "have"
+        ],
+        "correct_answer": "do",
+        "explanation_correct": "do homework.",
+        "explanation_wrong": {
+          "make": "make homework неверно.",
+          "have": "Не здесь."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She ___ a mistake.",
+        "options": [
+          "made",
+          "did",
+          "had"
+        ],
+        "correct_answer": "made",
+        "explanation_correct": "make a mistake.",
+        "explanation_wrong": {
+          "did": "do a mistake неверно.",
+          "had": "Не базовая форма."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Can you ___ coffee?",
+        "options": [
+          "make",
+          "do",
+          "work"
+        ],
+        "correct_answer": "make",
+        "explanation_correct": "make coffee.",
+        "explanation_wrong": {
+          "do": "do coffee неверно.",
+          "work": "Не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He ___ a lot of work.",
+        "options": [
+          "does",
+          "makes",
+          "has"
+        ],
+        "correct_answer": "does",
+        "explanation_correct": "do work.",
+        "explanation_wrong": {
+          "makes": "make work не здесь.",
+          "has": "Другой смысл."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They ___ a decision.",
+        "options": [
+          "made",
+          "did",
+          "worked"
+        ],
+        "correct_answer": "made",
+        "explanation_correct": "make a decision.",
+        "explanation_wrong": {
+          "did": "do a decision неверно.",
+          "worked": "Не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Don't ___ noise.",
+        "options": [
+          "make",
+          "do",
+          "have"
+        ],
+        "correct_answer": "make",
+        "explanation_correct": "make noise.",
+        "explanation_wrong": {
+          "do": "do noise неверно.",
+          "have": "Не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I do exercises every morning.",
+          "I make exercises every morning.",
+          "I create exercises every morning."
+        ],
+        "correct_answer": "I do exercises every morning.",
+        "explanation_correct": "Exercises as activity = do.",
+        "explanation_wrong": {
+          "I make exercises every morning.": "Можно создавать упражнения, но не делать зарядку.",
+          "I create exercises every morning.": "Другой смысл."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Who ___ this cake?",
+        "options": [
+          "made",
+          "did",
+          "worked"
+        ],
+        "correct_answer": "made",
+        "explanation_correct": "make a cake.",
+        "explanation_wrong": {
+          "did": "do a cake неверно.",
+          "worked": "Не подходит."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 57,
+    "level": "A2",
+    "topic": "have",
+    "title_ru": "Have: значения и выражения",
+    "explanation_ru": "Have может значить «иметь», но также входит в устойчивые выражения: have breakfast, have a shower, have a good time. В отрицаниях/вопросах часто используем do/does/did.",
+    "formula": "have + noun\nhave breakfast/lunch/dinner\nhave a shower/bath\nhave a good time",
+    "examples": [
+      {
+        "en": "I have breakfast at 8.",
+        "ru": "Я завтракаю в 8.",
+        "note": "have breakfast."
+      },
+      {
+        "en": "She has a shower every morning.",
+        "ru": "Она принимает душ каждое утро.",
+        "note": "has a shower."
+      },
+      {
+        "en": "Did you have a good time?",
+        "ru": "Ты хорошо провёл время?",
+        "note": "have a good time."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I do breakfast.",
+        "correct": "I have breakfast.",
+        "explanation": "Завтрак — have."
+      },
+      {
+        "wrong": "She makes a shower.",
+        "correct": "She has a shower.",
+        "explanation": "Душ — have."
+      },
+      {
+        "wrong": "Did you had fun?",
+        "correct": "Did you have fun?",
+        "explanation": "После did — have."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I ___ breakfast at 7.",
+        "options": [
+          "have",
+          "do",
+          "make"
+        ],
+        "correct_answer": "have",
+        "explanation_correct": "have breakfast.",
+        "explanation_wrong": {
+          "do": "do breakfast неверно.",
+          "make": "make breakfast = приготовить, другой смысл."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She ___ a shower every day.",
+        "options": [
+          "has",
+          "does",
+          "makes"
+        ],
+        "correct_answer": "has",
+        "explanation_correct": "She has a shower.",
+        "explanation_wrong": {
+          "does": "do a shower неверно.",
+          "makes": "make a shower неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Did you ___ a good time?",
+        "options": [
+          "have",
+          "had",
+          "has"
+        ],
+        "correct_answer": "have",
+        "explanation_correct": "После did — V1.",
+        "explanation_wrong": {
+          "had": "После did не V2.",
+          "has": "После did не -s."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We ___ lunch at work.",
+        "options": [
+          "have",
+          "do",
+          "make"
+        ],
+        "correct_answer": "have",
+        "explanation_correct": "have lunch.",
+        "explanation_wrong": {
+          "do": "do lunch обычно не базово.",
+          "make": "make lunch = приготовить."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He doesn't ___ a car.",
+        "options": [
+          "have",
+          "has",
+          "having"
+        ],
+        "correct_answer": "have",
+        "explanation_correct": "После doesn't — have.",
+        "explanation_wrong": {
+          "has": "После doesn't не has.",
+          "having": "Не та форма."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I had ___ headache.",
+        "options": [
+          "a",
+          "an",
+          "-"
+        ],
+        "correct_answer": "a",
+        "explanation_correct": "have a headache.",
+        "explanation_wrong": {
+          "an": "headache начинается с consonant sound.",
+          "-": "Нужен артикль."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "She has a bath.",
+          "She does a bath.",
+          "She makes a bath."
+        ],
+        "correct_answer": "She has a bath.",
+        "explanation_correct": "have a bath.",
+        "explanation_wrong": {
+          "She does a bath.": "Неверно.",
+          "She makes a bath.": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "What time do you ___ dinner?",
+        "options": [
+          "have",
+          "make",
+          "do"
+        ],
+        "correct_answer": "have",
+        "explanation_correct": "have dinner.",
+        "explanation_wrong": {
+          "make": "make dinner = готовить ужин, но вопрос о еде обычно have.",
+          "do": "do dinner неверно."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 58,
+    "level": "A1",
+    "topic": "object pronouns",
+    "title_ru": "I/me, he/him, they/them",
+    "explanation_ru": "Местоимения меняются по роли в предложении. I/he/she/we/they — кто делает действие. Me/him/her/us/them — объект действия: меня, его, её, нас, их.",
+    "formula": "subject: I, he, she, we, they\nobject: me, him, her, us, them",
+    "examples": [
+      {
+        "en": "I know him.",
+        "ru": "Я знаю его.",
+        "note": "him = object."
+      },
+      {
+        "en": "She loves me.",
+        "ru": "Она любит меня.",
+        "note": "me = object."
+      },
+      {
+        "en": "They are waiting for us.",
+        "ru": "Они ждут нас.",
+        "note": "after preposition: us."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "Me know him.",
+        "correct": "I know him.",
+        "explanation": "Подлежащее = I."
+      },
+      {
+        "wrong": "I know he.",
+        "correct": "I know him.",
+        "explanation": "Объект = him."
+      },
+      {
+        "wrong": "For we.",
+        "correct": "For us.",
+        "explanation": "После предлога объектная форма."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "Can you help ___?",
+        "options": [
+          "me",
+          "I",
+          "my"
+        ],
+        "correct_answer": "me",
+        "explanation_correct": "После help нужен object pronoun.",
+        "explanation_wrong": {
+          "I": "I — subject.",
+          "my": "my = мой."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I know ___.",
+        "options": [
+          "him",
+          "he",
+          "his"
+        ],
+        "correct_answer": "him",
+        "explanation_correct": "Object form of he = him.",
+        "explanation_wrong": {
+          "he": "he — subject.",
+          "his": "his = его."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ is my friend.",
+        "options": [
+          "She",
+          "Her",
+          "Hers"
+        ],
+        "correct_answer": "She",
+        "explanation_correct": "Подлежащее = she.",
+        "explanation_wrong": {
+          "Her": "her — object/possessive.",
+          "Hers": "hers = её вещь."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They are waiting for ___.",
+        "options": [
+          "us",
+          "we",
+          "our"
+        ],
+        "correct_answer": "us",
+        "explanation_correct": "После for нужна object form.",
+        "explanation_wrong": {
+          "we": "we — subject.",
+          "our": "our = наш."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I can't see ___.",
+        "options": [
+          "them",
+          "they",
+          "their"
+        ],
+        "correct_answer": "them",
+        "explanation_correct": "Object form of they = them.",
+        "explanation_wrong": {
+          "they": "they — subject.",
+          "their": "their = их."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ called me.",
+        "options": [
+          "He",
+          "Him",
+          "His"
+        ],
+        "correct_answer": "He",
+        "explanation_correct": "Подлежащее = he.",
+        "explanation_wrong": {
+          "Him": "him — object.",
+          "His": "his = его."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "She likes me.",
+          "Her likes I.",
+          "She likes I."
+        ],
+        "correct_answer": "She likes me.",
+        "explanation_correct": "Subject she, object me.",
+        "explanation_wrong": {
+          "Her likes I.": "Her не subject, I не object.",
+          "She likes I.": "После likes нужен me."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Give it to ___.",
+        "options": [
+          "her",
+          "she",
+          "hers"
+        ],
+        "correct_answer": "her",
+        "explanation_correct": "После to нужна object form her.",
+        "explanation_wrong": {
+          "she": "she — subject.",
+          "hers": "hers = её вещь."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 59,
+    "level": "A1",
+    "topic": "possessive adjectives",
+    "title_ru": "my / his / their",
+    "explanation_ru": "My, your, his, her, its, our, their показывают принадлежность и стоят перед существительным: my car, her phone, their house.",
+    "formula": "my/your/his/her/its/our/their + noun",
+    "examples": [
+      {
+        "en": "This is my bag.",
+        "ru": "Это моя сумка.",
+        "note": "my + noun."
+      },
+      {
+        "en": "Her brother is a doctor.",
+        "ru": "Её брат врач.",
+        "note": "her + noun."
+      },
+      {
+        "en": "Their house is big.",
+        "ru": "Их дом большой.",
+        "note": "their + noun."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "This is me bag.",
+        "correct": "This is my bag.",
+        "explanation": "Перед noun нужно my."
+      },
+      {
+        "wrong": "She brother is here.",
+        "correct": "Her brother is here.",
+        "explanation": "Её = her."
+      },
+      {
+        "wrong": "They house is big.",
+        "correct": "Their house is big.",
+        "explanation": "Их = their."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "This is ___ book.",
+        "options": [
+          "my",
+          "me",
+          "I"
+        ],
+        "correct_answer": "my",
+        "explanation_correct": "Перед book нужен possessive adjective.",
+        "explanation_wrong": {
+          "me": "me = меня.",
+          "I": "I = я."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ name is Anna.",
+        "options": [
+          "Her",
+          "She",
+          "Hers"
+        ],
+        "correct_answer": "Her",
+        "explanation_correct": "Her name.",
+        "explanation_wrong": {
+          "She": "She = она, не перед noun.",
+          "Hers": "hers без noun."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They live with ___ parents.",
+        "options": [
+          "their",
+          "them",
+          "they"
+        ],
+        "correct_answer": "their",
+        "explanation_correct": "their parents.",
+        "explanation_wrong": {
+          "them": "them = их как объект.",
+          "they": "they = они."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He lost ___ keys.",
+        "options": [
+          "his",
+          "him",
+          "he"
+        ],
+        "correct_answer": "his",
+        "explanation_correct": "his keys.",
+        "explanation_wrong": {
+          "him": "him = его как объект.",
+          "he": "he = он."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We like ___ teacher.",
+        "options": [
+          "our",
+          "us",
+          "we"
+        ],
+        "correct_answer": "our",
+        "explanation_correct": "our teacher.",
+        "explanation_wrong": {
+          "us": "us = нас.",
+          "we": "we = мы."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The dog is eating ___ food.",
+        "options": [
+          "its",
+          "it's",
+          "it"
+        ],
+        "correct_answer": "its",
+        "explanation_correct": "its = его/её для животного/предмета.",
+        "explanation_wrong": {
+          "it's": "it's = it is.",
+          "it": "it = оно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "Their car is new.",
+          "They car is new.",
+          "Them car is new."
+        ],
+        "correct_answer": "Their car is new.",
+        "explanation_correct": "Their + noun.",
+        "explanation_wrong": {
+          "They car is new.": "They — subject.",
+          "Them car is new.": "Them — object."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Is this ___ phone?",
+        "options": [
+          "your",
+          "you",
+          "yours"
+        ],
+        "correct_answer": "your",
+        "explanation_correct": "your + noun.",
+        "explanation_wrong": {
+          "you": "you = ты/вы.",
+          "yours": "yours без noun."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 60,
+    "level": "A1",
+    "topic": "possessive pronouns",
+    "title_ru": "Whose is this? mine/yours/hers",
+    "explanation_ru": "Mine, yours, his, hers, ours, theirs используются без существительного: This is my book → This is mine. Whose...? спрашивает «чей?»",
+    "formula": "my + noun → mine\nyour + noun → yours\nher + noun → hers\nour + noun → ours\ntheir + noun → theirs",
+    "examples": [
+      {
+        "en": "This is my bag. It's mine.",
+        "ru": "Это моя сумка. Она моя.",
+        "note": "mine без noun."
+      },
+      {
+        "en": "Is this yours?",
+        "ru": "Это твоё?",
+        "note": "yours без noun."
+      },
+      {
+        "en": "Whose phone is this?",
+        "ru": "Чей это телефон?",
+        "note": "whose = чей."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "This is mine bag.",
+        "correct": "This is my bag. / This bag is mine.",
+        "explanation": "Mine не ставим перед noun."
+      },
+      {
+        "wrong": "It's her.",
+        "correct": "It's hers.",
+        "explanation": "Если «это её вещь» — hers."
+      },
+      {
+        "wrong": "Whose is this phone?",
+        "correct": "Whose phone is this?",
+        "explanation": "Если есть noun phone, он стоит после whose."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "This book is ___.",
+        "options": [
+          "mine",
+          "my",
+          "me"
+        ],
+        "correct_answer": "mine",
+        "explanation_correct": "Без noun используем mine.",
+        "explanation_wrong": {
+          "my": "my нужен перед noun.",
+          "me": "me = меня."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Is this phone ___?",
+        "options": [
+          "yours",
+          "your",
+          "you"
+        ],
+        "correct_answer": "yours",
+        "explanation_correct": "Без noun — yours.",
+        "explanation_wrong": {
+          "your": "your + noun.",
+          "you": "you = ты/вы."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "That car is ___.",
+        "options": [
+          "hers",
+          "her",
+          "she"
+        ],
+        "correct_answer": "hers",
+        "explanation_correct": "Без noun — hers.",
+        "explanation_wrong": {
+          "her": "her + noun или object.",
+          "she": "she = она."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Whose bag ___ this?",
+        "options": [
+          "is",
+          "are",
+          "does"
+        ],
+        "correct_answer": "is",
+        "explanation_correct": "bag singular → is.",
+        "explanation_wrong": {
+          "are": "bag singular.",
+          "does": "Не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "This is ___ book.",
+        "options": [
+          "my",
+          "mine",
+          "me"
+        ],
+        "correct_answer": "my",
+        "explanation_correct": "Перед noun book нужен my.",
+        "explanation_wrong": {
+          "mine": "mine без noun.",
+          "me": "me = меня."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The house is ___.",
+        "options": [
+          "theirs",
+          "their",
+          "them"
+        ],
+        "correct_answer": "theirs",
+        "explanation_correct": "Без noun — theirs.",
+        "explanation_wrong": {
+          "their": "their + noun.",
+          "them": "them = их как object."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "This is mine.",
+          "This is my.",
+          "This is me."
+        ],
+        "correct_answer": "This is mine.",
+        "explanation_correct": "Mine = моя вещь без noun.",
+        "explanation_wrong": {
+          "This is my.": "my требует noun.",
+          "This is me.": "Это я, другой смысл."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Are these keys ___?",
+        "options": [
+          "ours",
+          "our",
+          "us"
+        ],
+        "correct_answer": "ours",
+        "explanation_correct": "Без noun — ours.",
+        "explanation_wrong": {
+          "our": "our + noun.",
+          "us": "us = нас."
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,4982 @@
+[
+  {
+    "unit": 201,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 1,
+    "level": "B1",
+    "topic": "present continuous advanced",
+    "title_ru": "Present Continuous: процесс вокруг настоящего",
+    "explanation_ru": "Используй Present Continuous, когда действие происходит сейчас, длится вокруг настоящего, является временной ситуацией или изменением. Это не только «в эту секунду», а ещё «в этот период»: I’m learning English this year. Your English is getting better.",
+    "formula": "am/is/are + V-ing",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "Please be quiet. I ___ to work.",
+        "options": [
+          "am trying",
+          "try",
+          "tried"
+        ],
+        "correct_answer": "am trying",
+        "explanation_correct": "Сейчас идёт процесс.",
+        "explanation_wrong": {
+          "try": "Это привычка/факт, не процесс сейчас.",
+          "tried": "Past Simple не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Your English ___ better.",
+        "options": [
+          "is getting",
+          "gets",
+          "got"
+        ],
+        "correct_answer": "is getting",
+        "explanation_correct": "Изменение сейчас → continuous.",
+        "explanation_wrong": {
+          "gets": "Общий факт, не процесс изменения.",
+          "got": "Past Simple."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I ___ with friends until I find a flat.",
+        "options": [
+          "am staying",
+          "stay",
+          "stayed"
+        ],
+        "correct_answer": "am staying",
+        "explanation_correct": "Временная ситуация.",
+        "explanation_wrong": {
+          "stay": "Звучит как постоянный факт.",
+          "stayed": "Прошедшее."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "What ___ these days?",
+        "options": [
+          "are you doing",
+          "do you do",
+          "did you do"
+        ],
+        "correct_answer": "are you doing",
+        "explanation_correct": "These days = период вокруг настоящего.",
+        "explanation_wrong": {
+          "do you do": "Это вопрос о профессии.",
+          "did you do": "Прошедшее."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The company ___ well this year.",
+        "options": [
+          "isn't doing",
+          "doesn't do",
+          "didn't do"
+        ],
+        "correct_answer": "isn't doing",
+        "explanation_correct": "This year = временная ситуация.",
+        "explanation_wrong": {
+          "doesn't do": "Simple хуже передаёт временность.",
+          "didn't do": "Past не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Look! The weather ___.",
+        "options": [
+          "is changing",
+          "changes",
+          "changed"
+        ],
+        "correct_answer": "is changing",
+        "explanation_correct": "Видимое изменение сейчас.",
+        "explanation_wrong": {
+          "changes": "Общий факт.",
+          "changed": "Past."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Kate ___ Italian this year.",
+        "options": [
+          "is learning",
+          "learns",
+          "learned"
+        ],
+        "correct_answer": "is learning",
+        "explanation_correct": "Процесс в этот период.",
+        "explanation_wrong": {
+          "learns": "Регулярность/факт, не процесс.",
+          "learned": "Past."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I'm reading a good book at the moment.",
+          "I read a good book at the moment.",
+          "I reading a good book at the moment."
+        ],
+        "correct_answer": "I'm reading a good book at the moment.",
+        "explanation_correct": "At the moment → am/is/are + -ing.",
+        "explanation_wrong": {
+          "I read a good book at the moment.": "Не Present Simple.",
+          "I reading a good book at the moment.": "Не хватает am."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 202,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 2,
+    "level": "B1",
+    "topic": "present simple advanced",
+    "title_ru": "Present Simple: факты, привычки, расписания",
+    "explanation_ru": "Present Simple нужен для фактов, постоянных ситуаций, расписаний и регулярных действий. В вопросах и отрицаниях с обычными глаголами нужны do/does.",
+    "formula": "I/you/we/they + V1; he/she/it + V-s; do/does + subject + V1",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "The museum ___ at 5 on Sundays.",
+        "options": [
+          "closes",
+          "is closing",
+          "close"
+        ],
+        "correct_answer": "closes",
+        "explanation_correct": "Расписание/регулярность.",
+        "explanation_wrong": {
+          "is closing": "Не процесс сейчас.",
+          "close": "Museum = it."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "What ___ this word mean?",
+        "options": [
+          "does",
+          "is",
+          "do"
+        ],
+        "correct_answer": "does",
+        "explanation_correct": "This word = it → does.",
+        "explanation_wrong": {
+          "is": "Нельзя is mean.",
+          "do": "С it не do."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Rice ___ in cold climates.",
+        "options": [
+          "doesn't grow",
+          "isn't growing",
+          "don't grow"
+        ],
+        "correct_answer": "doesn't grow",
+        "explanation_correct": "Общий факт в отрицании.",
+        "explanation_wrong": {
+          "isn't growing": "Не временный процесс.",
+          "don't grow": "Rice = it."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "What ___?",
+        "options": [
+          "do you do",
+          "are you doing",
+          "you do"
+        ],
+        "correct_answer": "do you do",
+        "explanation_correct": "Вопрос о работе/роде занятий.",
+        "explanation_wrong": {
+          "are you doing": "Что делаешь сейчас.",
+          "you do": "Нет do."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I ___ I won't tell anyone.",
+        "options": [
+          "promise",
+          "am promising",
+          "promised"
+        ],
+        "correct_answer": "promise",
+        "explanation_correct": "I promise — performative verb.",
+        "explanation_wrong": {
+          "am promising": "Обычно не continuous.",
+          "promised": "Past."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "My parents ___ in a small flat.",
+        "options": [
+          "live",
+          "lives",
+          "are living always"
+        ],
+        "correct_answer": "live",
+        "explanation_correct": "Parents = they.",
+        "explanation_wrong": {
+          "lives": "-s только с he/she/it.",
+          "are living always": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "How long ___ it take?",
+        "options": [
+          "does",
+          "do",
+          "is"
+        ],
+        "correct_answer": "does",
+        "explanation_correct": "It → does.",
+        "explanation_wrong": {
+          "do": "It требует does.",
+          "is": "Не с take."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I suggest you call tomorrow.",
+          "I am suggesting you call tomorrow.",
+          "I suggests you call tomorrow."
+        ],
+        "correct_answer": "I suggest you call tomorrow.",
+        "explanation_correct": "I suggest = я предлагаю.",
+        "explanation_wrong": {
+          "I am suggesting you call tomorrow.": "Неестественно для самого предложения.",
+          "I suggests you call tomorrow.": "I не принимает -s."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 203,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 3,
+    "level": "B1",
+    "topic": "present continuous vs present simple 1",
+    "title_ru": "Present Continuous vs Present Simple: временное или постоянное",
+    "explanation_ru": "Continuous показывает временную ситуацию или процесс сейчас. Simple показывает постоянную ситуацию, факт или привычку. I’m living with friends now, but my parents live in London.",
+    "formula": "temporary: am/is/are + V-ing; permanent/general: Present Simple",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "Please be quiet. I ___ to work.",
+        "options": [
+          "am trying",
+          "try",
+          "tried"
+        ],
+        "correct_answer": "am trying",
+        "explanation_correct": "Сейчас идёт процесс.",
+        "explanation_wrong": {
+          "try": "Это привычка/факт, не процесс сейчас.",
+          "tried": "Past Simple не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Your English ___ better.",
+        "options": [
+          "is getting",
+          "gets",
+          "got"
+        ],
+        "correct_answer": "is getting",
+        "explanation_correct": "Изменение сейчас → continuous.",
+        "explanation_wrong": {
+          "gets": "Общий факт, не процесс изменения.",
+          "got": "Past Simple."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I ___ with friends until I find a flat.",
+        "options": [
+          "am staying",
+          "stay",
+          "stayed"
+        ],
+        "correct_answer": "am staying",
+        "explanation_correct": "Временная ситуация.",
+        "explanation_wrong": {
+          "stay": "Звучит как постоянный факт.",
+          "stayed": "Прошедшее."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "What ___ these days?",
+        "options": [
+          "are you doing",
+          "do you do",
+          "did you do"
+        ],
+        "correct_answer": "are you doing",
+        "explanation_correct": "These days = период вокруг настоящего.",
+        "explanation_wrong": {
+          "do you do": "Это вопрос о профессии.",
+          "did you do": "Прошедшее."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The company ___ well this year.",
+        "options": [
+          "isn't doing",
+          "doesn't do",
+          "didn't do"
+        ],
+        "correct_answer": "isn't doing",
+        "explanation_correct": "This year = временная ситуация.",
+        "explanation_wrong": {
+          "doesn't do": "Simple хуже передаёт временность.",
+          "didn't do": "Past не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Look! The weather ___.",
+        "options": [
+          "is changing",
+          "changes",
+          "changed"
+        ],
+        "correct_answer": "is changing",
+        "explanation_correct": "Видимое изменение сейчас.",
+        "explanation_wrong": {
+          "changes": "Общий факт.",
+          "changed": "Past."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Kate ___ Italian this year.",
+        "options": [
+          "is learning",
+          "learns",
+          "learned"
+        ],
+        "correct_answer": "is learning",
+        "explanation_correct": "Процесс в этот период.",
+        "explanation_wrong": {
+          "learns": "Регулярность/факт, не процесс.",
+          "learned": "Past."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I'm reading a good book at the moment.",
+          "I read a good book at the moment.",
+          "I reading a good book at the moment."
+        ],
+        "correct_answer": "I'm reading a good book at the moment.",
+        "explanation_correct": "At the moment → am/is/are + -ing.",
+        "explanation_wrong": {
+          "I read a good book at the moment.": "Не Present Simple.",
+          "I reading a good book at the moment.": "Не хватает am."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 204,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 4,
+    "level": "B1",
+    "topic": "state verbs",
+    "title_ru": "State verbs: know, want, believe",
+    "explanation_ru": "Know, understand, believe, want, need, like, belong обычно не используются в continuous. Think может быть continuous, если значит «обдумывать». Be being описывает временное поведение.",
+    "formula": "state verbs → simple; behaviour now → am/is/are being",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "The museum ___ at 5 on Sundays.",
+        "options": [
+          "closes",
+          "is closing",
+          "close"
+        ],
+        "correct_answer": "closes",
+        "explanation_correct": "Расписание/регулярность.",
+        "explanation_wrong": {
+          "is closing": "Не процесс сейчас.",
+          "close": "Museum = it."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "What ___ this word mean?",
+        "options": [
+          "does",
+          "is",
+          "do"
+        ],
+        "correct_answer": "does",
+        "explanation_correct": "This word = it → does.",
+        "explanation_wrong": {
+          "is": "Нельзя is mean.",
+          "do": "С it не do."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Rice ___ in cold climates.",
+        "options": [
+          "doesn't grow",
+          "isn't growing",
+          "don't grow"
+        ],
+        "correct_answer": "doesn't grow",
+        "explanation_correct": "Общий факт в отрицании.",
+        "explanation_wrong": {
+          "isn't growing": "Не временный процесс.",
+          "don't grow": "Rice = it."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "What ___?",
+        "options": [
+          "do you do",
+          "are you doing",
+          "you do"
+        ],
+        "correct_answer": "do you do",
+        "explanation_correct": "Вопрос о работе/роде занятий.",
+        "explanation_wrong": {
+          "are you doing": "Что делаешь сейчас.",
+          "you do": "Нет do."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I ___ I won't tell anyone.",
+        "options": [
+          "promise",
+          "am promising",
+          "promised"
+        ],
+        "correct_answer": "promise",
+        "explanation_correct": "I promise — performative verb.",
+        "explanation_wrong": {
+          "am promising": "Обычно не continuous.",
+          "promised": "Past."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "My parents ___ in a small flat.",
+        "options": [
+          "live",
+          "lives",
+          "are living always"
+        ],
+        "correct_answer": "live",
+        "explanation_correct": "Parents = they.",
+        "explanation_wrong": {
+          "lives": "-s только с he/she/it.",
+          "are living always": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "How long ___ it take?",
+        "options": [
+          "does",
+          "do",
+          "is"
+        ],
+        "correct_answer": "does",
+        "explanation_correct": "It → does.",
+        "explanation_wrong": {
+          "do": "It требует does.",
+          "is": "Не с take."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I suggest you call tomorrow.",
+          "I am suggesting you call tomorrow.",
+          "I suggests you call tomorrow."
+        ],
+        "correct_answer": "I suggest you call tomorrow.",
+        "explanation_correct": "I suggest = я предлагаю.",
+        "explanation_wrong": {
+          "I am suggesting you call tomorrow.": "Неестественно для самого предложения.",
+          "I suggests you call tomorrow.": "I не принимает -s."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 205,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 5,
+    "level": "B1",
+    "topic": "past simple",
+    "title_ru": "Past Simple: законченные действия",
+    "explanation_ru": "Past Simple используется для законченных действий в прошлом, особенно с yesterday, last week, in 2020. В вопросах и отрицаниях: did/didn’t + V1.",
+    "formula": "V2 / -ed; did/didn't + V1",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "Mozart ___ in 1791.",
+        "options": [
+          "died",
+          "has died",
+          "was died"
+        ],
+        "correct_answer": "died",
+        "explanation_correct": "Дата в прошлом → Past Simple.",
+        "explanation_wrong": {
+          "has died": "No perfect with finished date.",
+          "was died": "Die не passive."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Did you ___ the film?",
+        "options": [
+          "enjoy",
+          "enjoyed",
+          "enjoying"
+        ],
+        "correct_answer": "enjoy",
+        "explanation_correct": "После did — V1.",
+        "explanation_wrong": {
+          "enjoyed": "После did не V2.",
+          "enjoying": "Не -ing."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I didn't ___ anything.",
+        "options": [
+          "buy",
+          "bought",
+          "buying"
+        ],
+        "correct_answer": "buy",
+        "explanation_correct": "После didn't — V1.",
+        "explanation_wrong": {
+          "bought": "Не V2.",
+          "buying": "Не -ing."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Where ___ last night?",
+        "options": [
+          "were you",
+          "did you were",
+          "you were"
+        ],
+        "correct_answer": "were you",
+        "explanation_correct": "Be question.",
+        "explanation_wrong": {
+          "did you were": "С be не did.",
+          "you were": "Неверный порядок."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "When we arrived, the train ___.",
+        "options": [
+          "had left",
+          "left",
+          "has left"
+        ],
+        "correct_answer": "had left",
+        "explanation_correct": "Действие произошло раньше другого past moment.",
+        "explanation_wrong": {
+          "left": "Менее точно.",
+          "has left": "Present reference."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He was tired because he ___ all day.",
+        "options": [
+          "had been working",
+          "was working",
+          "has been working"
+        ],
+        "correct_answer": "had been working",
+        "explanation_correct": "Процесс до момента в прошлом.",
+        "explanation_wrong": {
+          "was working": "Только процесс в момент.",
+          "has been working": "Present reference."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I was walking when I ___ him.",
+        "options": [
+          "saw",
+          "was seeing",
+          "see"
+        ],
+        "correct_answer": "saw",
+        "explanation_correct": "Короткое событие на фоне процесса.",
+        "explanation_wrong": {
+          "was seeing": "See обычно не continuous.",
+          "see": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I had never seen her before.",
+          "I have never seen her before yesterday.",
+          "I never had saw her."
+        ],
+        "correct_answer": "I had never seen her before.",
+        "explanation_correct": "Past point требует Past Perfect.",
+        "explanation_wrong": {
+          "I have never seen her before yesterday.": "Смешение времён.",
+          "I never had saw her.": "Wrong form."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 206,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 6,
+    "level": "B1",
+    "topic": "past continuous",
+    "title_ru": "Past Continuous: процесс в прошлом",
+    "explanation_ru": "Past Continuous показывает действие в процессе в определённый момент прошлого. Часто он даёт фон, а Past Simple показывает событие: I was walking when I saw him.",
+    "formula": "was/were + V-ing",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "Mozart ___ in 1791.",
+        "options": [
+          "died",
+          "has died",
+          "was died"
+        ],
+        "correct_answer": "died",
+        "explanation_correct": "Дата в прошлом → Past Simple.",
+        "explanation_wrong": {
+          "has died": "No perfect with finished date.",
+          "was died": "Die не passive."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Did you ___ the film?",
+        "options": [
+          "enjoy",
+          "enjoyed",
+          "enjoying"
+        ],
+        "correct_answer": "enjoy",
+        "explanation_correct": "После did — V1.",
+        "explanation_wrong": {
+          "enjoyed": "После did не V2.",
+          "enjoying": "Не -ing."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I didn't ___ anything.",
+        "options": [
+          "buy",
+          "bought",
+          "buying"
+        ],
+        "correct_answer": "buy",
+        "explanation_correct": "После didn't — V1.",
+        "explanation_wrong": {
+          "bought": "Не V2.",
+          "buying": "Не -ing."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Where ___ last night?",
+        "options": [
+          "were you",
+          "did you were",
+          "you were"
+        ],
+        "correct_answer": "were you",
+        "explanation_correct": "Be question.",
+        "explanation_wrong": {
+          "did you were": "С be не did.",
+          "you were": "Неверный порядок."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "When we arrived, the train ___.",
+        "options": [
+          "had left",
+          "left",
+          "has left"
+        ],
+        "correct_answer": "had left",
+        "explanation_correct": "Действие произошло раньше другого past moment.",
+        "explanation_wrong": {
+          "left": "Менее точно.",
+          "has left": "Present reference."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He was tired because he ___ all day.",
+        "options": [
+          "had been working",
+          "was working",
+          "has been working"
+        ],
+        "correct_answer": "had been working",
+        "explanation_correct": "Процесс до момента в прошлом.",
+        "explanation_wrong": {
+          "was working": "Только процесс в момент.",
+          "has been working": "Present reference."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I was walking when I ___ him.",
+        "options": [
+          "saw",
+          "was seeing",
+          "see"
+        ],
+        "correct_answer": "saw",
+        "explanation_correct": "Короткое событие на фоне процесса.",
+        "explanation_wrong": {
+          "was seeing": "See обычно не continuous.",
+          "see": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I had never seen her before.",
+          "I have never seen her before yesterday.",
+          "I never had saw her."
+        ],
+        "correct_answer": "I had never seen her before.",
+        "explanation_correct": "Past point требует Past Perfect.",
+        "explanation_wrong": {
+          "I have never seen her before yesterday.": "Смешение времён.",
+          "I never had saw her.": "Wrong form."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 207,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 7,
+    "level": "B1",
+    "topic": "present perfect result",
+    "title_ru": "Present Perfect: результат сейчас",
+    "explanation_ru": "Present Perfect связывает прошлое с настоящим. Действие уже произошло, но важен результат сейчас: I’ve lost my key = ключа сейчас нет.",
+    "formula": "have/has + V3",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I can't find my keys. I ___ them.",
+        "options": [
+          "have lost",
+          "lost",
+          "lose"
+        ],
+        "correct_answer": "have lost",
+        "explanation_correct": "Результат сейчас.",
+        "explanation_wrong": {
+          "lost": "Можно, но меньше связи с now.",
+          "lose": "Present Simple."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Have you ever ___ to Japan?",
+        "options": [
+          "been",
+          "went",
+          "go"
+        ],
+        "correct_answer": "been",
+        "explanation_correct": "Experience: have been.",
+        "explanation_wrong": {
+          "went": "V2 после have нельзя.",
+          "go": "Base form нельзя."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I ___ never seen snow.",
+        "options": [
+          "have",
+          "did",
+          "was"
+        ],
+        "correct_answer": "have",
+        "explanation_correct": "Present Perfect.",
+        "explanation_wrong": {
+          "did": "Неверно с seen.",
+          "was": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She isn't here. She ___ out.",
+        "options": [
+          "has gone",
+          "went",
+          "has been"
+        ],
+        "correct_answer": "has gone",
+        "explanation_correct": "Gone = сейчас не здесь.",
+        "explanation_wrong": {
+          "went": "Past меньше связан с now.",
+          "has been": "Been = вернулась."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I ___ him yesterday.",
+        "options": [
+          "saw",
+          "have seen",
+          "seen"
+        ],
+        "correct_answer": "saw",
+        "explanation_correct": "Yesterday → Past Simple.",
+        "explanation_wrong": {
+          "have seen": "No perfect with yesterday.",
+          "seen": "Нет auxiliary."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "This is the first time I ___ sushi.",
+        "options": [
+          "have eaten",
+          "eat",
+          "ate"
+        ],
+        "correct_answer": "have eaten",
+        "explanation_correct": "First time + Present Perfect.",
+        "explanation_wrong": {
+          "eat": "Неверно.",
+          "ate": "Обычно не Past Simple."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There ___ any problems so far.",
+        "options": [
+          "haven't been",
+          "weren't",
+          "aren't"
+        ],
+        "correct_answer": "haven't been",
+        "explanation_correct": "So far → Present Perfect.",
+        "explanation_wrong": {
+          "weren't": "Past period ended.",
+          "aren't": "Только настоящее."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I've just had lunch.",
+          "I just have lunch.",
+          "I've just have lunch."
+        ],
+        "correct_answer": "I've just had lunch.",
+        "explanation_correct": "Have + V3.",
+        "explanation_wrong": {
+          "I just have lunch.": "Present Simple не подходит.",
+          "I've just have lunch.": "После have нужна V3."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 208,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 8,
+    "level": "B1",
+    "topic": "present perfect experience",
+    "title_ru": "Present Perfect: опыт и период до настоящего",
+    "explanation_ru": "Используй Present Perfect для опыта в жизни и периодов, которые продолжаются до настоящего: ever, never, recently, so far, today, this year.",
+    "formula": "have/has + V3",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I can't find my keys. I ___ them.",
+        "options": [
+          "have lost",
+          "lost",
+          "lose"
+        ],
+        "correct_answer": "have lost",
+        "explanation_correct": "Результат сейчас.",
+        "explanation_wrong": {
+          "lost": "Можно, но меньше связи с now.",
+          "lose": "Present Simple."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Have you ever ___ to Japan?",
+        "options": [
+          "been",
+          "went",
+          "go"
+        ],
+        "correct_answer": "been",
+        "explanation_correct": "Experience: have been.",
+        "explanation_wrong": {
+          "went": "V2 после have нельзя.",
+          "go": "Base form нельзя."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I ___ never seen snow.",
+        "options": [
+          "have",
+          "did",
+          "was"
+        ],
+        "correct_answer": "have",
+        "explanation_correct": "Present Perfect.",
+        "explanation_wrong": {
+          "did": "Неверно с seen.",
+          "was": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She isn't here. She ___ out.",
+        "options": [
+          "has gone",
+          "went",
+          "has been"
+        ],
+        "correct_answer": "has gone",
+        "explanation_correct": "Gone = сейчас не здесь.",
+        "explanation_wrong": {
+          "went": "Past меньше связан с now.",
+          "has been": "Been = вернулась."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I ___ him yesterday.",
+        "options": [
+          "saw",
+          "have seen",
+          "seen"
+        ],
+        "correct_answer": "saw",
+        "explanation_correct": "Yesterday → Past Simple.",
+        "explanation_wrong": {
+          "have seen": "No perfect with yesterday.",
+          "seen": "Нет auxiliary."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "This is the first time I ___ sushi.",
+        "options": [
+          "have eaten",
+          "eat",
+          "ate"
+        ],
+        "correct_answer": "have eaten",
+        "explanation_correct": "First time + Present Perfect.",
+        "explanation_wrong": {
+          "eat": "Неверно.",
+          "ate": "Обычно не Past Simple."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There ___ any problems so far.",
+        "options": [
+          "haven't been",
+          "weren't",
+          "aren't"
+        ],
+        "correct_answer": "haven't been",
+        "explanation_correct": "So far → Present Perfect.",
+        "explanation_wrong": {
+          "weren't": "Past period ended.",
+          "aren't": "Только настоящее."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I've just had lunch.",
+          "I just have lunch.",
+          "I've just have lunch."
+        ],
+        "correct_answer": "I've just had lunch.",
+        "explanation_correct": "Have + V3.",
+        "explanation_wrong": {
+          "I just have lunch.": "Present Simple не подходит.",
+          "I've just have lunch.": "После have нужна V3."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 209,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 9,
+    "level": "B1",
+    "topic": "present perfect continuous",
+    "title_ru": "Present Perfect Continuous",
+    "explanation_ru": "Present Perfect Continuous подчёркивает процесс, который начался в прошлом и продолжается сейчас или только что закончился с видимым результатом.",
+    "formula": "have/has been + V-ing",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I ___ English for two years.",
+        "options": [
+          "have been learning",
+          "am learning",
+          "learn"
+        ],
+        "correct_answer": "have been learning",
+        "explanation_correct": "Процесс длится до now.",
+        "explanation_wrong": {
+          "am learning": "Нет связи с длительностью.",
+          "learn": "Привычка/факт."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She looks tired. She ___ all day.",
+        "options": [
+          "has been working",
+          "worked",
+          "is working"
+        ],
+        "correct_answer": "has been working",
+        "explanation_correct": "Виден результат процесса.",
+        "explanation_wrong": {
+          "worked": "Past без now.",
+          "is working": "Только сейчас."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "How long ___ here?",
+        "options": [
+          "have you been waiting",
+          "are you waiting",
+          "do you wait"
+        ],
+        "correct_answer": "have you been waiting",
+        "explanation_correct": "Duration to now.",
+        "explanation_wrong": {
+          "are you waiting": "Только сейчас.",
+          "do you wait": "Привычка."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It ___ raining since morning.",
+        "options": [
+          "has been",
+          "is",
+          "was"
+        ],
+        "correct_answer": "has been",
+        "explanation_correct": "Since требует Perfect.",
+        "explanation_wrong": {
+          "is": "Неверно с since.",
+          "was": "Past."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "My hands are dirty. I ___ the car.",
+        "options": [
+          "have been repairing",
+          "repaired",
+          "repair"
+        ],
+        "correct_answer": "have been repairing",
+        "explanation_correct": "Результат от процесса.",
+        "explanation_wrong": {
+          "repaired": "Акцент на завершении.",
+          "repair": "Present Simple."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "How many pages ___?",
+        "options": [
+          "have you read",
+          "have you been reading",
+          "are you reading"
+        ],
+        "correct_answer": "have you read",
+        "explanation_correct": "How many = результат.",
+        "explanation_wrong": {
+          "have you been reading": "Не для количества результата.",
+          "are you reading": "Сейчас."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I've ___ my homework. It's done.",
+        "options": [
+          "finished",
+          "been finishing",
+          "finish"
+        ],
+        "correct_answer": "finished",
+        "explanation_correct": "Завершённый результат.",
+        "explanation_wrong": {
+          "been finishing": "Не с done.",
+          "finish": "Нужна V3."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I've been reading all morning.",
+          "I read all morning.",
+          "I'm reading since morning."
+        ],
+        "correct_answer": "I've been reading all morning.",
+        "explanation_correct": "Длительность до now.",
+        "explanation_wrong": {
+          "I read all morning.": "Неполно/не то время.",
+          "I'm reading since morning.": "Since требует Perfect."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 210,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 10,
+    "level": "B1",
+    "topic": "present perfect continuous vs simple",
+    "title_ru": "Present Perfect Continuous vs Simple",
+    "explanation_ru": "Continuous = процесс и длительность. Simple = результат, завершённость или количество: I’ve been reading all day, but I’ve read 50 pages.",
+    "formula": "process: have been V-ing; result: have V3",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I ___ English for two years.",
+        "options": [
+          "have been learning",
+          "am learning",
+          "learn"
+        ],
+        "correct_answer": "have been learning",
+        "explanation_correct": "Процесс длится до now.",
+        "explanation_wrong": {
+          "am learning": "Нет связи с длительностью.",
+          "learn": "Привычка/факт."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She looks tired. She ___ all day.",
+        "options": [
+          "has been working",
+          "worked",
+          "is working"
+        ],
+        "correct_answer": "has been working",
+        "explanation_correct": "Виден результат процесса.",
+        "explanation_wrong": {
+          "worked": "Past без now.",
+          "is working": "Только сейчас."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "How long ___ here?",
+        "options": [
+          "have you been waiting",
+          "are you waiting",
+          "do you wait"
+        ],
+        "correct_answer": "have you been waiting",
+        "explanation_correct": "Duration to now.",
+        "explanation_wrong": {
+          "are you waiting": "Только сейчас.",
+          "do you wait": "Привычка."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It ___ raining since morning.",
+        "options": [
+          "has been",
+          "is",
+          "was"
+        ],
+        "correct_answer": "has been",
+        "explanation_correct": "Since требует Perfect.",
+        "explanation_wrong": {
+          "is": "Неверно с since.",
+          "was": "Past."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "My hands are dirty. I ___ the car.",
+        "options": [
+          "have been repairing",
+          "repaired",
+          "repair"
+        ],
+        "correct_answer": "have been repairing",
+        "explanation_correct": "Результат от процесса.",
+        "explanation_wrong": {
+          "repaired": "Акцент на завершении.",
+          "repair": "Present Simple."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "How many pages ___?",
+        "options": [
+          "have you read",
+          "have you been reading",
+          "are you reading"
+        ],
+        "correct_answer": "have you read",
+        "explanation_correct": "How many = результат.",
+        "explanation_wrong": {
+          "have you been reading": "Не для количества результата.",
+          "are you reading": "Сейчас."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I've ___ my homework. It's done.",
+        "options": [
+          "finished",
+          "been finishing",
+          "finish"
+        ],
+        "correct_answer": "finished",
+        "explanation_correct": "Завершённый результат.",
+        "explanation_wrong": {
+          "been finishing": "Не с done.",
+          "finish": "Нужна V3."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I've been reading all morning.",
+          "I read all morning.",
+          "I'm reading since morning."
+        ],
+        "correct_answer": "I've been reading all morning.",
+        "explanation_correct": "Длительность до now.",
+        "explanation_wrong": {
+          "I read all morning.": "Неполно/не то время.",
+          "I'm reading since morning.": "Since требует Perfect."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 211,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 11,
+    "level": "B1",
+    "topic": "how long have you been",
+    "title_ru": "How long have you been...?",
+    "explanation_ru": "Для ситуаций, которые начались в прошлом и продолжаются сейчас, английский использует Perfect: How long have you lived here? I’ve known her for years.",
+    "formula": "How long have/has + subject + V3 / been V-ing?",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I ___ English for two years.",
+        "options": [
+          "have been learning",
+          "am learning",
+          "learn"
+        ],
+        "correct_answer": "have been learning",
+        "explanation_correct": "Процесс длится до now.",
+        "explanation_wrong": {
+          "am learning": "Нет связи с длительностью.",
+          "learn": "Привычка/факт."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She looks tired. She ___ all day.",
+        "options": [
+          "has been working",
+          "worked",
+          "is working"
+        ],
+        "correct_answer": "has been working",
+        "explanation_correct": "Виден результат процесса.",
+        "explanation_wrong": {
+          "worked": "Past без now.",
+          "is working": "Только сейчас."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "How long ___ here?",
+        "options": [
+          "have you been waiting",
+          "are you waiting",
+          "do you wait"
+        ],
+        "correct_answer": "have you been waiting",
+        "explanation_correct": "Duration to now.",
+        "explanation_wrong": {
+          "are you waiting": "Только сейчас.",
+          "do you wait": "Привычка."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It ___ raining since morning.",
+        "options": [
+          "has been",
+          "is",
+          "was"
+        ],
+        "correct_answer": "has been",
+        "explanation_correct": "Since требует Perfect.",
+        "explanation_wrong": {
+          "is": "Неверно с since.",
+          "was": "Past."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "My hands are dirty. I ___ the car.",
+        "options": [
+          "have been repairing",
+          "repaired",
+          "repair"
+        ],
+        "correct_answer": "have been repairing",
+        "explanation_correct": "Результат от процесса.",
+        "explanation_wrong": {
+          "repaired": "Акцент на завершении.",
+          "repair": "Present Simple."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "How many pages ___?",
+        "options": [
+          "have you read",
+          "have you been reading",
+          "are you reading"
+        ],
+        "correct_answer": "have you read",
+        "explanation_correct": "How many = результат.",
+        "explanation_wrong": {
+          "have you been reading": "Не для количества результата.",
+          "are you reading": "Сейчас."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I've ___ my homework. It's done.",
+        "options": [
+          "finished",
+          "been finishing",
+          "finish"
+        ],
+        "correct_answer": "finished",
+        "explanation_correct": "Завершённый результат.",
+        "explanation_wrong": {
+          "been finishing": "Не с done.",
+          "finish": "Нужна V3."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I've been reading all morning.",
+          "I read all morning.",
+          "I'm reading since morning."
+        ],
+        "correct_answer": "I've been reading all morning.",
+        "explanation_correct": "Длительность до now.",
+        "explanation_wrong": {
+          "I read all morning.": "Неполно/не то время.",
+          "I'm reading since morning.": "Since требует Perfect."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 212,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 12,
+    "level": "B1",
+    "topic": "for since when how long",
+    "title_ru": "For / since / when / how long",
+    "explanation_ru": "For используется с периодом, since — с точкой начала. When спрашивает конкретный момент в прошлом, а how long — длительность.",
+    "formula": "for + period; since + starting point",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I can't find my keys. I ___ them.",
+        "options": [
+          "have lost",
+          "lost",
+          "lose"
+        ],
+        "correct_answer": "have lost",
+        "explanation_correct": "Результат сейчас.",
+        "explanation_wrong": {
+          "lost": "Можно, но меньше связи с now.",
+          "lose": "Present Simple."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Have you ever ___ to Japan?",
+        "options": [
+          "been",
+          "went",
+          "go"
+        ],
+        "correct_answer": "been",
+        "explanation_correct": "Experience: have been.",
+        "explanation_wrong": {
+          "went": "V2 после have нельзя.",
+          "go": "Base form нельзя."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I ___ never seen snow.",
+        "options": [
+          "have",
+          "did",
+          "was"
+        ],
+        "correct_answer": "have",
+        "explanation_correct": "Present Perfect.",
+        "explanation_wrong": {
+          "did": "Неверно с seen.",
+          "was": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She isn't here. She ___ out.",
+        "options": [
+          "has gone",
+          "went",
+          "has been"
+        ],
+        "correct_answer": "has gone",
+        "explanation_correct": "Gone = сейчас не здесь.",
+        "explanation_wrong": {
+          "went": "Past меньше связан с now.",
+          "has been": "Been = вернулась."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I ___ him yesterday.",
+        "options": [
+          "saw",
+          "have seen",
+          "seen"
+        ],
+        "correct_answer": "saw",
+        "explanation_correct": "Yesterday → Past Simple.",
+        "explanation_wrong": {
+          "have seen": "No perfect with yesterday.",
+          "seen": "Нет auxiliary."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "This is the first time I ___ sushi.",
+        "options": [
+          "have eaten",
+          "eat",
+          "ate"
+        ],
+        "correct_answer": "have eaten",
+        "explanation_correct": "First time + Present Perfect.",
+        "explanation_wrong": {
+          "eat": "Неверно.",
+          "ate": "Обычно не Past Simple."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There ___ any problems so far.",
+        "options": [
+          "haven't been",
+          "weren't",
+          "aren't"
+        ],
+        "correct_answer": "haven't been",
+        "explanation_correct": "So far → Present Perfect.",
+        "explanation_wrong": {
+          "weren't": "Past period ended.",
+          "aren't": "Только настоящее."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I've just had lunch.",
+          "I just have lunch.",
+          "I've just have lunch."
+        ],
+        "correct_answer": "I've just had lunch.",
+        "explanation_correct": "Have + V3.",
+        "explanation_wrong": {
+          "I just have lunch.": "Present Simple не подходит.",
+          "I've just have lunch.": "После have нужна V3."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 213,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 13,
+    "level": "B1",
+    "topic": "present perfect vs past 1",
+    "title_ru": "Present Perfect vs Past Simple 1",
+    "explanation_ru": "Present Perfect нужен, если период продолжается до настоящего. Past Simple нужен с законченным временем: yesterday, last year, in 2020.",
+    "formula": "unfinished/relevant now: Perfect; finished time: Past Simple",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I can't find my keys. I ___ them.",
+        "options": [
+          "have lost",
+          "lost",
+          "lose"
+        ],
+        "correct_answer": "have lost",
+        "explanation_correct": "Результат сейчас.",
+        "explanation_wrong": {
+          "lost": "Можно, но меньше связи с now.",
+          "lose": "Present Simple."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Have you ever ___ to Japan?",
+        "options": [
+          "been",
+          "went",
+          "go"
+        ],
+        "correct_answer": "been",
+        "explanation_correct": "Experience: have been.",
+        "explanation_wrong": {
+          "went": "V2 после have нельзя.",
+          "go": "Base form нельзя."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I ___ never seen snow.",
+        "options": [
+          "have",
+          "did",
+          "was"
+        ],
+        "correct_answer": "have",
+        "explanation_correct": "Present Perfect.",
+        "explanation_wrong": {
+          "did": "Неверно с seen.",
+          "was": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She isn't here. She ___ out.",
+        "options": [
+          "has gone",
+          "went",
+          "has been"
+        ],
+        "correct_answer": "has gone",
+        "explanation_correct": "Gone = сейчас не здесь.",
+        "explanation_wrong": {
+          "went": "Past меньше связан с now.",
+          "has been": "Been = вернулась."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I ___ him yesterday.",
+        "options": [
+          "saw",
+          "have seen",
+          "seen"
+        ],
+        "correct_answer": "saw",
+        "explanation_correct": "Yesterday → Past Simple.",
+        "explanation_wrong": {
+          "have seen": "No perfect with yesterday.",
+          "seen": "Нет auxiliary."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "This is the first time I ___ sushi.",
+        "options": [
+          "have eaten",
+          "eat",
+          "ate"
+        ],
+        "correct_answer": "have eaten",
+        "explanation_correct": "First time + Present Perfect.",
+        "explanation_wrong": {
+          "eat": "Неверно.",
+          "ate": "Обычно не Past Simple."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There ___ any problems so far.",
+        "options": [
+          "haven't been",
+          "weren't",
+          "aren't"
+        ],
+        "correct_answer": "haven't been",
+        "explanation_correct": "So far → Present Perfect.",
+        "explanation_wrong": {
+          "weren't": "Past period ended.",
+          "aren't": "Только настоящее."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I've just had lunch.",
+          "I just have lunch.",
+          "I've just have lunch."
+        ],
+        "correct_answer": "I've just had lunch.",
+        "explanation_correct": "Have + V3.",
+        "explanation_wrong": {
+          "I just have lunch.": "Present Simple не подходит.",
+          "I've just have lunch.": "После have нужна V3."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 214,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 14,
+    "level": "B1",
+    "topic": "present perfect vs past 2",
+    "title_ru": "Present Perfect vs Past Simple 2",
+    "explanation_ru": "Если сказано, когда произошло действие, обычно нужен Past Simple. Если время не указано и важен результат/опыт — Present Perfect.",
+    "formula": "no finished time → Perfect; finished time → Past Simple",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I can't find my keys. I ___ them.",
+        "options": [
+          "have lost",
+          "lost",
+          "lose"
+        ],
+        "correct_answer": "have lost",
+        "explanation_correct": "Результат сейчас.",
+        "explanation_wrong": {
+          "lost": "Можно, но меньше связи с now.",
+          "lose": "Present Simple."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Have you ever ___ to Japan?",
+        "options": [
+          "been",
+          "went",
+          "go"
+        ],
+        "correct_answer": "been",
+        "explanation_correct": "Experience: have been.",
+        "explanation_wrong": {
+          "went": "V2 после have нельзя.",
+          "go": "Base form нельзя."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I ___ never seen snow.",
+        "options": [
+          "have",
+          "did",
+          "was"
+        ],
+        "correct_answer": "have",
+        "explanation_correct": "Present Perfect.",
+        "explanation_wrong": {
+          "did": "Неверно с seen.",
+          "was": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She isn't here. She ___ out.",
+        "options": [
+          "has gone",
+          "went",
+          "has been"
+        ],
+        "correct_answer": "has gone",
+        "explanation_correct": "Gone = сейчас не здесь.",
+        "explanation_wrong": {
+          "went": "Past меньше связан с now.",
+          "has been": "Been = вернулась."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I ___ him yesterday.",
+        "options": [
+          "saw",
+          "have seen",
+          "seen"
+        ],
+        "correct_answer": "saw",
+        "explanation_correct": "Yesterday → Past Simple.",
+        "explanation_wrong": {
+          "have seen": "No perfect with yesterday.",
+          "seen": "Нет auxiliary."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "This is the first time I ___ sushi.",
+        "options": [
+          "have eaten",
+          "eat",
+          "ate"
+        ],
+        "correct_answer": "have eaten",
+        "explanation_correct": "First time + Present Perfect.",
+        "explanation_wrong": {
+          "eat": "Неверно.",
+          "ate": "Обычно не Past Simple."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There ___ any problems so far.",
+        "options": [
+          "haven't been",
+          "weren't",
+          "aren't"
+        ],
+        "correct_answer": "haven't been",
+        "explanation_correct": "So far → Present Perfect.",
+        "explanation_wrong": {
+          "weren't": "Past period ended.",
+          "aren't": "Только настоящее."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I've just had lunch.",
+          "I just have lunch.",
+          "I've just have lunch."
+        ],
+        "correct_answer": "I've just had lunch.",
+        "explanation_correct": "Have + V3.",
+        "explanation_wrong": {
+          "I just have lunch.": "Present Simple не подходит.",
+          "I've just have lunch.": "После have нужна V3."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 215,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 15,
+    "level": "B1",
+    "topic": "past perfect",
+    "title_ru": "Past Perfect: прошлое до прошлого",
+    "explanation_ru": "Past Perfect показывает действие, которое произошло раньше другого момента в прошлом: When I arrived, they had already left.",
+    "formula": "had + V3",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "Mozart ___ in 1791.",
+        "options": [
+          "died",
+          "has died",
+          "was died"
+        ],
+        "correct_answer": "died",
+        "explanation_correct": "Дата в прошлом → Past Simple.",
+        "explanation_wrong": {
+          "has died": "No perfect with finished date.",
+          "was died": "Die не passive."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Did you ___ the film?",
+        "options": [
+          "enjoy",
+          "enjoyed",
+          "enjoying"
+        ],
+        "correct_answer": "enjoy",
+        "explanation_correct": "После did — V1.",
+        "explanation_wrong": {
+          "enjoyed": "После did не V2.",
+          "enjoying": "Не -ing."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I didn't ___ anything.",
+        "options": [
+          "buy",
+          "bought",
+          "buying"
+        ],
+        "correct_answer": "buy",
+        "explanation_correct": "После didn't — V1.",
+        "explanation_wrong": {
+          "bought": "Не V2.",
+          "buying": "Не -ing."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Where ___ last night?",
+        "options": [
+          "were you",
+          "did you were",
+          "you were"
+        ],
+        "correct_answer": "were you",
+        "explanation_correct": "Be question.",
+        "explanation_wrong": {
+          "did you were": "С be не did.",
+          "you were": "Неверный порядок."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "When we arrived, the train ___.",
+        "options": [
+          "had left",
+          "left",
+          "has left"
+        ],
+        "correct_answer": "had left",
+        "explanation_correct": "Действие произошло раньше другого past moment.",
+        "explanation_wrong": {
+          "left": "Менее точно.",
+          "has left": "Present reference."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He was tired because he ___ all day.",
+        "options": [
+          "had been working",
+          "was working",
+          "has been working"
+        ],
+        "correct_answer": "had been working",
+        "explanation_correct": "Процесс до момента в прошлом.",
+        "explanation_wrong": {
+          "was working": "Только процесс в момент.",
+          "has been working": "Present reference."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I was walking when I ___ him.",
+        "options": [
+          "saw",
+          "was seeing",
+          "see"
+        ],
+        "correct_answer": "saw",
+        "explanation_correct": "Короткое событие на фоне процесса.",
+        "explanation_wrong": {
+          "was seeing": "See обычно не continuous.",
+          "see": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I had never seen her before.",
+          "I have never seen her before yesterday.",
+          "I never had saw her."
+        ],
+        "correct_answer": "I had never seen her before.",
+        "explanation_correct": "Past point требует Past Perfect.",
+        "explanation_wrong": {
+          "I have never seen her before yesterday.": "Смешение времён.",
+          "I never had saw her.": "Wrong form."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 216,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 16,
+    "level": "B1",
+    "topic": "past perfect continuous",
+    "title_ru": "Past Perfect Continuous",
+    "explanation_ru": "Past Perfect Continuous показывает процесс, который длился до момента в прошлом и объясняет состояние в прошлом: He was tired because he had been working.",
+    "formula": "had been + V-ing",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "Mozart ___ in 1791.",
+        "options": [
+          "died",
+          "has died",
+          "was died"
+        ],
+        "correct_answer": "died",
+        "explanation_correct": "Дата в прошлом → Past Simple.",
+        "explanation_wrong": {
+          "has died": "No perfect with finished date.",
+          "was died": "Die не passive."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Did you ___ the film?",
+        "options": [
+          "enjoy",
+          "enjoyed",
+          "enjoying"
+        ],
+        "correct_answer": "enjoy",
+        "explanation_correct": "После did — V1.",
+        "explanation_wrong": {
+          "enjoyed": "После did не V2.",
+          "enjoying": "Не -ing."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I didn't ___ anything.",
+        "options": [
+          "buy",
+          "bought",
+          "buying"
+        ],
+        "correct_answer": "buy",
+        "explanation_correct": "После didn't — V1.",
+        "explanation_wrong": {
+          "bought": "Не V2.",
+          "buying": "Не -ing."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Where ___ last night?",
+        "options": [
+          "were you",
+          "did you were",
+          "you were"
+        ],
+        "correct_answer": "were you",
+        "explanation_correct": "Be question.",
+        "explanation_wrong": {
+          "did you were": "С be не did.",
+          "you were": "Неверный порядок."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "When we arrived, the train ___.",
+        "options": [
+          "had left",
+          "left",
+          "has left"
+        ],
+        "correct_answer": "had left",
+        "explanation_correct": "Действие произошло раньше другого past moment.",
+        "explanation_wrong": {
+          "left": "Менее точно.",
+          "has left": "Present reference."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He was tired because he ___ all day.",
+        "options": [
+          "had been working",
+          "was working",
+          "has been working"
+        ],
+        "correct_answer": "had been working",
+        "explanation_correct": "Процесс до момента в прошлом.",
+        "explanation_wrong": {
+          "was working": "Только процесс в момент.",
+          "has been working": "Present reference."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I was walking when I ___ him.",
+        "options": [
+          "saw",
+          "was seeing",
+          "see"
+        ],
+        "correct_answer": "saw",
+        "explanation_correct": "Короткое событие на фоне процесса.",
+        "explanation_wrong": {
+          "was seeing": "See обычно не continuous.",
+          "see": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I had never seen her before.",
+          "I have never seen her before yesterday.",
+          "I never had saw her."
+        ],
+        "correct_answer": "I had never seen her before.",
+        "explanation_correct": "Past point требует Past Perfect.",
+        "explanation_wrong": {
+          "I have never seen her before yesterday.": "Смешение времён.",
+          "I never had saw her.": "Wrong form."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 217,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 17,
+    "level": "B1",
+    "topic": "have and have got",
+    "title_ru": "Have / have got",
+    "explanation_ru": "Have и have got могут выражать владение, отношения, болезни. Но в действиях типа have breakfast, have a shower, have a good time используется have, не have got.",
+    "formula": "possession: have / have got; actions: have",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "Do you ___ a car?",
+        "options": [
+          "have",
+          "have got",
+          "got"
+        ],
+        "correct_answer": "have",
+        "explanation_correct": "Do you have...?",
+        "explanation_wrong": {
+          "have got": "Не после do.",
+          "got": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ you got a car?",
+        "options": [
+          "Have",
+          "Do",
+          "Did"
+        ],
+        "correct_answer": "Have",
+        "explanation_correct": "Have you got...?",
+        "explanation_wrong": {
+          "Do": "Do you have, без got.",
+          "Did": "Past."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I ___ breakfast at 7.",
+        "options": [
+          "have",
+          "have got",
+          "got"
+        ],
+        "correct_answer": "have",
+        "explanation_correct": "Have breakfast = действие.",
+        "explanation_wrong": {
+          "have got": "Не possession.",
+          "got": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I ___ to smoke, but now I don't.",
+        "options": [
+          "used",
+          "use",
+          "am used"
+        ],
+        "correct_answer": "used",
+        "explanation_correct": "Past habit.",
+        "explanation_wrong": {
+          "use": "Affirmative needs used.",
+          "am used": "Different meaning."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Did you ___ to live here?",
+        "options": [
+          "use",
+          "used",
+          "using"
+        ],
+        "correct_answer": "use",
+        "explanation_correct": "After did: use.",
+        "explanation_wrong": {
+          "used": "Wrong after did.",
+          "using": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I didn't use to ___ coffee.",
+        "options": [
+          "drink",
+          "drank",
+          "drinking"
+        ],
+        "correct_answer": "drink",
+        "explanation_correct": "Didn't use to + V1.",
+        "explanation_wrong": {
+          "drank": "Wrong.",
+          "drinking": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I used to live alone.",
+          "I am used to live alone.",
+          "I used to living alone."
+        ],
+        "correct_answer": "I used to live alone.",
+        "explanation_correct": "Past state/habit.",
+        "explanation_wrong": {
+          "I am used to live alone.": "Be used to + living.",
+          "I used to living alone.": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She ___ a headache.",
+        "options": [
+          "has got",
+          "has gotten breakfast",
+          "is got"
+        ],
+        "correct_answer": "has got",
+        "explanation_correct": "State/illness.",
+        "explanation_wrong": {
+          "has gotten breakfast": "Wrong meaning.",
+          "is got": "Wrong."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 218,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 18,
+    "level": "B1",
+    "topic": "used to do",
+    "title_ru": "Used to do",
+    "explanation_ru": "Used to do описывает прошлую привычку или состояние, которых сейчас нет: I used to smoke, but I don’t now.",
+    "formula": "used to + V1; didn't use to + V1",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "Do you ___ a car?",
+        "options": [
+          "have",
+          "have got",
+          "got"
+        ],
+        "correct_answer": "have",
+        "explanation_correct": "Do you have...?",
+        "explanation_wrong": {
+          "have got": "Не после do.",
+          "got": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ you got a car?",
+        "options": [
+          "Have",
+          "Do",
+          "Did"
+        ],
+        "correct_answer": "Have",
+        "explanation_correct": "Have you got...?",
+        "explanation_wrong": {
+          "Do": "Do you have, без got.",
+          "Did": "Past."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I ___ breakfast at 7.",
+        "options": [
+          "have",
+          "have got",
+          "got"
+        ],
+        "correct_answer": "have",
+        "explanation_correct": "Have breakfast = действие.",
+        "explanation_wrong": {
+          "have got": "Не possession.",
+          "got": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I ___ to smoke, but now I don't.",
+        "options": [
+          "used",
+          "use",
+          "am used"
+        ],
+        "correct_answer": "used",
+        "explanation_correct": "Past habit.",
+        "explanation_wrong": {
+          "use": "Affirmative needs used.",
+          "am used": "Different meaning."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Did you ___ to live here?",
+        "options": [
+          "use",
+          "used",
+          "using"
+        ],
+        "correct_answer": "use",
+        "explanation_correct": "After did: use.",
+        "explanation_wrong": {
+          "used": "Wrong after did.",
+          "using": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I didn't use to ___ coffee.",
+        "options": [
+          "drink",
+          "drank",
+          "drinking"
+        ],
+        "correct_answer": "drink",
+        "explanation_correct": "Didn't use to + V1.",
+        "explanation_wrong": {
+          "drank": "Wrong.",
+          "drinking": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I used to live alone.",
+          "I am used to live alone.",
+          "I used to living alone."
+        ],
+        "correct_answer": "I used to live alone.",
+        "explanation_correct": "Past state/habit.",
+        "explanation_wrong": {
+          "I am used to live alone.": "Be used to + living.",
+          "I used to living alone.": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She ___ a headache.",
+        "options": [
+          "has got",
+          "has gotten breakfast",
+          "is got"
+        ],
+        "correct_answer": "has got",
+        "explanation_correct": "State/illness.",
+        "explanation_wrong": {
+          "has gotten breakfast": "Wrong meaning.",
+          "is got": "Wrong."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 219,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 19,
+    "level": "B1",
+    "topic": "present tenses for future",
+    "title_ru": "Present tenses for the future",
+    "explanation_ru": "Present Continuous используется для личных договорённостей в будущем. Present Simple — для расписаний и программ.",
+    "formula": "arrangement: am/is/are + V-ing; timetable: Present Simple",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "The phone is ringing. I ___ get it.",
+        "options": [
+          "will",
+          "am going to",
+          "do"
+        ],
+        "correct_answer": "will",
+        "explanation_correct": "Решение в момент речи.",
+        "explanation_wrong": {
+          "am going to": "Звучит как заранее планировал.",
+          "do": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Look! That glass ___ fall.",
+        "options": [
+          "is going to",
+          "will",
+          "falls"
+        ],
+        "correct_answer": "is going to",
+        "explanation_correct": "Видимый признак сейчас.",
+        "explanation_wrong": {
+          "will": "Менее естественно с Look.",
+          "falls": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The train ___ at 6.",
+        "options": [
+          "leaves",
+          "is leaving",
+          "will leaving"
+        ],
+        "correct_answer": "leaves",
+        "explanation_correct": "Расписание → Present Simple.",
+        "explanation_wrong": {
+          "is leaving": "Возможно, но расписание чаще simple.",
+          "will leaving": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'm ___ the dentist tomorrow.",
+        "options": [
+          "seeing",
+          "see",
+          "will see"
+        ],
+        "correct_answer": "seeing",
+        "explanation_correct": "Present Continuous для appointment.",
+        "explanation_wrong": {
+          "see": "Simple хуже для личной договорённости.",
+          "will see": "Возможно, но другой оттенок."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "By Friday I ___ the report.",
+        "options": [
+          "will have finished",
+          "will be finishing",
+          "finish"
+        ],
+        "correct_answer": "will have finished",
+        "explanation_correct": "By + завершение к сроку.",
+        "explanation_wrong": {
+          "will be finishing": "Буду в процессе, не обязательно закончу.",
+          "finish": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "At 9 tomorrow I ___ working.",
+        "options": [
+          "will be",
+          "will have",
+          "am"
+        ],
+        "correct_answer": "will be",
+        "explanation_correct": "Future Continuous.",
+        "explanation_wrong": {
+          "will have": "Future Perfect не подходит.",
+          "am": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "When I ___ him, I'll tell him.",
+        "options": [
+          "see",
+          "will see",
+          "saw"
+        ],
+        "correct_answer": "see",
+        "explanation_correct": "После when о будущем — Present Simple.",
+        "explanation_wrong": {
+          "will see": "No will after when.",
+          "saw": "Past."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "If it rains, we'll stay home.",
+          "If it will rain, we'll stay home.",
+          "If it rained, we'll stay home."
+        ],
+        "correct_answer": "If it rains, we'll stay home.",
+        "explanation_correct": "First conditional: if + present, will.",
+        "explanation_wrong": {
+          "If it will rain, we'll stay home.": "No will in if-clause.",
+          "If it rained, we'll stay home.": "Смешение conditional forms."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 220,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 20,
+    "level": "B1",
+    "topic": "going to",
+    "title_ru": "Be going to",
+    "explanation_ru": "Going to показывает уже существующий план/намерение или прогноз по очевидным признакам: Look! It’s going to rain.",
+    "formula": "am/is/are going to + V1",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "The phone is ringing. I ___ get it.",
+        "options": [
+          "will",
+          "am going to",
+          "do"
+        ],
+        "correct_answer": "will",
+        "explanation_correct": "Решение в момент речи.",
+        "explanation_wrong": {
+          "am going to": "Звучит как заранее планировал.",
+          "do": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Look! That glass ___ fall.",
+        "options": [
+          "is going to",
+          "will",
+          "falls"
+        ],
+        "correct_answer": "is going to",
+        "explanation_correct": "Видимый признак сейчас.",
+        "explanation_wrong": {
+          "will": "Менее естественно с Look.",
+          "falls": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The train ___ at 6.",
+        "options": [
+          "leaves",
+          "is leaving",
+          "will leaving"
+        ],
+        "correct_answer": "leaves",
+        "explanation_correct": "Расписание → Present Simple.",
+        "explanation_wrong": {
+          "is leaving": "Возможно, но расписание чаще simple.",
+          "will leaving": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'm ___ the dentist tomorrow.",
+        "options": [
+          "seeing",
+          "see",
+          "will see"
+        ],
+        "correct_answer": "seeing",
+        "explanation_correct": "Present Continuous для appointment.",
+        "explanation_wrong": {
+          "see": "Simple хуже для личной договорённости.",
+          "will see": "Возможно, но другой оттенок."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "By Friday I ___ the report.",
+        "options": [
+          "will have finished",
+          "will be finishing",
+          "finish"
+        ],
+        "correct_answer": "will have finished",
+        "explanation_correct": "By + завершение к сроку.",
+        "explanation_wrong": {
+          "will be finishing": "Буду в процессе, не обязательно закончу.",
+          "finish": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "At 9 tomorrow I ___ working.",
+        "options": [
+          "will be",
+          "will have",
+          "am"
+        ],
+        "correct_answer": "will be",
+        "explanation_correct": "Future Continuous.",
+        "explanation_wrong": {
+          "will have": "Future Perfect не подходит.",
+          "am": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "When I ___ him, I'll tell him.",
+        "options": [
+          "see",
+          "will see",
+          "saw"
+        ],
+        "correct_answer": "see",
+        "explanation_correct": "После when о будущем — Present Simple.",
+        "explanation_wrong": {
+          "will see": "No will after when.",
+          "saw": "Past."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "If it rains, we'll stay home.",
+          "If it will rain, we'll stay home.",
+          "If it rained, we'll stay home."
+        ],
+        "correct_answer": "If it rains, we'll stay home.",
+        "explanation_correct": "First conditional: if + present, will.",
+        "explanation_wrong": {
+          "If it will rain, we'll stay home.": "No will in if-clause.",
+          "If it rained, we'll stay home.": "Смешение conditional forms."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 221,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 21,
+    "level": "B1",
+    "topic": "will shall 1",
+    "title_ru": "Will / shall: решения и предложения",
+    "explanation_ru": "Will используется для решения в момент речи, обещания, предложения помощи и отказа. Shall I/we используется для предложений.",
+    "formula": "will + V1; won't + V1; Shall I/we + V1?",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "The phone is ringing. I ___ get it.",
+        "options": [
+          "will",
+          "am going to",
+          "do"
+        ],
+        "correct_answer": "will",
+        "explanation_correct": "Решение в момент речи.",
+        "explanation_wrong": {
+          "am going to": "Звучит как заранее планировал.",
+          "do": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Look! That glass ___ fall.",
+        "options": [
+          "is going to",
+          "will",
+          "falls"
+        ],
+        "correct_answer": "is going to",
+        "explanation_correct": "Видимый признак сейчас.",
+        "explanation_wrong": {
+          "will": "Менее естественно с Look.",
+          "falls": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The train ___ at 6.",
+        "options": [
+          "leaves",
+          "is leaving",
+          "will leaving"
+        ],
+        "correct_answer": "leaves",
+        "explanation_correct": "Расписание → Present Simple.",
+        "explanation_wrong": {
+          "is leaving": "Возможно, но расписание чаще simple.",
+          "will leaving": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'm ___ the dentist tomorrow.",
+        "options": [
+          "seeing",
+          "see",
+          "will see"
+        ],
+        "correct_answer": "seeing",
+        "explanation_correct": "Present Continuous для appointment.",
+        "explanation_wrong": {
+          "see": "Simple хуже для личной договорённости.",
+          "will see": "Возможно, но другой оттенок."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "By Friday I ___ the report.",
+        "options": [
+          "will have finished",
+          "will be finishing",
+          "finish"
+        ],
+        "correct_answer": "will have finished",
+        "explanation_correct": "By + завершение к сроку.",
+        "explanation_wrong": {
+          "will be finishing": "Буду в процессе, не обязательно закончу.",
+          "finish": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "At 9 tomorrow I ___ working.",
+        "options": [
+          "will be",
+          "will have",
+          "am"
+        ],
+        "correct_answer": "will be",
+        "explanation_correct": "Future Continuous.",
+        "explanation_wrong": {
+          "will have": "Future Perfect не подходит.",
+          "am": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "When I ___ him, I'll tell him.",
+        "options": [
+          "see",
+          "will see",
+          "saw"
+        ],
+        "correct_answer": "see",
+        "explanation_correct": "После when о будущем — Present Simple.",
+        "explanation_wrong": {
+          "will see": "No will after when.",
+          "saw": "Past."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "If it rains, we'll stay home.",
+          "If it will rain, we'll stay home.",
+          "If it rained, we'll stay home."
+        ],
+        "correct_answer": "If it rains, we'll stay home.",
+        "explanation_correct": "First conditional: if + present, will.",
+        "explanation_wrong": {
+          "If it will rain, we'll stay home.": "No will in if-clause.",
+          "If it rained, we'll stay home.": "Смешение conditional forms."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 222,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 22,
+    "level": "B1",
+    "topic": "will shall 2",
+    "title_ru": "Will / shall: прогнозы и ожидания",
+    "explanation_ru": "Will используется для прогнозов и мнений о будущем: I think it will rain. She’ll probably be late.",
+    "formula": "will + V1",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "The phone is ringing. I ___ get it.",
+        "options": [
+          "will",
+          "am going to",
+          "do"
+        ],
+        "correct_answer": "will",
+        "explanation_correct": "Решение в момент речи.",
+        "explanation_wrong": {
+          "am going to": "Звучит как заранее планировал.",
+          "do": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Look! That glass ___ fall.",
+        "options": [
+          "is going to",
+          "will",
+          "falls"
+        ],
+        "correct_answer": "is going to",
+        "explanation_correct": "Видимый признак сейчас.",
+        "explanation_wrong": {
+          "will": "Менее естественно с Look.",
+          "falls": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The train ___ at 6.",
+        "options": [
+          "leaves",
+          "is leaving",
+          "will leaving"
+        ],
+        "correct_answer": "leaves",
+        "explanation_correct": "Расписание → Present Simple.",
+        "explanation_wrong": {
+          "is leaving": "Возможно, но расписание чаще simple.",
+          "will leaving": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'm ___ the dentist tomorrow.",
+        "options": [
+          "seeing",
+          "see",
+          "will see"
+        ],
+        "correct_answer": "seeing",
+        "explanation_correct": "Present Continuous для appointment.",
+        "explanation_wrong": {
+          "see": "Simple хуже для личной договорённости.",
+          "will see": "Возможно, но другой оттенок."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "By Friday I ___ the report.",
+        "options": [
+          "will have finished",
+          "will be finishing",
+          "finish"
+        ],
+        "correct_answer": "will have finished",
+        "explanation_correct": "By + завершение к сроку.",
+        "explanation_wrong": {
+          "will be finishing": "Буду в процессе, не обязательно закончу.",
+          "finish": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "At 9 tomorrow I ___ working.",
+        "options": [
+          "will be",
+          "will have",
+          "am"
+        ],
+        "correct_answer": "will be",
+        "explanation_correct": "Future Continuous.",
+        "explanation_wrong": {
+          "will have": "Future Perfect не подходит.",
+          "am": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "When I ___ him, I'll tell him.",
+        "options": [
+          "see",
+          "will see",
+          "saw"
+        ],
+        "correct_answer": "see",
+        "explanation_correct": "После when о будущем — Present Simple.",
+        "explanation_wrong": {
+          "will see": "No will after when.",
+          "saw": "Past."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "If it rains, we'll stay home.",
+          "If it will rain, we'll stay home.",
+          "If it rained, we'll stay home."
+        ],
+        "correct_answer": "If it rains, we'll stay home.",
+        "explanation_correct": "First conditional: if + present, will.",
+        "explanation_wrong": {
+          "If it will rain, we'll stay home.": "No will in if-clause.",
+          "If it rained, we'll stay home.": "Смешение conditional forms."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 223,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 23,
+    "level": "B1",
+    "topic": "will vs going to",
+    "title_ru": "Will или going to",
+    "explanation_ru": "Will — решение сейчас или мнение. Going to — уже существующий план или прогноз по видимым признакам.",
+    "formula": "decision/opinion: will; plan/evidence: going to",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "The phone is ringing. I ___ get it.",
+        "options": [
+          "will",
+          "am going to",
+          "do"
+        ],
+        "correct_answer": "will",
+        "explanation_correct": "Решение в момент речи.",
+        "explanation_wrong": {
+          "am going to": "Звучит как заранее планировал.",
+          "do": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Look! That glass ___ fall.",
+        "options": [
+          "is going to",
+          "will",
+          "falls"
+        ],
+        "correct_answer": "is going to",
+        "explanation_correct": "Видимый признак сейчас.",
+        "explanation_wrong": {
+          "will": "Менее естественно с Look.",
+          "falls": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The train ___ at 6.",
+        "options": [
+          "leaves",
+          "is leaving",
+          "will leaving"
+        ],
+        "correct_answer": "leaves",
+        "explanation_correct": "Расписание → Present Simple.",
+        "explanation_wrong": {
+          "is leaving": "Возможно, но расписание чаще simple.",
+          "will leaving": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'm ___ the dentist tomorrow.",
+        "options": [
+          "seeing",
+          "see",
+          "will see"
+        ],
+        "correct_answer": "seeing",
+        "explanation_correct": "Present Continuous для appointment.",
+        "explanation_wrong": {
+          "see": "Simple хуже для личной договорённости.",
+          "will see": "Возможно, но другой оттенок."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "By Friday I ___ the report.",
+        "options": [
+          "will have finished",
+          "will be finishing",
+          "finish"
+        ],
+        "correct_answer": "will have finished",
+        "explanation_correct": "By + завершение к сроку.",
+        "explanation_wrong": {
+          "will be finishing": "Буду в процессе, не обязательно закончу.",
+          "finish": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "At 9 tomorrow I ___ working.",
+        "options": [
+          "will be",
+          "will have",
+          "am"
+        ],
+        "correct_answer": "will be",
+        "explanation_correct": "Future Continuous.",
+        "explanation_wrong": {
+          "will have": "Future Perfect не подходит.",
+          "am": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "When I ___ him, I'll tell him.",
+        "options": [
+          "see",
+          "will see",
+          "saw"
+        ],
+        "correct_answer": "see",
+        "explanation_correct": "После when о будущем — Present Simple.",
+        "explanation_wrong": {
+          "will see": "No will after when.",
+          "saw": "Past."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "If it rains, we'll stay home.",
+          "If it will rain, we'll stay home.",
+          "If it rained, we'll stay home."
+        ],
+        "correct_answer": "If it rains, we'll stay home.",
+        "explanation_correct": "First conditional: if + present, will.",
+        "explanation_wrong": {
+          "If it will rain, we'll stay home.": "No will in if-clause.",
+          "If it rained, we'll stay home.": "Смешение conditional forms."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 224,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 24,
+    "level": "B2",
+    "topic": "future continuous and perfect",
+    "title_ru": "Future Continuous / Future Perfect",
+    "explanation_ru": "Future Continuous показывает процесс в момент будущего. Future Perfect показывает, что действие завершится к моменту в будущем.",
+    "formula": "will be + V-ing; will have + V3",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "The phone is ringing. I ___ get it.",
+        "options": [
+          "will",
+          "am going to",
+          "do"
+        ],
+        "correct_answer": "will",
+        "explanation_correct": "Решение в момент речи.",
+        "explanation_wrong": {
+          "am going to": "Звучит как заранее планировал.",
+          "do": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Look! That glass ___ fall.",
+        "options": [
+          "is going to",
+          "will",
+          "falls"
+        ],
+        "correct_answer": "is going to",
+        "explanation_correct": "Видимый признак сейчас.",
+        "explanation_wrong": {
+          "will": "Менее естественно с Look.",
+          "falls": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The train ___ at 6.",
+        "options": [
+          "leaves",
+          "is leaving",
+          "will leaving"
+        ],
+        "correct_answer": "leaves",
+        "explanation_correct": "Расписание → Present Simple.",
+        "explanation_wrong": {
+          "is leaving": "Возможно, но расписание чаще simple.",
+          "will leaving": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'm ___ the dentist tomorrow.",
+        "options": [
+          "seeing",
+          "see",
+          "will see"
+        ],
+        "correct_answer": "seeing",
+        "explanation_correct": "Present Continuous для appointment.",
+        "explanation_wrong": {
+          "see": "Simple хуже для личной договорённости.",
+          "will see": "Возможно, но другой оттенок."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "By Friday I ___ the report.",
+        "options": [
+          "will have finished",
+          "will be finishing",
+          "finish"
+        ],
+        "correct_answer": "will have finished",
+        "explanation_correct": "By + завершение к сроку.",
+        "explanation_wrong": {
+          "will be finishing": "Буду в процессе, не обязательно закончу.",
+          "finish": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "At 9 tomorrow I ___ working.",
+        "options": [
+          "will be",
+          "will have",
+          "am"
+        ],
+        "correct_answer": "will be",
+        "explanation_correct": "Future Continuous.",
+        "explanation_wrong": {
+          "will have": "Future Perfect не подходит.",
+          "am": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "When I ___ him, I'll tell him.",
+        "options": [
+          "see",
+          "will see",
+          "saw"
+        ],
+        "correct_answer": "see",
+        "explanation_correct": "После when о будущем — Present Simple.",
+        "explanation_wrong": {
+          "will see": "No will after when.",
+          "saw": "Past."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "If it rains, we'll stay home.",
+          "If it will rain, we'll stay home.",
+          "If it rained, we'll stay home."
+        ],
+        "correct_answer": "If it rains, we'll stay home.",
+        "explanation_correct": "First conditional: if + present, will.",
+        "explanation_wrong": {
+          "If it will rain, we'll stay home.": "No will in if-clause.",
+          "If it rained, we'll stay home.": "Смешение conditional forms."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 225,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 25,
+    "level": "B1",
+    "topic": "future clauses",
+    "title_ru": "When / if в будущем",
+    "explanation_ru": "После when, if, until, as soon as о будущем обычно используем Present Simple или Present Perfect, а не will.",
+    "formula": "when/if + Present Simple; after/when + Present Perfect",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "The phone is ringing. I ___ get it.",
+        "options": [
+          "will",
+          "am going to",
+          "do"
+        ],
+        "correct_answer": "will",
+        "explanation_correct": "Решение в момент речи.",
+        "explanation_wrong": {
+          "am going to": "Звучит как заранее планировал.",
+          "do": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Look! That glass ___ fall.",
+        "options": [
+          "is going to",
+          "will",
+          "falls"
+        ],
+        "correct_answer": "is going to",
+        "explanation_correct": "Видимый признак сейчас.",
+        "explanation_wrong": {
+          "will": "Менее естественно с Look.",
+          "falls": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The train ___ at 6.",
+        "options": [
+          "leaves",
+          "is leaving",
+          "will leaving"
+        ],
+        "correct_answer": "leaves",
+        "explanation_correct": "Расписание → Present Simple.",
+        "explanation_wrong": {
+          "is leaving": "Возможно, но расписание чаще simple.",
+          "will leaving": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'm ___ the dentist tomorrow.",
+        "options": [
+          "seeing",
+          "see",
+          "will see"
+        ],
+        "correct_answer": "seeing",
+        "explanation_correct": "Present Continuous для appointment.",
+        "explanation_wrong": {
+          "see": "Simple хуже для личной договорённости.",
+          "will see": "Возможно, но другой оттенок."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "By Friday I ___ the report.",
+        "options": [
+          "will have finished",
+          "will be finishing",
+          "finish"
+        ],
+        "correct_answer": "will have finished",
+        "explanation_correct": "By + завершение к сроку.",
+        "explanation_wrong": {
+          "will be finishing": "Буду в процессе, не обязательно закончу.",
+          "finish": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "At 9 tomorrow I ___ working.",
+        "options": [
+          "will be",
+          "will have",
+          "am"
+        ],
+        "correct_answer": "will be",
+        "explanation_correct": "Future Continuous.",
+        "explanation_wrong": {
+          "will have": "Future Perfect не подходит.",
+          "am": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "When I ___ him, I'll tell him.",
+        "options": [
+          "see",
+          "will see",
+          "saw"
+        ],
+        "correct_answer": "see",
+        "explanation_correct": "После when о будущем — Present Simple.",
+        "explanation_wrong": {
+          "will see": "No will after when.",
+          "saw": "Past."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "If it rains, we'll stay home.",
+          "If it will rain, we'll stay home.",
+          "If it rained, we'll stay home."
+        ],
+        "correct_answer": "If it rains, we'll stay home.",
+        "explanation_correct": "First conditional: if + present, will.",
+        "explanation_wrong": {
+          "If it will rain, we'll stay home.": "No will in if-clause.",
+          "If it rained, we'll stay home.": "Смешение conditional forms."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 226,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 26,
+    "level": "B1",
+    "topic": "can could be able to",
+    "title_ru": "Can / could / be able to",
+    "explanation_ru": "Can/could выражают способность и возможность. Be able to нужно для future, perfect и конкретного успешного действия в прошлом.",
+    "formula": "can/could + V1; be able to + V1",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "Next year I ___ drive.",
+        "options": [
+          "will be able to",
+          "will can",
+          "can will"
+        ],
+        "correct_answer": "will be able to",
+        "explanation_correct": "Future ability требует be able to.",
+        "explanation_wrong": {
+          "will can": "Will + can нельзя.",
+          "can will": "Неверный порядок."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "When I was young, I ___ run fast.",
+        "options": [
+          "could",
+          "could have",
+          "can"
+        ],
+        "correct_answer": "could",
+        "explanation_correct": "Past general ability.",
+        "explanation_wrong": {
+          "could have": "Unreal past.",
+          "can": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "You ___ called me.",
+        "options": [
+          "could have",
+          "could",
+          "can have"
+        ],
+        "correct_answer": "could have",
+        "explanation_correct": "Мог бы позвонить, но не позвонил.",
+        "explanation_wrong": {
+          "could": "Could call = сейчас/вообще.",
+          "can have": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "You worked all day. You ___ tired.",
+        "options": [
+          "must be",
+          "must to be",
+          "can't be"
+        ],
+        "correct_answer": "must be",
+        "explanation_correct": "Логический вывод.",
+        "explanation_wrong": {
+          "must to be": "No to.",
+          "can't be": "Opposite meaning."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "That ___ true. It's impossible.",
+        "options": [
+          "can't be",
+          "must be",
+          "doesn't be"
+        ],
+        "correct_answer": "can't be",
+        "explanation_correct": "Can't = не может быть.",
+        "explanation_wrong": {
+          "must be": "Opposite.",
+          "doesn't be": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It ___ rain later.",
+        "options": [
+          "might",
+          "might to",
+          "mights"
+        ],
+        "correct_answer": "might",
+        "explanation_correct": "Might + V1.",
+        "explanation_wrong": {
+          "might to": "No to.",
+          "mights": "No -s."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She might have ___ the train.",
+        "options": [
+          "missed",
+          "miss",
+          "missing"
+        ],
+        "correct_answer": "missed",
+        "explanation_correct": "Might have + V3.",
+        "explanation_wrong": {
+          "miss": "Need V3.",
+          "missing": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "She may have forgotten.",
+          "She may forgot.",
+          "She may has forgotten."
+        ],
+        "correct_answer": "She may have forgotten.",
+        "explanation_correct": "May have + V3.",
+        "explanation_wrong": {
+          "She may forgot.": "Need have.",
+          "She may has forgotten.": "After may use have."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 227,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 27,
+    "level": "B2",
+    "topic": "could and could have",
+    "title_ru": "Could do / could have done",
+    "explanation_ru": "Could do — способность/возможность. Could have done — мог бы сделать, но не сделал, или возможно сделал.",
+    "formula": "could + V1; could have + V3",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "Next year I ___ drive.",
+        "options": [
+          "will be able to",
+          "will can",
+          "can will"
+        ],
+        "correct_answer": "will be able to",
+        "explanation_correct": "Future ability требует be able to.",
+        "explanation_wrong": {
+          "will can": "Will + can нельзя.",
+          "can will": "Неверный порядок."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "When I was young, I ___ run fast.",
+        "options": [
+          "could",
+          "could have",
+          "can"
+        ],
+        "correct_answer": "could",
+        "explanation_correct": "Past general ability.",
+        "explanation_wrong": {
+          "could have": "Unreal past.",
+          "can": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "You ___ called me.",
+        "options": [
+          "could have",
+          "could",
+          "can have"
+        ],
+        "correct_answer": "could have",
+        "explanation_correct": "Мог бы позвонить, но не позвонил.",
+        "explanation_wrong": {
+          "could": "Could call = сейчас/вообще.",
+          "can have": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "You worked all day. You ___ tired.",
+        "options": [
+          "must be",
+          "must to be",
+          "can't be"
+        ],
+        "correct_answer": "must be",
+        "explanation_correct": "Логический вывод.",
+        "explanation_wrong": {
+          "must to be": "No to.",
+          "can't be": "Opposite meaning."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "That ___ true. It's impossible.",
+        "options": [
+          "can't be",
+          "must be",
+          "doesn't be"
+        ],
+        "correct_answer": "can't be",
+        "explanation_correct": "Can't = не может быть.",
+        "explanation_wrong": {
+          "must be": "Opposite.",
+          "doesn't be": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It ___ rain later.",
+        "options": [
+          "might",
+          "might to",
+          "mights"
+        ],
+        "correct_answer": "might",
+        "explanation_correct": "Might + V1.",
+        "explanation_wrong": {
+          "might to": "No to.",
+          "mights": "No -s."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She might have ___ the train.",
+        "options": [
+          "missed",
+          "miss",
+          "missing"
+        ],
+        "correct_answer": "missed",
+        "explanation_correct": "Might have + V3.",
+        "explanation_wrong": {
+          "miss": "Need V3.",
+          "missing": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "She may have forgotten.",
+          "She may forgot.",
+          "She may has forgotten."
+        ],
+        "correct_answer": "She may have forgotten.",
+        "explanation_correct": "May have + V3.",
+        "explanation_wrong": {
+          "She may forgot.": "Need have.",
+          "She may has forgotten.": "After may use have."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 228,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 28,
+    "level": "B1",
+    "topic": "must and can't deduction",
+    "title_ru": "Must / can't: логический вывод",
+    "explanation_ru": "Must может значить «должно быть», а can’t — «не может быть». Для прошлого: must have + V3 / can’t have + V3.",
+    "formula": "must/can't + V1; must/can't have + V3",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "Next year I ___ drive.",
+        "options": [
+          "will be able to",
+          "will can",
+          "can will"
+        ],
+        "correct_answer": "will be able to",
+        "explanation_correct": "Future ability требует be able to.",
+        "explanation_wrong": {
+          "will can": "Will + can нельзя.",
+          "can will": "Неверный порядок."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "When I was young, I ___ run fast.",
+        "options": [
+          "could",
+          "could have",
+          "can"
+        ],
+        "correct_answer": "could",
+        "explanation_correct": "Past general ability.",
+        "explanation_wrong": {
+          "could have": "Unreal past.",
+          "can": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "You ___ called me.",
+        "options": [
+          "could have",
+          "could",
+          "can have"
+        ],
+        "correct_answer": "could have",
+        "explanation_correct": "Мог бы позвонить, но не позвонил.",
+        "explanation_wrong": {
+          "could": "Could call = сейчас/вообще.",
+          "can have": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "You worked all day. You ___ tired.",
+        "options": [
+          "must be",
+          "must to be",
+          "can't be"
+        ],
+        "correct_answer": "must be",
+        "explanation_correct": "Логический вывод.",
+        "explanation_wrong": {
+          "must to be": "No to.",
+          "can't be": "Opposite meaning."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "That ___ true. It's impossible.",
+        "options": [
+          "can't be",
+          "must be",
+          "doesn't be"
+        ],
+        "correct_answer": "can't be",
+        "explanation_correct": "Can't = не может быть.",
+        "explanation_wrong": {
+          "must be": "Opposite.",
+          "doesn't be": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It ___ rain later.",
+        "options": [
+          "might",
+          "might to",
+          "mights"
+        ],
+        "correct_answer": "might",
+        "explanation_correct": "Might + V1.",
+        "explanation_wrong": {
+          "might to": "No to.",
+          "mights": "No -s."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She might have ___ the train.",
+        "options": [
+          "missed",
+          "miss",
+          "missing"
+        ],
+        "correct_answer": "missed",
+        "explanation_correct": "Might have + V3.",
+        "explanation_wrong": {
+          "miss": "Need V3.",
+          "missing": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "She may have forgotten.",
+          "She may forgot.",
+          "She may has forgotten."
+        ],
+        "correct_answer": "She may have forgotten.",
+        "explanation_correct": "May have + V3.",
+        "explanation_wrong": {
+          "She may forgot.": "Need have.",
+          "She may has forgotten.": "After may use have."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 229,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 29,
+    "level": "B1",
+    "topic": "may and might 1",
+    "title_ru": "May / might: возможно",
+    "explanation_ru": "May и might выражают возможность. Might часто звучит менее уверенно. После них глагол идёт без to.",
+    "formula": "may/might + V1",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "Next year I ___ drive.",
+        "options": [
+          "will be able to",
+          "will can",
+          "can will"
+        ],
+        "correct_answer": "will be able to",
+        "explanation_correct": "Future ability требует be able to.",
+        "explanation_wrong": {
+          "will can": "Will + can нельзя.",
+          "can will": "Неверный порядок."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "When I was young, I ___ run fast.",
+        "options": [
+          "could",
+          "could have",
+          "can"
+        ],
+        "correct_answer": "could",
+        "explanation_correct": "Past general ability.",
+        "explanation_wrong": {
+          "could have": "Unreal past.",
+          "can": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "You ___ called me.",
+        "options": [
+          "could have",
+          "could",
+          "can have"
+        ],
+        "correct_answer": "could have",
+        "explanation_correct": "Мог бы позвонить, но не позвонил.",
+        "explanation_wrong": {
+          "could": "Could call = сейчас/вообще.",
+          "can have": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "You worked all day. You ___ tired.",
+        "options": [
+          "must be",
+          "must to be",
+          "can't be"
+        ],
+        "correct_answer": "must be",
+        "explanation_correct": "Логический вывод.",
+        "explanation_wrong": {
+          "must to be": "No to.",
+          "can't be": "Opposite meaning."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "That ___ true. It's impossible.",
+        "options": [
+          "can't be",
+          "must be",
+          "doesn't be"
+        ],
+        "correct_answer": "can't be",
+        "explanation_correct": "Can't = не может быть.",
+        "explanation_wrong": {
+          "must be": "Opposite.",
+          "doesn't be": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It ___ rain later.",
+        "options": [
+          "might",
+          "might to",
+          "mights"
+        ],
+        "correct_answer": "might",
+        "explanation_correct": "Might + V1.",
+        "explanation_wrong": {
+          "might to": "No to.",
+          "mights": "No -s."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She might have ___ the train.",
+        "options": [
+          "missed",
+          "miss",
+          "missing"
+        ],
+        "correct_answer": "missed",
+        "explanation_correct": "Might have + V3.",
+        "explanation_wrong": {
+          "miss": "Need V3.",
+          "missing": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "She may have forgotten.",
+          "She may forgot.",
+          "She may has forgotten."
+        ],
+        "correct_answer": "She may have forgotten.",
+        "explanation_correct": "May have + V3.",
+        "explanation_wrong": {
+          "She may forgot.": "Need have.",
+          "She may has forgotten.": "After may use have."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 230,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 30,
+    "level": "B2",
+    "topic": "may and might 2",
+    "title_ru": "May have / might have",
+    "explanation_ru": "May/might have + V3 выражает возможность о прошлом: She might have forgotten. Для будущего используем may/might + V1.",
+    "formula": "may/might + V1; may/might have + V3",
+    "examples": [
+      {
+        "en": "This grammar point is useful in real conversation.",
+        "ru": "Эта грамматика нужна в живой речи.",
+        "note": "Смотри правило и примеры в уроке."
+      },
+      {
+        "en": "Compare the correct form with the wrong form.",
+        "ru": "Сравни правильную форму с ошибочной.",
+        "note": "Так легче понять логику."
+      },
+      {
+        "en": "Use the form only when the meaning fits.",
+        "ru": "Используй форму только когда подходит смысл.",
+        "note": "В B1/B2 важен не перевод, а оттенок."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I use the form only because it sounds familiar.",
+        "correct": "I choose the form because of the meaning.",
+        "explanation": "На B1/B2 важно выбирать время/конструкцию по смыслу."
+      },
+      {
+        "wrong": "I mix auxiliaries randomly.",
+        "correct": "I keep the auxiliary pattern fixed.",
+        "explanation": "Will, have, be, do, modals имеют разные схемы."
+      },
+      {
+        "wrong": "I translate Russian word order directly.",
+        "correct": "I use English word order and English tense logic.",
+        "explanation": "Многие ошибки идут от прямого перевода с русского."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "Next year I ___ drive.",
+        "options": [
+          "will be able to",
+          "will can",
+          "can will"
+        ],
+        "correct_answer": "will be able to",
+        "explanation_correct": "Future ability требует be able to.",
+        "explanation_wrong": {
+          "will can": "Will + can нельзя.",
+          "can will": "Неверный порядок."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "When I was young, I ___ run fast.",
+        "options": [
+          "could",
+          "could have",
+          "can"
+        ],
+        "correct_answer": "could",
+        "explanation_correct": "Past general ability.",
+        "explanation_wrong": {
+          "could have": "Unreal past.",
+          "can": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "You ___ called me.",
+        "options": [
+          "could have",
+          "could",
+          "can have"
+        ],
+        "correct_answer": "could have",
+        "explanation_correct": "Мог бы позвонить, но не позвонил.",
+        "explanation_wrong": {
+          "could": "Could call = сейчас/вообще.",
+          "can have": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "You worked all day. You ___ tired.",
+        "options": [
+          "must be",
+          "must to be",
+          "can't be"
+        ],
+        "correct_answer": "must be",
+        "explanation_correct": "Логический вывод.",
+        "explanation_wrong": {
+          "must to be": "No to.",
+          "can't be": "Opposite meaning."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "That ___ true. It's impossible.",
+        "options": [
+          "can't be",
+          "must be",
+          "doesn't be"
+        ],
+        "correct_answer": "can't be",
+        "explanation_correct": "Can't = не может быть.",
+        "explanation_wrong": {
+          "must be": "Opposite.",
+          "doesn't be": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It ___ rain later.",
+        "options": [
+          "might",
+          "might to",
+          "mights"
+        ],
+        "correct_answer": "might",
+        "explanation_correct": "Might + V1.",
+        "explanation_wrong": {
+          "might to": "No to.",
+          "mights": "No -s."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She might have ___ the train.",
+        "options": [
+          "missed",
+          "miss",
+          "missing"
+        ],
+        "correct_answer": "missed",
+        "explanation_correct": "Might have + V3.",
+        "explanation_wrong": {
+          "miss": "Need V3.",
+          "missing": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "She may have forgotten.",
+          "She may forgot.",
+          "She may has forgotten."
+        ],
+        "correct_answer": "She may have forgotten.",
+        "explanation_correct": "May have + V3.",
+        "explanation_wrong": {
+          "She may forgot.": "Need have.",
+          "She may has forgotten.": "After may use have."
+        }
+      }
+    ]
+  }
+]

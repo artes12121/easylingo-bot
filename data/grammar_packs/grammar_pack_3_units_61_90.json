@@ -1,0 +1,4922 @@
+[
+  {
+    "unit": 61,
+    "level": "A1",
+    "topic": "I / me / my / mine",
+    "title_ru": "I / me / my / mine: формы местоимений",
+    "explanation_ru": "В английском одно и то же лицо выражается разными формами: I — я как подлежащее, me — меня/мне как объект, my — мой перед существительным, mine — мой без существительного.",
+    "formula": "I = subject\nme = object\nmy + noun\nmine = without noun",
+    "examples": [
+      {
+        "en": "I like Anna.",
+        "ru": "Я люблю Анну.",
+        "note": "I = кто делает действие."
+      },
+      {
+        "en": "Anna likes me.",
+        "ru": "Анна любит меня.",
+        "note": "me = объект."
+      },
+      {
+        "en": "This is my book. It's mine.",
+        "ru": "Это моя книга. Она моя.",
+        "note": "my перед book, mine без book."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "Me like English.",
+        "correct": "I like English.",
+        "explanation": "Подлежащее = I."
+      },
+      {
+        "wrong": "She helps I.",
+        "correct": "She helps me.",
+        "explanation": "Объект = me."
+      },
+      {
+        "wrong": "This is mine book.",
+        "correct": "This is my book.",
+        "explanation": "Перед существительным нужен my."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "___ am tired.",
+        "options": [
+          "I",
+          "Me",
+          "My"
+        ],
+        "correct_answer": "I",
+        "explanation_correct": "Подлежащее = I.",
+        "explanation_wrong": {
+          "Me": "Me — объект.",
+          "My": "My стоит перед существительным."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Can you help ___?",
+        "options": [
+          "me",
+          "I",
+          "my"
+        ],
+        "correct_answer": "me",
+        "explanation_correct": "После help нужен объект me.",
+        "explanation_wrong": {
+          "I": "I — подлежащее.",
+          "my": "my + noun."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "This is ___ phone.",
+        "options": [
+          "my",
+          "mine",
+          "me"
+        ],
+        "correct_answer": "my",
+        "explanation_correct": "Перед phone нужен my.",
+        "explanation_wrong": {
+          "mine": "mine используется без noun.",
+          "me": "me = меня/мне."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "This phone is ___.",
+        "options": [
+          "mine",
+          "my",
+          "me"
+        ],
+        "correct_answer": "mine",
+        "explanation_correct": "Без существительного используем mine.",
+        "explanation_wrong": {
+          "my": "my требует noun после себя.",
+          "me": "me — объект."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She gave it to ___.",
+        "options": [
+          "me",
+          "I",
+          "my"
+        ],
+        "correct_answer": "me",
+        "explanation_correct": "После предлога to нужна object form.",
+        "explanation_wrong": {
+          "I": "После предлога не I.",
+          "my": "my + noun."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ car is old.",
+        "options": [
+          "My",
+          "Mine",
+          "Me"
+        ],
+        "correct_answer": "My",
+        "explanation_correct": "Перед car нужен my.",
+        "explanation_wrong": {
+          "Mine": "mine без noun.",
+          "Me": "me не показывает принадлежность."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I know her.",
+          "Me know she.",
+          "My know her."
+        ],
+        "correct_answer": "I know her.",
+        "explanation_correct": "Subject I, object her.",
+        "explanation_wrong": {
+          "Me know she.": "Me не может быть подлежащим, she не object.",
+          "My know her.": "My — притяжательное, не subject."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Is this bag ___?",
+        "options": [
+          "yours",
+          "your",
+          "you"
+        ],
+        "correct_answer": "yours",
+        "explanation_correct": "Без noun используем yours.",
+        "explanation_wrong": {
+          "your": "your + noun.",
+          "you": "you не показывает принадлежность."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 62,
+    "level": "A2",
+    "topic": "myself yourself themselves",
+    "title_ru": "Reflexive pronouns: myself / yourself / themselves",
+    "explanation_ru": "Возвратные местоимения показывают, что действие направлено на самого человека: I cut myself — я порезался. Также используются для акцента: I did it myself — я сделал это сам.",
+    "formula": "I → myself\nyou → yourself/yourselves\nhe → himself\nshe → herself\nwe → ourselves\nthey → themselves",
+    "examples": [
+      {
+        "en": "I hurt myself.",
+        "ru": "Я поранился.",
+        "note": "Я сделал действие с собой."
+      },
+      {
+        "en": "She looked at herself in the mirror.",
+        "ru": "Она посмотрела на себя в зеркало.",
+        "note": "herself = себя."
+      },
+      {
+        "en": "We made it ourselves.",
+        "ru": "Мы сделали это сами.",
+        "note": "акцент на самостоятельности."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I hurt me.",
+        "correct": "I hurt myself.",
+        "explanation": "Когда объект = тот же человек, нужен myself."
+      },
+      {
+        "wrong": "She looked at her in the mirror.",
+        "correct": "She looked at herself in the mirror.",
+        "explanation": "Если она смотрела на себя — herself."
+      },
+      {
+        "wrong": "They did it themself.",
+        "correct": "They did it themselves.",
+        "explanation": "They → themselves."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I cut ___ while cooking.",
+        "options": [
+          "myself",
+          "me",
+          "mine"
+        ],
+        "correct_answer": "myself",
+        "explanation_correct": "I did it to myself.",
+        "explanation_wrong": {
+          "me": "me не возвратная форма.",
+          "mine": "mine = моя вещь."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She taught ___ English.",
+        "options": [
+          "herself",
+          "her",
+          "she"
+        ],
+        "correct_answer": "herself",
+        "explanation_correct": "Она сама себя учила.",
+        "explanation_wrong": {
+          "her": "her = её/ей, не себя.",
+          "she": "she — subject."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They enjoyed ___.",
+        "options": [
+          "themselves",
+          "them",
+          "their"
+        ],
+        "correct_answer": "themselves",
+        "explanation_correct": "enjoy oneself = хорошо провести время.",
+        "explanation_wrong": {
+          "them": "Не возвратная форма.",
+          "their": "their + noun."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We painted the room ___.",
+        "options": [
+          "ourselves",
+          "us",
+          "our"
+        ],
+        "correct_answer": "ourselves",
+        "explanation_correct": "Сделали сами.",
+        "explanation_wrong": {
+          "us": "us = нас.",
+          "our": "our + noun."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He looked at ___ in the mirror.",
+        "options": [
+          "himself",
+          "him",
+          "his"
+        ],
+        "correct_answer": "himself",
+        "explanation_correct": "Он смотрел на себя.",
+        "explanation_wrong": {
+          "him": "him = его, но не себя.",
+          "his": "his = его."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Be careful! Don't hurt ___.",
+        "options": [
+          "yourself",
+          "you",
+          "your"
+        ],
+        "correct_answer": "yourself",
+        "explanation_correct": "Don't hurt yourself.",
+        "explanation_wrong": {
+          "you": "В этой конструкции нужна возвратная форма.",
+          "your": "your + noun."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I did it myself.",
+          "I did it me.",
+          "I did it mine."
+        ],
+        "correct_answer": "I did it myself.",
+        "explanation_correct": "Myself = сам.",
+        "explanation_wrong": {
+          "I did it me.": "Неверно.",
+          "I did it mine.": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The machine turns ___ off.",
+        "options": [
+          "itself",
+          "it",
+          "its"
+        ],
+        "correct_answer": "itself",
+        "explanation_correct": "Itself = само.",
+        "explanation_wrong": {
+          "it": "Не возвратная форма.",
+          "its": "its + noun."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 63,
+    "level": "A1",
+    "topic": "possessive 's",
+    "title_ru": "Possessive 's: Ann's camera",
+    "explanation_ru": "'s показывает принадлежность: Ann's camera = камера Анны. Для множественного числа на -s обычно добавляем только апостроф: my parents' house.",
+    "formula": "person + 's + noun\nplural ending -s + ' + noun",
+    "examples": [
+      {
+        "en": "Ann's camera is new.",
+        "ru": "Камера Анны новая.",
+        "note": "Ann + 's."
+      },
+      {
+        "en": "My brother's car is red.",
+        "ru": "Машина моего брата красная.",
+        "note": "brother + 's."
+      },
+      {
+        "en": "My parents' house is big.",
+        "ru": "Дом моих родителей большой.",
+        "note": "parents plural + apostrophe."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "The camera of Ann.",
+        "correct": "Ann's camera.",
+        "explanation": "Для людей обычно 's."
+      },
+      {
+        "wrong": "My parents's house.",
+        "correct": "My parents' house.",
+        "explanation": "Plural parents уже на -s."
+      },
+      {
+        "wrong": "John car.",
+        "correct": "John's car.",
+        "explanation": "Нужно 's."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "This is ___ bag.",
+        "options": [
+          "Anna's",
+          "Anna",
+          "Annas"
+        ],
+        "correct_answer": "Anna's",
+        "explanation_correct": "Принадлежность: Anna's bag.",
+        "explanation_wrong": {
+          "Anna": "Нет 's.",
+          "Annas": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "My ___ car is old.",
+        "options": [
+          "brother's",
+          "brother",
+          "brothers"
+        ],
+        "correct_answer": "brother's",
+        "explanation_correct": "car belongs to brother.",
+        "explanation_wrong": {
+          "brother": "Нет принадлежности.",
+          "brothers": "plural, не possessive."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The ___ room is upstairs.",
+        "options": [
+          "children's",
+          "childrens",
+          "childrens'"
+        ],
+        "correct_answer": "children's",
+        "explanation_correct": "children — irregular plural, добавляем 's.",
+        "explanation_wrong": {
+          "childrens": "Неверная форма.",
+          "childrens'": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "My ___ house is near here.",
+        "options": [
+          "parents'",
+          "parent's",
+          "parents"
+        ],
+        "correct_answer": "parents'",
+        "explanation_correct": "Дом родителей: plural parents + apostrophe.",
+        "explanation_wrong": {
+          "parent's": "Дом одного родителя.",
+          "parents": "Нет possessive."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Is this ___ phone?",
+        "options": [
+          "Tom's",
+          "Tom",
+          "Toms"
+        ],
+        "correct_answer": "Tom's",
+        "explanation_correct": "Tom's phone.",
+        "explanation_wrong": {
+          "Tom": "Нет 's.",
+          "Toms": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The ___ name is Max.",
+        "options": [
+          "dog's",
+          "dogs",
+          "dog"
+        ],
+        "correct_answer": "dog's",
+        "explanation_correct": "Имя собаки.",
+        "explanation_wrong": {
+          "dogs": "plural dogs.",
+          "dog": "Нет possessive."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "This is Sarah's book.",
+          "This is Sarah book.",
+          "This is book of Sarah."
+        ],
+        "correct_answer": "This is Sarah's book.",
+        "explanation_correct": "Для людей используем 's.",
+        "explanation_wrong": {
+          "This is Sarah book.": "Нет possessive.",
+          "This is book of Sarah.": "Неестественно для человека."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "My ___ bikes are outside.",
+        "options": [
+          "friends'",
+          "friend's",
+          "friends"
+        ],
+        "correct_answer": "friends'",
+        "explanation_correct": "Bikes of several friends.",
+        "explanation_wrong": {
+          "friend's": "Один друг.",
+          "friends": "Нет possessive."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 64,
+    "level": "A1",
+    "topic": "a / an",
+    "title_ru": "A / an: неопределённый артикль",
+    "explanation_ru": "A/an ставится перед одним исчисляемым существительным, когда мы говорим о нём не как о конкретном известном предмете. A перед согласным звуком, an перед гласным звуком.",
+    "formula": "a + consonant sound\nan + vowel sound\nsingular countable noun usually needs an article",
+    "examples": [
+      {
+        "en": "I have a car.",
+        "ru": "У меня есть машина.",
+        "note": "one car, not specific."
+      },
+      {
+        "en": "She is an engineer.",
+        "ru": "Она инженер.",
+        "note": "engineer начинается с гласного звука."
+      },
+      {
+        "en": "This is a university.",
+        "ru": "Это университет.",
+        "note": "university звучит /juː/, поэтому a."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I have car.",
+        "correct": "I have a car.",
+        "explanation": "Перед singular countable noun нужен артикль."
+      },
+      {
+        "wrong": "She is a engineer.",
+        "correct": "She is an engineer.",
+        "explanation": "Перед vowel sound нужен an."
+      },
+      {
+        "wrong": "I need an book.",
+        "correct": "I need a book.",
+        "explanation": "Book начинается с consonant sound."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I need ___ pen.",
+        "options": [
+          "a",
+          "an",
+          "-"
+        ],
+        "correct_answer": "a",
+        "explanation_correct": "Pen starts with consonant sound.",
+        "explanation_wrong": {
+          "an": "an перед vowel sound.",
+          "-": "Singular countable noun требует артикль."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She is ___ artist.",
+        "options": [
+          "an",
+          "a",
+          "-"
+        ],
+        "correct_answer": "an",
+        "explanation_correct": "Artist starts with vowel sound.",
+        "explanation_wrong": {
+          "a": "Перед vowel sound нужен an.",
+          "-": "Профессия в singular требует артикль."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He is ___ doctor.",
+        "options": [
+          "a",
+          "an",
+          "-"
+        ],
+        "correct_answer": "a",
+        "explanation_correct": "Doctor starts with consonant sound.",
+        "explanation_wrong": {
+          "an": "doctor не vowel sound.",
+          "-": "Профессия требует article."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I saw ___ elephant.",
+        "options": [
+          "an",
+          "a",
+          "-"
+        ],
+        "correct_answer": "an",
+        "explanation_correct": "Elephant starts with vowel sound.",
+        "explanation_wrong": {
+          "a": "Перед vowel sound нужен an.",
+          "-": "Нужен артикль."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "This is ___ old house.",
+        "options": [
+          "an",
+          "a",
+          "-"
+        ],
+        "correct_answer": "an",
+        "explanation_correct": "Old starts with vowel sound.",
+        "explanation_wrong": {
+          "a": "Нужен an перед old.",
+          "-": "Singular countable noun."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She has ___ university degree.",
+        "options": [
+          "a",
+          "an",
+          "-"
+        ],
+        "correct_answer": "a",
+        "explanation_correct": "University starts with /juː/ consonant sound.",
+        "explanation_wrong": {
+          "an": "Смотрим на звук, не букву.",
+          "-": "Нужен article."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I have a bike.",
+          "I have bike.",
+          "I have an bike."
+        ],
+        "correct_answer": "I have a bike.",
+        "explanation_correct": "Bike = singular countable noun.",
+        "explanation_wrong": {
+          "I have bike.": "Не хватает article.",
+          "I have an bike.": "bike starts with consonant sound."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It's ___ hour.",
+        "options": [
+          "an",
+          "a",
+          "-"
+        ],
+        "correct_answer": "an",
+        "explanation_correct": "Hour начинается с гласного звука, h не произносится.",
+        "explanation_wrong": {
+          "a": "Смотрим на звук: /aʊər/.",
+          "-": "Нужен артикль."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 65,
+    "level": "A1",
+    "topic": "singular and plural",
+    "title_ru": "Singular and plural: flower / flowers",
+    "explanation_ru": "Большинство существительных получают -s во множественном числе: flower → flowers. После -s/-sh/-ch/-x добавляем -es. Некоторые формы неправильные: man → men, child → children.",
+    "formula": "singular: one book\nplural: two books\n-s / -es / irregular plural",
+    "examples": [
+      {
+        "en": "one flower — two flowers",
+        "ru": "один цветок — два цветка",
+        "note": "обычное -s."
+      },
+      {
+        "en": "one bus — two buses",
+        "ru": "один автобус — два автобуса",
+        "note": "-es после s."
+      },
+      {
+        "en": "one child — two children",
+        "ru": "один ребёнок — два ребёнка",
+        "note": "irregular plural."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "two book",
+        "correct": "two books",
+        "explanation": "После two нужно plural."
+      },
+      {
+        "wrong": "three childs",
+        "correct": "three children",
+        "explanation": "Child имеет irregular plural."
+      },
+      {
+        "wrong": "two bus",
+        "correct": "two buses",
+        "explanation": "После -s добавляем -es."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "two ___",
+        "options": [
+          "books",
+          "book",
+          "bookes"
+        ],
+        "correct_answer": "books",
+        "explanation_correct": "Regular plural: book → books.",
+        "explanation_wrong": {
+          "book": "После two нужен plural.",
+          "bookes": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "three ___",
+        "options": [
+          "buses",
+          "bus",
+          "buss"
+        ],
+        "correct_answer": "buses",
+        "explanation_correct": "bus → buses.",
+        "explanation_wrong": {
+          "bus": "После three нужен plural.",
+          "buss": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "five ___",
+        "options": [
+          "children",
+          "childs",
+          "child"
+        ],
+        "correct_answer": "children",
+        "explanation_correct": "child → children.",
+        "explanation_wrong": {
+          "childs": "Неверная форма.",
+          "child": "После five нужен plural."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "one ___",
+        "options": [
+          "car",
+          "cars",
+          "cares"
+        ],
+        "correct_answer": "car",
+        "explanation_correct": "one + singular.",
+        "explanation_wrong": {
+          "cars": "one требует singular.",
+          "cares": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "two ___",
+        "options": [
+          "women",
+          "womans",
+          "woman"
+        ],
+        "correct_answer": "women",
+        "explanation_correct": "woman → women.",
+        "explanation_wrong": {
+          "womans": "Неверно.",
+          "woman": "singular."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "many ___",
+        "options": [
+          "boxes",
+          "box",
+          "boxs"
+        ],
+        "correct_answer": "boxes",
+        "explanation_correct": "box → boxes.",
+        "explanation_wrong": {
+          "box": "many требует plural.",
+          "boxs": "После x обычно -es."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "There are three chairs.",
+          "There are three chair.",
+          "There is three chairs."
+        ],
+        "correct_answer": "There are three chairs.",
+        "explanation_correct": "Three + plural, there are.",
+        "explanation_wrong": {
+          "There are three chair.": "chair должен быть plural.",
+          "There is three chairs.": "chairs plural → are."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "four ___",
+        "options": [
+          "teeth",
+          "tooths",
+          "tooth"
+        ],
+        "correct_answer": "teeth",
+        "explanation_correct": "tooth → teeth.",
+        "explanation_wrong": {
+          "tooths": "Неверно.",
+          "tooth": "singular."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 66,
+    "level": "A1",
+    "topic": "countable uncountable 1",
+    "title_ru": "Countable / uncountable 1",
+    "explanation_ru": "Countable nouns можно посчитать: a car, two cars. Uncountable nouns обычно не имеют plural и не используют a/an: water, money, music, rice.",
+    "formula": "countable: a/an, plural -s\nuncountable: no a/an, usually no plural",
+    "examples": [
+      {
+        "en": "I have a car.",
+        "ru": "У меня есть машина.",
+        "note": "car countable."
+      },
+      {
+        "en": "I need some water.",
+        "ru": "Мне нужна вода.",
+        "note": "water uncountable."
+      },
+      {
+        "en": "Money is important.",
+        "ru": "Деньги важны.",
+        "note": "money uncountable in English."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "a water",
+        "correct": "some water / a glass of water",
+        "explanation": "Water неисчисляемое."
+      },
+      {
+        "wrong": "many money",
+        "correct": "much money / a lot of money",
+        "explanation": "Money uncountable."
+      },
+      {
+        "wrong": "informations",
+        "correct": "information",
+        "explanation": "Information uncountable."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I need ___ water.",
+        "options": [
+          "some",
+          "a",
+          "an"
+        ],
+        "correct_answer": "some",
+        "explanation_correct": "Water is uncountable.",
+        "explanation_wrong": {
+          "a": "Нельзя a water, если не «бутылка/стакан».",
+          "an": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She has ___ car.",
+        "options": [
+          "a",
+          "some",
+          "-"
+        ],
+        "correct_answer": "a",
+        "explanation_correct": "Car is singular countable.",
+        "explanation_wrong": {
+          "some": "some cars/water, но one car → a car.",
+          "-": "Нужен article."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I don't have much ___.",
+        "options": [
+          "money",
+          "moneys",
+          "a money"
+        ],
+        "correct_answer": "money",
+        "explanation_correct": "Money uncountable.",
+        "explanation_wrong": {
+          "moneys": "Обычно не plural.",
+          "a money": "Нельзя a money."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There are two ___.",
+        "options": [
+          "chairs",
+          "chair",
+          "furniture"
+        ],
+        "correct_answer": "chairs",
+        "explanation_correct": "Two + plural countable.",
+        "explanation_wrong": {
+          "chair": "Нужен plural.",
+          "furniture": "Furniture uncountable, не two furniture."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I like ___.",
+        "options": [
+          "music",
+          "a music",
+          "musics"
+        ],
+        "correct_answer": "music",
+        "explanation_correct": "Music uncountable.",
+        "explanation_wrong": {
+          "a music": "Нельзя a music.",
+          "musics": "Обычно не plural."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Can I have ___ apple?",
+        "options": [
+          "an",
+          "some",
+          "-"
+        ],
+        "correct_answer": "an",
+        "explanation_correct": "Apple singular countable.",
+        "explanation_wrong": {
+          "some": "some apples, но one apple → an apple.",
+          "-": "Нужен article."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I need some information.",
+          "I need an information.",
+          "I need informations."
+        ],
+        "correct_answer": "I need some information.",
+        "explanation_correct": "Information uncountable.",
+        "explanation_wrong": {
+          "I need an information.": "Нельзя an information.",
+          "I need informations.": "Нет plural."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There is ___ rice.",
+        "options": [
+          "some",
+          "a",
+          "many"
+        ],
+        "correct_answer": "some",
+        "explanation_correct": "Rice uncountable.",
+        "explanation_wrong": {
+          "a": "Нельзя a rice.",
+          "many": "many с countable plural."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 67,
+    "level": "A2",
+    "topic": "countable uncountable 2",
+    "title_ru": "Countable / uncountable 2: containers and quantities",
+    "explanation_ru": "Для неисчисляемых существительных используем меры и контейнеры: a piece of advice, a bottle of water, a cup of coffee. Так можно сказать «одна штука/порция».",
+    "formula": "a piece of + uncountable\na bottle/glass/cup of + liquid\na kilo of / a slice of",
+    "examples": [
+      {
+        "en": "a piece of advice",
+        "ru": "один совет",
+        "note": "advice uncountable."
+      },
+      {
+        "en": "a bottle of water",
+        "ru": "бутылка воды",
+        "note": "water через container."
+      },
+      {
+        "en": "a cup of coffee",
+        "ru": "чашка кофе",
+        "note": "coffee как напиток."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "an advice",
+        "correct": "a piece of advice",
+        "explanation": "Advice uncountable."
+      },
+      {
+        "wrong": "two waters",
+        "correct": "two bottles of water / two glasses of water",
+        "explanation": "Обычно нужен контейнер."
+      },
+      {
+        "wrong": "a bread",
+        "correct": "a loaf of bread / some bread",
+        "explanation": "Bread uncountable."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "Can you give me ___ advice?",
+        "options": [
+          "some",
+          "an",
+          "a"
+        ],
+        "correct_answer": "some",
+        "explanation_correct": "Advice uncountable.",
+        "explanation_wrong": {
+          "an": "Нельзя an advice.",
+          "a": "Нельзя a advice."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Can you give me a ___ of advice?",
+        "options": [
+          "piece",
+          "part",
+          "slice"
+        ],
+        "correct_answer": "piece",
+        "explanation_correct": "a piece of advice.",
+        "explanation_wrong": {
+          "part": "Не стандартно.",
+          "slice": "slice для хлеба/сыра."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I bought two ___ of water.",
+        "options": [
+          "bottles",
+          "waters",
+          "water"
+        ],
+        "correct_answer": "bottles",
+        "explanation_correct": "two bottles of water.",
+        "explanation_wrong": {
+          "waters": "Обычно не plural.",
+          "water": "После two нужен countable noun."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Would you like a ___ of coffee?",
+        "options": [
+          "cup",
+          "piece",
+          "slice"
+        ],
+        "correct_answer": "cup",
+        "explanation_correct": "a cup of coffee.",
+        "explanation_wrong": {
+          "piece": "Не с coffee.",
+          "slice": "Не с coffee."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I need a ___ of bread.",
+        "options": [
+          "loaf",
+          "piece",
+          "bottle"
+        ],
+        "correct_answer": "loaf",
+        "explanation_correct": "a loaf of bread.",
+        "explanation_wrong": {
+          "piece": "piece of bread возможно, но loaf = буханка.",
+          "bottle": "Не с bread."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She bought a ___ of cheese.",
+        "options": [
+          "piece",
+          "bottle",
+          "cup"
+        ],
+        "correct_answer": "piece",
+        "explanation_correct": "a piece of cheese.",
+        "explanation_wrong": {
+          "bottle": "Не с cheese.",
+          "cup": "Не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I need some advice.",
+          "I need an advice.",
+          "I need advices."
+        ],
+        "correct_answer": "I need some advice.",
+        "explanation_correct": "Advice uncountable.",
+        "explanation_wrong": {
+          "I need an advice.": "Нельзя an advice.",
+          "I need advices.": "Нет plural."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There are two ___ of milk.",
+        "options": [
+          "cartons",
+          "milk",
+          "milks"
+        ],
+        "correct_answer": "cartons",
+        "explanation_correct": "two cartons of milk.",
+        "explanation_wrong": {
+          "milk": "После two нужен countable measure.",
+          "milks": "Обычно не plural."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 68,
+    "level": "A1",
+    "topic": "a/an and the",
+    "title_ru": "A/an and the",
+    "explanation_ru": "A/an используем, когда говорим о чём-то впервые или не конкретном. The используем, когда понятно, о каком именно предмете речь, или он уже упоминался.",
+    "formula": "first mention: a/an\nknown/specific: the",
+    "examples": [
+      {
+        "en": "I saw a dog. The dog was black.",
+        "ru": "Я увидел собаку. Эта собака была чёрной.",
+        "note": "Первый раз a, потом the."
+      },
+      {
+        "en": "Can you close the door?",
+        "ru": "Можешь закрыть дверь?",
+        "note": "Понятно, какую дверь."
+      },
+      {
+        "en": "I need a pen.",
+        "ru": "Мне нужна ручка.",
+        "note": "Любая ручка."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I saw the dog. The dog was black.",
+        "correct": "I saw a dog. The dog was black.",
+        "explanation": "Если впервые и не конкретная — a."
+      },
+      {
+        "wrong": "Close a door.",
+        "correct": "Close the door.",
+        "explanation": "Если дверь понятна в ситуации — the."
+      },
+      {
+        "wrong": "I need the pen.",
+        "correct": "I need a pen.",
+        "explanation": "Если нужна любая ручка — a."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I saw ___ cat. ___ cat was white.",
+        "options": [
+          "a / The",
+          "the / A",
+          "a / A"
+        ],
+        "correct_answer": "a / The",
+        "explanation_correct": "Первое упоминание a, затем the.",
+        "explanation_wrong": {
+          "the / A": "Сначала не известно, потом известно.",
+          "a / A": "Второе упоминание уже specific."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Can you open ___ window?",
+        "options": [
+          "the",
+          "a",
+          "an"
+        ],
+        "correct_answer": "the",
+        "explanation_correct": "Окно понятно из ситуации.",
+        "explanation_wrong": {
+          "a": "Если любое окно, возможно, но в комнате обычно specific.",
+          "an": "window начинается с consonant sound."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I need ___ umbrella.",
+        "options": [
+          "an",
+          "a",
+          "the"
+        ],
+        "correct_answer": "an",
+        "explanation_correct": "Нужен любой зонтик; umbrella vowel sound.",
+        "explanation_wrong": {
+          "a": "Нужен an.",
+          "the": "Если не конкретный, лучше an."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Where is ___ bathroom?",
+        "options": [
+          "the",
+          "a",
+          "an"
+        ],
+        "correct_answer": "the",
+        "explanation_correct": "В конкретном месте bathroom known.",
+        "explanation_wrong": {
+          "a": "Обычно спрашиваем конкретную ванную.",
+          "an": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She bought ___ book yesterday.",
+        "options": [
+          "a",
+          "the",
+          "an"
+        ],
+        "correct_answer": "a",
+        "explanation_correct": "Первое упоминание, one book.",
+        "explanation_wrong": {
+          "the": "Только если конкретная книга известна.",
+          "an": "book consonant sound."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ book she bought is interesting.",
+        "options": [
+          "The",
+          "A",
+          "An"
+        ],
+        "correct_answer": "The",
+        "explanation_correct": "Теперь книга конкретная.",
+        "explanation_wrong": {
+          "A": "Речь об известной книге.",
+          "An": "book consonant sound."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I have a car. The car is red.",
+          "I have the car. A car is red.",
+          "I have car. The car is red."
+        ],
+        "correct_answer": "I have a car. The car is red.",
+        "explanation_correct": "First mention a, second mention the.",
+        "explanation_wrong": {
+          "I have the car. A car is red.": "Неестественно без контекста.",
+          "I have car.": "Не хватает article."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Turn off ___ light, please.",
+        "options": [
+          "the",
+          "a",
+          "an"
+        ],
+        "correct_answer": "the",
+        "explanation_correct": "Конкретный свет в комнате.",
+        "explanation_wrong": {
+          "a": "Обычно known.",
+          "an": "light consonant sound."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 69,
+    "level": "A1",
+    "topic": "the",
+    "title_ru": "The: definite article",
+    "explanation_ru": "The используем, когда предмет уникален, уже известен или конкретизирован: the sun, the door, the book on the table. The не зависит от единственного/множественного числа.",
+    "formula": "the + specific noun\nthe + unique thing\nthe + noun + of/that/where specific",
+    "examples": [
+      {
+        "en": "The sun is shining.",
+        "ru": "Солнце светит.",
+        "note": "Sun unique."
+      },
+      {
+        "en": "The book on the table is mine.",
+        "ru": "Книга на столе моя.",
+        "note": "Книга конкретизирована."
+      },
+      {
+        "en": "I like the music in this film.",
+        "ru": "Мне нравится музыка в этом фильме.",
+        "note": "specific music."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "Sun is shining.",
+        "correct": "The sun is shining.",
+        "explanation": "Уникальные объекты часто с the."
+      },
+      {
+        "wrong": "Book on the table is mine.",
+        "correct": "The book on the table is mine.",
+        "explanation": "Конкретная книга требует the."
+      },
+      {
+        "wrong": "I like the music.",
+        "correct": "I like music.",
+        "explanation": "Если музыка вообще — без the."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "___ sun is hot.",
+        "options": [
+          "The",
+          "A",
+          "-"
+        ],
+        "correct_answer": "The",
+        "explanation_correct": "Sun unique.",
+        "explanation_wrong": {
+          "A": "Солнце одно для нас.",
+          "-": "Нужен the."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Where is ___ nearest bank?",
+        "options": [
+          "the",
+          "a",
+          "-"
+        ],
+        "correct_answer": "the",
+        "explanation_correct": "Superlative/nearest specific → the.",
+        "explanation_wrong": {
+          "a": "nearest делает банк specific.",
+          "-": "Нужен article."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I like ___ music.",
+        "options": [
+          "-",
+          "the",
+          "a"
+        ],
+        "correct_answer": "-",
+        "explanation_correct": "Music in general без the.",
+        "explanation_wrong": {
+          "the": "The music = конкретная музыка.",
+          "a": "music uncountable."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I like ___ music in this film.",
+        "options": [
+          "the",
+          "-",
+          "a"
+        ],
+        "correct_answer": "the",
+        "explanation_correct": "Specific music in this film.",
+        "explanation_wrong": {
+          "-": "Есть уточнение, музыка конкретная.",
+          "a": "music uncountable."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ door is open.",
+        "options": [
+          "The",
+          "A",
+          "-"
+        ],
+        "correct_answer": "The",
+        "explanation_correct": "Если дверь известна из ситуации.",
+        "explanation_wrong": {
+          "A": "Может быть, но обычно known door.",
+          "-": "Singular countable требует article."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She is ___ best student.",
+        "options": [
+          "the",
+          "a",
+          "-"
+        ],
+        "correct_answer": "the",
+        "explanation_correct": "Superlative best обычно с the.",
+        "explanation_wrong": {
+          "a": "best делает unique in group.",
+          "-": "Нужен the."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "The moon is bright.",
+          "Moon is bright.",
+          "A moon is bright."
+        ],
+        "correct_answer": "The moon is bright.",
+        "explanation_correct": "Moon unique, используем the.",
+        "explanation_wrong": {
+          "Moon is bright.": "Нужен article.",
+          "A moon is bright.": "Не для нашей Луны."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The capital ___ France is Paris.",
+        "options": [
+          "of",
+          "for",
+          "from"
+        ],
+        "correct_answer": "of",
+        "explanation_correct": "the capital of France.",
+        "explanation_wrong": {
+          "for": "Неверно.",
+          "from": "Неверно."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 70,
+    "level": "A1",
+    "topic": "go to work go home",
+    "title_ru": "go to work / go home / go to the cinema",
+    "explanation_ru": "С некоторыми местами употребление артиклей устойчивое: go to work/school, go home без to, но go to the cinema, go to the station.",
+    "formula": "go to work/school\n go home\n go to the cinema/the station",
+    "examples": [
+      {
+        "en": "I go to work by bus.",
+        "ru": "Я езжу на работу на автобусе.",
+        "note": "без the."
+      },
+      {
+        "en": "She went home.",
+        "ru": "Она пошла домой.",
+        "note": "home без to."
+      },
+      {
+        "en": "We went to the cinema.",
+        "ru": "Мы ходили в кино.",
+        "note": "cinema с the."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "go to the work",
+        "correct": "go to work",
+        "explanation": "Work как место работы без the."
+      },
+      {
+        "wrong": "go to home",
+        "correct": "go home",
+        "explanation": "Home без to."
+      },
+      {
+        "wrong": "go cinema",
+        "correct": "go to the cinema",
+        "explanation": "Нужно to the cinema."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I go ___ work every day.",
+        "options": [
+          "to",
+          "to the",
+          "-"
+        ],
+        "correct_answer": "to",
+        "explanation_correct": "go to work.",
+        "explanation_wrong": {
+          "to the": "Не go to the work.",
+          "-": "Нужен to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Let's go ___ home.",
+        "options": [
+          "-",
+          "to",
+          "to the"
+        ],
+        "correct_answer": "-",
+        "explanation_correct": "go home без to.",
+        "explanation_wrong": {
+          "to": "Home обычно без to.",
+          "to the": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We went ___ cinema.",
+        "options": [
+          "to the",
+          "to",
+          "-"
+        ],
+        "correct_answer": "to the",
+        "explanation_correct": "go to the cinema.",
+        "explanation_wrong": {
+          "to": "Нужен the.",
+          "-": "Нужен to the."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She is ___ school.",
+        "options": [
+          "at",
+          "at the",
+          "in the"
+        ],
+        "correct_answer": "at",
+        "explanation_correct": "at school как учреждение.",
+        "explanation_wrong": {
+          "at the": "Возможно для конкретного здания, но базовая фраза at school.",
+          "in the": "Не базово."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I went ___ bed late.",
+        "options": [
+          "to",
+          "to the",
+          "-"
+        ],
+        "correct_answer": "to",
+        "explanation_correct": "go to bed.",
+        "explanation_wrong": {
+          "to the": "Не go to the bed в смысле спать.",
+          "-": "Нужен to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He is ___ hospital.",
+        "options": [
+          "in",
+          "in the",
+          "at the"
+        ],
+        "correct_answer": "in",
+        "explanation_correct": "BrE: in hospital как пациент.",
+        "explanation_wrong": {
+          "in the": "Может быть конкретное здание, но учебная базовая фраза in hospital.",
+          "at the": "Не здесь."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I went home.",
+          "I went to home.",
+          "I went to the home."
+        ],
+        "correct_answer": "I went home.",
+        "explanation_correct": "Home без to.",
+        "explanation_wrong": {
+          "I went to home.": "Неверно.",
+          "I went to the home.": "Только в другом значении nursing home."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They went ___ station.",
+        "options": [
+          "to the",
+          "to",
+          "-"
+        ],
+        "correct_answer": "to the",
+        "explanation_correct": "go to the station.",
+        "explanation_wrong": {
+          "to": "Обычно the station.",
+          "-": "Нужен предлог."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 71,
+    "level": "A1",
+    "topic": "general meaning no article",
+    "title_ru": "I like music / I hate exams",
+    "explanation_ru": "Когда говорим о вещах вообще, часто не используем the: I like music, Dogs are friendly, I hate exams. The нужен, если речь о конкретных вещах.",
+    "formula": "general plural/uncountable: no the\nspecific: the",
+    "examples": [
+      {
+        "en": "I like music.",
+        "ru": "Я люблю музыку вообще.",
+        "note": "music general."
+      },
+      {
+        "en": "Dogs are friendly.",
+        "ru": "Собаки дружелюбные.",
+        "note": "dogs in general."
+      },
+      {
+        "en": "The dogs in this house are noisy.",
+        "ru": "Собаки в этом доме шумные.",
+        "note": "specific dogs."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I like the music.",
+        "correct": "I like music.",
+        "explanation": "Если музыка вообще — без the."
+      },
+      {
+        "wrong": "The dogs are friendly.",
+        "correct": "Dogs are friendly.",
+        "explanation": "Если собаки вообще — без the."
+      },
+      {
+        "wrong": "I hate the exams.",
+        "correct": "I hate exams.",
+        "explanation": "Если экзамены вообще — без the."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I like ___ coffee.",
+        "options": [
+          "-",
+          "the",
+          "a"
+        ],
+        "correct_answer": "-",
+        "explanation_correct": "Coffee in general.",
+        "explanation_wrong": {
+          "the": "The coffee = конкретный кофе.",
+          "a": "coffee uncountable."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ cats are independent.",
+        "options": [
+          "-",
+          "The",
+          "A"
+        ],
+        "correct_answer": "-",
+        "explanation_correct": "Cats in general.",
+        "explanation_wrong": {
+          "The": "The cats = конкретные коты.",
+          "A": "A cat singular general possible, but plural general = cats."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I hate ___ exams.",
+        "options": [
+          "-",
+          "the",
+          "an"
+        ],
+        "correct_answer": "-",
+        "explanation_correct": "Exams in general.",
+        "explanation_wrong": {
+          "the": "The exams = конкретные экзамены.",
+          "an": "exams plural."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ coffee in this café is good.",
+        "options": [
+          "The",
+          "-",
+          "A"
+        ],
+        "correct_answer": "The",
+        "explanation_correct": "Specific coffee in this café.",
+        "explanation_wrong": {
+          "-": "Есть уточнение, кофе конкретный.",
+          "A": "coffee uncountable."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She loves ___ animals.",
+        "options": [
+          "-",
+          "the",
+          "an"
+        ],
+        "correct_answer": "-",
+        "explanation_correct": "Animals in general.",
+        "explanation_wrong": {
+          "the": "The animals = конкретные животные.",
+          "an": "animals plural."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ animals in this zoo look healthy.",
+        "options": [
+          "The",
+          "-",
+          "A"
+        ],
+        "correct_answer": "The",
+        "explanation_correct": "Specific animals in this zoo.",
+        "explanation_wrong": {
+          "-": "С уточнением specific лучше the.",
+          "A": "Plural."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I like Italian food.",
+          "I like the Italian food.",
+          "I like an Italian food."
+        ],
+        "correct_answer": "I like Italian food.",
+        "explanation_correct": "Food in general/type of food без the.",
+        "explanation_wrong": {
+          "I like the Italian food.": "Только если конкретная еда.",
+          "I like an Italian food.": "Food uncountable."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Children need ___ sleep.",
+        "options": [
+          "-",
+          "the",
+          "a"
+        ],
+        "correct_answer": "-",
+        "explanation_correct": "Sleep as general uncountable noun.",
+        "explanation_wrong": {
+          "the": "Specific sleep, не здесь.",
+          "a": "Sleep uncountable."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 72,
+    "level": "A2",
+    "topic": "names of places",
+    "title_ru": "The with names of places",
+    "explanation_ru": "С названиями мест артикль зависит от типа названия. Обычно страны и города без the: France, London. Но группы островов, реки, моря, океаны и некоторые страны — с the.",
+    "formula": "no the: most countries/cities\n the: rivers/seas/oceans, plural names, the UK, the USA",
+    "examples": [
+      {
+        "en": "I live in London.",
+        "ru": "Я живу в Лондоне.",
+        "note": "City no the."
+      },
+      {
+        "en": "France is in Europe.",
+        "ru": "Франция в Европе.",
+        "note": "Most countries no the."
+      },
+      {
+        "en": "The Thames is a river.",
+        "ru": "Темза — река.",
+        "note": "Rivers with the."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "the France",
+        "correct": "France",
+        "explanation": "Most countries without the."
+      },
+      {
+        "wrong": "the London",
+        "correct": "London",
+        "explanation": "Cities without the."
+      },
+      {
+        "wrong": "Amazon is a river.",
+        "correct": "The Amazon is a river.",
+        "explanation": "Rivers with the."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I live in ___ Germany.",
+        "options": [
+          "-",
+          "the",
+          "a"
+        ],
+        "correct_answer": "-",
+        "explanation_correct": "Most countries no the.",
+        "explanation_wrong": {
+          "the": "Не the Germany.",
+          "a": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ United States is large.",
+        "options": [
+          "The",
+          "-",
+          "A"
+        ],
+        "correct_answer": "The",
+        "explanation_correct": "the United States.",
+        "explanation_wrong": {
+          "-": "United States требует the.",
+          "A": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Paris is in ___ France.",
+        "options": [
+          "-",
+          "the",
+          "a"
+        ],
+        "correct_answer": "-",
+        "explanation_correct": "France without the.",
+        "explanation_wrong": {
+          "the": "Не the France.",
+          "a": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ Nile is a river.",
+        "options": [
+          "The",
+          "-",
+          "A"
+        ],
+        "correct_answer": "The",
+        "explanation_correct": "Rivers use the.",
+        "explanation_wrong": {
+          "-": "Нужен the.",
+          "A": "Не river name."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They crossed ___ Atlantic.",
+        "options": [
+          "the",
+          "-",
+          "a"
+        ],
+        "correct_answer": "the",
+        "explanation_correct": "Oceans use the.",
+        "explanation_wrong": {
+          "-": "Нужен the.",
+          "a": "Не для названия океана."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He lives in ___ Netherlands.",
+        "options": [
+          "the",
+          "-",
+          "a"
+        ],
+        "correct_answer": "the",
+        "explanation_correct": "the Netherlands.",
+        "explanation_wrong": {
+          "-": "Netherlands требует the.",
+          "a": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I visited Italy.",
+          "I visited the Italy.",
+          "I visited an Italy."
+        ],
+        "correct_answer": "I visited Italy.",
+        "explanation_correct": "Most country names no the.",
+        "explanation_wrong": {
+          "I visited the Italy.": "Неверно.",
+          "I visited an Italy.": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ Alps are beautiful.",
+        "options": [
+          "The",
+          "-",
+          "A"
+        ],
+        "correct_answer": "The",
+        "explanation_correct": "Mountain ranges plural use the.",
+        "explanation_wrong": {
+          "-": "Нужен the.",
+          "A": "Plural name."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 73,
+    "level": "A1",
+    "topic": "this that these those",
+    "title_ru": "This / that / these / those",
+    "explanation_ru": "This/these — близко. That/those — далеко. This/that для единственного числа, these/those для множественного.",
+    "formula": "near singular: this\nfar singular: that\nnear plural: these\nfar plural: those",
+    "examples": [
+      {
+        "en": "This book is mine.",
+        "ru": "Эта книга моя.",
+        "note": "near, singular."
+      },
+      {
+        "en": "That house is old.",
+        "ru": "Тот дом старый.",
+        "note": "far, singular."
+      },
+      {
+        "en": "These shoes are new.",
+        "ru": "Эти туфли новые.",
+        "note": "near, plural."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "This shoes are new.",
+        "correct": "These shoes are new.",
+        "explanation": "Shoes plural → these."
+      },
+      {
+        "wrong": "These book is mine.",
+        "correct": "This book is mine.",
+        "explanation": "Book singular → this."
+      },
+      {
+        "wrong": "Those car is red.",
+        "correct": "That car is red.",
+        "explanation": "Car singular → that."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "___ book is interesting.",
+        "options": [
+          "This",
+          "These",
+          "Those"
+        ],
+        "correct_answer": "This",
+        "explanation_correct": "Book singular, near.",
+        "explanation_wrong": {
+          "These": "These + plural.",
+          "Those": "Those + plural/far."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ shoes are expensive.",
+        "options": [
+          "These",
+          "This",
+          "That"
+        ],
+        "correct_answer": "These",
+        "explanation_correct": "Shoes plural.",
+        "explanation_wrong": {
+          "This": "This + singular.",
+          "That": "That + singular."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ man over there is my teacher.",
+        "options": [
+          "That",
+          "This",
+          "These"
+        ],
+        "correct_answer": "That",
+        "explanation_correct": "Over there = far, singular.",
+        "explanation_wrong": {
+          "This": "This = near.",
+          "These": "Plural."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ flowers are beautiful.",
+        "options": [
+          "Those",
+          "That",
+          "This"
+        ],
+        "correct_answer": "Those",
+        "explanation_correct": "Flowers plural, far.",
+        "explanation_wrong": {
+          "That": "Singular.",
+          "This": "Singular near."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "What is ___?",
+        "options": [
+          "this",
+          "these",
+          "those"
+        ],
+        "correct_answer": "this",
+        "explanation_correct": "Singular object.",
+        "explanation_wrong": {
+          "these": "Plural.",
+          "those": "Plural."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Who are ___ people?",
+        "options": [
+          "those",
+          "that",
+          "this"
+        ],
+        "correct_answer": "those",
+        "explanation_correct": "People plural.",
+        "explanation_wrong": {
+          "that": "Singular.",
+          "this": "Singular."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "These are my keys.",
+          "This are my keys.",
+          "That are my keys."
+        ],
+        "correct_answer": "These are my keys.",
+        "explanation_correct": "Keys plural → these.",
+        "explanation_wrong": {
+          "This are my keys.": "This singular.",
+          "That are my keys.": "That singular."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ is my friend Anna.",
+        "options": [
+          "This",
+          "These",
+          "Those"
+        ],
+        "correct_answer": "This",
+        "explanation_correct": "Introducing one person near you: This is...",
+        "explanation_wrong": {
+          "These": "Plural.",
+          "Those": "Plural/far."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 74,
+    "level": "A2",
+    "topic": "one ones",
+    "title_ru": "One / ones",
+    "explanation_ru": "One/ones заменяют уже названное существительное, чтобы не повторять его. One — для единственного числа, ones — для множественного.",
+    "formula": "singular: one\nplural: ones",
+    "examples": [
+      {
+        "en": "I need a pen. Do you have one?",
+        "ru": "Мне нужна ручка. У тебя есть одна?",
+        "note": "one = a pen."
+      },
+      {
+        "en": "Which shoes do you like? The black ones.",
+        "ru": "Какие туфли тебе нравятся? Чёрные.",
+        "note": "ones = shoes."
+      },
+      {
+        "en": "This one is cheaper.",
+        "ru": "Этот дешевле.",
+        "note": "one replaces noun."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "Do you have pen? I need one pen.",
+        "correct": "Do you have a pen? I need one.",
+        "explanation": "Не повторяем noun."
+      },
+      {
+        "wrong": "The black one shoes.",
+        "correct": "The black ones.",
+        "explanation": "Для plural используем ones."
+      },
+      {
+        "wrong": "I like these one.",
+        "correct": "I like this one / these ones.",
+        "explanation": "these требует ones."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I don't have a phone. I need ___.",
+        "options": [
+          "one",
+          "ones",
+          "it"
+        ],
+        "correct_answer": "one",
+        "explanation_correct": "One = a phone.",
+        "explanation_wrong": {
+          "ones": "Plural.",
+          "it": "it = конкретный телефон, не любой."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Which apples do you want? The red ___.",
+        "options": [
+          "ones",
+          "one",
+          "it"
+        ],
+        "correct_answer": "ones",
+        "explanation_correct": "Apples plural → ones.",
+        "explanation_wrong": {
+          "one": "singular.",
+          "it": "Не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "This ___ is too expensive.",
+        "options": [
+          "one",
+          "ones",
+          "it"
+        ],
+        "correct_answer": "one",
+        "explanation_correct": "This one.",
+        "explanation_wrong": {
+          "ones": "This singular.",
+          "it": "Could be, but after this use one."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Those ___ are nice.",
+        "options": [
+          "ones",
+          "one",
+          "it"
+        ],
+        "correct_answer": "ones",
+        "explanation_correct": "Those plural → ones.",
+        "explanation_wrong": {
+          "one": "singular.",
+          "it": "singular."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I like the blue ___.",
+        "options": [
+          "one",
+          "ones",
+          "it"
+        ],
+        "correct_answer": "one",
+        "explanation_correct": "If referring to one item.",
+        "explanation_wrong": {
+          "ones": "Если plural, но здесь one item.",
+          "it": "Не с adjective blue here."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "These ___ are cheaper.",
+        "options": [
+          "ones",
+          "one",
+          "it"
+        ],
+        "correct_answer": "ones",
+        "explanation_correct": "These + ones.",
+        "explanation_wrong": {
+          "one": "These plural.",
+          "it": "singular."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I like the small ones.",
+          "I like the small one shoes.",
+          "I like the smalls."
+        ],
+        "correct_answer": "I like the small ones.",
+        "explanation_correct": "Ones replaces plural noun.",
+        "explanation_wrong": {
+          "I like the small one shoes.": "Неверная структура.",
+          "I like the smalls.": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Do you want this ___ or that ___?",
+        "options": [
+          "one / one",
+          "ones / ones",
+          "it / it"
+        ],
+        "correct_answer": "one / one",
+        "explanation_correct": "This/that singular item.",
+        "explanation_wrong": {
+          "ones / ones": "Plural.",
+          "it / it": "Не после this/that в такой структуре."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 75,
+    "level": "A1",
+    "topic": "some and any",
+    "title_ru": "Some and any",
+    "explanation_ru": "Some обычно используется в утверждениях, any — в вопросах и отрицаниях. Оба могут использоваться с plural nouns и uncountable nouns.",
+    "formula": "positive: some\nnegative/question: any",
+    "examples": [
+      {
+        "en": "I have some money.",
+        "ru": "У меня есть немного денег.",
+        "note": "positive."
+      },
+      {
+        "en": "Do you have any money?",
+        "ru": "У тебя есть деньги?",
+        "note": "question."
+      },
+      {
+        "en": "I don't have any money.",
+        "ru": "У меня нет денег.",
+        "note": "negative."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I don't have some money.",
+        "correct": "I don't have any money.",
+        "explanation": "В отрицании обычно any."
+      },
+      {
+        "wrong": "Do you have some questions?",
+        "correct": "Do you have any questions?",
+        "explanation": "В обычном вопросе any."
+      },
+      {
+        "wrong": "I have any friends.",
+        "correct": "I have some friends.",
+        "explanation": "В утверждении some."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I have ___ friends.",
+        "options": [
+          "some",
+          "any",
+          "a"
+        ],
+        "correct_answer": "some",
+        "explanation_correct": "Positive statement.",
+        "explanation_wrong": {
+          "any": "Обычно в отрицаниях/вопросах.",
+          "a": "friends plural."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Do you have ___ questions?",
+        "options": [
+          "any",
+          "some",
+          "a"
+        ],
+        "correct_answer": "any",
+        "explanation_correct": "Question.",
+        "explanation_wrong": {
+          "some": "Возможно в предложении, но обычный вопрос = any.",
+          "a": "questions plural."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I don't have ___ money.",
+        "options": [
+          "any",
+          "some",
+          "a"
+        ],
+        "correct_answer": "any",
+        "explanation_correct": "Negative.",
+        "explanation_wrong": {
+          "some": "В отрицании обычно any.",
+          "a": "money uncountable."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There is ___ milk in the fridge.",
+        "options": [
+          "some",
+          "any",
+          "a"
+        ],
+        "correct_answer": "some",
+        "explanation_correct": "Positive + uncountable.",
+        "explanation_wrong": {
+          "any": "Обычно question/negative.",
+          "a": "milk uncountable."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Are there ___ shops near here?",
+        "options": [
+          "any",
+          "some",
+          "a"
+        ],
+        "correct_answer": "any",
+        "explanation_correct": "Question + plural.",
+        "explanation_wrong": {
+          "some": "Обычный вопрос = any.",
+          "a": "shops plural."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We didn't buy ___ bread.",
+        "options": [
+          "any",
+          "some",
+          "a"
+        ],
+        "correct_answer": "any",
+        "explanation_correct": "Negative.",
+        "explanation_wrong": {
+          "some": "В отрицании обычно any.",
+          "a": "bread uncountable."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I need some water.",
+          "I need any water.",
+          "I need a water."
+        ],
+        "correct_answer": "I need some water.",
+        "explanation_correct": "Positive + uncountable.",
+        "explanation_wrong": {
+          "I need any water.": "Any обычно не в положительном утверждении.",
+          "I need a water.": "Water uncountable."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Would you like ___ tea?",
+        "options": [
+          "some",
+          "any",
+          "a"
+        ],
+        "correct_answer": "some",
+        "explanation_correct": "В предложениях/угощении часто some.",
+        "explanation_wrong": {
+          "any": "Неестественно в предложении.",
+          "a": "tea uncountable."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 76,
+    "level": "A1",
+    "topic": "not any no none",
+    "title_ru": "Not any / no / none",
+    "explanation_ru": "Not any и no часто означают одно и то же: I don't have any money = I have no money. None используется без существительного: None of them.",
+    "formula": "not any + noun\nno + noun\nnone = not one / not any",
+    "examples": [
+      {
+        "en": "I don't have any money.",
+        "ru": "У меня нет денег.",
+        "note": "not any."
+      },
+      {
+        "en": "I have no money.",
+        "ru": "У меня нет денег.",
+        "note": "no + noun."
+      },
+      {
+        "en": "None of my friends came.",
+        "ru": "Никто из друзей не пришёл.",
+        "note": "none of."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I don't have no money.",
+        "correct": "I don't have any money / I have no money.",
+        "explanation": "Не делаем двойное отрицание."
+      },
+      {
+        "wrong": "I have not money.",
+        "correct": "I have no money / I don't have any money.",
+        "explanation": "Нужен no или don't have any."
+      },
+      {
+        "wrong": "No of them came.",
+        "correct": "None of them came.",
+        "explanation": "Без noun используем none."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I don't have ___ time.",
+        "options": [
+          "any",
+          "no",
+          "none"
+        ],
+        "correct_answer": "any",
+        "explanation_correct": "Don't have any.",
+        "explanation_wrong": {
+          "no": "I have no time, но не don't have no.",
+          "none": "None без noun."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I have ___ time.",
+        "options": [
+          "no",
+          "any",
+          "none"
+        ],
+        "correct_answer": "no",
+        "explanation_correct": "Have no time.",
+        "explanation_wrong": {
+          "any": "В положительной форме any не подходит здесь.",
+          "none": "None без noun."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ of them answered.",
+        "options": [
+          "None",
+          "No",
+          "Any"
+        ],
+        "correct_answer": "None",
+        "explanation_correct": "None of them.",
+        "explanation_wrong": {
+          "No": "No + noun.",
+          "Any": "Не в этой структуре."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There aren't ___ chairs.",
+        "options": [
+          "any",
+          "no",
+          "none"
+        ],
+        "correct_answer": "any",
+        "explanation_correct": "There aren't any.",
+        "explanation_wrong": {
+          "no": "Не aren't no.",
+          "none": "None без noun."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There are ___ chairs.",
+        "options": [
+          "no",
+          "any",
+          "none"
+        ],
+        "correct_answer": "no",
+        "explanation_correct": "There are no chairs.",
+        "explanation_wrong": {
+          "any": "В утверждении не этот смысл.",
+          "none": "None без noun."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I saw ___ people.",
+        "options": [
+          "no",
+          "none",
+          "any"
+        ],
+        "correct_answer": "no",
+        "explanation_correct": "Saw no people = не видел людей.",
+        "explanation_wrong": {
+          "none": "None без noun.",
+          "any": "I didn't see any people."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I don't know any of them.",
+          "I don't know no of them.",
+          "I know none them."
+        ],
+        "correct_answer": "I don't know any of them.",
+        "explanation_correct": "After don't use any.",
+        "explanation_wrong": {
+          "I don't know no of them.": "Двойное отрицание.",
+          "I know none them.": "Нужно none of them."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "How many tickets are left? ___.",
+        "options": [
+          "None",
+          "No",
+          "Any"
+        ],
+        "correct_answer": "None",
+        "explanation_correct": "None = ни одного.",
+        "explanation_wrong": {
+          "No": "No требует noun.",
+          "Any": "Не ответ."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 77,
+    "level": "A2",
+    "topic": "anybody nobody nothing",
+    "title_ru": "Anybody / nobody / nothing",
+    "explanation_ru": "Anybody/anyone/anything обычно используются в вопросах и отрицаниях. Nobody/no-one/nothing уже содержат отрицание, поэтому don't/doesn't с ними обычно не нужен.",
+    "formula": "not + anybody/anything\nnobody/no-one/nothing + positive verb",
+    "examples": [
+      {
+        "en": "I don't know anybody.",
+        "ru": "Я никого не знаю.",
+        "note": "not + anybody."
+      },
+      {
+        "en": "Nobody knows.",
+        "ru": "Никто не знает.",
+        "note": "nobody + positive verb."
+      },
+      {
+        "en": "There is nothing in the bag.",
+        "ru": "В сумке ничего нет.",
+        "note": "nothing уже отрицательное."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I don't know nobody.",
+        "correct": "I don't know anybody / I know nobody.",
+        "explanation": "Двойное отрицание."
+      },
+      {
+        "wrong": "Nobody doesn't know.",
+        "correct": "Nobody knows.",
+        "explanation": "Nobody уже отрицательное."
+      },
+      {
+        "wrong": "I didn't see nothing.",
+        "correct": "I didn't see anything / I saw nothing.",
+        "explanation": "Двойное отрицание."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I don't know ___.",
+        "options": [
+          "anybody",
+          "nobody",
+          "somebody"
+        ],
+        "correct_answer": "anybody",
+        "explanation_correct": "Negative + anybody.",
+        "explanation_wrong": {
+          "nobody": "Не don't know nobody.",
+          "somebody": "somebody = кто-то."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ called me.",
+        "options": [
+          "Nobody",
+          "Anybody",
+          "Nothing"
+        ],
+        "correct_answer": "Nobody",
+        "explanation_correct": "Nobody = никто.",
+        "explanation_wrong": {
+          "Anybody": "Anybody in positive = кто угодно, не здесь.",
+          "Nothing": "Не про человека."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I didn't buy ___.",
+        "options": [
+          "anything",
+          "nothing",
+          "something"
+        ],
+        "correct_answer": "anything",
+        "explanation_correct": "Negative + anything.",
+        "explanation_wrong": {
+          "nothing": "Не didn't buy nothing.",
+          "something": "something = что-то."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There is ___ in the box.",
+        "options": [
+          "nothing",
+          "anything",
+          "anybody"
+        ],
+        "correct_answer": "nothing",
+        "explanation_correct": "Nothing = ничего нет.",
+        "explanation_wrong": {
+          "anything": "В положительном утверждении иной смысл.",
+          "anybody": "Про людей."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Did you see ___?",
+        "options": [
+          "anybody",
+          "nobody",
+          "nothing"
+        ],
+        "correct_answer": "anybody",
+        "explanation_correct": "Question + anybody.",
+        "explanation_wrong": {
+          "nobody": "В вопросе обычно anybody.",
+          "nothing": "Для вещей, не людей."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ wants to help.",
+        "options": [
+          "Nobody",
+          "Anybody",
+          "Nothing"
+        ],
+        "correct_answer": "Nobody",
+        "explanation_correct": "Nobody + positive verb.",
+        "explanation_wrong": {
+          "Anybody": "Anybody wants = любой хочет, другой смысл.",
+          "Nothing": "Не человек."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I didn't say anything.",
+          "I didn't say nothing.",
+          "I said anything."
+        ],
+        "correct_answer": "I didn't say anything.",
+        "explanation_correct": "Negative + anything.",
+        "explanation_wrong": {
+          "I didn't say nothing.": "Двойное отрицание.",
+          "I said anything.": "Неестественно для «что-то»."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I saw ___.",
+        "options": [
+          "nothing",
+          "anything",
+          "anybody"
+        ],
+        "correct_answer": "nothing",
+        "explanation_correct": "I saw nothing = ничего не видел.",
+        "explanation_wrong": {
+          "anything": "В positive обычно не этот смысл.",
+          "anybody": "Про людей."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 78,
+    "level": "A2",
+    "topic": "somebody anybody nowhere",
+    "title_ru": "Somebody / anything / nowhere",
+    "explanation_ru": "Some-, any-, no-, every- образуют слова: somebody, anything, nowhere, everywhere. Some- обычно в утверждениях, any- в вопросах/отрицаниях, no- уже отрицание.",
+    "formula": "somebody/something/somewhere\nanybody/anything/anywhere\nnobody/nothing/nowhere\neverybody/everything/everywhere",
+    "examples": [
+      {
+        "en": "Somebody is at the door.",
+        "ru": "Кто-то у двери.",
+        "note": "somebody in positive."
+      },
+      {
+        "en": "Do you know anybody here?",
+        "ru": "Ты кого-нибудь здесь знаешь?",
+        "note": "anybody in question."
+      },
+      {
+        "en": "We went nowhere.",
+        "ru": "Мы никуда не пошли.",
+        "note": "nowhere already negative."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I didn't go nowhere.",
+        "correct": "I didn't go anywhere / I went nowhere.",
+        "explanation": "Двойное отрицание."
+      },
+      {
+        "wrong": "Do you know somebody?",
+        "correct": "Do you know anybody?",
+        "explanation": "В обычном вопросе anybody."
+      },
+      {
+        "wrong": "Somebody didn't come.",
+        "correct": "Nobody came.",
+        "explanation": "Для «никто не пришёл» лучше nobody came."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "___ is calling you.",
+        "options": [
+          "Somebody",
+          "Anybody",
+          "Nobody"
+        ],
+        "correct_answer": "Somebody",
+        "explanation_correct": "Кто-то звонит.",
+        "explanation_wrong": {
+          "Anybody": "В positive = кто угодно.",
+          "Nobody": "Никто не звонит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Do you need ___?",
+        "options": [
+          "anything",
+          "something",
+          "nothing"
+        ],
+        "correct_answer": "anything",
+        "explanation_correct": "Question + anything.",
+        "explanation_wrong": {
+          "something": "Возможен в предложении, но обычный вопрос = anything.",
+          "nothing": "Не вопрос."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I can't find it ___.",
+        "options": [
+          "anywhere",
+          "somewhere",
+          "nowhere"
+        ],
+        "correct_answer": "anywhere",
+        "explanation_correct": "Negative + anywhere.",
+        "explanation_wrong": {
+          "somewhere": "somewhere = где-то.",
+          "nowhere": "Не can't find nowhere."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We went ___.",
+        "options": [
+          "nowhere",
+          "anywhere",
+          "somewhere"
+        ],
+        "correct_answer": "nowhere",
+        "explanation_correct": "Went nowhere = никуда.",
+        "explanation_wrong": {
+          "anywhere": "В positive другой смысл.",
+          "somewhere": "Где-то/куда-то."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ is ready.",
+        "options": [
+          "Everything",
+          "Anything",
+          "Nothing"
+        ],
+        "correct_answer": "Everything",
+        "explanation_correct": "Everything is ready.",
+        "explanation_wrong": {
+          "Anything": "Anything is ready = что угодно готово, странно.",
+          "Nothing": "Ничего не готово."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I want to go ___.",
+        "options": [
+          "somewhere",
+          "anywhere",
+          "nowhere"
+        ],
+        "correct_answer": "somewhere",
+        "explanation_correct": "Куда-нибудь/куда-то в positive.",
+        "explanation_wrong": {
+          "anywhere": "Возможен, но значит «куда угодно».",
+          "nowhere": "Смысл противоположный."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I don't know anyone here.",
+          "I don't know no-one here.",
+          "I know anyone here."
+        ],
+        "correct_answer": "I don't know anyone here.",
+        "explanation_correct": "Negative + anyone.",
+        "explanation_wrong": {
+          "I don't know no-one here.": "Двойное отрицание.",
+          "I know anyone here.": "Не для «кого-то»."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There is ___ to sit.",
+        "options": [
+          "nowhere",
+          "anywhere",
+          "somewhere"
+        ],
+        "correct_answer": "nowhere",
+        "explanation_correct": "Nowhere to sit = негде сесть.",
+        "explanation_wrong": {
+          "anywhere": "В positive другой смысл.",
+          "somewhere": "Есть где-то сесть."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 79,
+    "level": "A1",
+    "topic": "every and all",
+    "title_ru": "Every and all",
+    "explanation_ru": "Every говорит о каждом отдельном элементе группы и используется с singular noun. All говорит о всей группе вместе и используется с plural/uncountable.",
+    "formula": "every + singular noun\nall + plural noun / uncountable noun",
+    "examples": [
+      {
+        "en": "Every student has a book.",
+        "ru": "У каждого студента есть книга.",
+        "note": "Every + singular."
+      },
+      {
+        "en": "All students have books.",
+        "ru": "Все студенты имеют книги.",
+        "note": "All + plural."
+      },
+      {
+        "en": "I worked all day.",
+        "ru": "Я работал весь день.",
+        "note": "all + time period."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "Every students",
+        "correct": "Every student",
+        "explanation": "Every + singular noun."
+      },
+      {
+        "wrong": "All student",
+        "correct": "All students",
+        "explanation": "All + plural."
+      },
+      {
+        "wrong": "Every day all",
+        "correct": "All day",
+        "explanation": "Устойчиво: all day."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "___ student must register.",
+        "options": [
+          "Every",
+          "All",
+          "Any"
+        ],
+        "correct_answer": "Every",
+        "explanation_correct": "Every + singular student.",
+        "explanation_wrong": {
+          "All": "All students plural.",
+          "Any": "Любой, другой смысл."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ students must register.",
+        "options": [
+          "All",
+          "Every",
+          "Each"
+        ],
+        "correct_answer": "All",
+        "explanation_correct": "All + plural.",
+        "explanation_wrong": {
+          "Every": "Every student singular.",
+          "Each": "Each student singular."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I was tired ___ day.",
+        "options": [
+          "all",
+          "every",
+          "any"
+        ],
+        "correct_answer": "all",
+        "explanation_correct": "All day = весь день.",
+        "explanation_wrong": {
+          "every": "Every day = каждый день.",
+          "any": "Не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She goes running ___ morning.",
+        "options": [
+          "every",
+          "all",
+          "any"
+        ],
+        "correct_answer": "every",
+        "explanation_correct": "Every morning = каждое утро.",
+        "explanation_wrong": {
+          "all": "All morning = всё утро, другой смысл.",
+          "any": "Не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ my friends came.",
+        "options": [
+          "All",
+          "Every",
+          "Each"
+        ],
+        "correct_answer": "All",
+        "explanation_correct": "All my friends.",
+        "explanation_wrong": {
+          "Every": "Every one of my friends, не every my friends.",
+          "Each": "Each of my friends."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I read ___ the book.",
+        "options": [
+          "all",
+          "every",
+          "any"
+        ],
+        "correct_answer": "all",
+        "explanation_correct": "All the book = всю книгу.",
+        "explanation_wrong": {
+          "every": "Every book = каждая книга.",
+          "any": "Не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "Every child needs love.",
+          "Every children need love.",
+          "All child needs love."
+        ],
+        "correct_answer": "Every child needs love.",
+        "explanation_correct": "Every + singular.",
+        "explanation_wrong": {
+          "Every children need love.": "Every требует singular.",
+          "All child needs love.": "All требует plural: all children."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We waited ___ evening.",
+        "options": [
+          "all",
+          "every",
+          "any"
+        ],
+        "correct_answer": "all",
+        "explanation_correct": "All evening = весь вечер.",
+        "explanation_wrong": {
+          "every": "Every evening = каждый вечер.",
+          "any": "Не подходит."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 80,
+    "level": "A2",
+    "topic": "all most some any no none",
+    "title_ru": "All / most / some / any / no / none",
+    "explanation_ru": "Эти слова показывают количество в группе: all = все, most = большинство, some = некоторые, any = какие-нибудь/никакие в вопросах/отрицаниях, no = никакие, none = ни один.",
+    "formula": "all/most/some/any/no + noun\nnone of + pronoun/determiner",
+    "examples": [
+      {
+        "en": "All students passed.",
+        "ru": "Все студенты сдали.",
+        "note": "all + plural."
+      },
+      {
+        "en": "Most people like music.",
+        "ru": "Большинство людей любит музыку.",
+        "note": "most + plural."
+      },
+      {
+        "en": "None of them came.",
+        "ru": "Никто из них не пришёл.",
+        "note": "none of."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "Most of people",
+        "correct": "Most people / Most of the people",
+        "explanation": "Без the говорим most people."
+      },
+      {
+        "wrong": "None students came.",
+        "correct": "No students came / None of the students came.",
+        "explanation": "None обычно без noun или none of."
+      },
+      {
+        "wrong": "All of students",
+        "correct": "All students / All of the students",
+        "explanation": "Нужен the после of."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "___ people like holidays.",
+        "options": [
+          "Most",
+          "Most of",
+          "None"
+        ],
+        "correct_answer": "Most",
+        "explanation_correct": "Most people без of.",
+        "explanation_wrong": {
+          "Most of": "Нужно most of the people.",
+          "None": "None people неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ my friends live here.",
+        "options": [
+          "Some of",
+          "Some",
+          "Any of"
+        ],
+        "correct_answer": "Some of",
+        "explanation_correct": "Перед my используем some of my.",
+        "explanation_wrong": {
+          "Some": "Some my friends неверно.",
+          "Any of": "В утверждении не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ students failed.",
+        "options": [
+          "No",
+          "None",
+          "Any"
+        ],
+        "correct_answer": "No",
+        "explanation_correct": "No + noun.",
+        "explanation_wrong": {
+          "None": "None of the students.",
+          "Any": "Не в positive с этим смыслом."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ of them answered.",
+        "options": [
+          "None",
+          "No",
+          "Any"
+        ],
+        "correct_answer": "None",
+        "explanation_correct": "None of them.",
+        "explanation_wrong": {
+          "No": "No + noun.",
+          "Any": "Не этот смысл."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Do you know ___ of these people?",
+        "options": [
+          "any",
+          "no",
+          "none"
+        ],
+        "correct_answer": "any",
+        "explanation_correct": "Question + any of.",
+        "explanation_wrong": {
+          "no": "Do you know no... не базово.",
+          "none": "None не в вопросе так."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ the money is gone.",
+        "options": [
+          "All",
+          "Every",
+          "Most of"
+        ],
+        "correct_answer": "All",
+        "explanation_correct": "All the money.",
+        "explanation_wrong": {
+          "Every": "Money uncountable.",
+          "Most of": "Most of the money, но не all."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "Most people work.",
+          "Most of people work.",
+          "None people work."
+        ],
+        "correct_answer": "Most people work.",
+        "explanation_correct": "Most + plural noun.",
+        "explanation_wrong": {
+          "Most of people work.": "Нужно most of the people.",
+          "None people work.": "Нужно no people или none of."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ of the shops were closed.",
+        "options": [
+          "Some",
+          "Any",
+          "No"
+        ],
+        "correct_answer": "Some",
+        "explanation_correct": "Some of the shops.",
+        "explanation_wrong": {
+          "Any": "В вопросах/отрицаниях чаще.",
+          "No": "No of неверно."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 81,
+    "level": "A2",
+    "topic": "both either neither",
+    "title_ru": "Both / either / neither",
+    "explanation_ru": "Both = оба. Either = любой из двух / один или другой. Neither = ни один из двух. Эти слова используются, когда речь именно о двух людях/предметах.",
+    "formula": "both + plural\neither + singular\nneither + singular\nboth of / either of / neither of",
+    "examples": [
+      {
+        "en": "Both restaurants are good.",
+        "ru": "Оба ресторана хорошие.",
+        "note": "both + plural."
+      },
+      {
+        "en": "You can take either bus.",
+        "ru": "Можешь сесть на любой из двух автобусов.",
+        "note": "either."
+      },
+      {
+        "en": "Neither answer is correct.",
+        "ru": "Ни один ответ не правильный.",
+        "note": "neither."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "Both restaurant",
+        "correct": "Both restaurants",
+        "explanation": "Both + plural."
+      },
+      {
+        "wrong": "Neither answers are correct.",
+        "correct": "Neither answer is correct.",
+        "explanation": "Neither + singular."
+      },
+      {
+        "wrong": "Either of buses",
+        "correct": "Either of the buses",
+        "explanation": "После of нужен the/these/my etc."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "___ my parents are teachers.",
+        "options": [
+          "Both",
+          "Either",
+          "Neither"
+        ],
+        "correct_answer": "Both",
+        "explanation_correct": "Оба родителя.",
+        "explanation_wrong": {
+          "Either": "Любой один из двух.",
+          "Neither": "Ни один."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "You can use ___ computer.",
+        "options": [
+          "either",
+          "both",
+          "neither"
+        ],
+        "correct_answer": "either",
+        "explanation_correct": "Either computer = любой из двух.",
+        "explanation_wrong": {
+          "both": "both computers plural.",
+          "neither": "Ни один."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ answer is right.",
+        "options": [
+          "Neither",
+          "Both",
+          "All"
+        ],
+        "correct_answer": "Neither",
+        "explanation_correct": "Neither + singular, ни один из двух.",
+        "explanation_wrong": {
+          "Both": "Both answers are right.",
+          "All": "Для 3+."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Both of ___ are here.",
+        "options": [
+          "them",
+          "they",
+          "their"
+        ],
+        "correct_answer": "them",
+        "explanation_correct": "After of: object pronoun them.",
+        "explanation_wrong": {
+          "they": "После of нужна object form.",
+          "their": "their + noun."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Neither of us ___ ready.",
+        "options": [
+          "is",
+          "are",
+          "am"
+        ],
+        "correct_answer": "is",
+        "explanation_correct": "Neither usually singular.",
+        "explanation_wrong": {
+          "are": "Иногда встречается, но в базовой грамматике is.",
+          "am": "Subject neither, не I."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Either of these roads ___ to town.",
+        "options": [
+          "goes",
+          "go",
+          "going"
+        ],
+        "correct_answer": "goes",
+        "explanation_correct": "Either singular.",
+        "explanation_wrong": {
+          "go": "Either требует singular verb.",
+          "going": "Не та форма."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "Both books are interesting.",
+          "Both book is interesting.",
+          "Either books are interesting."
+        ],
+        "correct_answer": "Both books are interesting.",
+        "explanation_correct": "Both + plural.",
+        "explanation_wrong": {
+          "Both book is interesting.": "Both требует plural.",
+          "Either books are interesting.": "Either + singular."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I like ___ of them.",
+        "options": [
+          "both",
+          "either",
+          "neither"
+        ],
+        "correct_answer": "both",
+        "explanation_correct": "I like both = нравятся оба.",
+        "explanation_wrong": {
+          "either": "Either = любой один, смысл другой.",
+          "neither": "Neither = ни один."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 82,
+    "level": "A1",
+    "topic": "a lot much many",
+    "title_ru": "A lot / much / many",
+    "explanation_ru": "Many используется с исчисляемыми plural nouns, much — с неисчисляемыми nouns, a lot of — с обоими типами и звучит естественно в утверждениях.",
+    "formula": "many + plural countable\nmuch + uncountable\na lot of + both",
+    "examples": [
+      {
+        "en": "There are many people.",
+        "ru": "Здесь много людей.",
+        "note": "people countable plural."
+      },
+      {
+        "en": "I don't have much money.",
+        "ru": "У меня мало денег.",
+        "note": "money uncountable."
+      },
+      {
+        "en": "She has a lot of friends.",
+        "ru": "У неё много друзей.",
+        "note": "a lot of + plural."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "much people",
+        "correct": "many people",
+        "explanation": "People plural countable."
+      },
+      {
+        "wrong": "many money",
+        "correct": "much money",
+        "explanation": "Money uncountable."
+      },
+      {
+        "wrong": "a lot friends",
+        "correct": "a lot of friends",
+        "explanation": "Нужно of."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "There are ___ cars.",
+        "options": [
+          "many",
+          "much",
+          "a"
+        ],
+        "correct_answer": "many",
+        "explanation_correct": "Cars countable plural.",
+        "explanation_wrong": {
+          "much": "Much для uncountable.",
+          "a": "Cars plural."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I don't have ___ time.",
+        "options": [
+          "much",
+          "many",
+          "a"
+        ],
+        "correct_answer": "much",
+        "explanation_correct": "Time uncountable.",
+        "explanation_wrong": {
+          "many": "Many для plural countable.",
+          "a": "Time uncountable."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She has a lot ___ books.",
+        "options": [
+          "of",
+          "-",
+          "for"
+        ],
+        "correct_answer": "of",
+        "explanation_correct": "a lot of.",
+        "explanation_wrong": {
+          "-": "Не хватает of.",
+          "for": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Do you have ___ friends?",
+        "options": [
+          "many",
+          "much",
+          "a"
+        ],
+        "correct_answer": "many",
+        "explanation_correct": "Friends plural countable.",
+        "explanation_wrong": {
+          "much": "Much для uncountable.",
+          "a": "Friends plural."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There isn't ___ milk.",
+        "options": [
+          "much",
+          "many",
+          "a"
+        ],
+        "correct_answer": "much",
+        "explanation_correct": "Milk uncountable.",
+        "explanation_wrong": {
+          "many": "Many для plural countable.",
+          "a": "Milk uncountable."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We spent ___ money.",
+        "options": [
+          "a lot of",
+          "many",
+          "a"
+        ],
+        "correct_answer": "a lot of",
+        "explanation_correct": "A lot of works with uncountable money.",
+        "explanation_wrong": {
+          "many": "Money uncountable.",
+          "a": "Нельзя a money."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I have a lot of work.",
+          "I have many work.",
+          "I have a lot work."
+        ],
+        "correct_answer": "I have a lot of work.",
+        "explanation_correct": "Work uncountable, a lot of.",
+        "explanation_wrong": {
+          "I have many work.": "Work uncountable.",
+          "I have a lot work.": "Нужно of."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "How ___ people came?",
+        "options": [
+          "many",
+          "much",
+          "a lot"
+        ],
+        "correct_answer": "many",
+        "explanation_correct": "How many + plural countable.",
+        "explanation_wrong": {
+          "much": "Much for uncountable.",
+          "a lot": "Нужен a lot of, но question обычно how many."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 83,
+    "level": "A2",
+    "topic": "little few",
+    "title_ru": "A little / a few",
+    "explanation_ru": "A little используется с неисчисляемыми существительными: a little water. A few — с исчисляемыми plural nouns: a few friends. Little/few без a часто звучат как «мало, недостаточно».",
+    "formula": "a little + uncountable\na few + plural countable\nlittle/few = not much/not many",
+    "examples": [
+      {
+        "en": "I have a little money.",
+        "ru": "У меня есть немного денег.",
+        "note": "money uncountable."
+      },
+      {
+        "en": "I have a few friends.",
+        "ru": "У меня есть несколько друзей.",
+        "note": "friends plural."
+      },
+      {
+        "en": "There is little time.",
+        "ru": "Времени мало.",
+        "note": "недостаточно."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "a few money",
+        "correct": "a little money",
+        "explanation": "Money uncountable."
+      },
+      {
+        "wrong": "a little friends",
+        "correct": "a few friends",
+        "explanation": "Friends countable plural."
+      },
+      {
+        "wrong": "few water",
+        "correct": "little water",
+        "explanation": "Water uncountable."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I need ___ water.",
+        "options": [
+          "a little",
+          "a few",
+          "few"
+        ],
+        "correct_answer": "a little",
+        "explanation_correct": "Water uncountable.",
+        "explanation_wrong": {
+          "a few": "Few for plural countable.",
+          "few": "Few не с water."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She has ___ close friends.",
+        "options": [
+          "a few",
+          "a little",
+          "little"
+        ],
+        "correct_answer": "a few",
+        "explanation_correct": "Friends plural countable.",
+        "explanation_wrong": {
+          "a little": "Little for uncountable.",
+          "little": "Little not with plural countable."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There is ___ time left.",
+        "options": [
+          "little",
+          "few",
+          "a few"
+        ],
+        "correct_answer": "little",
+        "explanation_correct": "Time uncountable; little = мало.",
+        "explanation_wrong": {
+          "few": "Few for plural countable.",
+          "a few": "a few + plural."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There are ___ chairs in the room.",
+        "options": [
+          "a few",
+          "a little",
+          "little"
+        ],
+        "correct_answer": "a few",
+        "explanation_correct": "Chairs plural countable.",
+        "explanation_wrong": {
+          "a little": "Little for uncountable.",
+          "little": "Little not with plural chairs."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I speak ___ English.",
+        "options": [
+          "a little",
+          "a few",
+          "few"
+        ],
+        "correct_answer": "a little",
+        "explanation_correct": "English uncountable as language ability.",
+        "explanation_wrong": {
+          "a few": "Needs plural countable noun.",
+          "few": "Не с English."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He made ___ mistakes.",
+        "options": [
+          "a few",
+          "a little",
+          "little"
+        ],
+        "correct_answer": "a few",
+        "explanation_correct": "Mistakes plural countable.",
+        "explanation_wrong": {
+          "a little": "Little for uncountable.",
+          "little": "Not with plural mistakes."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I have a few questions.",
+          "I have a little questions.",
+          "I have a few money."
+        ],
+        "correct_answer": "I have a few questions.",
+        "explanation_correct": "Questions countable plural.",
+        "explanation_wrong": {
+          "I have a little questions.": "Questions plural → a few.",
+          "I have a few money.": "Money uncountable → a little."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There is ___ hope.",
+        "options": [
+          "little",
+          "few",
+          "a few"
+        ],
+        "correct_answer": "little",
+        "explanation_correct": "Hope uncountable.",
+        "explanation_wrong": {
+          "few": "Few for plural.",
+          "a few": "Needs plural countable noun."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 84,
+    "level": "A1",
+    "topic": "adjectives",
+    "title_ru": "Adjectives: old / nice / interesting",
+    "explanation_ru": "Прилагательные описывают существительные и обычно стоят перед noun или после be. В английском прилагательное не меняется по числу: a big house, big houses.",
+    "formula": "adjective + noun\nbe + adjective\nadjective does not take plural -s",
+    "examples": [
+      {
+        "en": "It's a big house.",
+        "ru": "Это большой дом.",
+        "note": "adjective before noun."
+      },
+      {
+        "en": "The house is big.",
+        "ru": "Дом большой.",
+        "note": "after be."
+      },
+      {
+        "en": "They are nice people.",
+        "ru": "Они хорошие люди.",
+        "note": "nice не меняется."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "a house big",
+        "correct": "a big house",
+        "explanation": "Adjective usually before noun."
+      },
+      {
+        "wrong": "bigs houses",
+        "correct": "big houses",
+        "explanation": "Adjective has no plural -s."
+      },
+      {
+        "wrong": "She is a beautiful.",
+        "correct": "She is beautiful / She is a beautiful woman.",
+        "explanation": "Adjective alone after be, or adjective + noun."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "It's a ___ car.",
+        "options": [
+          "new",
+          "newly",
+          "news"
+        ],
+        "correct_answer": "new",
+        "explanation_correct": "Adjective before noun.",
+        "explanation_wrong": {
+          "newly": "Adverb, not before car here.",
+          "news": "Noun."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The film was ___.",
+        "options": [
+          "interesting",
+          "interestingly",
+          "interest"
+        ],
+        "correct_answer": "interesting",
+        "explanation_correct": "After be use adjective.",
+        "explanation_wrong": {
+          "interestingly": "Adverb.",
+          "interest": "Noun/verb."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They are ___ people.",
+        "options": [
+          "nice",
+          "nices",
+          "nicely"
+        ],
+        "correct_answer": "nice",
+        "explanation_correct": "Adjective doesn't take plural -s.",
+        "explanation_wrong": {
+          "nices": "Adjectives don't pluralize.",
+          "nicely": "Adverb."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She has ___ hair.",
+        "options": [
+          "long",
+          "longs",
+          "longly"
+        ],
+        "correct_answer": "long",
+        "explanation_correct": "Adjective before noun.",
+        "explanation_wrong": {
+          "longs": "No plural -s.",
+          "longly": "Not correct here."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The food is ___.",
+        "options": [
+          "good",
+          "well",
+          "goodly"
+        ],
+        "correct_answer": "good",
+        "explanation_correct": "Adjective after be.",
+        "explanation_wrong": {
+          "well": "Adverb/health adjective; for food use good.",
+          "goodly": "Not correct here."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It was a ___ day.",
+        "options": [
+          "beautiful",
+          "beautifully",
+          "beauty"
+        ],
+        "correct_answer": "beautiful",
+        "explanation_correct": "Adjective + noun.",
+        "explanation_wrong": {
+          "beautifully": "Adverb.",
+          "beauty": "Noun."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "It's an expensive hotel.",
+          "It's a hotel expensive.",
+          "It's an expensives hotel."
+        ],
+        "correct_answer": "It's an expensive hotel.",
+        "explanation_correct": "Adjective before noun and no plural.",
+        "explanation_wrong": {
+          "It's a hotel expensive.": "Wrong word order.",
+          "It's an expensives hotel.": "Adjective doesn't pluralize."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "My shoes are ___.",
+        "options": [
+          "dirty",
+          "dirties",
+          "dirtily"
+        ],
+        "correct_answer": "dirty",
+        "explanation_correct": "Adjective after be.",
+        "explanation_wrong": {
+          "dirties": "Verb form.",
+          "dirtily": "Adverb."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 85,
+    "level": "A2",
+    "topic": "adverbs",
+    "title_ru": "Adverbs: quickly / badly / suddenly",
+    "explanation_ru": "Наречия описывают действие: как человек что-то делает. Часто образуются от adjective + -ly: quick → quickly. Но есть исключения: good → well, fast → fast.",
+    "formula": "adjective describes noun\nadverb describes verb\nquick → quickly\ngood → well",
+    "examples": [
+      {
+        "en": "She speaks quietly.",
+        "ru": "Она говорит тихо.",
+        "note": "How does she speak? quietly."
+      },
+      {
+        "en": "He drives fast.",
+        "ru": "Он быстро водит.",
+        "note": "fast = adjective and adverb."
+      },
+      {
+        "en": "She plays the piano well.",
+        "ru": "Она хорошо играет на пианино.",
+        "note": "good → well."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "She speaks quiet.",
+        "correct": "She speaks quietly.",
+        "explanation": "Verb speak needs adverb."
+      },
+      {
+        "wrong": "He plays good.",
+        "correct": "He plays well.",
+        "explanation": "Adverb from good = well."
+      },
+      {
+        "wrong": "She is beautifully.",
+        "correct": "She is beautiful.",
+        "explanation": "After be describe subject with adjective."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "He speaks English ___.",
+        "options": [
+          "well",
+          "good",
+          "goodly"
+        ],
+        "correct_answer": "well",
+        "explanation_correct": "Adverb of good = well.",
+        "explanation_wrong": {
+          "good": "Good adjective, not adverb here.",
+          "goodly": "Not correct."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She drives ___.",
+        "options": [
+          "carefully",
+          "careful",
+          "care"
+        ],
+        "correct_answer": "carefully",
+        "explanation_correct": "Describes drives.",
+        "explanation_wrong": {
+          "careful": "Adjective.",
+          "care": "Noun/verb."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It was a ___ day.",
+        "options": [
+          "bad",
+          "badly",
+          "worse"
+        ],
+        "correct_answer": "bad",
+        "explanation_correct": "Adjective before noun.",
+        "explanation_wrong": {
+          "badly": "Adverb.",
+          "worse": "Comparative."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He answered ___.",
+        "options": [
+          "quickly",
+          "quick",
+          "quicks"
+        ],
+        "correct_answer": "quickly",
+        "explanation_correct": "Describes answered.",
+        "explanation_wrong": {
+          "quick": "Adjective; adverb possible informally, but base grammar uses quickly.",
+          "quicks": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She is very ___.",
+        "options": [
+          "quiet",
+          "quietly",
+          "quietness"
+        ],
+        "correct_answer": "quiet",
+        "explanation_correct": "After be use adjective.",
+        "explanation_wrong": {
+          "quietly": "Adverb.",
+          "quietness": "Noun."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They work ___.",
+        "options": [
+          "hard",
+          "hardly",
+          "hardness"
+        ],
+        "correct_answer": "hard",
+        "explanation_correct": "Hard as adverb = усердно.",
+        "explanation_wrong": {
+          "hardly": "Hardly = едва, другой смысл.",
+          "hardness": "Noun."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "She sings beautifully.",
+          "She sings beautiful.",
+          "She is beautifully."
+        ],
+        "correct_answer": "She sings beautifully.",
+        "explanation_correct": "Sing is verb, need adverb.",
+        "explanation_wrong": {
+          "She sings beautiful.": "Need adverb beautifully.",
+          "She is beautifully.": "After be use adjective: beautiful."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The train arrived ___.",
+        "options": [
+          "late",
+          "lately",
+          "latest"
+        ],
+        "correct_answer": "late",
+        "explanation_correct": "Late can be adverb.",
+        "explanation_wrong": {
+          "lately": "Recently, другой смысл.",
+          "latest": "Superlative/adjective."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 86,
+    "level": "A1",
+    "topic": "comparative adjectives",
+    "title_ru": "Comparative: older / more expensive",
+    "explanation_ru": "Comparative сравнивает два предмета/человека: older, bigger, more expensive. К коротким прилагательным часто добавляем -er, к длинным — more.",
+    "formula": "short adjective + -er\nlong adjective: more + adjective",
+    "examples": [
+      {
+        "en": "This bag is cheaper.",
+        "ru": "Эта сумка дешевле.",
+        "note": "cheap → cheaper."
+      },
+      {
+        "en": "My brother is older than me.",
+        "ru": "Мой брат старше меня.",
+        "note": "old → older."
+      },
+      {
+        "en": "This hotel is more expensive.",
+        "ru": "Этот отель дороже.",
+        "note": "expensive → more expensive."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "more cheap",
+        "correct": "cheaper",
+        "explanation": "Short adjectives usually -er."
+      },
+      {
+        "wrong": "expensiver",
+        "correct": "more expensive",
+        "explanation": "Long adjectives use more."
+      },
+      {
+        "wrong": "more good",
+        "correct": "better",
+        "explanation": "Good has irregular comparative."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "This car is ___.",
+        "options": [
+          "newer",
+          "more new",
+          "newest"
+        ],
+        "correct_answer": "newer",
+        "explanation_correct": "Short adjective: new → newer.",
+        "explanation_wrong": {
+          "more new": "Usually newer.",
+          "newest": "Superlative."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "This hotel is ___.",
+        "options": [
+          "more expensive",
+          "expensiver",
+          "expensivest"
+        ],
+        "correct_answer": "more expensive",
+        "explanation_correct": "Long adjective: more expensive.",
+        "explanation_wrong": {
+          "expensiver": "Not correct.",
+          "expensivest": "Wrong/superlative."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "My bag is ___ than yours.",
+        "options": [
+          "heavier",
+          "more heavy",
+          "heaviest"
+        ],
+        "correct_answer": "heavier",
+        "explanation_correct": "heavy → heavier.",
+        "explanation_wrong": {
+          "more heavy": "Usually heavier.",
+          "heaviest": "Superlative."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "This exercise is ___.",
+        "options": [
+          "easier",
+          "more easy",
+          "easiest"
+        ],
+        "correct_answer": "easier",
+        "explanation_correct": "easy → easier.",
+        "explanation_wrong": {
+          "more easy": "Usually easier.",
+          "easiest": "Superlative."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Her English is ___.",
+        "options": [
+          "better",
+          "more good",
+          "gooder"
+        ],
+        "correct_answer": "better",
+        "explanation_correct": "Good → better.",
+        "explanation_wrong": {
+          "more good": "Wrong.",
+          "gooder": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Today is ___ than yesterday.",
+        "options": [
+          "hotter",
+          "more hot",
+          "hottest"
+        ],
+        "correct_answer": "hotter",
+        "explanation_correct": "hot → hotter.",
+        "explanation_wrong": {
+          "more hot": "Usually hotter.",
+          "hottest": "Superlative."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "This book is more interesting.",
+          "This book is interestinger.",
+          "This book is most interesting than."
+        ],
+        "correct_answer": "This book is more interesting.",
+        "explanation_correct": "Long adjective uses more.",
+        "explanation_wrong": {
+          "This book is interestinger.": "Not correct.",
+          "This book is most interesting than.": "Most is superlative."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "This room is ___.",
+        "options": [
+          "bigger",
+          "more big",
+          "biggest"
+        ],
+        "correct_answer": "bigger",
+        "explanation_correct": "big → bigger.",
+        "explanation_wrong": {
+          "more big": "Usually bigger.",
+          "biggest": "Superlative."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 87,
+    "level": "A1",
+    "topic": "comparative than",
+    "title_ru": "Older than / more expensive than",
+    "explanation_ru": "После comparative часто используем than: older than, cheaper than, more interesting than. Than вводит второй объект сравнения.",
+    "formula": "comparative + than",
+    "examples": [
+      {
+        "en": "Tom is older than Anna.",
+        "ru": "Том старше Анны.",
+        "note": "older than."
+      },
+      {
+        "en": "This book is more interesting than that one.",
+        "ru": "Эта книга интереснее той.",
+        "note": "more interesting than."
+      },
+      {
+        "en": "My car is faster than yours.",
+        "ru": "Моя машина быстрее твоей.",
+        "note": "faster than."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "older that",
+        "correct": "older than",
+        "explanation": "Для сравнения нужен than."
+      },
+      {
+        "wrong": "more expensive that",
+        "correct": "more expensive than",
+        "explanation": "Нужен than."
+      },
+      {
+        "wrong": "She is more tall than me.",
+        "correct": "She is taller than me.",
+        "explanation": "Short adjective tall → taller."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "She is taller ___ me.",
+        "options": [
+          "than",
+          "that",
+          "then"
+        ],
+        "correct_answer": "than",
+        "explanation_correct": "Comparative + than.",
+        "explanation_wrong": {
+          "that": "Wrong.",
+          "then": "Then = потом."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "This phone is ___ expensive than mine.",
+        "options": [
+          "more",
+          "most",
+          "much"
+        ],
+        "correct_answer": "more",
+        "explanation_correct": "More expensive than.",
+        "explanation_wrong": {
+          "most": "Superlative.",
+          "much": "Needs more after it: much more expensive."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "My room is ___ than yours.",
+        "options": [
+          "bigger",
+          "biggest",
+          "more big"
+        ],
+        "correct_answer": "bigger",
+        "explanation_correct": "Comparative + than.",
+        "explanation_wrong": {
+          "biggest": "Superlative.",
+          "more big": "Usually bigger."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Today is colder ___ yesterday.",
+        "options": [
+          "than",
+          "that",
+          "then"
+        ],
+        "correct_answer": "than",
+        "explanation_correct": "Comparative + than.",
+        "explanation_wrong": {
+          "that": "Wrong.",
+          "then": "Then = потом."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "This test is ___ than the last one.",
+        "options": [
+          "easier",
+          "easy",
+          "easiest"
+        ],
+        "correct_answer": "easier",
+        "explanation_correct": "Comparative.",
+        "explanation_wrong": {
+          "easy": "Need comparative.",
+          "easiest": "Superlative."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He is ___ than his brother.",
+        "options": [
+          "younger",
+          "young",
+          "youngest"
+        ],
+        "correct_answer": "younger",
+        "explanation_correct": "Comparative.",
+        "explanation_wrong": {
+          "young": "Need comparative.",
+          "youngest": "Superlative."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "This is cheaper than that.",
+          "This is cheaper that that.",
+          "This is more cheap than that."
+        ],
+        "correct_answer": "This is cheaper than that.",
+        "explanation_correct": "cheap → cheaper + than.",
+        "explanation_wrong": {
+          "This is cheaper that that.": "Need than.",
+          "This is more cheap than that.": "Usually cheaper."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Her job is more difficult ___ mine.",
+        "options": [
+          "than",
+          "that",
+          "then"
+        ],
+        "correct_answer": "than",
+        "explanation_correct": "More difficult than.",
+        "explanation_wrong": {
+          "that": "Wrong.",
+          "then": "Then = потом."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 88,
+    "level": "A2",
+    "topic": "not as as",
+    "title_ru": "Not as ... as",
+    "explanation_ru": "Not as ... as означает «не такой ... как». Используем обычную форму adjective/adverb между as и as: not as old as, not as expensive as.",
+    "formula": "not as + adjective/adverb + as",
+    "examples": [
+      {
+        "en": "This car isn't as expensive as that one.",
+        "ru": "Эта машина не такая дорогая, как та.",
+        "note": "not as expensive as."
+      },
+      {
+        "en": "I don't run as fast as you.",
+        "ru": "Я бегаю не так быстро, как ты.",
+        "note": "not as fast as."
+      },
+      {
+        "en": "She isn't as old as me.",
+        "ru": "Она не такая взрослая/старая, как я.",
+        "note": "not as old as."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "not as older as",
+        "correct": "not as old as",
+        "explanation": "Внутри as...as обычная форма, не comparative."
+      },
+      {
+        "wrong": "not so expensive than",
+        "correct": "not as expensive as",
+        "explanation": "Не смешиваем than и as."
+      },
+      {
+        "wrong": "not as fast than",
+        "correct": "not as fast as",
+        "explanation": "После as нужен as."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "This room isn't as big ___ that one.",
+        "options": [
+          "as",
+          "than",
+          "that"
+        ],
+        "correct_answer": "as",
+        "explanation_correct": "not as...as.",
+        "explanation_wrong": {
+          "than": "Than with comparative bigger.",
+          "that": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She isn't as ___ as her sister.",
+        "options": [
+          "tall",
+          "taller",
+          "tallest"
+        ],
+        "correct_answer": "tall",
+        "explanation_correct": "Use base adjective between as and as.",
+        "explanation_wrong": {
+          "taller": "Comparative not used here.",
+          "tallest": "Superlative."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I don't work as hard ___ him.",
+        "options": [
+          "as",
+          "than",
+          "that"
+        ],
+        "correct_answer": "as",
+        "explanation_correct": "as hard as.",
+        "explanation_wrong": {
+          "than": "Use harder than, not as hard than.",
+          "that": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "This test isn't as ___ as I expected.",
+        "options": [
+          "difficult",
+          "more difficult",
+          "most difficult"
+        ],
+        "correct_answer": "difficult",
+        "explanation_correct": "Base adjective.",
+        "explanation_wrong": {
+          "more difficult": "Not after as.",
+          "most difficult": "Superlative."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "My car isn't as fast ___ yours.",
+        "options": [
+          "as",
+          "than",
+          "then"
+        ],
+        "correct_answer": "as",
+        "explanation_correct": "as fast as.",
+        "explanation_wrong": {
+          "than": "Need faster than.",
+          "then": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It's not as cold ___ yesterday.",
+        "options": [
+          "as",
+          "than",
+          "that"
+        ],
+        "correct_answer": "as",
+        "explanation_correct": "not as cold as.",
+        "explanation_wrong": {
+          "than": "Would be colder than.",
+          "that": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "It isn't as expensive as I thought.",
+          "It isn't as more expensive as I thought.",
+          "It isn't expensive than I thought."
+        ],
+        "correct_answer": "It isn't as expensive as I thought.",
+        "explanation_correct": "not as + base adjective + as.",
+        "explanation_wrong": {
+          "It isn't as more expensive as I thought.": "No comparative after as.",
+          "It isn't expensive than I thought.": "Need more expensive than."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He doesn't speak as clearly ___ you.",
+        "options": [
+          "as",
+          "than",
+          "that"
+        ],
+        "correct_answer": "as",
+        "explanation_correct": "as clearly as.",
+        "explanation_wrong": {
+          "than": "Would need more clearly than.",
+          "that": "Wrong."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 89,
+    "level": "A1",
+    "topic": "superlatives",
+    "title_ru": "Superlative: the oldest / the most expensive",
+    "explanation_ru": "Superlative показывает максимум в группе: самый старый, самый дорогой. Обычно используем the: the oldest, the most expensive.",
+    "formula": "short adjective: the + adjective-est\nlong adjective: the most + adjective\nirregular: good → the best",
+    "examples": [
+      {
+        "en": "This is the oldest building.",
+        "ru": "Это самое старое здание.",
+        "note": "the oldest."
+      },
+      {
+        "en": "It's the most expensive hotel.",
+        "ru": "Это самый дорогой отель.",
+        "note": "the most expensive."
+      },
+      {
+        "en": "She is the best student.",
+        "ru": "Она лучшая студентка.",
+        "note": "good → best."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "the most old",
+        "correct": "the oldest",
+        "explanation": "Short adjective old → oldest."
+      },
+      {
+        "wrong": "the expensivest",
+        "correct": "the most expensive",
+        "explanation": "Long adjective uses most."
+      },
+      {
+        "wrong": "best student",
+        "correct": "the best student",
+        "explanation": "Обычно нужен the."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "This is ___ book in the shop.",
+        "options": [
+          "the cheapest",
+          "cheaper",
+          "the cheaper"
+        ],
+        "correct_answer": "the cheapest",
+        "explanation_correct": "Superlative in group.",
+        "explanation_wrong": {
+          "cheaper": "Comparative compares two.",
+          "the cheaper": "Need cheapest."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She is ___ person I know.",
+        "options": [
+          "the nicest",
+          "nicer",
+          "the nice"
+        ],
+        "correct_answer": "the nicest",
+        "explanation_correct": "nice → nicest.",
+        "explanation_wrong": {
+          "nicer": "Comparative.",
+          "the nice": "Not superlative."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It is ___ hotel in town.",
+        "options": [
+          "the most expensive",
+          "the more expensive",
+          "most expensive"
+        ],
+        "correct_answer": "the most expensive",
+        "explanation_correct": "Superlative uses the most.",
+        "explanation_wrong": {
+          "the more expensive": "Comparative.",
+          "most expensive": "Usually needs the."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He is ___ player in the team.",
+        "options": [
+          "the best",
+          "better",
+          "the goodest"
+        ],
+        "correct_answer": "the best",
+        "explanation_correct": "Good → best.",
+        "explanation_wrong": {
+          "better": "Comparative.",
+          "the goodest": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "This is ___ day of my life.",
+        "options": [
+          "the worst",
+          "worse",
+          "the baddest"
+        ],
+        "correct_answer": "the worst",
+        "explanation_correct": "Bad → worst.",
+        "explanation_wrong": {
+          "worse": "Comparative.",
+          "the baddest": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Russia is one of ___ countries.",
+        "options": [
+          "the largest",
+          "larger",
+          "the large"
+        ],
+        "correct_answer": "the largest",
+        "explanation_correct": "one of the + superlative + plural.",
+        "explanation_wrong": {
+          "larger": "Comparative.",
+          "the large": "Not superlative."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "This is the most interesting film.",
+          "This is the interestingest film.",
+          "This is most interesting film."
+        ],
+        "correct_answer": "This is the most interesting film.",
+        "explanation_correct": "Long adjective uses the most.",
+        "explanation_wrong": {
+          "This is the interestingest film.": "Wrong.",
+          "This is most interesting film.": "Usually missing the."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "What is ___ river in the world?",
+        "options": [
+          "the longest",
+          "longer",
+          "the most long"
+        ],
+        "correct_answer": "the longest",
+        "explanation_correct": "long → longest.",
+        "explanation_wrong": {
+          "longer": "Comparative.",
+          "the most long": "Usually longest."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 90,
+    "level": "A2",
+    "topic": "enough",
+    "title_ru": "Enough",
+    "explanation_ru": "Enough означает «достаточно». С существительными enough стоит перед noun: enough money. С adjectives/adverbs enough стоит после: old enough, quickly enough.",
+    "formula": "enough + noun\nadjective/adverb + enough\nenough to + verb",
+    "examples": [
+      {
+        "en": "I have enough money.",
+        "ru": "У меня достаточно денег.",
+        "note": "enough before noun."
+      },
+      {
+        "en": "She is old enough to drive.",
+        "ru": "Она достаточно взрослая, чтобы водить.",
+        "note": "adjective + enough."
+      },
+      {
+        "en": "He didn't run fast enough.",
+        "ru": "Он не бежал достаточно быстро.",
+        "note": "adverb + enough."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "money enough",
+        "correct": "enough money",
+        "explanation": "Before noun."
+      },
+      {
+        "wrong": "enough old",
+        "correct": "old enough",
+        "explanation": "After adjective."
+      },
+      {
+        "wrong": "enough to money",
+        "correct": "enough money to...",
+        "explanation": "Enough + noun or adjective + enough."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I don't have ___ time.",
+        "options": [
+          "enough",
+          "time enough",
+          "too"
+        ],
+        "correct_answer": "enough",
+        "explanation_correct": "Enough before noun.",
+        "explanation_wrong": {
+          "time enough": "Wrong order.",
+          "too": "Too = слишком."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She isn't old ___ to drive.",
+        "options": [
+          "enough",
+          "too",
+          "very"
+        ],
+        "correct_answer": "enough",
+        "explanation_correct": "Adjective + enough.",
+        "explanation_wrong": {
+          "too": "too old = слишком старая.",
+          "very": "Не enough."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He didn't speak loudly ___.",
+        "options": [
+          "enough",
+          "too",
+          "many"
+        ],
+        "correct_answer": "enough",
+        "explanation_correct": "Adverb + enough.",
+        "explanation_wrong": {
+          "too": "Too loudly = слишком громко.",
+          "many": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We have enough money ___ buy it.",
+        "options": [
+          "to",
+          "for",
+          "-"
+        ],
+        "correct_answer": "to",
+        "explanation_correct": "enough + noun + to + verb.",
+        "explanation_wrong": {
+          "for": "Before noun possible: enough money for it, but before verb to.",
+          "-": "Need to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "This bag is big ___ for all my clothes.",
+        "options": [
+          "enough",
+          "too",
+          "very"
+        ],
+        "correct_answer": "enough",
+        "explanation_correct": "Big enough for.",
+        "explanation_wrong": {
+          "too": "Too big = слишком большая.",
+          "very": "Doesn't mean sufficient."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There aren't enough ___ for everyone.",
+        "options": [
+          "chairs",
+          "chair",
+          "much chairs"
+        ],
+        "correct_answer": "chairs",
+        "explanation_correct": "Enough + plural noun.",
+        "explanation_wrong": {
+          "chair": "Need plural.",
+          "much chairs": "Much not with plural countable."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "The room is warm enough.",
+          "The room is enough warm.",
+          "The room enough is warm."
+        ],
+        "correct_answer": "The room is warm enough.",
+        "explanation_correct": "Enough after adjective.",
+        "explanation_wrong": {
+          "The room is enough warm.": "Wrong order.",
+          "The room enough is warm.": "Wrong order."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Is there enough ___?",
+        "options": [
+          "food",
+          "foods",
+          "many food"
+        ],
+        "correct_answer": "food",
+        "explanation_correct": "Food usually uncountable.",
+        "explanation_wrong": {
+          "foods": "Not in this basic meaning.",
+          "many food": "Many not with uncountable."
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,4982 @@
+[
+  {
+    "unit": 231,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 31,
+    "level": "B1",
+    "topic": "have to and must",
+    "title_ru": "Have to / must: обязанность",
+    "explanation_ru": "Have to часто показывает обязанность из-за правил, работы или обстоятельств. Must часто звучит как личное сильное требование или правило говорящего. В вопросах и отрицаниях have to использует do/does/did. Mustn't = нельзя, don't have to = не нужно.",
+    "formula": "have to + V1\nmust + V1\ndon't have to = не нужно\nmustn't = нельзя",
+    "examples": [
+      {
+        "en": "I have to work tomorrow.",
+        "ru": "Мне нужно работать завтра.",
+        "note": "Обстоятельство/график."
+      },
+      {
+        "en": "You must be quiet.",
+        "ru": "Ты должен вести себя тихо.",
+        "note": "Сильное требование."
+      },
+      {
+        "en": "You don't have to come.",
+        "ru": "Тебе не нужно приходить.",
+        "note": "Нет необходимости."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I must to go.",
+        "correct": "I must go.",
+        "explanation": "После must нет to."
+      },
+      {
+        "wrong": "Do you must work?",
+        "correct": "Do you have to work?",
+        "explanation": "В вопросах обычно have to."
+      },
+      {
+        "wrong": "You don't must smoke.",
+        "correct": "You mustn't smoke.",
+        "explanation": "Запрет = mustn't."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I ___ work late tomorrow.",
+        "options": [
+          "have to",
+          "must to",
+          "has to"
+        ],
+        "correct_answer": "have to",
+        "explanation_correct": "I = have to.",
+        "explanation_wrong": {
+          "must to": "После must нет to.",
+          "has to": "Has to с he/she/it."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She ___ wear a uniform.",
+        "options": [
+          "has to",
+          "have to",
+          "must to"
+        ],
+        "correct_answer": "has to",
+        "explanation_correct": "She = has to.",
+        "explanation_wrong": {
+          "have to": "С she нужна has.",
+          "must to": "После must нет to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Do you ___ get up early?",
+        "options": [
+          "have to",
+          "must",
+          "has to"
+        ],
+        "correct_answer": "have to",
+        "explanation_correct": "В вопросе с do используем have to.",
+        "explanation_wrong": {
+          "must": "Do you must не стандартно.",
+          "has to": "После do не has."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "You ___ touch this button. It's dangerous.",
+        "options": [
+          "mustn't",
+          "don't have to",
+          "haven't to"
+        ],
+        "correct_answer": "mustn't",
+        "explanation_correct": "Mustn't = нельзя.",
+        "explanation_wrong": {
+          "don't have to": "Don't have to = не нужно, не запрет.",
+          "haven't to": "Так не строится."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I ___ go now. It's not necessary.",
+        "options": [
+          "don't have to",
+          "mustn't",
+          "haven't to"
+        ],
+        "correct_answer": "don't have to",
+        "explanation_correct": "Don't have to = не нужно.",
+        "explanation_wrong": {
+          "mustn't": "Mustn't = запрещено.",
+          "haven't to": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Yesterday I ___ work until midnight.",
+        "options": [
+          "had to",
+          "musted",
+          "have to"
+        ],
+        "correct_answer": "had to",
+        "explanation_correct": "Past of have to = had to.",
+        "explanation_wrong": {
+          "musted": "Musted не существует.",
+          "have to": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "You must listen carefully.",
+          "You must to listen carefully.",
+          "You don't must listen carefully."
+        ],
+        "correct_answer": "You must listen carefully.",
+        "explanation_correct": "Must + V1.",
+        "explanation_wrong": {
+          "You must to listen carefully.": "После must нет to.",
+          "You don't must listen carefully.": "Don't must не используется."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We didn't ___ pay.",
+        "options": [
+          "have to",
+          "had to",
+          "must"
+        ],
+        "correct_answer": "have to",
+        "explanation_correct": "После didn't нужна V1: have to.",
+        "explanation_wrong": {
+          "had to": "После didn't не had.",
+          "must": "Didn't must не стандартно."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 232,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 32,
+    "level": "B1",
+    "topic": "must mustn't needn't",
+    "title_ru": "Must / mustn't / needn't",
+    "explanation_ru": "Must = нужно/обязан. Mustn't = нельзя, строгий запрет. Needn't = нет необходимости, можно не делать. Needn't часто звучит формальнее, чем don't have to.",
+    "formula": "must + V1\nmustn't + V1\nneedn't + V1",
+    "examples": [
+      {
+        "en": "You must stop.",
+        "ru": "Ты должен остановиться.",
+        "note": "Обязанность."
+      },
+      {
+        "en": "You mustn't smoke here.",
+        "ru": "Здесь нельзя курить.",
+        "note": "Запрет."
+      },
+      {
+        "en": "You needn't hurry.",
+        "ru": "Тебе не нужно спешить.",
+        "note": "Нет необходимости."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "You must to stop.",
+        "correct": "You must stop.",
+        "explanation": "После must нет to."
+      },
+      {
+        "wrong": "You needn't to hurry.",
+        "correct": "You needn't hurry.",
+        "explanation": "После needn't нет to."
+      },
+      {
+        "wrong": "You don't must smoke.",
+        "correct": "You mustn't smoke.",
+        "explanation": "Запрет = mustn't."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "You ___ wear a seat belt.",
+        "options": [
+          "must",
+          "needn't",
+          "mustn't"
+        ],
+        "correct_answer": "must",
+        "explanation_correct": "Это правило/обязанность.",
+        "explanation_wrong": {
+          "needn't": "Needn't = не нужно.",
+          "mustn't": "Mustn't = нельзя."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "You ___ park here.",
+        "options": [
+          "mustn't",
+          "needn't",
+          "must"
+        ],
+        "correct_answer": "mustn't",
+        "explanation_correct": "Запрет.",
+        "explanation_wrong": {
+          "needn't": "Не просто «не нужно», а нельзя.",
+          "must": "Смысл обратный."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We ___ hurry. We have lots of time.",
+        "options": [
+          "needn't",
+          "mustn't",
+          "must"
+        ],
+        "correct_answer": "needn't",
+        "explanation_correct": "Нет необходимости.",
+        "explanation_wrong": {
+          "mustn't": "Mustn't = запрещено.",
+          "must": "Must = нужно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She must ___ now.",
+        "options": [
+          "leave",
+          "to leave",
+          "leaves"
+        ],
+        "correct_answer": "leave",
+        "explanation_correct": "Must + V1.",
+        "explanation_wrong": {
+          "to leave": "После must нет to.",
+          "leaves": "После must нет -s."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "You needn't ___ anything.",
+        "options": [
+          "bring",
+          "to bring",
+          "bringing"
+        ],
+        "correct_answer": "bring",
+        "explanation_correct": "Needn't + V1.",
+        "explanation_wrong": {
+          "to bring": "Нет to.",
+          "bringing": "Не -ing."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "You mustn't ___ this door.",
+        "options": [
+          "open",
+          "to open",
+          "opening"
+        ],
+        "correct_answer": "open",
+        "explanation_correct": "Mustn't + V1.",
+        "explanation_wrong": {
+          "to open": "Нет to.",
+          "opening": "Не -ing."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "You needn't come early.",
+          "You needn't to come early.",
+          "You don't needn't come early."
+        ],
+        "correct_answer": "You needn't come early.",
+        "explanation_correct": "Needn't + V1.",
+        "explanation_wrong": {
+          "You needn't to come early.": "После needn't нет to.",
+          "You don't needn't come early.": "Двойное отрицание."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Students ___ use phones during the exam.",
+        "options": [
+          "mustn't",
+          "needn't",
+          "don't have to"
+        ],
+        "correct_answer": "mustn't",
+        "explanation_correct": "Во время экзамена это запрет.",
+        "explanation_wrong": {
+          "needn't": "Needn't = не нужно, слишком мягко.",
+          "don't have to": "Don't have to = не нужно."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 233,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 33,
+    "level": "B1",
+    "topic": "should 1",
+    "title_ru": "Should 1: совет и правильное действие",
+    "explanation_ru": "Should используется для совета, мнения о правильном действии и ожидания. После should глагол всегда в обычной форме без to.",
+    "formula": "should + V1\nshouldn't + V1",
+    "examples": [
+      {
+        "en": "You should see a doctor.",
+        "ru": "Тебе стоит обратиться к врачу.",
+        "note": "Совет."
+      },
+      {
+        "en": "You shouldn't work so much.",
+        "ru": "Тебе не стоит так много работать.",
+        "note": "Совет не делать."
+      },
+      {
+        "en": "What should I do?",
+        "ru": "Что мне делать?",
+        "note": "Вопрос за советом."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "You should to rest.",
+        "correct": "You should rest.",
+        "explanation": "После should нет to."
+      },
+      {
+        "wrong": "He shoulds go.",
+        "correct": "He should go.",
+        "explanation": "Should не меняется."
+      },
+      {
+        "wrong": "You don't should smoke.",
+        "correct": "You shouldn't smoke.",
+        "explanation": "Отрицание = shouldn't."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "You ___ sleep more.",
+        "options": [
+          "should",
+          "mustn't",
+          "are"
+        ],
+        "correct_answer": "should",
+        "explanation_correct": "Это совет.",
+        "explanation_wrong": {
+          "mustn't": "Mustn't = запрет.",
+          "are": "Are не подходит."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She shouldn't ___ so fast.",
+        "options": [
+          "drive",
+          "drives",
+          "to drive"
+        ],
+        "correct_answer": "drive",
+        "explanation_correct": "Shouldn't + V1.",
+        "explanation_wrong": {
+          "drives": "Нет -s.",
+          "to drive": "Нет to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "What ___ I do?",
+        "options": [
+          "should",
+          "do",
+          "am"
+        ],
+        "correct_answer": "should",
+        "explanation_correct": "What should I do?",
+        "explanation_wrong": {
+          "do": "Другой смысл.",
+          "am": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He ___ see a dentist.",
+        "options": [
+          "should",
+          "shoulds",
+          "to should"
+        ],
+        "correct_answer": "should",
+        "explanation_correct": "Should не меняется.",
+        "explanation_wrong": {
+          "shoulds": "Нет shoulds.",
+          "to should": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "You should ___ warm clothes.",
+        "options": [
+          "wear",
+          "wears",
+          "wearing"
+        ],
+        "correct_answer": "wear",
+        "explanation_correct": "Should + V1.",
+        "explanation_wrong": {
+          "wears": "Нет -s.",
+          "wearing": "Не -ing."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They ___ not be late.",
+        "options": [
+          "should",
+          "do",
+          "are"
+        ],
+        "correct_answer": "should",
+        "explanation_correct": "Should not = shouldn't.",
+        "explanation_wrong": {
+          "do": "Не do not be в этом значении.",
+          "are": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "You should drink water.",
+          "You should to drink water.",
+          "You should drinking water."
+        ],
+        "correct_answer": "You should drink water.",
+        "explanation_correct": "Should + V1.",
+        "explanation_wrong": {
+          "You should to drink water.": "Нет to.",
+          "You should drinking water.": "Не -ing."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I think you ___ buy it.",
+        "options": [
+          "should",
+          "are",
+          "have"
+        ],
+        "correct_answer": "should",
+        "explanation_correct": "I think you should = совет.",
+        "explanation_wrong": {
+          "are": "Wrong.",
+          "have": "Wrong."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 234,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 34,
+    "level": "B1",
+    "topic": "should 2",
+    "title_ru": "Should 2: expectations and probability",
+    "explanation_ru": "Should также может означать ожидание: что-то вероятно случится, потому что это нормально/логично. The train should be here soon = поезд должен скоро быть здесь, скорее всего.",
+    "formula": "should + V1 = expected/probable\nshould have + V3 = should in the past / criticism",
+    "examples": [
+      {
+        "en": "The train should arrive soon.",
+        "ru": "Поезд должен скоро прибыть.",
+        "note": "Ожидание."
+      },
+      {
+        "en": "You should have told me.",
+        "ru": "Тебе следовало сказать мне.",
+        "note": "Критика прошлого."
+      },
+      {
+        "en": "The test shouldn't be difficult.",
+        "ru": "Тест не должен быть трудным.",
+        "note": "Ожидание."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "The train should to arrive.",
+        "correct": "The train should arrive.",
+        "explanation": "После should нет to."
+      },
+      {
+        "wrong": "You should told me.",
+        "correct": "You should have told me.",
+        "explanation": "Прошлое: should have + V3."
+      },
+      {
+        "wrong": "It shoulds be easy.",
+        "correct": "It should be easy.",
+        "explanation": "Should не меняется."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "The bus ___ be here soon.",
+        "options": [
+          "should",
+          "should to",
+          "shoulds"
+        ],
+        "correct_answer": "should",
+        "explanation_correct": "Expected/probable.",
+        "explanation_wrong": {
+          "should to": "Нет to.",
+          "shoulds": "Нет -s."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The exam shouldn't ___ too hard.",
+        "options": [
+          "be",
+          "is",
+          "to be"
+        ],
+        "correct_answer": "be",
+        "explanation_correct": "Shouldn't + V1.",
+        "explanation_wrong": {
+          "is": "После shouldn't не is.",
+          "to be": "Нет to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "You should have ___ me.",
+        "options": [
+          "called",
+          "call",
+          "calling"
+        ],
+        "correct_answer": "called",
+        "explanation_correct": "Should have + V3.",
+        "explanation_wrong": {
+          "call": "Нужна V3.",
+          "calling": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I shouldn't have ___ so much.",
+        "options": [
+          "eaten",
+          "ate",
+          "eat"
+        ],
+        "correct_answer": "eaten",
+        "explanation_correct": "Shouldn't have + V3.",
+        "explanation_wrong": {
+          "ate": "V2 нельзя.",
+          "eat": "Base нельзя."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The package should ___ tomorrow.",
+        "options": [
+          "arrive",
+          "arrives",
+          "to arrive"
+        ],
+        "correct_answer": "arrive",
+        "explanation_correct": "Should + V1.",
+        "explanation_wrong": {
+          "arrives": "Нет -s.",
+          "to arrive": "Нет to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They should ___ by now.",
+        "options": [
+          "have arrived",
+          "arrived",
+          "to arrive"
+        ],
+        "correct_answer": "have arrived",
+        "explanation_correct": "By now often should have + V3.",
+        "explanation_wrong": {
+          "arrived": "Нужен have.",
+          "to arrive": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "You should have asked first.",
+          "You should asked first.",
+          "You should have ask first."
+        ],
+        "correct_answer": "You should have asked first.",
+        "explanation_correct": "Should have + V3.",
+        "explanation_wrong": {
+          "You should asked first.": "Нет have.",
+          "You should have ask first.": "Нужна V3."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It ___ take long.",
+        "options": [
+          "shouldn't",
+          "doesn't should",
+          "shouldn't to"
+        ],
+        "correct_answer": "shouldn't",
+        "explanation_correct": "Shouldn't + V1.",
+        "explanation_wrong": {
+          "doesn't should": "Так не строится.",
+          "shouldn't to": "Нет to."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 235,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 35,
+    "level": "B2",
+    "topic": "had better it's time",
+    "title_ru": "Had better / it's time",
+    "explanation_ru": "Had better означает «лучше бы», часто с предупреждением о плохом результате. It's time + past form означает, что уже пора что-то сделать: It's time we left.",
+    "formula": "had better + V1\nhad better not + V1\nIt's time + subject + Past Simple",
+    "examples": [
+      {
+        "en": "You'd better go now.",
+        "ru": "Тебе лучше идти сейчас.",
+        "note": "Иначе будет плохо/поздно."
+      },
+      {
+        "en": "You'd better not tell anyone.",
+        "ru": "Тебе лучше никому не говорить.",
+        "note": "Предупреждение."
+      },
+      {
+        "en": "It's time we left.",
+        "ru": "Нам пора уходить.",
+        "note": "Past form после It's time."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "You better to go.",
+        "correct": "You'd better go.",
+        "explanation": "Had better + V1."
+      },
+      {
+        "wrong": "You'd better not to tell him.",
+        "correct": "You'd better not tell him.",
+        "explanation": "После better not нет to."
+      },
+      {
+        "wrong": "It's time we leave.",
+        "correct": "It's time we left.",
+        "explanation": "После It's time обычно past form."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "You ___ go now.",
+        "options": [
+          "had better",
+          "had better to",
+          "would better"
+        ],
+        "correct_answer": "had better",
+        "explanation_correct": "Had better + V1.",
+        "explanation_wrong": {
+          "had better to": "Нет to.",
+          "would better": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "You'd better ___ late.",
+        "options": [
+          "not be",
+          "not to be",
+          "don't be"
+        ],
+        "correct_answer": "not be",
+        "explanation_correct": "Had better not + V1.",
+        "explanation_wrong": {
+          "not to be": "Нет to.",
+          "don't be": "Don't не нужен."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It's time we ___ home.",
+        "options": [
+          "went",
+          "go",
+          "will go"
+        ],
+        "correct_answer": "went",
+        "explanation_correct": "It's time + past form.",
+        "explanation_wrong": {
+          "go": "Не базовая форма.",
+          "will go": "Не will."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'd better ___ him.",
+        "options": [
+          "call",
+          "to call",
+          "calling"
+        ],
+        "correct_answer": "call",
+        "explanation_correct": "Had better + V1.",
+        "explanation_wrong": {
+          "to call": "Нет to.",
+          "calling": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "You'd better not ___ this.",
+        "options": [
+          "touch",
+          "to touch",
+          "touching"
+        ],
+        "correct_answer": "touch",
+        "explanation_correct": "Better not + V1.",
+        "explanation_wrong": {
+          "to touch": "Нет to.",
+          "touching": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It's time you ___ your room.",
+        "options": [
+          "cleaned",
+          "clean",
+          "will clean"
+        ],
+        "correct_answer": "cleaned",
+        "explanation_correct": "It's time + past form.",
+        "explanation_wrong": {
+          "clean": "Wrong.",
+          "will clean": "No will."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "We'd better hurry.",
+          "We'd better to hurry.",
+          "We better hurryed."
+        ],
+        "correct_answer": "We'd better hurry.",
+        "explanation_correct": "Had better + V1.",
+        "explanation_wrong": {
+          "We'd better to hurry.": "Нет to.",
+          "We better hurryed.": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It's time ___ a break.",
+        "options": [
+          "we had",
+          "we have",
+          "we will have"
+        ],
+        "correct_answer": "we had",
+        "explanation_correct": "It's time + past.",
+        "explanation_wrong": {
+          "we have": "Wrong in this structure.",
+          "we will have": "No will."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 236,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 36,
+    "level": "B1",
+    "topic": "would",
+    "title_ru": "Would",
+    "explanation_ru": "Would используется для вежливых просьб, воображаемых ситуаций, предпочтений и повторяющихся действий в прошлом. Часто встречается в I'd like, would you mind, would rather.",
+    "formula": "would + V1\nwould like to + V1\nwould rather + V1",
+    "examples": [
+      {
+        "en": "Would you open the window?",
+        "ru": "Вы бы открыли окно?",
+        "note": "Вежливая просьба."
+      },
+      {
+        "en": "I'd like to leave now.",
+        "ru": "Я бы хотел уйти сейчас.",
+        "note": "Желание."
+      },
+      {
+        "en": "When we were children, we would play outside.",
+        "ru": "В детстве мы часто играли на улице.",
+        "note": "Повтор в прошлом."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I would to go.",
+        "correct": "I would go / I'd like to go.",
+        "explanation": "После would нет to, кроме would like to."
+      },
+      {
+        "wrong": "She would likes it.",
+        "correct": "She would like it.",
+        "explanation": "После would нет -s."
+      },
+      {
+        "wrong": "I would rather to stay.",
+        "correct": "I would rather stay.",
+        "explanation": "Would rather без to."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I ___ like some coffee.",
+        "options": [
+          "would",
+          "will",
+          "am"
+        ],
+        "correct_answer": "would",
+        "explanation_correct": "Would like = хотел бы.",
+        "explanation_wrong": {
+          "will": "Will like = буду любить/понравится, не просьба.",
+          "am": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Would you ___ me?",
+        "options": [
+          "help",
+          "to help",
+          "helping"
+        ],
+        "correct_answer": "help",
+        "explanation_correct": "Would + V1.",
+        "explanation_wrong": {
+          "to help": "Нет to.",
+          "helping": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'd rather ___ at home.",
+        "options": [
+          "stay",
+          "to stay",
+          "staying"
+        ],
+        "correct_answer": "stay",
+        "explanation_correct": "Would rather + V1.",
+        "explanation_wrong": {
+          "to stay": "Нет to.",
+          "staying": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She would ___ this film.",
+        "options": [
+          "enjoy",
+          "enjoys",
+          "to enjoy"
+        ],
+        "correct_answer": "enjoy",
+        "explanation_correct": "Would + V1.",
+        "explanation_wrong": {
+          "enjoys": "Нет -s.",
+          "to enjoy": "Нет to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I wouldn't ___ there alone.",
+        "options": [
+          "go",
+          "went",
+          "going"
+        ],
+        "correct_answer": "go",
+        "explanation_correct": "Wouldn't + V1.",
+        "explanation_wrong": {
+          "went": "Не V2.",
+          "going": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Would you mind ___ the door?",
+        "options": [
+          "closing",
+          "to close",
+          "close"
+        ],
+        "correct_answer": "closing",
+        "explanation_correct": "Would you mind + -ing.",
+        "explanation_wrong": {
+          "to close": "Не to.",
+          "close": "Не V1."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I'd like to ask a question.",
+          "I'd like ask a question.",
+          "I would to ask a question."
+        ],
+        "correct_answer": "I'd like to ask a question.",
+        "explanation_correct": "Would like to + V1.",
+        "explanation_wrong": {
+          "I'd like ask a question.": "Не хватает to.",
+          "I would to ask a question.": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "When he was young, he ___ walk for hours.",
+        "options": [
+          "would",
+          "will",
+          "is"
+        ],
+        "correct_answer": "would",
+        "explanation_correct": "Repeated past behaviour.",
+        "explanation_wrong": {
+          "will": "Future/present.",
+          "is": "Wrong."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 237,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 37,
+    "level": "B1",
+    "topic": "requests offers permission",
+    "title_ru": "Can / could / would: просьбы и разрешение",
+    "explanation_ru": "Для просьб, предложений, разрешения и приглашений используются can, could, would. Could звучит вежливее, would you like — приглашение/предложение.",
+    "formula": "Can/Could I...?\nCan/Could you...?\nWould you like...?\nDo you mind if I...?",
+    "examples": [
+      {
+        "en": "Could you help me?",
+        "ru": "Не могли бы вы мне помочь?",
+        "note": "Вежливая просьба."
+      },
+      {
+        "en": "Can I use your phone?",
+        "ru": "Можно воспользоваться телефоном?",
+        "note": "Разрешение."
+      },
+      {
+        "en": "Would you like some tea?",
+        "ru": "Хотите чаю?",
+        "note": "Предложение."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "Could you to help me?",
+        "correct": "Could you help me?",
+        "explanation": "После could нет to."
+      },
+      {
+        "wrong": "Would you like drink?",
+        "correct": "Would you like a drink? / Would you like to drink?",
+        "explanation": "Нужен noun или to + verb."
+      },
+      {
+        "wrong": "Do you mind if I to sit here?",
+        "correct": "Do you mind if I sit here?",
+        "explanation": "После if обычное предложение."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "Could you ___ me?",
+        "options": [
+          "help",
+          "to help",
+          "helping"
+        ],
+        "correct_answer": "help",
+        "explanation_correct": "Could + V1.",
+        "explanation_wrong": {
+          "to help": "Нет to.",
+          "helping": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Can I ___ your phone?",
+        "options": [
+          "use",
+          "to use",
+          "using"
+        ],
+        "correct_answer": "use",
+        "explanation_correct": "Can + V1.",
+        "explanation_wrong": {
+          "to use": "Нет to.",
+          "using": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Would you like ___ coffee?",
+        "options": [
+          "some",
+          "any",
+          "a"
+        ],
+        "correct_answer": "some",
+        "explanation_correct": "В предложениях часто some.",
+        "explanation_wrong": {
+          "any": "Any для обычных вопросов/отрицаний.",
+          "a": "Coffee uncountable."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Would you like ___ with us?",
+        "options": [
+          "to come",
+          "come",
+          "coming"
+        ],
+        "correct_answer": "to come",
+        "explanation_correct": "Would like to + V1.",
+        "explanation_wrong": {
+          "come": "Не хватает to.",
+          "coming": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Do you mind if I ___ here?",
+        "options": [
+          "sit",
+          "to sit",
+          "sitting"
+        ],
+        "correct_answer": "sit",
+        "explanation_correct": "If I sit — обычное придаточное.",
+        "explanation_wrong": {
+          "to sit": "Нет to.",
+          "sitting": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "May I ___ a question?",
+        "options": [
+          "ask",
+          "to ask",
+          "asking"
+        ],
+        "correct_answer": "ask",
+        "explanation_correct": "May + V1.",
+        "explanation_wrong": {
+          "to ask": "Нет to.",
+          "asking": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "Could I borrow your pen?",
+          "Could I to borrow your pen?",
+          "Could I borrowing your pen?"
+        ],
+        "correct_answer": "Could I borrow your pen?",
+        "explanation_correct": "Could + V1.",
+        "explanation_wrong": {
+          "Could I to borrow your pen?": "Нет to.",
+          "Could I borrowing your pen?": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Can I get you ___ coffee?",
+        "options": [
+          "some",
+          "any",
+          "many"
+        ],
+        "correct_answer": "some",
+        "explanation_correct": "Offer: some coffee.",
+        "explanation_wrong": {
+          "any": "Any неестественно в предложении.",
+          "many": "Many with countable plural."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 238,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 38,
+    "level": "B1",
+    "topic": "conditionals 1 and 2",
+    "title_ru": "If I do / if I did",
+    "explanation_ru": "First conditional говорит о реальном будущем: If I have time, I'll help. Second conditional говорит о нереальной/маловероятной ситуации: If I had time, I would help.",
+    "formula": "First: if + Present, will + V1\nSecond: if + Past, would + V1",
+    "examples": [
+      {
+        "en": "If it rains, we'll stay home.",
+        "ru": "Если будет дождь, останемся дома.",
+        "note": "Реальная возможность."
+      },
+      {
+        "en": "If I had more time, I would learn French.",
+        "ru": "Если бы было больше времени, я бы учил французский.",
+        "note": "Нереальная ситуация."
+      },
+      {
+        "en": "If I were you, I wouldn't do that.",
+        "ru": "На твоём месте я бы так не делал.",
+        "note": "Совет."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "If it will rain, we'll stay home.",
+        "correct": "If it rains, we'll stay home.",
+        "explanation": "No will after if in first conditional."
+      },
+      {
+        "wrong": "If I have more time, I would learn French.",
+        "correct": "If I had more time, I would learn French.",
+        "explanation": "Second conditional needs past form."
+      },
+      {
+        "wrong": "If I was you",
+        "correct": "If I were you",
+        "explanation": "Устойчивое выражение."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "If it ___, we'll stay home.",
+        "options": [
+          "rains",
+          "will rain",
+          "rained"
+        ],
+        "correct_answer": "rains",
+        "explanation_correct": "First conditional: if + present.",
+        "explanation_wrong": {
+          "will rain": "No will after if.",
+          "rained": "Second conditional/past."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "If I had money, I ___ buy it.",
+        "options": [
+          "would",
+          "will",
+          "do"
+        ],
+        "correct_answer": "would",
+        "explanation_correct": "Second conditional result.",
+        "explanation_wrong": {
+          "will": "First conditional result.",
+          "do": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "If I ___ you, I would wait.",
+        "options": [
+          "were",
+          "am",
+          "will be"
+        ],
+        "correct_answer": "were",
+        "explanation_correct": "If I were you.",
+        "explanation_wrong": {
+          "am": "Wrong for hypothetical.",
+          "will be": "No will after if."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'll call you if I ___ time.",
+        "options": [
+          "have",
+          "will have",
+          "had"
+        ],
+        "correct_answer": "have",
+        "explanation_correct": "First conditional.",
+        "explanation_wrong": {
+          "will have": "No will after if.",
+          "had": "Second conditional."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "What would you do if you ___ your job?",
+        "options": [
+          "lost",
+          "lose",
+          "will lose"
+        ],
+        "correct_answer": "lost",
+        "explanation_correct": "Second conditional uses past.",
+        "explanation_wrong": {
+          "lose": "First conditional.",
+          "will lose": "No will after if."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "If she studies, she ___ pass.",
+        "options": [
+          "will",
+          "would",
+          "does"
+        ],
+        "correct_answer": "will",
+        "explanation_correct": "Real future result.",
+        "explanation_wrong": {
+          "would": "Would = hypothetical.",
+          "does": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "If I knew, I would tell you.",
+          "If I know, I would tell you.",
+          "If I would know, I told you."
+        ],
+        "correct_answer": "If I knew, I would tell you.",
+        "explanation_correct": "Second conditional.",
+        "explanation_wrong": {
+          "If I know, I would tell you.": "Mixed forms.",
+          "If I would know, I told you.": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "If you don't hurry, you ___ miss the train.",
+        "options": [
+          "will",
+          "would",
+          "are"
+        ],
+        "correct_answer": "will",
+        "explanation_correct": "First conditional result.",
+        "explanation_wrong": {
+          "would": "Hypothetical, not here.",
+          "are": "Wrong."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 239,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 39,
+    "level": "B2",
+    "topic": "if I knew I wish I knew",
+    "title_ru": "If I knew / I wish I knew",
+    "explanation_ru": "I wish + Past Simple выражает сожаление о настоящем: I wish I knew = жаль, что я не знаю. If I knew используется в second conditional.",
+    "formula": "I wish + Past Simple\nIf + Past Simple, would + V1",
+    "examples": [
+      {
+        "en": "I wish I knew the answer.",
+        "ru": "Жаль, что я не знаю ответ.",
+        "note": "Сожаление о настоящем."
+      },
+      {
+        "en": "If I knew the answer, I would tell you.",
+        "ru": "Если бы я знал ответ, я бы сказал.",
+        "note": "Hypothetical."
+      },
+      {
+        "en": "I wish I could speak Spanish.",
+        "ru": "Жаль, что я не говорю по-испански.",
+        "note": "Could for ability."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I wish I know.",
+        "correct": "I wish I knew.",
+        "explanation": "После wish о настоящем используем past form."
+      },
+      {
+        "wrong": "I wish I can.",
+        "correct": "I wish I could.",
+        "explanation": "Can → could после wish."
+      },
+      {
+        "wrong": "If I would know, I would tell you.",
+        "correct": "If I knew, I would tell you.",
+        "explanation": "В if-clause не используем would."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I wish I ___ the answer.",
+        "options": [
+          "knew",
+          "know",
+          "would know"
+        ],
+        "correct_answer": "knew",
+        "explanation_correct": "Wish about present → past form.",
+        "explanation_wrong": {
+          "know": "Нужна past form.",
+          "would know": "Would не в этой части."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "If I ___ the answer, I would tell you.",
+        "options": [
+          "knew",
+          "know",
+          "would know"
+        ],
+        "correct_answer": "knew",
+        "explanation_correct": "Second conditional.",
+        "explanation_wrong": {
+          "know": "Present form не подходит.",
+          "would know": "No would in if-clause."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I wish I ___ speak French.",
+        "options": [
+          "could",
+          "can",
+          "will can"
+        ],
+        "correct_answer": "could",
+        "explanation_correct": "Can becomes could after wish.",
+        "explanation_wrong": {
+          "can": "Нужна hypothetical form.",
+          "will can": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "If she ___ here, she would help.",
+        "options": [
+          "were",
+          "is",
+          "will be"
+        ],
+        "correct_answer": "were",
+        "explanation_correct": "Second conditional.",
+        "explanation_wrong": {
+          "is": "Present not hypothetical.",
+          "will be": "No will."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I wish it ___ so cold.",
+        "options": [
+          "wasn't",
+          "isn't",
+          "won't be"
+        ],
+        "correct_answer": "wasn't",
+        "explanation_correct": "Wish about present.",
+        "explanation_wrong": {
+          "isn't": "Present form не используется.",
+          "won't be": "Future not here."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "If we lived closer, we ___ meet more often.",
+        "options": [
+          "would",
+          "will",
+          "do"
+        ],
+        "correct_answer": "would",
+        "explanation_correct": "Would in result clause.",
+        "explanation_wrong": {
+          "will": "First conditional.",
+          "do": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I wish I had more time.",
+          "I wish I have more time.",
+          "I wish I would have more time."
+        ],
+        "correct_answer": "I wish I had more time.",
+        "explanation_correct": "Wish about present uses past.",
+        "explanation_wrong": {
+          "I wish I have more time.": "Present form wrong.",
+          "I wish I would have more time.": "Would обычно не с same subject для желания о себе."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "If I ___ you, I'd apologise.",
+        "options": [
+          "were",
+          "am",
+          "will be"
+        ],
+        "correct_answer": "were",
+        "explanation_correct": "If I were you.",
+        "explanation_wrong": {
+          "am": "Wrong.",
+          "will be": "No will."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 240,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 40,
+    "level": "B2",
+    "topic": "if I had known",
+    "title_ru": "If I had known / I wish I had known",
+    "explanation_ru": "Third conditional говорит о нереальном прошлом: If I had known, I would have helped. I wish I had known = жаль, что я не знал тогда.",
+    "formula": "If + Past Perfect, would have + V3\nI wish + Past Perfect",
+    "examples": [
+      {
+        "en": "If I had known, I would have helped.",
+        "ru": "Если бы я знал, я бы помог.",
+        "note": "Нереальное прошлое."
+      },
+      {
+        "en": "I wish I had studied harder.",
+        "ru": "Жаль, что я не учился усерднее.",
+        "note": "Сожаление о прошлом."
+      },
+      {
+        "en": "She would have come if you had invited her.",
+        "ru": "Она бы пришла, если бы ты её пригласил.",
+        "note": "Past unreal."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "If I knew, I would have helped.",
+        "correct": "If I had known, I would have helped.",
+        "explanation": "Для нереального прошлого нужен Past Perfect."
+      },
+      {
+        "wrong": "I wish I knew earlier.",
+        "correct": "I wish I had known earlier.",
+        "explanation": "Сожаление о прошлом."
+      },
+      {
+        "wrong": "Would have helped if I would have known.",
+        "correct": "I would have helped if I had known.",
+        "explanation": "В if-clause не would have."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "If I had known, I ___ helped.",
+        "options": [
+          "would have",
+          "would",
+          "will have"
+        ],
+        "correct_answer": "would have",
+        "explanation_correct": "Third conditional result.",
+        "explanation_wrong": {
+          "would": "Would + V1 для present/future hypothetical.",
+          "will have": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "If she ___ earlier, she would have met him.",
+        "options": [
+          "had arrived",
+          "arrived",
+          "would arrive"
+        ],
+        "correct_answer": "had arrived",
+        "explanation_correct": "If + Past Perfect.",
+        "explanation_wrong": {
+          "arrived": "Past Simple не для third conditional.",
+          "would arrive": "No would in if-clause."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I wish I ___ harder.",
+        "options": [
+          "had studied",
+          "studied",
+          "would study"
+        ],
+        "correct_answer": "had studied",
+        "explanation_correct": "Wish about past → Past Perfect.",
+        "explanation_wrong": {
+          "studied": "Wish about present/habit, не past regret.",
+          "would study": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They would have won if they ___ better.",
+        "options": [
+          "had played",
+          "played",
+          "would have played"
+        ],
+        "correct_answer": "had played",
+        "explanation_correct": "Past unreal condition.",
+        "explanation_wrong": {
+          "played": "Not enough for third conditional.",
+          "would have played": "No would have in if-clause."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "If you had told me, I ___ come.",
+        "options": [
+          "would have",
+          "will have",
+          "would"
+        ],
+        "correct_answer": "would have",
+        "explanation_correct": "Would have + V3.",
+        "explanation_wrong": {
+          "will have": "Wrong.",
+          "would": "Need have for past unreal."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I wish I ___ that job.",
+        "options": [
+          "had taken",
+          "took",
+          "would take"
+        ],
+        "correct_answer": "had taken",
+        "explanation_correct": "Regret about past.",
+        "explanation_wrong": {
+          "took": "Past Simple not enough.",
+          "would take": "Would not here."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "If I had seen you, I would have said hello.",
+          "If I saw you, I would have said hello.",
+          "If I would have seen you, I had said hello."
+        ],
+        "correct_answer": "If I had seen you, I would have said hello.",
+        "explanation_correct": "Third conditional.",
+        "explanation_wrong": {
+          "If I saw you, I would have said hello.": "Mixed forms.",
+          "If I would have seen you, I had said hello.": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She wouldn't have been late if she ___ earlier.",
+        "options": [
+          "had left",
+          "left",
+          "would leave"
+        ],
+        "correct_answer": "had left",
+        "explanation_correct": "Past unreal condition.",
+        "explanation_wrong": {
+          "left": "Past simple not enough.",
+          "would leave": "No would in if-clause."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 241,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 41,
+    "level": "B2",
+    "topic": "wish",
+    "title_ru": "Wish",
+    "explanation_ru": "Wish используется для сожаления о настоящем, прошлом или раздражения. I wish I knew = жаль, что не знаю. I wish I had known = жаль, что не знал. I wish you would stop = хочу, чтобы ты перестал.",
+    "formula": "I wish + Past Simple = present regret\nI wish + Past Perfect = past regret\nI wish + would + V1 = annoyance/wanted change",
+    "examples": [
+      {
+        "en": "I wish I lived near the sea.",
+        "ru": "Жаль, что я не живу у моря.",
+        "note": "Present regret."
+      },
+      {
+        "en": "I wish I hadn't said that.",
+        "ru": "Жаль, что я это сказал.",
+        "note": "Past regret."
+      },
+      {
+        "en": "I wish you would listen.",
+        "ru": "Хочу, чтобы ты слушал.",
+        "note": "Annoyance/request."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I wish I live near the sea.",
+        "correct": "I wish I lived near the sea.",
+        "explanation": "Present regret uses past form."
+      },
+      {
+        "wrong": "I wish I didn't say that yesterday.",
+        "correct": "I wish I hadn't said that yesterday.",
+        "explanation": "Past regret uses Past Perfect."
+      },
+      {
+        "wrong": "I wish I would have more money.",
+        "correct": "I wish I had more money.",
+        "explanation": "Wish about own present state uses Past Simple."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I wish I ___ taller.",
+        "options": [
+          "was",
+          "am",
+          "will be"
+        ],
+        "correct_answer": "was",
+        "explanation_correct": "Wish about present → past form.",
+        "explanation_wrong": {
+          "am": "Present form wrong.",
+          "will be": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I wish I ___ that.",
+        "options": [
+          "hadn't said",
+          "didn't say",
+          "wouldn't say"
+        ],
+        "correct_answer": "hadn't said",
+        "explanation_correct": "Past regret → Past Perfect.",
+        "explanation_wrong": {
+          "didn't say": "Present/habit regret.",
+          "wouldn't say": "Would for annoyance/change."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I wish you ___ making noise.",
+        "options": [
+          "would stop",
+          "stopped",
+          "had stopped"
+        ],
+        "correct_answer": "would stop",
+        "explanation_correct": "Annoyance/request about behaviour.",
+        "explanation_wrong": {
+          "stopped": "Could be present regret, but request is would stop.",
+          "had stopped": "Past regret."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She wishes she ___ more time.",
+        "options": [
+          "had",
+          "has",
+          "will have"
+        ],
+        "correct_answer": "had",
+        "explanation_correct": "Present wish → past form.",
+        "explanation_wrong": {
+          "has": "Present form wrong.",
+          "will have": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I wish we ___ gone there.",
+        "options": [
+          "hadn't",
+          "didn't",
+          "wouldn't"
+        ],
+        "correct_answer": "hadn't",
+        "explanation_correct": "Past regret: hadn't gone.",
+        "explanation_wrong": {
+          "didn't": "Past Simple не подходит.",
+          "wouldn't": "Wouldn't not here."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I wish it ___ raining.",
+        "options": [
+          "would stop",
+          "stopped",
+          "had stopped"
+        ],
+        "correct_answer": "would stop",
+        "explanation_correct": "Хочу изменения сейчас.",
+        "explanation_wrong": {
+          "stopped": "Could mean regret, but for annoyance/change use would.",
+          "had stopped": "Past regret."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I wish I could drive.",
+          "I wish I can drive.",
+          "I wish I will can drive."
+        ],
+        "correct_answer": "I wish I could drive.",
+        "explanation_correct": "Can becomes could after wish.",
+        "explanation_wrong": {
+          "I wish I can drive.": "Wrong.",
+          "I wish I will can drive.": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I wish you ___ me earlier.",
+        "options": [
+          "had told",
+          "told",
+          "would tell"
+        ],
+        "correct_answer": "had told",
+        "explanation_correct": "Past regret.",
+        "explanation_wrong": {
+          "told": "Present/second conditional form.",
+          "would tell": "Future/change, not past regret."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 242,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 42,
+    "level": "B1",
+    "topic": "passive 1",
+    "title_ru": "Passive 1: is done / was done",
+    "explanation_ru": "Passive используется, когда важнее действие или объект, а не исполнитель. Present passive: is/are done. Past passive: was/were done.",
+    "formula": "am/is/are + V3\nwas/were + V3",
+    "examples": [
+      {
+        "en": "The room is cleaned every day.",
+        "ru": "Комнату убирают каждый день.",
+        "note": "Present passive."
+      },
+      {
+        "en": "This house was built in 1990.",
+        "ru": "Дом построили в 1990.",
+        "note": "Past passive."
+      },
+      {
+        "en": "English is spoken here.",
+        "ru": "Здесь говорят по-английски.",
+        "note": "Passive."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "The house built in 1990.",
+        "correct": "The house was built in 1990.",
+        "explanation": "Нужен was + V3."
+      },
+      {
+        "wrong": "English speaks here.",
+        "correct": "English is spoken here.",
+        "explanation": "Language не говорит сам."
+      },
+      {
+        "wrong": "The rooms is cleaned.",
+        "correct": "The rooms are cleaned.",
+        "explanation": "Rooms = are."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "This car ___ made in Japan.",
+        "options": [
+          "is",
+          "are",
+          "does"
+        ],
+        "correct_answer": "is",
+        "explanation_correct": "Car = it, passive is made.",
+        "explanation_wrong": {
+          "are": "Cars would need are.",
+          "does": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "These cars ___ made in Japan.",
+        "options": [
+          "are",
+          "is",
+          "do"
+        ],
+        "correct_answer": "are",
+        "explanation_correct": "Cars = plural.",
+        "explanation_wrong": {
+          "is": "Singular.",
+          "do": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The house ___ built in 2001.",
+        "options": [
+          "was",
+          "were",
+          "did"
+        ],
+        "correct_answer": "was",
+        "explanation_correct": "House singular past passive.",
+        "explanation_wrong": {
+          "were": "Plural would be were.",
+          "did": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The letters ___ sent yesterday.",
+        "options": [
+          "were",
+          "was",
+          "did"
+        ],
+        "correct_answer": "were",
+        "explanation_correct": "Letters plural past passive.",
+        "explanation_wrong": {
+          "was": "Singular would be was.",
+          "did": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "English ___ spoken in many countries.",
+        "options": [
+          "is",
+          "are",
+          "does"
+        ],
+        "correct_answer": "is",
+        "explanation_correct": "English = singular/uncountable.",
+        "explanation_wrong": {
+          "are": "Wrong.",
+          "does": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The windows are ___ every week.",
+        "options": [
+          "cleaned",
+          "clean",
+          "cleaning"
+        ],
+        "correct_answer": "cleaned",
+        "explanation_correct": "Passive needs V3.",
+        "explanation_wrong": {
+          "clean": "Base form wrong.",
+          "cleaning": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "The book was written in 1999.",
+          "The book wrote in 1999.",
+          "The book was write in 1999."
+        ],
+        "correct_answer": "The book was written in 1999.",
+        "explanation_correct": "Past passive = was + V3.",
+        "explanation_wrong": {
+          "The book wrote in 1999.": "Active/wrong subject.",
+          "The book was write in 1999.": "Need written."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Rice ___ grown in warm countries.",
+        "options": [
+          "is",
+          "are",
+          "does"
+        ],
+        "correct_answer": "is",
+        "explanation_correct": "Rice is uncountable singular.",
+        "explanation_wrong": {
+          "are": "Wrong.",
+          "does": "Wrong."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 243,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 43,
+    "level": "B1",
+    "topic": "passive 2",
+    "title_ru": "Passive 2: be done / been done / being done",
+    "explanation_ru": "Passive может использоваться после модальных глаголов, в perfect и continuous. Be done после will/can/must. Been done после have/has. Being done показывает процесс сейчас.",
+    "formula": "modal + be + V3\nhave/has been + V3\nam/is/are being + V3",
+    "examples": [
+      {
+        "en": "The work must be finished today.",
+        "ru": "Работу нужно закончить сегодня.",
+        "note": "Modal passive."
+      },
+      {
+        "en": "The room has been cleaned.",
+        "ru": "Комната уже убрана.",
+        "note": "Perfect passive."
+      },
+      {
+        "en": "The road is being repaired.",
+        "ru": "Дорогу сейчас ремонтируют.",
+        "note": "Continuous passive."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "The work must finished.",
+        "correct": "The work must be finished.",
+        "explanation": "После modal нужен be + V3."
+      },
+      {
+        "wrong": "The room has cleaned.",
+        "correct": "The room has been cleaned.",
+        "explanation": "Perfect passive needs been."
+      },
+      {
+        "wrong": "The road is repairing.",
+        "correct": "The road is being repaired.",
+        "explanation": "Road не ремонтирует сам себя."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "The work must ___ finished today.",
+        "options": [
+          "be",
+          "been",
+          "being"
+        ],
+        "correct_answer": "be",
+        "explanation_correct": "Modal passive: must be + V3.",
+        "explanation_wrong": {
+          "been": "Been после have/has.",
+          "being": "Being для continuous."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The room has ___ cleaned.",
+        "options": [
+          "been",
+          "be",
+          "being"
+        ],
+        "correct_answer": "been",
+        "explanation_correct": "Perfect passive: has been + V3.",
+        "explanation_wrong": {
+          "be": "Wrong.",
+          "being": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The road is ___ repaired.",
+        "options": [
+          "being",
+          "been",
+          "be"
+        ],
+        "correct_answer": "being",
+        "explanation_correct": "Continuous passive: is being + V3.",
+        "explanation_wrong": {
+          "been": "Wrong.",
+          "be": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "This problem can ___ solved.",
+        "options": [
+          "be",
+          "been",
+          "being"
+        ],
+        "correct_answer": "be",
+        "explanation_correct": "Can be + V3.",
+        "explanation_wrong": {
+          "been": "Wrong.",
+          "being": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The documents have ___ signed.",
+        "options": [
+          "been",
+          "be",
+          "being"
+        ],
+        "correct_answer": "been",
+        "explanation_correct": "Have been + V3.",
+        "explanation_wrong": {
+          "be": "Wrong.",
+          "being": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The bridge is being ___.",
+        "options": [
+          "built",
+          "build",
+          "building"
+        ],
+        "correct_answer": "built",
+        "explanation_correct": "Passive needs V3.",
+        "explanation_wrong": {
+          "build": "Base wrong.",
+          "building": "Active -ing."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "The report has been sent.",
+          "The report has sent.",
+          "The report has been send."
+        ],
+        "correct_answer": "The report has been sent.",
+        "explanation_correct": "Perfect passive.",
+        "explanation_wrong": {
+          "The report has sent.": "Missing been.",
+          "The report has been send.": "Need V3 sent."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It will ___ done tomorrow.",
+        "options": [
+          "be",
+          "been",
+          "being"
+        ],
+        "correct_answer": "be",
+        "explanation_correct": "Will be + V3.",
+        "explanation_wrong": {
+          "been": "Wrong.",
+          "being": "Wrong."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 244,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 44,
+    "level": "B2",
+    "topic": "passive 3",
+    "title_ru": "Passive 3: advanced passive",
+    "explanation_ru": "В пассиве важно правильно выбирать время: was done, is being done, has been done, had been done, will be done. Выбор времени такой же, как в active, но добавляется be + V3.",
+    "formula": "tense of be + V3\nhad been + V3\nwill have been + V3",
+    "examples": [
+      {
+        "en": "The room had been cleaned before we arrived.",
+        "ru": "Комната была убрана до нашего прихода.",
+        "note": "Past Perfect passive."
+      },
+      {
+        "en": "The project will be completed soon.",
+        "ru": "Проект скоро завершат.",
+        "note": "Future passive."
+      },
+      {
+        "en": "The documents were being checked.",
+        "ru": "Документы проверялись.",
+        "note": "Past continuous passive."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "The room had cleaned.",
+        "correct": "The room had been cleaned.",
+        "explanation": "Passive needs been."
+      },
+      {
+        "wrong": "The project will completed.",
+        "correct": "The project will be completed.",
+        "explanation": "Will be + V3."
+      },
+      {
+        "wrong": "The documents were checking.",
+        "correct": "The documents were being checked.",
+        "explanation": "Documents не проверяли сами."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "The room had ___ cleaned before we arrived.",
+        "options": [
+          "been",
+          "be",
+          "being"
+        ],
+        "correct_answer": "been",
+        "explanation_correct": "Past Perfect passive.",
+        "explanation_wrong": {
+          "be": "Wrong.",
+          "being": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The project will ___ completed soon.",
+        "options": [
+          "be",
+          "been",
+          "being"
+        ],
+        "correct_answer": "be",
+        "explanation_correct": "Future passive.",
+        "explanation_wrong": {
+          "been": "Wrong.",
+          "being": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The documents were ___ checked.",
+        "options": [
+          "being",
+          "been",
+          "be"
+        ],
+        "correct_answer": "being",
+        "explanation_correct": "Past continuous passive.",
+        "explanation_wrong": {
+          "been": "Wrong.",
+          "be": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "By Friday, it will have ___ finished.",
+        "options": [
+          "been",
+          "be",
+          "being"
+        ],
+        "correct_answer": "been",
+        "explanation_correct": "Future perfect passive.",
+        "explanation_wrong": {
+          "be": "Wrong.",
+          "being": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The mistake should have ___ noticed.",
+        "options": [
+          "been",
+          "be",
+          "being"
+        ],
+        "correct_answer": "been",
+        "explanation_correct": "Modal perfect passive.",
+        "explanation_wrong": {
+          "be": "Wrong.",
+          "being": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The building was ___ when I passed.",
+        "options": [
+          "being repaired",
+          "repaired being",
+          "repairing"
+        ],
+        "correct_answer": "being repaired",
+        "explanation_correct": "Was being + V3.",
+        "explanation_wrong": {
+          "repaired being": "Wrong order.",
+          "repairing": "Active meaning."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "The car had been stolen.",
+          "The car had stolen.",
+          "The car had been stole."
+        ],
+        "correct_answer": "The car had been stolen.",
+        "explanation_correct": "Past perfect passive.",
+        "explanation_wrong": {
+          "The car had stolen.": "Missing been.",
+          "The car had been stole.": "Need V3 stolen."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The problem is unlikely to ___ solved quickly.",
+        "options": [
+          "be",
+          "been",
+          "being"
+        ],
+        "correct_answer": "be",
+        "explanation_correct": "To be + V3.",
+        "explanation_wrong": {
+          "been": "Wrong.",
+          "being": "Wrong."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 245,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 45,
+    "level": "B2",
+    "topic": "it is said he is supposed",
+    "title_ru": "It is said that / he is said to / supposed to",
+    "explanation_ru": "Эти пассивные структуры используются для слухов, сообщений и ожиданий: It is said that..., He is said to..., He is supposed to... Supposed to часто означает «считается/ожидается/должен по плану».",
+    "formula": "It is said that + clause\nsubject is said to + V1 / to have V3\nbe supposed to + V1",
+    "examples": [
+      {
+        "en": "It is said that he is rich.",
+        "ru": "Говорят, что он богат.",
+        "note": "Impersonal passive."
+      },
+      {
+        "en": "He is said to be rich.",
+        "ru": "Говорят, что он богат.",
+        "note": "Same idea."
+      },
+      {
+        "en": "You are supposed to be here at 9.",
+        "ru": "Ты должен быть здесь в 9.",
+        "note": "Expected/required."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "He is said that he is rich.",
+        "correct": "It is said that he is rich / He is said to be rich.",
+        "explanation": "Не смешиваем структуры."
+      },
+      {
+        "wrong": "He is said be rich.",
+        "correct": "He is said to be rich.",
+        "explanation": "Нужен to."
+      },
+      {
+        "wrong": "You supposed to come.",
+        "correct": "You are supposed to come.",
+        "explanation": "Нужен be."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "___ said that he is very rich.",
+        "options": [
+          "It is",
+          "He is",
+          "They is"
+        ],
+        "correct_answer": "It is",
+        "explanation_correct": "It is said that...",
+        "explanation_wrong": {
+          "He is": "He is said to..., не that.",
+          "They is": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He is said ___ very rich.",
+        "options": [
+          "to be",
+          "be",
+          "that he is"
+        ],
+        "correct_answer": "to be",
+        "explanation_correct": "He is said to be.",
+        "explanation_wrong": {
+          "be": "Нужен to.",
+          "that he is": "Другая структура: It is said that."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "You are supposed ___ here at 9.",
+        "options": [
+          "to be",
+          "be",
+          "being"
+        ],
+        "correct_answer": "to be",
+        "explanation_correct": "Supposed to + V1.",
+        "explanation_wrong": {
+          "be": "Нужен to.",
+          "being": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The painting is said ___ worth millions.",
+        "options": [
+          "to be",
+          "be",
+          "that it is"
+        ],
+        "correct_answer": "to be",
+        "explanation_correct": "Subject is said to be.",
+        "explanation_wrong": {
+          "be": "Missing to.",
+          "that it is": "Use It is said that it is."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She is supposed ___ call me.",
+        "options": [
+          "to",
+          "for",
+          "that"
+        ],
+        "correct_answer": "to",
+        "explanation_correct": "Supposed to.",
+        "explanation_wrong": {
+          "for": "Wrong.",
+          "that": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He is believed ___ abroad.",
+        "options": [
+          "to live",
+          "live",
+          "that lives"
+        ],
+        "correct_answer": "to live",
+        "explanation_correct": "Be believed to + V1.",
+        "explanation_wrong": {
+          "live": "Missing to.",
+          "that lives": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "It is said that the hotel is haunted.",
+          "It said that the hotel is haunted.",
+          "The hotel is said that haunted."
+        ],
+        "correct_answer": "It is said that the hotel is haunted.",
+        "explanation_correct": "It is said that + clause.",
+        "explanation_wrong": {
+          "It said that the hotel is haunted.": "Missing is.",
+          "The hotel is said that haunted.": "Wrong mixed structure."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They are supposed to ___ tomorrow.",
+        "options": [
+          "arrive",
+          "arrived",
+          "arriving"
+        ],
+        "correct_answer": "arrive",
+        "explanation_correct": "Supposed to + V1.",
+        "explanation_wrong": {
+          "arrived": "Wrong.",
+          "arriving": "Wrong."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 246,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 46,
+    "level": "B2",
+    "topic": "have something done",
+    "title_ru": "Have something done",
+    "explanation_ru": "Have/get something done означает, что кто-то делает это для тебя или с твоей вещью: I had my hair cut = мне подстригли волосы. Это не значит, что я сам подстриг.",
+    "formula": "have/get + object + V3",
+    "examples": [
+      {
+        "en": "I had my hair cut.",
+        "ru": "Мне подстригли волосы.",
+        "note": "Someone did it for me."
+      },
+      {
+        "en": "We are having the house painted.",
+        "ru": "Нам красят дом.",
+        "note": "Someone is doing it."
+      },
+      {
+        "en": "She got her car repaired.",
+        "ru": "Ей починили машину.",
+        "note": "Get possible in informal speech."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I cut my hair at the salon.",
+        "correct": "I had my hair cut at the salon.",
+        "explanation": "Если мастер подстриг, have something done."
+      },
+      {
+        "wrong": "I had cut my hair.",
+        "correct": "I had my hair cut.",
+        "explanation": "Не Past Perfect, а causative."
+      },
+      {
+        "wrong": "She got her car repair.",
+        "correct": "She got her car repaired.",
+        "explanation": "Нужна V3."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I had my hair ___.",
+        "options": [
+          "cut",
+          "cutting",
+          "to cut"
+        ],
+        "correct_answer": "cut",
+        "explanation_correct": "Have something done uses V3; cut-cut-cut.",
+        "explanation_wrong": {
+          "cutting": "Wrong.",
+          "to cut": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We are having the house ___.",
+        "options": [
+          "painted",
+          "painting",
+          "paint"
+        ],
+        "correct_answer": "painted",
+        "explanation_correct": "Having + object + V3.",
+        "explanation_wrong": {
+          "painting": "Active form.",
+          "paint": "Base wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She got her car ___.",
+        "options": [
+          "repaired",
+          "repair",
+          "repairing"
+        ],
+        "correct_answer": "repaired",
+        "explanation_correct": "Get + object + V3.",
+        "explanation_wrong": {
+          "repair": "Base wrong.",
+          "repairing": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I need to have my phone ___.",
+        "options": [
+          "fixed",
+          "fix",
+          "fixing"
+        ],
+        "correct_answer": "fixed",
+        "explanation_correct": "Have object + V3.",
+        "explanation_wrong": {
+          "fix": "Base wrong.",
+          "fixing": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Where did you have your eyes ___?",
+        "options": [
+          "tested",
+          "test",
+          "testing"
+        ],
+        "correct_answer": "tested",
+        "explanation_correct": "Have + object + V3.",
+        "explanation_wrong": {
+          "test": "Base wrong.",
+          "testing": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They had their house ___ into.",
+        "options": [
+          "broken",
+          "break",
+          "breaking"
+        ],
+        "correct_answer": "broken",
+        "explanation_correct": "Break into passive participle: broken.",
+        "explanation_wrong": {
+          "break": "Base wrong.",
+          "breaking": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I'm having my car serviced.",
+          "I'm having my car servicing.",
+          "I'm having serviced my car."
+        ],
+        "correct_answer": "I'm having my car serviced.",
+        "explanation_correct": "Have + object + V3.",
+        "explanation_wrong": {
+          "I'm having my car servicing.": "Wrong form.",
+          "I'm having serviced my car.": "Wrong order."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He got his passport ___.",
+        "options": [
+          "stolen",
+          "stole",
+          "stealing"
+        ],
+        "correct_answer": "stolen",
+        "explanation_correct": "Get + object + V3.",
+        "explanation_wrong": {
+          "stole": "V2 wrong.",
+          "stealing": "Wrong."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 247,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 47,
+    "level": "B1",
+    "topic": "reported speech 1",
+    "title_ru": "Reported speech 1: he said that",
+    "explanation_ru": "Reported speech передаёт чужие слова. Часто tense сдвигается назад: am/is → was, present simple → past simple, will → would, can → could. Say не требует объекта, tell требует объект.",
+    "formula": "said that + clause\ntold + person + that\nbackshift: is→was, do→did, will→would",
+    "examples": [
+      {
+        "en": "He said that he was tired.",
+        "ru": "Он сказал, что устал.",
+        "note": "is → was."
+      },
+      {
+        "en": "She told me she couldn't come.",
+        "ru": "Она сказала мне, что не сможет прийти.",
+        "note": "told + object."
+      },
+      {
+        "en": "He said he would call.",
+        "ru": "Он сказал, что позвонит.",
+        "note": "will → would."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "He said me he was tired.",
+        "correct": "He told me he was tired / He said he was tired.",
+        "explanation": "Say не принимает me так."
+      },
+      {
+        "wrong": "She told that she was busy.",
+        "correct": "She said that she was busy / She told me that...",
+        "explanation": "Tell требует объект."
+      },
+      {
+        "wrong": "He said he will call.",
+        "correct": "He said he would call.",
+        "explanation": "Обычно will → would."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "He said that he ___ tired.",
+        "options": [
+          "was",
+          "is",
+          "be"
+        ],
+        "correct_answer": "was",
+        "explanation_correct": "Reported speech: is → was.",
+        "explanation_wrong": {
+          "is": "Direct speech form, not reported.",
+          "be": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She ___ me she was busy.",
+        "options": [
+          "told",
+          "said",
+          "spoke"
+        ],
+        "correct_answer": "told",
+        "explanation_correct": "Tell + object.",
+        "explanation_wrong": {
+          "said": "Say me неправильно.",
+          "spoke": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He said he ___ call later.",
+        "options": [
+          "would",
+          "will",
+          "is going"
+        ],
+        "correct_answer": "would",
+        "explanation_correct": "Will → would.",
+        "explanation_wrong": {
+          "will": "Direct speech form.",
+          "is going": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Anna said she ___ in London.",
+        "options": [
+          "lived",
+          "lives",
+          "live"
+        ],
+        "correct_answer": "lived",
+        "explanation_correct": "Present simple → past simple.",
+        "explanation_wrong": {
+          "lives": "Direct form.",
+          "live": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He told ___ he couldn't come.",
+        "options": [
+          "me",
+          "to me",
+          "I"
+        ],
+        "correct_answer": "me",
+        "explanation_correct": "Told + object pronoun.",
+        "explanation_wrong": {
+          "to me": "No to after told.",
+          "I": "Need object form."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She said she ___ not know.",
+        "options": [
+          "did",
+          "does",
+          "do"
+        ],
+        "correct_answer": "did",
+        "explanation_correct": "Don't/doesn't → didn't.",
+        "explanation_wrong": {
+          "does": "Direct present.",
+          "do": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "He told me he was ill.",
+          "He said me he was ill.",
+          "He told to me he was ill."
+        ],
+        "correct_answer": "He told me he was ill.",
+        "explanation_correct": "Told + object.",
+        "explanation_wrong": {
+          "He said me he was ill.": "Say me wrong.",
+          "He told to me he was ill.": "No to after told."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They said they ___ finished.",
+        "options": [
+          "had",
+          "have",
+          "has"
+        ],
+        "correct_answer": "had",
+        "explanation_correct": "Present perfect often → past perfect.",
+        "explanation_wrong": {
+          "have": "Direct speech form.",
+          "has": "Wrong."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 248,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 48,
+    "level": "B1",
+    "topic": "reported speech 2",
+    "title_ru": "Reported speech 2: questions and commands",
+    "explanation_ru": "В reported questions порядок слов становится прямым: He asked where I lived, не where did I live. Yes/no questions передаются через if/whether. Команды: told/asked + object + to + verb.",
+    "formula": "asked + question word + subject + verb\nasked if/whether + subject + verb\ntold/asked + object + to + V1",
+    "examples": [
+      {
+        "en": "He asked where I lived.",
+        "ru": "Он спросил, где я живу.",
+        "note": "Direct word order."
+      },
+      {
+        "en": "She asked if I was tired.",
+        "ru": "Она спросила, устал ли я.",
+        "note": "If/whether for yes/no."
+      },
+      {
+        "en": "He told me to wait.",
+        "ru": "Он сказал мне подождать.",
+        "note": "Command."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "He asked where did I live.",
+        "correct": "He asked where I lived.",
+        "explanation": "No question word order."
+      },
+      {
+        "wrong": "She asked was I tired.",
+        "correct": "She asked if I was tired.",
+        "explanation": "Yes/no reported question uses if/whether."
+      },
+      {
+        "wrong": "He told me wait.",
+        "correct": "He told me to wait.",
+        "explanation": "Need to."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "He asked where I ___.",
+        "options": [
+          "lived",
+          "did live",
+          "do live"
+        ],
+        "correct_answer": "lived",
+        "explanation_correct": "Reported question uses statement order.",
+        "explanation_wrong": {
+          "did live": "No did.",
+          "do live": "No do."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She asked ___ I was tired.",
+        "options": [
+          "if",
+          "that",
+          "what"
+        ],
+        "correct_answer": "if",
+        "explanation_correct": "Yes/no reported question uses if/whether.",
+        "explanation_wrong": {
+          "that": "That for statements.",
+          "what": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He told me ___ quiet.",
+        "options": [
+          "to be",
+          "be",
+          "being"
+        ],
+        "correct_answer": "to be",
+        "explanation_correct": "Tell + object + to + V1.",
+        "explanation_wrong": {
+          "be": "Missing to.",
+          "being": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They asked us ___ late.",
+        "options": [
+          "not to be",
+          "to not be",
+          "don't be"
+        ],
+        "correct_answer": "not to be",
+        "explanation_correct": "Negative infinitive: not to.",
+        "explanation_wrong": {
+          "to not be": "Less standard/basic.",
+          "don't be": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She asked what time it ___.",
+        "options": [
+          "was",
+          "was it",
+          "is it"
+        ],
+        "correct_answer": "was",
+        "explanation_correct": "Statement order.",
+        "explanation_wrong": {
+          "was it": "Question order wrong.",
+          "is it": "Direct question."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He asked me where I ___ from.",
+        "options": [
+          "came",
+          "did come",
+          "come"
+        ],
+        "correct_answer": "came",
+        "explanation_correct": "Reported question, no did.",
+        "explanation_wrong": {
+          "did come": "Wrong.",
+          "come": "Tense/backshift needed."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "She asked me if I knew Tom.",
+          "She asked me did I know Tom.",
+          "She asked me if did I know Tom."
+        ],
+        "correct_answer": "She asked me if I knew Tom.",
+        "explanation_correct": "Reported yes/no question.",
+        "explanation_wrong": {
+          "She asked me did I know Tom.": "Question order wrong.",
+          "She asked me if did I know Tom.": "No did order."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I asked him ___ the door.",
+        "options": [
+          "to close",
+          "close",
+          "closing"
+        ],
+        "correct_answer": "to close",
+        "explanation_correct": "Ask + object + to + V1.",
+        "explanation_wrong": {
+          "close": "Missing to.",
+          "closing": "Wrong."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 249,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 49,
+    "level": "B1",
+    "topic": "questions 1",
+    "title_ru": "Questions 1: вспомогательные глаголы",
+    "explanation_ru": "В английском вопрос обычно требует вспомогательного глагола: do/does/did, be, have или modal. Нельзя просто поменять интонацию, как в русском.",
+    "formula": "auxiliary + subject + main verb?\nquestion word + auxiliary + subject + verb?",
+    "examples": [
+      {
+        "en": "Where do you live?",
+        "ru": "Где ты живёшь?",
+        "note": "Do + subject + verb."
+      },
+      {
+        "en": "What are you doing?",
+        "ru": "Что ты делаешь?",
+        "note": "Be before subject."
+      },
+      {
+        "en": "Have you finished?",
+        "ru": "Ты закончил?",
+        "note": "Have before subject."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "Where you live?",
+        "correct": "Where do you live?",
+        "explanation": "Нужен do."
+      },
+      {
+        "wrong": "What you are doing?",
+        "correct": "What are you doing?",
+        "explanation": "Порядок вопроса."
+      },
+      {
+        "wrong": "You have finished?",
+        "correct": "Have you finished?",
+        "explanation": "Have перед subject."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "Where ___ you live?",
+        "options": [
+          "do",
+          "are",
+          "have"
+        ],
+        "correct_answer": "do",
+        "explanation_correct": "Present Simple question.",
+        "explanation_wrong": {
+          "are": "Are you live wrong.",
+          "have": "Have not here."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "What ___ you doing?",
+        "options": [
+          "are",
+          "do",
+          "have"
+        ],
+        "correct_answer": "are",
+        "explanation_correct": "Present Continuous question.",
+        "explanation_wrong": {
+          "do": "Do + doing wrong.",
+          "have": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "___ you finished?",
+        "options": [
+          "Have",
+          "Do",
+          "Are"
+        ],
+        "correct_answer": "Have",
+        "explanation_correct": "Present Perfect question.",
+        "explanation_wrong": {
+          "Do": "Do finished wrong.",
+          "Are": "Are finished = passive/adjective different."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Why ___ she leave early?",
+        "options": [
+          "did",
+          "was",
+          "has"
+        ],
+        "correct_answer": "did",
+        "explanation_correct": "Past Simple question.",
+        "explanation_wrong": {
+          "was": "Was leave wrong.",
+          "has": "Has leave wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Can you ___?",
+        "options": [
+          "swim",
+          "to swim",
+          "swimming"
+        ],
+        "correct_answer": "swim",
+        "explanation_correct": "Modal + V1.",
+        "explanation_wrong": {
+          "to swim": "No to.",
+          "swimming": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "How long ___ it take?",
+        "options": [
+          "does",
+          "is",
+          "do"
+        ],
+        "correct_answer": "does",
+        "explanation_correct": "It → does.",
+        "explanation_wrong": {
+          "is": "Wrong with take.",
+          "do": "It not do."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "What time did you arrive?",
+          "What time you arrived?",
+          "What time did you arrived?"
+        ],
+        "correct_answer": "What time did you arrive?",
+        "explanation_correct": "Did + subject + V1.",
+        "explanation_wrong": {
+          "What time you arrived?": "No auxiliary.",
+          "What time did you arrived?": "After did no V2."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Who ___ this window?",
+        "options": [
+          "broke",
+          "did break",
+          "does broke"
+        ],
+        "correct_answer": "broke",
+        "explanation_correct": "Subject question: who broke?",
+        "explanation_wrong": {
+          "did break": "Did not needed when who is subject.",
+          "does broke": "Wrong."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 250,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 50,
+    "level": "B1",
+    "topic": "questions 2 embedded",
+    "title_ru": "Questions 2: embedded questions",
+    "explanation_ru": "В embedded questions после Do you know..., Can you tell me..., I don't know... порядок слов прямой: where he lives, what it means. Не используем do/does/did внутри второй части.",
+    "formula": "Do you know + question word + subject + verb?\nI don't know + question word + subject + verb",
+    "examples": [
+      {
+        "en": "Do you know where she lives?",
+        "ru": "Ты знаешь, где она живёт?",
+        "note": "Statement order."
+      },
+      {
+        "en": "I don't know what it means.",
+        "ru": "Я не знаю, что это значит.",
+        "note": "No does."
+      },
+      {
+        "en": "Can you tell me where the station is?",
+        "ru": "Можете сказать, где станция?",
+        "note": "Station is."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "Do you know where does she live?",
+        "correct": "Do you know where she lives?",
+        "explanation": "No does in embedded question."
+      },
+      {
+        "wrong": "I don't know what does it mean.",
+        "correct": "I don't know what it means.",
+        "explanation": "Direct word order."
+      },
+      {
+        "wrong": "Can you tell me where is the station?",
+        "correct": "Can you tell me where the station is?",
+        "explanation": "No inversion."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "Do you know where she ___?",
+        "options": [
+          "lives",
+          "does live",
+          "live"
+        ],
+        "correct_answer": "lives",
+        "explanation_correct": "Embedded question: subject + verb.",
+        "explanation_wrong": {
+          "does live": "No does.",
+          "live": "She → lives."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I don't know what it ___.",
+        "options": [
+          "means",
+          "does mean",
+          "mean"
+        ],
+        "correct_answer": "means",
+        "explanation_correct": "It means.",
+        "explanation_wrong": {
+          "does mean": "No does.",
+          "mean": "It → means."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Can you tell me where the bank ___?",
+        "options": [
+          "is",
+          "is it",
+          "does"
+        ],
+        "correct_answer": "is",
+        "explanation_correct": "Statement order.",
+        "explanation_wrong": {
+          "is it": "No inversion.",
+          "does": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Do you know what time ___?",
+        "options": [
+          "it is",
+          "is it",
+          "does it"
+        ],
+        "correct_answer": "it is",
+        "explanation_correct": "Embedded question order.",
+        "explanation_wrong": {
+          "is it": "Direct question order.",
+          "does it": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I don't know where they ___.",
+        "options": [
+          "went",
+          "did go",
+          "goes"
+        ],
+        "correct_answer": "went",
+        "explanation_correct": "No did in embedded past question.",
+        "explanation_wrong": {
+          "did go": "Wrong.",
+          "goes": "They not goes."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Could you tell me how much it ___?",
+        "options": [
+          "costs",
+          "does cost",
+          "cost"
+        ],
+        "correct_answer": "costs",
+        "explanation_correct": "It costs.",
+        "explanation_wrong": {
+          "does cost": "No does.",
+          "cost": "It → costs."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "Do you know where he works?",
+          "Do you know where does he work?",
+          "Do you know where works he?"
+        ],
+        "correct_answer": "Do you know where he works?",
+        "explanation_correct": "Embedded question order.",
+        "explanation_wrong": {
+          "Do you know where does he work?": "No does.",
+          "Do you know where works he?": "Wrong order."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I don't know why she ___ angry.",
+        "options": [
+          "is",
+          "is she",
+          "does"
+        ],
+        "correct_answer": "is",
+        "explanation_correct": "Why she is.",
+        "explanation_wrong": {
+          "is she": "No inversion.",
+          "does": "Angry needs be."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 251,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 51,
+    "level": "B1",
+    "topic": "auxiliary verbs",
+    "title_ru": "Auxiliary verbs: I think so / I hope so",
+    "explanation_ru": "В коротких ответах и фразах можно использовать auxiliary вместо повторения всей фразы: Yes, I do. I think so. I hope not. So do I.",
+    "formula": "short answers use auxiliary\nI think so / I hope not\nSo + auxiliary + subject",
+    "examples": [
+      {
+        "en": "Do you like coffee? Yes, I do.",
+        "ru": "Любишь кофе? Да.",
+        "note": "Do repeats."
+      },
+      {
+        "en": "Will it rain? I think so.",
+        "ru": "Будет дождь? Думаю, да.",
+        "note": "So replaces clause."
+      },
+      {
+        "en": "I like it. So do I.",
+        "ru": "Мне нравится. Мне тоже.",
+        "note": "So do I."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "Yes, I like.",
+        "correct": "Yes, I do.",
+        "explanation": "Short answer uses auxiliary."
+      },
+      {
+        "wrong": "I think yes.",
+        "correct": "I think so.",
+        "explanation": "Natural phrase."
+      },
+      {
+        "wrong": "So I do.",
+        "correct": "So do I.",
+        "explanation": "Inversion after so."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "Do you smoke? No, I ___.",
+        "options": [
+          "don't",
+          "am not",
+          "haven't"
+        ],
+        "correct_answer": "don't",
+        "explanation_correct": "Do-question → don't.",
+        "explanation_wrong": {
+          "am not": "Wrong auxiliary.",
+          "haven't": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Are you ready? Yes, I ___.",
+        "options": [
+          "am",
+          "do",
+          "have"
+        ],
+        "correct_answer": "am",
+        "explanation_correct": "Be-question → am.",
+        "explanation_wrong": {
+          "do": "Wrong.",
+          "have": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Have you finished? Yes, I ___.",
+        "options": [
+          "have",
+          "do",
+          "am"
+        ],
+        "correct_answer": "have",
+        "explanation_correct": "Have-question.",
+        "explanation_wrong": {
+          "do": "Wrong.",
+          "am": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Will it rain? I think ___.",
+        "options": [
+          "so",
+          "yes",
+          "it"
+        ],
+        "correct_answer": "so",
+        "explanation_correct": "Natural phrase: I think so.",
+        "explanation_wrong": {
+          "yes": "Less natural here.",
+          "it": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I hope ___.",
+        "options": [
+          "not",
+          "no",
+          "don't"
+        ],
+        "correct_answer": "not",
+        "explanation_correct": "I hope not.",
+        "explanation_wrong": {
+          "no": "Wrong phrase.",
+          "don't": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I like tea. So ___ I.",
+        "options": [
+          "do",
+          "am",
+          "have"
+        ],
+        "correct_answer": "do",
+        "explanation_correct": "Like → do.",
+        "explanation_wrong": {
+          "am": "Wrong auxiliary.",
+          "have": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "Neither do I.",
+          "Neither I do.",
+          "Neither am I do."
+        ],
+        "correct_answer": "Neither do I.",
+        "explanation_correct": "Neither + auxiliary + subject.",
+        "explanation_wrong": {
+          "Neither I do.": "Wrong order.",
+          "Neither am I do.": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She can drive. So ___ I.",
+        "options": [
+          "can",
+          "do",
+          "am"
+        ],
+        "correct_answer": "can",
+        "explanation_correct": "Can repeats.",
+        "explanation_wrong": {
+          "do": "Wrong.",
+          "am": "Wrong."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 252,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 52,
+    "level": "B2",
+    "topic": "question tags",
+    "title_ru": "Question tags",
+    "explanation_ru": "Question tags — короткие хвостики в конце фразы: isn't it?, do you?, haven't they? Обычно positive sentence + negative tag, negative sentence + positive tag.",
+    "formula": "positive statement + negative tag\nnegative statement + positive tag\nuse same auxiliary",
+    "examples": [
+      {
+        "en": "You're tired, aren't you?",
+        "ru": "Ты устал, да?",
+        "note": "Positive + negative tag."
+      },
+      {
+        "en": "She doesn't smoke, does she?",
+        "ru": "Она не курит, да?",
+        "note": "Negative + positive tag."
+      },
+      {
+        "en": "They've left, haven't they?",
+        "ru": "Они ушли, да?",
+        "note": "Have repeats."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "You're tired, isn't it?",
+        "correct": "You're tired, aren't you?",
+        "explanation": "Tag agrees with subject/auxiliary."
+      },
+      {
+        "wrong": "She doesn't smoke, doesn't she?",
+        "correct": "She doesn't smoke, does she?",
+        "explanation": "Negative statement + positive tag."
+      },
+      {
+        "wrong": "They left, haven't they?",
+        "correct": "They left, didn't they?",
+        "explanation": "Past Simple uses did."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "You're coming, ___?",
+        "options": [
+          "aren't you",
+          "isn't it",
+          "don't you"
+        ],
+        "correct_answer": "aren't you",
+        "explanation_correct": "Auxiliary are + subject you.",
+        "explanation_wrong": {
+          "isn't it": "Wrong subject.",
+          "don't you": "Wrong auxiliary."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She doesn't smoke, ___?",
+        "options": [
+          "does she",
+          "doesn't she",
+          "is she"
+        ],
+        "correct_answer": "does she",
+        "explanation_correct": "Negative statement + positive tag.",
+        "explanation_wrong": {
+          "doesn't she": "Double negative tag.",
+          "is she": "Wrong auxiliary."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They've gone, ___?",
+        "options": [
+          "haven't they",
+          "didn't they",
+          "aren't they"
+        ],
+        "correct_answer": "haven't they",
+        "explanation_correct": "Present Perfect uses have.",
+        "explanation_wrong": {
+          "didn't they": "Past Simple tag.",
+          "aren't they": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He went home, ___?",
+        "options": [
+          "didn't he",
+          "hasn't he",
+          "doesn't he"
+        ],
+        "correct_answer": "didn't he",
+        "explanation_correct": "Past Simple uses did.",
+        "explanation_wrong": {
+          "hasn't he": "Wrong tense.",
+          "doesn't he": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "You can swim, ___?",
+        "options": [
+          "can't you",
+          "can you",
+          "don't you"
+        ],
+        "correct_answer": "can't you",
+        "explanation_correct": "Positive + negative modal tag.",
+        "explanation_wrong": {
+          "can you": "Same polarity question, not standard tag.",
+          "don't you": "Wrong auxiliary."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'm late, ___?",
+        "options": [
+          "aren't I",
+          "amn't I",
+          "isn't I"
+        ],
+        "correct_answer": "aren't I",
+        "explanation_correct": "Special tag: aren't I.",
+        "explanation_wrong": {
+          "amn't I": "Not standard.",
+          "isn't I": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "It's cold, isn't it?",
+          "It's cold, is it?",
+          "It's cold, doesn't it?"
+        ],
+        "correct_answer": "It's cold, isn't it?",
+        "explanation_correct": "Positive + negative tag.",
+        "explanation_wrong": {
+          "It's cold, is it?": "Different meaning.",
+          "It's cold, doesn't it?": "Wrong auxiliary."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Nobody called, ___?",
+        "options": [
+          "did they",
+          "didn't they",
+          "do they"
+        ],
+        "correct_answer": "did they",
+        "explanation_correct": "Nobody is negative, tag positive.",
+        "explanation_wrong": {
+          "didn't they": "Wrong polarity.",
+          "do they": "Wrong tense."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 253,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 53,
+    "level": "B1",
+    "topic": "verb ing",
+    "title_ru": "Verb + -ing",
+    "explanation_ru": "После некоторых глаголов используется -ing: enjoy, mind, finish, stop, avoid, suggest, consider. После предлогов тоже обычно -ing.",
+    "formula": "enjoy/mind/finish/avoid/suggest + V-ing",
+    "examples": [
+      {
+        "en": "I enjoy reading.",
+        "ru": "Мне нравится читать.",
+        "note": "Enjoy + -ing."
+      },
+      {
+        "en": "Do you mind waiting?",
+        "ru": "Ты не против подождать?",
+        "note": "Mind + -ing."
+      },
+      {
+        "en": "She suggested going out.",
+        "ru": "Она предложила выйти.",
+        "note": "Suggest + -ing."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I enjoy to read.",
+        "correct": "I enjoy reading.",
+        "explanation": "Enjoy + -ing."
+      },
+      {
+        "wrong": "Do you mind to wait?",
+        "correct": "Do you mind waiting?",
+        "explanation": "Mind + -ing."
+      },
+      {
+        "wrong": "She suggested to go.",
+        "correct": "She suggested going.",
+        "explanation": "Suggest + -ing."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I enjoy ___.",
+        "options": [
+          "reading",
+          "to read",
+          "read"
+        ],
+        "correct_answer": "reading",
+        "explanation_correct": "Enjoy + -ing.",
+        "explanation_wrong": {
+          "to read": "Wrong after enjoy.",
+          "read": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Do you mind ___?",
+        "options": [
+          "waiting",
+          "to wait",
+          "wait"
+        ],
+        "correct_answer": "waiting",
+        "explanation_correct": "Mind + -ing.",
+        "explanation_wrong": {
+          "to wait": "Wrong.",
+          "wait": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She finished ___ dinner.",
+        "options": [
+          "cooking",
+          "to cook",
+          "cook"
+        ],
+        "correct_answer": "cooking",
+        "explanation_correct": "Finish + -ing.",
+        "explanation_wrong": {
+          "to cook": "Wrong.",
+          "cook": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He avoids ___ at night.",
+        "options": [
+          "driving",
+          "to drive",
+          "drive"
+        ],
+        "correct_answer": "driving",
+        "explanation_correct": "Avoid + -ing.",
+        "explanation_wrong": {
+          "to drive": "Wrong.",
+          "drive": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They suggested ___ by train.",
+        "options": [
+          "going",
+          "to go",
+          "go"
+        ],
+        "correct_answer": "going",
+        "explanation_correct": "Suggest + -ing.",
+        "explanation_wrong": {
+          "to go": "Wrong.",
+          "go": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I can't imagine ___ there.",
+        "options": [
+          "living",
+          "to live",
+          "live"
+        ],
+        "correct_answer": "living",
+        "explanation_correct": "Imagine + -ing.",
+        "explanation_wrong": {
+          "to live": "Wrong.",
+          "live": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I don't mind helping.",
+          "I don't mind to help.",
+          "I don't mind help."
+        ],
+        "correct_answer": "I don't mind helping.",
+        "explanation_correct": "Mind + -ing.",
+        "explanation_wrong": {
+          "I don't mind to help.": "Wrong.",
+          "I don't mind help.": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Stop ___ noise.",
+        "options": [
+          "making",
+          "to make",
+          "make"
+        ],
+        "correct_answer": "making",
+        "explanation_correct": "Stop doing = прекратить делать.",
+        "explanation_wrong": {
+          "to make": "Stop to = остановиться, чтобы сделать.",
+          "make": "Wrong."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 254,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 54,
+    "level": "B1",
+    "topic": "verb to",
+    "title_ru": "Verb + to",
+    "explanation_ru": "После многих глаголов используется to + verb: decide, hope, plan, promise, refuse, offer, agree, learn, manage, forget.",
+    "formula": "decide/hope/plan/promise/refuse/agree + to + V1",
+    "examples": [
+      {
+        "en": "I decided to leave.",
+        "ru": "Я решил уйти.",
+        "note": "Decide to."
+      },
+      {
+        "en": "She promised to call.",
+        "ru": "Она обещала позвонить.",
+        "note": "Promise to."
+      },
+      {
+        "en": "They refused to help.",
+        "ru": "Они отказались помочь.",
+        "note": "Refuse to."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I decided leaving.",
+        "correct": "I decided to leave.",
+        "explanation": "Decide + to."
+      },
+      {
+        "wrong": "She promised call.",
+        "correct": "She promised to call.",
+        "explanation": "Need to."
+      },
+      {
+        "wrong": "They refused helping.",
+        "correct": "They refused to help.",
+        "explanation": "Refuse + to."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I decided ___ early.",
+        "options": [
+          "to leave",
+          "leaving",
+          "leave"
+        ],
+        "correct_answer": "to leave",
+        "explanation_correct": "Decide + to.",
+        "explanation_wrong": {
+          "leaving": "Wrong.",
+          "leave": "Missing to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She promised ___ me.",
+        "options": [
+          "to call",
+          "calling",
+          "call"
+        ],
+        "correct_answer": "to call",
+        "explanation_correct": "Promise + to.",
+        "explanation_wrong": {
+          "calling": "Wrong.",
+          "call": "Missing to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They refused ___ us.",
+        "options": [
+          "to help",
+          "helping",
+          "help"
+        ],
+        "correct_answer": "to help",
+        "explanation_correct": "Refuse + to.",
+        "explanation_wrong": {
+          "helping": "Wrong.",
+          "help": "Missing to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We hope ___ soon.",
+        "options": [
+          "to arrive",
+          "arriving",
+          "arrive"
+        ],
+        "correct_answer": "to arrive",
+        "explanation_correct": "Hope + to.",
+        "explanation_wrong": {
+          "arriving": "Wrong.",
+          "arrive": "Missing to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He managed ___ the door.",
+        "options": [
+          "to open",
+          "opening",
+          "open"
+        ],
+        "correct_answer": "to open",
+        "explanation_correct": "Manage + to.",
+        "explanation_wrong": {
+          "opening": "Wrong.",
+          "open": "Missing to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I forgot ___ the email.",
+        "options": [
+          "to send",
+          "sending",
+          "send"
+        ],
+        "correct_answer": "to send",
+        "explanation_correct": "Forget to do = не вспомнил сделать.",
+        "explanation_wrong": {
+          "sending": "Different meaning.",
+          "send": "Missing to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "She agreed to wait.",
+          "She agreed waiting.",
+          "She agreed wait."
+        ],
+        "correct_answer": "She agreed to wait.",
+        "explanation_correct": "Agree + to.",
+        "explanation_wrong": {
+          "She agreed waiting.": "Wrong.",
+          "She agreed wait.": "Missing to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They offered ___ us.",
+        "options": [
+          "to help",
+          "helping",
+          "help"
+        ],
+        "correct_answer": "to help",
+        "explanation_correct": "Offer + to.",
+        "explanation_wrong": {
+          "helping": "Wrong.",
+          "help": "Missing to."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 255,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 55,
+    "level": "B1",
+    "topic": "verb object to",
+    "title_ru": "Verb + object + to",
+    "explanation_ru": "После want, ask, tell, expect, help, would like часто идёт object + to + verb: I want you to listen. He told me to wait.",
+    "formula": "want/ask/tell/expect/would like + object + to + V1",
+    "examples": [
+      {
+        "en": "I want you to listen.",
+        "ru": "Я хочу, чтобы ты слушал.",
+        "note": "Want + object + to."
+      },
+      {
+        "en": "She told me to wait.",
+        "ru": "Она сказала мне подождать.",
+        "note": "Tell + object + to."
+      },
+      {
+        "en": "We asked him to help.",
+        "ru": "Мы попросили его помочь.",
+        "note": "Ask + object + to."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I want that you listen.",
+        "correct": "I want you to listen.",
+        "explanation": "English pattern: want + object + to."
+      },
+      {
+        "wrong": "She told me wait.",
+        "correct": "She told me to wait.",
+        "explanation": "Need to."
+      },
+      {
+        "wrong": "We asked to him to help.",
+        "correct": "We asked him to help.",
+        "explanation": "No to before object."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I want you ___ me.",
+        "options": [
+          "to help",
+          "help",
+          "helping"
+        ],
+        "correct_answer": "to help",
+        "explanation_correct": "Want + object + to.",
+        "explanation_wrong": {
+          "help": "Missing to.",
+          "helping": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She told me ___ quiet.",
+        "options": [
+          "to be",
+          "be",
+          "being"
+        ],
+        "correct_answer": "to be",
+        "explanation_correct": "Tell + object + to.",
+        "explanation_wrong": {
+          "be": "Missing to.",
+          "being": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We asked him ___ us.",
+        "options": [
+          "to call",
+          "call",
+          "calling"
+        ],
+        "correct_answer": "to call",
+        "explanation_correct": "Ask + object + to.",
+        "explanation_wrong": {
+          "call": "Missing to.",
+          "calling": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'd like you ___ this.",
+        "options": [
+          "to read",
+          "read",
+          "reading"
+        ],
+        "correct_answer": "to read",
+        "explanation_correct": "Would like + object + to.",
+        "explanation_wrong": {
+          "read": "Missing to.",
+          "reading": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They expect us ___ on time.",
+        "options": [
+          "to arrive",
+          "arrive",
+          "arriving"
+        ],
+        "correct_answer": "to arrive",
+        "explanation_correct": "Expect + object + to.",
+        "explanation_wrong": {
+          "arrive": "Missing to.",
+          "arriving": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He warned me ___ careful.",
+        "options": [
+          "to be",
+          "be",
+          "being"
+        ],
+        "correct_answer": "to be",
+        "explanation_correct": "Warn + object + to.",
+        "explanation_wrong": {
+          "be": "Missing to.",
+          "being": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I want her to stay.",
+          "I want that she stays.",
+          "I want she to stay."
+        ],
+        "correct_answer": "I want her to stay.",
+        "explanation_correct": "Want + object pronoun + to.",
+        "explanation_wrong": {
+          "I want that she stays.": "Russian calque.",
+          "I want she to stay.": "Need her."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "My parents encouraged me ___ harder.",
+        "options": [
+          "to study",
+          "study",
+          "studying"
+        ],
+        "correct_answer": "to study",
+        "explanation_correct": "Encourage + object + to.",
+        "explanation_wrong": {
+          "study": "Missing to.",
+          "studying": "Wrong."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 256,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 56,
+    "level": "B2",
+    "topic": "verb ing or to 1",
+    "title_ru": "Verb + -ing or to 1: remember, regret, go on",
+    "explanation_ru": "Некоторые глаголы меняют смысл: remember doing = помнить, что сделал; remember to do = не забыть сделать. Regret doing = жалеть о сделанном; regret to say = с сожалением сообщать.",
+    "formula": "remember doing / remember to do\nregret doing / regret to say\ngo on doing / go on to do",
+    "examples": [
+      {
+        "en": "I remember locking the door.",
+        "ru": "Я помню, как закрыл дверь.",
+        "note": "Memory of past action."
+      },
+      {
+        "en": "Remember to lock the door.",
+        "ru": "Не забудь закрыть дверь.",
+        "note": "Future task."
+      },
+      {
+        "en": "I regret saying that.",
+        "ru": "Жалею, что сказал это.",
+        "note": "Past action regret."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "Remember locking the door before you leave.",
+        "correct": "Remember to lock the door before you leave.",
+        "explanation": "Future task needs to."
+      },
+      {
+        "wrong": "I regret to say that.",
+        "correct": "I regret saying that.",
+        "explanation": "If you regret your own past action, use -ing."
+      },
+      {
+        "wrong": "I remember to meet him yesterday.",
+        "correct": "I remember meeting him yesterday.",
+        "explanation": "Memory of past action uses -ing."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "Remember ___ the lights before you leave.",
+        "options": [
+          "to turn off",
+          "turning off",
+          "turn off"
+        ],
+        "correct_answer": "to turn off",
+        "explanation_correct": "Не забудь сделать → to.",
+        "explanation_wrong": {
+          "turning off": "Это значило бы помнить прошлое действие.",
+          "turn off": "Missing to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I remember ___ him at school.",
+        "options": [
+          "meeting",
+          "to meet",
+          "meet"
+        ],
+        "correct_answer": "meeting",
+        "explanation_correct": "Помню прошлую встречу → -ing.",
+        "explanation_wrong": {
+          "to meet": "Future task meaning.",
+          "meet": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I regret ___ that email.",
+        "options": [
+          "sending",
+          "to send",
+          "send"
+        ],
+        "correct_answer": "sending",
+        "explanation_correct": "Жалею о сделанном → -ing.",
+        "explanation_wrong": {
+          "to send": "Regret to используется для сообщения.",
+          "send": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We regret ___ you that the flight is cancelled.",
+        "options": [
+          "to inform",
+          "informing",
+          "inform"
+        ],
+        "correct_answer": "to inform",
+        "explanation_correct": "Regret to inform = с сожалением сообщаем.",
+        "explanation_wrong": {
+          "informing": "Значило бы жалеть о процессе информирования.",
+          "inform": "Missing to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He went on ___ for two hours.",
+        "options": [
+          "talking",
+          "to talk",
+          "talk"
+        ],
+        "correct_answer": "talking",
+        "explanation_correct": "Continue same activity → go on -ing.",
+        "explanation_wrong": {
+          "to talk": "Go on to do = перейти к другому действию.",
+          "talk": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "After maths, he went on ___ physics.",
+        "options": [
+          "to study",
+          "studying",
+          "study"
+        ],
+        "correct_answer": "to study",
+        "explanation_correct": "Go on to do = перейти к следующему действию.",
+        "explanation_wrong": {
+          "studying": "Continue studying same thing would be -ing.",
+          "study": "Missing to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I forgot to call her.",
+          "I forgot calling her.",
+          "I forgot call her."
+        ],
+        "correct_answer": "I forgot to call her.",
+        "explanation_correct": "Forgot to = не вспомнил сделать.",
+        "explanation_wrong": {
+          "I forgot calling her.": "Forgot doing = забыл факт прошлого действия.",
+          "I forgot call her.": "Missing to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'll never forget ___ Paris for the first time.",
+        "options": [
+          "visiting",
+          "to visit",
+          "visit"
+        ],
+        "correct_answer": "visiting",
+        "explanation_correct": "Memory of past event → -ing.",
+        "explanation_wrong": {
+          "to visit": "Future task meaning.",
+          "visit": "Wrong."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 257,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 57,
+    "level": "B2",
+    "topic": "verb ing or to 2",
+    "title_ru": "Verb + -ing or to 2: try, need, help",
+    "explanation_ru": "Try to do = попытаться сделать. Try doing = попробовать способ. Need to do = нужно сделать. Need doing = нужно, чтобы это сделали с предметом. Help может быть help do или help to do.",
+    "formula": "try to do / try doing\nneed to do / need doing\nhelp do / help to do",
+    "examples": [
+      {
+        "en": "I tried to open the door.",
+        "ru": "Я попытался открыть дверь.",
+        "note": "Attempt."
+      },
+      {
+        "en": "Try restarting your phone.",
+        "ru": "Попробуй перезагрузить телефон.",
+        "note": "Try a method."
+      },
+      {
+        "en": "The car needs washing.",
+        "ru": "Машину нужно помыть.",
+        "note": "Passive meaning."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I tried opening the door but couldn't.",
+        "correct": "I tried to open the door but couldn't.",
+        "explanation": "Если попытался и не смог — try to."
+      },
+      {
+        "wrong": "You need studying more.",
+        "correct": "You need to study more.",
+        "explanation": "Person needs to do."
+      },
+      {
+        "wrong": "The car needs to wash.",
+        "correct": "The car needs washing / needs to be washed.",
+        "explanation": "Passive meaning."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I tried ___ the window, but it was stuck.",
+        "options": [
+          "to open",
+          "opening",
+          "open"
+        ],
+        "correct_answer": "to open",
+        "explanation_correct": "Attempt to do.",
+        "explanation_wrong": {
+          "opening": "Try a method, less suitable with couldn't.",
+          "open": "Missing to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Try ___ the computer.",
+        "options": [
+          "restarting",
+          "to restart",
+          "restart"
+        ],
+        "correct_answer": "restarting",
+        "explanation_correct": "Try a method: try -ing.",
+        "explanation_wrong": {
+          "to restart": "Possible, but method advice often -ing.",
+          "restart": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "You need ___ more.",
+        "options": [
+          "to practise",
+          "practising",
+          "practise"
+        ],
+        "correct_answer": "to practise",
+        "explanation_correct": "Person needs to do.",
+        "explanation_wrong": {
+          "practising": "Need doing has passive object meaning.",
+          "practise": "Missing to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "This shirt needs ___.",
+        "options": [
+          "washing",
+          "to wash",
+          "wash"
+        ],
+        "correct_answer": "washing",
+        "explanation_correct": "Thing needs doing = passive.",
+        "explanation_wrong": {
+          "to wash": "Would need to be washed.",
+          "wash": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Can you help me ___ this?",
+        "options": [
+          "do",
+          "doing",
+          "done"
+        ],
+        "correct_answer": "do",
+        "explanation_correct": "Help someone do / to do.",
+        "explanation_wrong": {
+          "doing": "Wrong.",
+          "done": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She helped me ___ my homework.",
+        "options": [
+          "to finish",
+          "finishing",
+          "finished"
+        ],
+        "correct_answer": "to finish",
+        "explanation_correct": "Help can take to + V1.",
+        "explanation_wrong": {
+          "finishing": "Wrong.",
+          "finished": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "The room needs cleaning.",
+          "The room needs to clean.",
+          "The room needs clean."
+        ],
+        "correct_answer": "The room needs cleaning.",
+        "explanation_correct": "Needs cleaning = needs to be cleaned.",
+        "explanation_wrong": {
+          "The room needs to clean.": "Wrong active meaning.",
+          "The room needs clean.": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I tried ___ early, but I couldn't sleep.",
+        "options": [
+          "to sleep",
+          "sleeping",
+          "sleep"
+        ],
+        "correct_answer": "to sleep",
+        "explanation_correct": "Attempt to sleep.",
+        "explanation_wrong": {
+          "sleeping": "Try sleeping = try the method of sleeping, less logical here.",
+          "sleep": "Missing to."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 258,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 58,
+    "level": "B1",
+    "topic": "verb ing or to 3",
+    "title_ru": "Verb + -ing or to 3: like / would like",
+    "explanation_ru": "Like doing часто говорит об удовольствии или привычке. Like to do может говорить о выборе/предпочтении в ситуации. Would like всегда требует to + verb.",
+    "formula": "like doing / like to do\nwould like to + V1\nwouldn't like to + V1",
+    "examples": [
+      {
+        "en": "I like swimming.",
+        "ru": "Мне нравится плавать.",
+        "note": "General enjoyment."
+      },
+      {
+        "en": "I like to check my emails in the morning.",
+        "ru": "Я предпочитаю проверять почту утром.",
+        "note": "Preference/routine."
+      },
+      {
+        "en": "I'd like to go home.",
+        "ru": "Я бы хотел домой.",
+        "note": "Would like to."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I'd like going home.",
+        "correct": "I'd like to go home.",
+        "explanation": "Would like + to."
+      },
+      {
+        "wrong": "I would like go.",
+        "correct": "I would like to go.",
+        "explanation": "Need to."
+      },
+      {
+        "wrong": "I like swim.",
+        "correct": "I like swimming / I like to swim.",
+        "explanation": "Need -ing or to."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I like ___ in the sea.",
+        "options": [
+          "swimming",
+          "swim",
+          "to swimming"
+        ],
+        "correct_answer": "swimming",
+        "explanation_correct": "Like + -ing for enjoyment.",
+        "explanation_wrong": {
+          "swim": "Need -ing or to.",
+          "to swimming": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'd like ___ now.",
+        "options": [
+          "to leave",
+          "leaving",
+          "leave"
+        ],
+        "correct_answer": "to leave",
+        "explanation_correct": "Would like + to.",
+        "explanation_wrong": {
+          "leaving": "Wrong after would like.",
+          "leave": "Missing to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Would you like ___ with us?",
+        "options": [
+          "to come",
+          "coming",
+          "come"
+        ],
+        "correct_answer": "to come",
+        "explanation_correct": "Would like + to.",
+        "explanation_wrong": {
+          "coming": "Wrong.",
+          "come": "Missing to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I wouldn't like ___ in that area.",
+        "options": [
+          "to live",
+          "living",
+          "live"
+        ],
+        "correct_answer": "to live",
+        "explanation_correct": "Wouldn't like + to.",
+        "explanation_wrong": {
+          "living": "Wrong.",
+          "live": "Missing to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She likes ___ early.",
+        "options": [
+          "getting up",
+          "get up",
+          "to getting up"
+        ],
+        "correct_answer": "getting up",
+        "explanation_correct": "Like + -ing possible.",
+        "explanation_wrong": {
+          "get up": "Missing -ing/to.",
+          "to getting up": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I like ___ everything before I leave.",
+        "options": [
+          "to check",
+          "checking",
+          "check"
+        ],
+        "correct_answer": "to check",
+        "explanation_correct": "Like to do can mean preference/routine.",
+        "explanation_wrong": {
+          "checking": "Also possible, but to better for deliberate habit.",
+          "check": "Missing to/ing."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I'd love to see you.",
+          "I'd love seeing you tomorrow.",
+          "I'd love see you."
+        ],
+        "correct_answer": "I'd love to see you.",
+        "explanation_correct": "Would love + to.",
+        "explanation_wrong": {
+          "I'd love seeing you tomorrow.": "Wrong for future wish.",
+          "I'd love see you.": "Missing to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Do you like ___ alone?",
+        "options": [
+          "working",
+          "work",
+          "to working"
+        ],
+        "correct_answer": "working",
+        "explanation_correct": "Like + -ing.",
+        "explanation_wrong": {
+          "work": "Need -ing/to.",
+          "to working": "Wrong."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 259,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 59,
+    "level": "B2",
+    "topic": "prefer and would rather",
+    "title_ru": "Prefer / would rather",
+    "explanation_ru": "Prefer может использоваться с -ing или to. Would rather используется без to: I'd rather stay. Для сравнения: prefer doing to doing, would rather do than do.",
+    "formula": "prefer + noun/-ing/to + V1\nprefer doing to doing\nwould rather + V1\nwould rather do than do",
+    "examples": [
+      {
+        "en": "I prefer tea to coffee.",
+        "ru": "Я предпочитаю чай кофе.",
+        "note": "Prefer A to B."
+      },
+      {
+        "en": "I prefer driving to travelling by train.",
+        "ru": "Я предпочитаю водить, а не ехать поездом.",
+        "note": "Prefer -ing to -ing."
+      },
+      {
+        "en": "I'd rather stay home.",
+        "ru": "Я бы лучше остался дома.",
+        "note": "Would rather + V1."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I prefer tea than coffee.",
+        "correct": "I prefer tea to coffee.",
+        "explanation": "Prefer uses to."
+      },
+      {
+        "wrong": "I'd rather to stay.",
+        "correct": "I'd rather stay.",
+        "explanation": "Would rather без to."
+      },
+      {
+        "wrong": "I prefer drive to travel.",
+        "correct": "I prefer driving to travelling / I prefer to drive rather than travel.",
+        "explanation": "Нужна правильная пара форм."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I prefer tea ___ coffee.",
+        "options": [
+          "to",
+          "than",
+          "from"
+        ],
+        "correct_answer": "to",
+        "explanation_correct": "Prefer A to B.",
+        "explanation_wrong": {
+          "than": "Than with would rather comparison.",
+          "from": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I prefer ___ to travelling by bus.",
+        "options": [
+          "driving",
+          "drive",
+          "to drive"
+        ],
+        "correct_answer": "driving",
+        "explanation_correct": "Prefer -ing to -ing.",
+        "explanation_wrong": {
+          "drive": "Need parallel form.",
+          "to drive": "Would need rather than."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'd rather ___ at home.",
+        "options": [
+          "stay",
+          "to stay",
+          "staying"
+        ],
+        "correct_answer": "stay",
+        "explanation_correct": "Would rather + V1.",
+        "explanation_wrong": {
+          "to stay": "No to.",
+          "staying": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'd rather walk ___ take a taxi.",
+        "options": [
+          "than",
+          "to",
+          "from"
+        ],
+        "correct_answer": "than",
+        "explanation_correct": "Would rather do than do.",
+        "explanation_wrong": {
+          "to": "Wrong.",
+          "from": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Would you rather ___ now?",
+        "options": [
+          "leave",
+          "to leave",
+          "leaving"
+        ],
+        "correct_answer": "leave",
+        "explanation_correct": "Rather + V1.",
+        "explanation_wrong": {
+          "to leave": "No to.",
+          "leaving": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She prefers ___ alone.",
+        "options": [
+          "to work",
+          "work",
+          "to working"
+        ],
+        "correct_answer": "to work",
+        "explanation_correct": "Prefer to + V1 possible.",
+        "explanation_wrong": {
+          "work": "Missing to.",
+          "to working": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I prefer living alone to sharing a flat.",
+          "I prefer living alone than sharing a flat.",
+          "I prefer live alone to share a flat."
+        ],
+        "correct_answer": "I prefer living alone to sharing a flat.",
+        "explanation_correct": "Prefer -ing to -ing.",
+        "explanation_wrong": {
+          "I prefer living alone than sharing a flat.": "Prefer uses to, not than.",
+          "I prefer live alone to share a flat.": "Wrong forms."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I would rather not ___ about it.",
+        "options": [
+          "talk",
+          "to talk",
+          "talking"
+        ],
+        "correct_answer": "talk",
+        "explanation_correct": "Would rather not + V1.",
+        "explanation_wrong": {
+          "to talk": "No to.",
+          "talking": "Wrong."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 260,
+    "source_book": "English Grammar in Use, 5th edition",
+    "source_unit": 60,
+    "level": "B1",
+    "topic": "preposition ing",
+    "title_ru": "Preposition + -ing",
+    "explanation_ru": "После предлога глагол принимает форму -ing: after doing, before going, without saying, by doing, instead of doing, interested in doing.",
+    "formula": "preposition + V-ing",
+    "examples": [
+      {
+        "en": "After finishing work, I went home.",
+        "ru": "После окончания работы я пошёл домой.",
+        "note": "After + -ing."
+      },
+      {
+        "en": "She left without saying goodbye.",
+        "ru": "Она ушла, не попрощавшись.",
+        "note": "Without + -ing."
+      },
+      {
+        "en": "I'm interested in learning English.",
+        "ru": "Мне интересно учить английский.",
+        "note": "In + -ing."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "After finish work",
+        "correct": "After finishing work",
+        "explanation": "After + -ing."
+      },
+      {
+        "wrong": "Without to say goodbye",
+        "correct": "Without saying goodbye",
+        "explanation": "After preposition use -ing."
+      },
+      {
+        "wrong": "Interested in learn",
+        "correct": "Interested in learning",
+        "explanation": "In + -ing."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "After ___ dinner, we went out.",
+        "options": [
+          "having",
+          "to have",
+          "have"
+        ],
+        "correct_answer": "having",
+        "explanation_correct": "After + -ing.",
+        "explanation_wrong": {
+          "to have": "No to after preposition.",
+          "have": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She left without ___ goodbye.",
+        "options": [
+          "saying",
+          "to say",
+          "say"
+        ],
+        "correct_answer": "saying",
+        "explanation_correct": "Without + -ing.",
+        "explanation_wrong": {
+          "to say": "Wrong.",
+          "say": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'm interested in ___ English.",
+        "options": [
+          "learning",
+          "to learn",
+          "learn"
+        ],
+        "correct_answer": "learning",
+        "explanation_correct": "In + -ing.",
+        "explanation_wrong": {
+          "to learn": "Wrong after preposition.",
+          "learn": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Before ___, call me.",
+        "options": [
+          "leaving",
+          "to leave",
+          "leave"
+        ],
+        "correct_answer": "leaving",
+        "explanation_correct": "Before + -ing.",
+        "explanation_wrong": {
+          "to leave": "Wrong.",
+          "leave": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He apologised for ___ late.",
+        "options": [
+          "being",
+          "to be",
+          "be"
+        ],
+        "correct_answer": "being",
+        "explanation_correct": "For + -ing.",
+        "explanation_wrong": {
+          "to be": "Wrong.",
+          "be": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "You can improve by ___ every day.",
+        "options": [
+          "practising",
+          "to practise",
+          "practise"
+        ],
+        "correct_answer": "practising",
+        "explanation_correct": "By + -ing.",
+        "explanation_wrong": {
+          "to practise": "Wrong.",
+          "practise": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "Instead of going home, we stayed out.",
+          "Instead of to go home, we stayed out.",
+          "Instead go home, we stayed out."
+        ],
+        "correct_answer": "Instead of going home, we stayed out.",
+        "explanation_correct": "Instead of + -ing.",
+        "explanation_wrong": {
+          "Instead of to go home, we stayed out.": "No to.",
+          "Instead go home, we stayed out.": "Missing of/ing."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She is good at ___ stories.",
+        "options": [
+          "telling",
+          "to tell",
+          "tell"
+        ],
+        "correct_answer": "telling",
+        "explanation_correct": "At + -ing.",
+        "explanation_wrong": {
+          "to tell": "Wrong.",
+          "tell": "Wrong."
+        }
+      }
+    ]
+  }
+]

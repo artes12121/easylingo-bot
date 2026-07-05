@@ -1,0 +1,3938 @@
+[
+  {
+    "unit": 91,
+    "level": "A2",
+    "topic": "too",
+    "title_ru": "Too: слишком",
+    "explanation_ru": "Too означает «слишком» — больше, чем нужно или хорошо. Часто после too используется to + verb: too tired to work.",
+    "formula": "too + adjective/adverb\ntoo + adjective/adverb + to + verb",
+    "examples": [
+      {
+        "en": "This coffee is too hot.",
+        "ru": "Этот кофе слишком горячий.",
+        "note": "Больше, чем комфортно."
+      },
+      {
+        "en": "I'm too tired to study.",
+        "ru": "Я слишком устал, чтобы учиться.",
+        "note": "too + adjective + to."
+      },
+      {
+        "en": "You are driving too fast.",
+        "ru": "Ты едешь слишком быстро.",
+        "note": "too + adverb."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "very tired to work",
+        "correct": "too tired to work",
+        "explanation": "Если смысл «слишком, чтобы» — too."
+      },
+      {
+        "wrong": "too much hot",
+        "correct": "too hot",
+        "explanation": "С adjective используем too без much."
+      },
+      {
+        "wrong": "too tired for work",
+        "correct": "too tired to work",
+        "explanation": "Перед глаголом нужен to."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "This bag is ___ heavy.",
+        "options": [
+          "too",
+          "enough",
+          "many"
+        ],
+        "correct_answer": "too",
+        "explanation_correct": "Too heavy = слишком тяжёлая.",
+        "explanation_wrong": {
+          "enough": "Enough = достаточно, другой смысл.",
+          "many": "Many с plural nouns."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'm too tired ___ go out.",
+        "options": [
+          "to",
+          "for",
+          "-"
+        ],
+        "correct_answer": "to",
+        "explanation_correct": "too + adjective + to + verb.",
+        "explanation_wrong": {
+          "for": "For перед noun, не verb.",
+          "-": "Нужен to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "You speak ___ quickly.",
+        "options": [
+          "too",
+          "too much",
+          "many"
+        ],
+        "correct_answer": "too",
+        "explanation_correct": "Too + adverb.",
+        "explanation_wrong": {
+          "too much": "Too much + noun/after verb, не перед quickly.",
+          "many": "Не с adverb."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The music is ___ loud.",
+        "options": [
+          "too",
+          "too many",
+          "enough"
+        ],
+        "correct_answer": "too",
+        "explanation_correct": "Too loud = слишком громко.",
+        "explanation_wrong": {
+          "too many": "Too many + plural noun.",
+          "enough": "Enough обычно после adjective."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It's too cold ___ swim.",
+        "options": [
+          "to",
+          "for",
+          "at"
+        ],
+        "correct_answer": "to",
+        "explanation_correct": "too cold to swim.",
+        "explanation_wrong": {
+          "for": "Перед verb нужен to.",
+          "at": "Неверно."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There are ___ many people here.",
+        "options": [
+          "too",
+          "much",
+          "enough"
+        ],
+        "correct_answer": "too",
+        "explanation_correct": "Too many + plural noun.",
+        "explanation_wrong": {
+          "much": "Much не с many в этой структуре.",
+          "enough": "Enough people, не enough many."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "It's too expensive to buy.",
+          "It's enough expensive to buy.",
+          "It's too expensive for buy."
+        ],
+        "correct_answer": "It's too expensive to buy.",
+        "explanation_correct": "Too + adjective + to + verb.",
+        "explanation_wrong": {
+          "It's enough expensive to buy.": "Enough ставится после adjective: expensive enough.",
+          "It's too expensive for buy.": "Перед verb нужен to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She is ___ young to drive.",
+        "options": [
+          "too",
+          "enough",
+          "much"
+        ],
+        "correct_answer": "too",
+        "explanation_correct": "Too young to drive.",
+        "explanation_wrong": {
+          "enough": "Would be old enough, not young enough.",
+          "much": "Не подходит."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 92,
+    "level": "A2",
+    "topic": "word order 1",
+    "title_ru": "Word order 1: He speaks English very well",
+    "explanation_ru": "В английском порядок слов жёстче, чем в русском. Обычно: subject + verb + object + place/time. Наречие образа действия часто идёт после объекта.",
+    "formula": "subject + verb + object\nsubject + verb + object + adverb\nplace before time often: at home yesterday",
+    "examples": [
+      {
+        "en": "He speaks English very well.",
+        "ru": "Он очень хорошо говорит по-английски.",
+        "note": "Object English перед adverb well."
+      },
+      {
+        "en": "I watched TV at home yesterday.",
+        "ru": "Я смотрел телевизор дома вчера.",
+        "note": "place before time."
+      },
+      {
+        "en": "She reads books quietly.",
+        "ru": "Она тихо читает книги.",
+        "note": "object before adverb."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "He speaks very well English.",
+        "correct": "He speaks English very well.",
+        "explanation": "Object обычно сразу после verb."
+      },
+      {
+        "wrong": "I like very much this book.",
+        "correct": "I like this book very much.",
+        "explanation": "Object before very much."
+      },
+      {
+        "wrong": "We went yesterday to the cinema.",
+        "correct": "We went to the cinema yesterday.",
+        "explanation": "Place before time."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "He speaks English ___.",
+        "options": [
+          "very well",
+          "very good",
+          "well very"
+        ],
+        "correct_answer": "very well",
+        "explanation_correct": "Verb speak needs adverb well.",
+        "explanation_wrong": {
+          "very good": "Good is adjective.",
+          "well very": "Wrong order."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I like this film ___.",
+        "options": [
+          "very much",
+          "much very",
+          "very many"
+        ],
+        "correct_answer": "very much",
+        "explanation_correct": "Object before very much.",
+        "explanation_wrong": {
+          "much very": "Wrong order.",
+          "very many": "With plural nouns."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She plays ___ beautifully.",
+        "options": [
+          "the piano",
+          "beautiful",
+          "very"
+        ],
+        "correct_answer": "the piano",
+        "explanation_correct": "Object before adverb.",
+        "explanation_wrong": {
+          "beautiful": "Adjective, not object.",
+          "very": "Incomplete."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We went ___ yesterday.",
+        "options": [
+          "to the cinema",
+          "yesterday to the cinema",
+          "cinema to"
+        ],
+        "correct_answer": "to the cinema",
+        "explanation_correct": "Place before time.",
+        "explanation_wrong": {
+          "yesterday to the cinema": "Less natural/basic order.",
+          "cinema to": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I met ___ at the station.",
+        "options": [
+          "Anna",
+          "at Anna",
+          "with Anna"
+        ],
+        "correct_answer": "Anna",
+        "explanation_correct": "Verb met takes direct object.",
+        "explanation_wrong": {
+          "at Anna": "Wrong.",
+          "with Anna": "Met with possible in other sense, but not here."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He opened ___ slowly.",
+        "options": [
+          "the door",
+          "slowly the door",
+          "door the"
+        ],
+        "correct_answer": "the door",
+        "explanation_correct": "Object before adverb.",
+        "explanation_wrong": {
+          "slowly the door": "Wrong basic order.",
+          "door the": "Wrong article order."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I read the letter carefully.",
+          "I read carefully the letter.",
+          "I carefully the letter read."
+        ],
+        "correct_answer": "I read the letter carefully.",
+        "explanation_correct": "Object before adverb.",
+        "explanation_wrong": {
+          "I read carefully the letter.": "Not basic order.",
+          "I carefully the letter read.": "Wrong word order."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They arrived ___ last night.",
+        "options": [
+          "home",
+          "last night home",
+          "to home"
+        ],
+        "correct_answer": "home",
+        "explanation_correct": "Arrived home + time.",
+        "explanation_wrong": {
+          "last night home": "Wrong basic order.",
+          "to home": "Home often without to."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 93,
+    "level": "A2",
+    "topic": "word order 2 frequency",
+    "title_ru": "Word order 2: always / usually / often",
+    "explanation_ru": "Наречия частоты usually, often, always, never обычно стоят перед основным глаголом, но после be. С вспомогательными глаголами — после первого auxiliary.",
+    "formula": "before main verb: I usually go\nafter be: I am usually\nbetween auxiliary and main verb: I have never been",
+    "examples": [
+      {
+        "en": "I usually go by bus.",
+        "ru": "Я обычно езжу на автобусе.",
+        "note": "Usually before main verb go."
+      },
+      {
+        "en": "She is always late.",
+        "ru": "Она всегда опаздывает.",
+        "note": "After be."
+      },
+      {
+        "en": "I have never been to Italy.",
+        "ru": "Я никогда не был в Италии.",
+        "note": "After have."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I go usually by bus.",
+        "correct": "I usually go by bus.",
+        "explanation": "Frequency adverb before main verb."
+      },
+      {
+        "wrong": "She always is late.",
+        "correct": "She is always late.",
+        "explanation": "With be: after be."
+      },
+      {
+        "wrong": "I never have been there.",
+        "correct": "I have never been there.",
+        "explanation": "Basic order after auxiliary have."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I ___ go to bed late.",
+        "options": [
+          "usually",
+          "go usually",
+          "usual"
+        ],
+        "correct_answer": "usually",
+        "explanation_correct": "Usually before main verb.",
+        "explanation_wrong": {
+          "go usually": "Wrong order.",
+          "usual": "Adjective, not adverb."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She is ___ tired.",
+        "options": [
+          "always",
+          "tired always",
+          "alwaysly"
+        ],
+        "correct_answer": "always",
+        "explanation_correct": "After be.",
+        "explanation_wrong": {
+          "tired always": "Wrong order.",
+          "alwaysly": "No such adverb."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They ___ watch TV.",
+        "options": [
+          "often",
+          "watch often",
+          "oftenly"
+        ],
+        "correct_answer": "often",
+        "explanation_correct": "Often before main verb.",
+        "explanation_wrong": {
+          "watch often": "Not basic order.",
+          "oftenly": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I have ___ seen this film.",
+        "options": [
+          "never",
+          "seen never",
+          "neverly"
+        ],
+        "correct_answer": "never",
+        "explanation_correct": "After auxiliary have.",
+        "explanation_wrong": {
+          "seen never": "Wrong order.",
+          "neverly": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Do you ___ have breakfast?",
+        "options": [
+          "always",
+          "have always",
+          "alwaysly"
+        ],
+        "correct_answer": "always",
+        "explanation_correct": "After do + subject, before main verb.",
+        "explanation_wrong": {
+          "have always": "Wrong in this question.",
+          "alwaysly": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He doesn't ___ work on Sundays.",
+        "options": [
+          "usually",
+          "work usually",
+          "usual"
+        ],
+        "correct_answer": "usually",
+        "explanation_correct": "Between doesn't and main verb.",
+        "explanation_wrong": {
+          "work usually": "Wrong order.",
+          "usual": "Adjective."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "She never drinks coffee.",
+          "She drinks never coffee.",
+          "She neverly drinks coffee."
+        ],
+        "correct_answer": "She never drinks coffee.",
+        "explanation_correct": "Never before main verb.",
+        "explanation_wrong": {
+          "She drinks never coffee.": "Wrong order.",
+          "She neverly drinks coffee.": "Wrong word."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We are ___ at home in the evening.",
+        "options": [
+          "usually",
+          "usual",
+          "at usually"
+        ],
+        "correct_answer": "usually",
+        "explanation_correct": "After be.",
+        "explanation_wrong": {
+          "usual": "Adjective.",
+          "at usually": "Wrong."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 94,
+    "level": "A2",
+    "topic": "still yet already",
+    "title_ru": "Still / yet / already",
+    "explanation_ru": "Still = всё ещё. Already = уже. Yet = ещё/уже, чаще в отрицаниях и вопросах и обычно в конце. Важно не путать позиции этих слов.",
+    "formula": "still before main verb / after be\nalready before main verb or after have/has\nyet at the end in negatives/questions",
+    "examples": [
+      {
+        "en": "She is still sleeping.",
+        "ru": "Она всё ещё спит.",
+        "note": "still after be."
+      },
+      {
+        "en": "I have already eaten.",
+        "ru": "Я уже поел.",
+        "note": "already in perfect."
+      },
+      {
+        "en": "I haven't finished yet.",
+        "ru": "Я ещё не закончил.",
+        "note": "yet at end."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I haven't yet finished.",
+        "correct": "I haven't finished yet.",
+        "explanation": "В базовом порядке yet в конце."
+      },
+      {
+        "wrong": "She still is sleeping.",
+        "correct": "She is still sleeping.",
+        "explanation": "With be: after be."
+      },
+      {
+        "wrong": "I have eaten yet.",
+        "correct": "I have already eaten / Have you eaten yet?",
+        "explanation": "Yet не для positive statement like this."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "She is ___ waiting.",
+        "options": [
+          "still",
+          "yet",
+          "already"
+        ],
+        "correct_answer": "still",
+        "explanation_correct": "Still = всё ещё.",
+        "explanation_wrong": {
+          "yet": "Yet usually at end in questions/negatives.",
+          "already": "Already = уже."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I have ___ done it.",
+        "options": [
+          "already",
+          "yet",
+          "still"
+        ],
+        "correct_answer": "already",
+        "explanation_correct": "Present Perfect positive + already.",
+        "explanation_wrong": {
+          "yet": "Yet not in positive statement like this.",
+          "still": "Still = всё ещё."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I haven't done it ___.",
+        "options": [
+          "yet",
+          "already",
+          "still"
+        ],
+        "correct_answer": "yet",
+        "explanation_correct": "Negative + yet at end.",
+        "explanation_wrong": {
+          "already": "Already = уже, не с haven't here.",
+          "still": "Could be still haven't done it, but position differs."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Have you finished ___?",
+        "options": [
+          "yet",
+          "already",
+          "still"
+        ],
+        "correct_answer": "yet",
+        "explanation_correct": "Question + yet.",
+        "explanation_wrong": {
+          "already": "Possible with surprise, but basic = yet.",
+          "still": "Not at end like this."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He ___ lives with his parents.",
+        "options": [
+          "still",
+          "yet",
+          "already"
+        ],
+        "correct_answer": "still",
+        "explanation_correct": "Still before main verb.",
+        "explanation_wrong": {
+          "yet": "Not here.",
+          "already": "Already = уже."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They have ___ left.",
+        "options": [
+          "already",
+          "yet",
+          "still"
+        ],
+        "correct_answer": "already",
+        "explanation_correct": "Have already left.",
+        "explanation_wrong": {
+          "yet": "Question/negative.",
+          "still": "Would be still have, different."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I still don't understand.",
+          "I don't understand still.",
+          "I don't yet understand still."
+        ],
+        "correct_answer": "I still don't understand.",
+        "explanation_correct": "Still before negative auxiliary.",
+        "explanation_wrong": {
+          "I don't understand still.": "Wrong basic order.",
+          "I don't yet understand still.": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Are you ___ here?",
+        "options": [
+          "still",
+          "yet",
+          "already"
+        ],
+        "correct_answer": "still",
+        "explanation_correct": "Still here = всё ещё здесь.",
+        "explanation_wrong": {
+          "yet": "Not here.",
+          "already": "Уже здесь, but question would be Are you already here?"
+        }
+      }
+    ]
+  },
+  {
+    "unit": 95,
+    "level": "A2",
+    "topic": "give me that book",
+    "title_ru": "Give me that book / Give it to me",
+    "explanation_ru": "Некоторые глаголы имеют два объекта: give, send, show. Можно сказать give me the book или give the book to me. Но с местоимением it/them обычно используем give it to me.",
+    "formula": "give + person + thing\ngive + thing + to + person\nwith pronoun thing: give it/them to me",
+    "examples": [
+      {
+        "en": "Give me the book.",
+        "ru": "Дай мне книгу.",
+        "note": "person + thing."
+      },
+      {
+        "en": "Give the book to me.",
+        "ru": "Дай книгу мне.",
+        "note": "thing + to + person."
+      },
+      {
+        "en": "Give it to me.",
+        "ru": "Дай это мне.",
+        "note": "it + to + me."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "Give to me the book.",
+        "correct": "Give me the book / Give the book to me.",
+        "explanation": "Wrong order."
+      },
+      {
+        "wrong": "Give me it.",
+        "correct": "Give it to me.",
+        "explanation": "With it use to me."
+      },
+      {
+        "wrong": "Send I the email.",
+        "correct": "Send me the email.",
+        "explanation": "Object form me."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "Give ___ the keys.",
+        "options": [
+          "me",
+          "I",
+          "my"
+        ],
+        "correct_answer": "me",
+        "explanation_correct": "Object pronoun me.",
+        "explanation_wrong": {
+          "I": "I is subject.",
+          "my": "my + noun."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Give the keys ___ me.",
+        "options": [
+          "to",
+          "for",
+          "-"
+        ],
+        "correct_answer": "to",
+        "explanation_correct": "thing + to + person.",
+        "explanation_wrong": {
+          "for": "Not with give in this meaning.",
+          "-": "Need to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Give ___ to me.",
+        "options": [
+          "it",
+          "me it",
+          "I"
+        ],
+        "correct_answer": "it",
+        "explanation_correct": "Give it to me.",
+        "explanation_wrong": {
+          "me it": "Wrong order.",
+          "I": "Subject form."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She sent ___ an email.",
+        "options": [
+          "me",
+          "I",
+          "my"
+        ],
+        "correct_answer": "me",
+        "explanation_correct": "send + person + thing.",
+        "explanation_wrong": {
+          "I": "Object required.",
+          "my": "my + noun."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Show your passport ___ the officer.",
+        "options": [
+          "to",
+          "for",
+          "at"
+        ],
+        "correct_answer": "to",
+        "explanation_correct": "show something to someone.",
+        "explanation_wrong": {
+          "for": "Wrong.",
+          "at": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Can you lend ___ your pen?",
+        "options": [
+          "me",
+          "to me",
+          "I"
+        ],
+        "correct_answer": "me",
+        "explanation_correct": "lend me your pen.",
+        "explanation_wrong": {
+          "to me": "Can you lend your pen to me possible, but not before thing.",
+          "I": "Object required."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "Give it to her.",
+          "Give her it.",
+          "Give to her it."
+        ],
+        "correct_answer": "Give it to her.",
+        "explanation_correct": "With it use give it to her.",
+        "explanation_wrong": {
+          "Give her it.": "Not standard/basic.",
+          "Give to her it.": "Wrong order."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I bought ___ a present.",
+        "options": [
+          "her",
+          "she",
+          "hers"
+        ],
+        "correct_answer": "her",
+        "explanation_correct": "buy + person + thing.",
+        "explanation_wrong": {
+          "she": "Subject form.",
+          "hers": "Possessive pronoun."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 96,
+    "level": "A1",
+    "topic": "prepositions time",
+    "title_ru": "At / on / in: time",
+    "explanation_ru": "At, on, in используются со временем. At — точное время, on — дни и даты, in — месяцы, годы, времена года и части дня.",
+    "formula": "at + clock time\non + day/date\nin + month/year/season/morning",
+    "examples": [
+      {
+        "en": "at 8 o'clock",
+        "ru": "в 8 часов",
+        "note": "exact time."
+      },
+      {
+        "en": "on Monday",
+        "ru": "в понедельник",
+        "note": "day."
+      },
+      {
+        "en": "in April",
+        "ru": "в апреле",
+        "note": "month."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "in Monday",
+        "correct": "on Monday",
+        "explanation": "Days use on."
+      },
+      {
+        "wrong": "on 8 o'clock",
+        "correct": "at 8 o'clock",
+        "explanation": "Clock time uses at."
+      },
+      {
+        "wrong": "at April",
+        "correct": "in April",
+        "explanation": "Months use in."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I start work ___ 9 o'clock.",
+        "options": [
+          "at",
+          "on",
+          "in"
+        ],
+        "correct_answer": "at",
+        "explanation_correct": "Clock time = at.",
+        "explanation_wrong": {
+          "on": "On with days/dates.",
+          "in": "In with months/years/parts of day."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "See you ___ Monday.",
+        "options": [
+          "on",
+          "at",
+          "in"
+        ],
+        "correct_answer": "on",
+        "explanation_correct": "Day = on.",
+        "explanation_wrong": {
+          "at": "At with exact time.",
+          "in": "In with month/year."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "My birthday is ___ July.",
+        "options": [
+          "in",
+          "on",
+          "at"
+        ],
+        "correct_answer": "in",
+        "explanation_correct": "Month = in.",
+        "explanation_wrong": {
+          "on": "On with dates/days.",
+          "at": "At with exact time."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The meeting is ___ 15 May.",
+        "options": [
+          "on",
+          "in",
+          "at"
+        ],
+        "correct_answer": "on",
+        "explanation_correct": "Date = on.",
+        "explanation_wrong": {
+          "in": "Month/year, not full date.",
+          "at": "Exact clock time."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I was born ___ 2001.",
+        "options": [
+          "in",
+          "on",
+          "at"
+        ],
+        "correct_answer": "in",
+        "explanation_correct": "Year = in.",
+        "explanation_wrong": {
+          "on": "Date/day.",
+          "at": "Exact time."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I don't work ___ night.",
+        "options": [
+          "at",
+          "on",
+          "in"
+        ],
+        "correct_answer": "at",
+        "explanation_correct": "At night.",
+        "explanation_wrong": {
+          "on": "Not with night in this phrase.",
+          "in": "In the morning/evening, but at night."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I study in the evening.",
+          "I study at the evening.",
+          "I study on the evening."
+        ],
+        "correct_answer": "I study in the evening.",
+        "explanation_correct": "Part of day = in the evening.",
+        "explanation_wrong": {
+          "I study at the evening.": "Wrong.",
+          "I study on the evening.": "Wrong unless specific evening: on Monday evening."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The shop is closed ___ Sundays.",
+        "options": [
+          "on",
+          "at",
+          "in"
+        ],
+        "correct_answer": "on",
+        "explanation_correct": "Days = on.",
+        "explanation_wrong": {
+          "at": "Exact time.",
+          "in": "Months/years."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 97,
+    "level": "A2",
+    "topic": "from to until since for",
+    "title_ru": "From...to / until / since / for",
+    "explanation_ru": "From...to показывает начало и конец. Until = до момента. Since = с момента начала до сейчас. For = в течение периода.",
+    "formula": "from A to B\nuntil + end point\nsince + start point\nfor + period",
+    "examples": [
+      {
+        "en": "I work from 9 to 5.",
+        "ru": "Я работаю с 9 до 5.",
+        "note": "from...to."
+      },
+      {
+        "en": "I'll wait until 6.",
+        "ru": "Я подожду до 6.",
+        "note": "end point."
+      },
+      {
+        "en": "I've lived here since 2020.",
+        "ru": "Я живу здесь с 2020.",
+        "note": "start point."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "from 9 until 5",
+        "correct": "from 9 to 5",
+        "explanation": "Basic pair: from...to."
+      },
+      {
+        "wrong": "for Monday",
+        "correct": "until Monday / since Monday",
+        "explanation": "For + period, not point."
+      },
+      {
+        "wrong": "since two years",
+        "correct": "for two years",
+        "explanation": "Period = for."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I work ___ 8 ___ 4.",
+        "options": [
+          "from / to",
+          "since / for",
+          "until / to"
+        ],
+        "correct_answer": "from / to",
+        "explanation_correct": "from 8 to 4.",
+        "explanation_wrong": {
+          "since / for": "Wrong pair.",
+          "until / to": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Wait here ___ I come back.",
+        "options": [
+          "until",
+          "for",
+          "since"
+        ],
+        "correct_answer": "until",
+        "explanation_correct": "Until + end point/event.",
+        "explanation_wrong": {
+          "for": "For + duration.",
+          "since": "Since + start to now."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I've known her ___ 2019.",
+        "options": [
+          "since",
+          "for",
+          "until"
+        ],
+        "correct_answer": "since",
+        "explanation_correct": "2019 = starting point.",
+        "explanation_wrong": {
+          "for": "For + period.",
+          "until": "Until = up to end point."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I've known her ___ five years.",
+        "options": [
+          "for",
+          "since",
+          "until"
+        ],
+        "correct_answer": "for",
+        "explanation_correct": "Five years = period.",
+        "explanation_wrong": {
+          "since": "Since + start point.",
+          "until": "Not duration to now."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The shop is open ___ Monday to Friday.",
+        "options": [
+          "from",
+          "since",
+          "for"
+        ],
+        "correct_answer": "from",
+        "explanation_correct": "from Monday to Friday.",
+        "explanation_wrong": {
+          "since": "Since Monday = from Monday until now.",
+          "for": "For Monday wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I slept ___ ten hours.",
+        "options": [
+          "for",
+          "since",
+          "until"
+        ],
+        "correct_answer": "for",
+        "explanation_correct": "Duration = for.",
+        "explanation_wrong": {
+          "since": "Starting point.",
+          "until": "End point."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I waited until midnight.",
+          "I waited for midnight.",
+          "I waited since midnight."
+        ],
+        "correct_answer": "I waited until midnight.",
+        "explanation_correct": "Until + endpoint.",
+        "explanation_wrong": {
+          "I waited for midnight.": "Would mean waited for midnight to happen; possible but not duration endpoint.",
+          "I waited since midnight.": "Need have been waiting since."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She has worked here ___ last summer.",
+        "options": [
+          "since",
+          "for",
+          "from"
+        ],
+        "correct_answer": "since",
+        "explanation_correct": "Present Perfect + starting point.",
+        "explanation_wrong": {
+          "for": "Last summer is point.",
+          "from": "Would need from last summer to..."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 98,
+    "level": "A2",
+    "topic": "before after during while",
+    "title_ru": "Before / after / during / while",
+    "explanation_ru": "Before и after могут быть предлогами или союзами. During — перед существительным: during the film. While — перед предложением с подлежащим и глаголом: while I was watching.",
+    "formula": "before/after + noun or clause\nduring + noun\nwhile + subject + verb",
+    "examples": [
+      {
+        "en": "I called her before dinner.",
+        "ru": "Я позвонил ей перед ужином.",
+        "note": "before + noun."
+      },
+      {
+        "en": "I fell asleep during the film.",
+        "ru": "Я уснул во время фильма.",
+        "note": "during + noun."
+      },
+      {
+        "en": "I fell asleep while I was watching TV.",
+        "ru": "Я уснул, пока смотрел ТВ.",
+        "note": "while + clause."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "during I watched TV",
+        "correct": "while I watched TV",
+        "explanation": "During + noun, while + clause."
+      },
+      {
+        "wrong": "while the film",
+        "correct": "during the film",
+        "explanation": "While needs subject + verb."
+      },
+      {
+        "wrong": "before to go",
+        "correct": "before going / before I go",
+        "explanation": "After before use -ing or clause."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I slept ___ the film.",
+        "options": [
+          "during",
+          "while",
+          "before"
+        ],
+        "correct_answer": "during",
+        "explanation_correct": "During + noun.",
+        "explanation_wrong": {
+          "while": "While + subject + verb.",
+          "before": "Before = перед."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I slept ___ I was watching TV.",
+        "options": [
+          "while",
+          "during",
+          "after"
+        ],
+        "correct_answer": "while",
+        "explanation_correct": "While + clause.",
+        "explanation_wrong": {
+          "during": "During + noun.",
+          "after": "Wrong meaning."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Call me ___ lunch.",
+        "options": [
+          "after",
+          "during",
+          "while"
+        ],
+        "correct_answer": "after",
+        "explanation_correct": "After + noun.",
+        "explanation_wrong": {
+          "during": "During lunch = во время lunch, possible but different.",
+          "while": "Needs clause."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Wash your hands ___ eating.",
+        "options": [
+          "before",
+          "during",
+          "while"
+        ],
+        "correct_answer": "before",
+        "explanation_correct": "Before + -ing.",
+        "explanation_wrong": {
+          "during": "During eating not natural.",
+          "while": "While eating possible, different meaning."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I met her ___ my holiday.",
+        "options": [
+          "during",
+          "while",
+          "before"
+        ],
+        "correct_answer": "during",
+        "explanation_correct": "During + noun phrase.",
+        "explanation_wrong": {
+          "while": "While I was on holiday, not while my holiday.",
+          "before": "Before holiday different."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He read a book ___ he waited.",
+        "options": [
+          "while",
+          "during",
+          "before"
+        ],
+        "correct_answer": "while",
+        "explanation_correct": "While + subject + verb.",
+        "explanation_wrong": {
+          "during": "During + noun.",
+          "before": "Different meaning."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "During the lesson, I took notes.",
+          "While the lesson, I took notes.",
+          "During I was studying, I took notes."
+        ],
+        "correct_answer": "During the lesson, I took notes.",
+        "explanation_correct": "During + noun.",
+        "explanation_wrong": {
+          "While the lesson, I took notes.": "While needs clause.",
+          "During I was studying, I took notes.": "During cannot introduce clause."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "After ___ dinner, we went out.",
+        "options": [
+          "-",
+          "to have",
+          "we having"
+        ],
+        "correct_answer": "-",
+        "explanation_correct": "After dinner is correct.",
+        "explanation_wrong": {
+          "to have": "After to have wrong.",
+          "we having": "Need after we had dinner."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 99,
+    "level": "A1",
+    "topic": "prepositions place 1",
+    "title_ru": "In / at / on: places 1",
+    "explanation_ru": "In — внутри пространства, on — на поверхности, at — в точке/месте события. Иногда выбор зависит от того, как мы воспринимаем место.",
+    "formula": "in + enclosed space/city/country\non + surface\nat + point/place/event",
+    "examples": [
+      {
+        "en": "in a room",
+        "ru": "в комнате",
+        "note": "inside."
+      },
+      {
+        "en": "on the table",
+        "ru": "на столе",
+        "note": "surface."
+      },
+      {
+        "en": "at the bus stop",
+        "ru": "на автобусной остановке",
+        "note": "point/place."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "on the room",
+        "correct": "in the room",
+        "explanation": "Inside room = in."
+      },
+      {
+        "wrong": "in the table",
+        "correct": "on the table",
+        "explanation": "Surface = on."
+      },
+      {
+        "wrong": "in the bus stop",
+        "correct": "at the bus stop",
+        "explanation": "Point/place = at."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "The keys are ___ the table.",
+        "options": [
+          "on",
+          "in",
+          "at"
+        ],
+        "correct_answer": "on",
+        "explanation_correct": "Surface = on.",
+        "explanation_wrong": {
+          "in": "Inside table? no.",
+          "at": "Not for surface."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She is ___ the kitchen.",
+        "options": [
+          "in",
+          "on",
+          "at"
+        ],
+        "correct_answer": "in",
+        "explanation_correct": "Inside room = in.",
+        "explanation_wrong": {
+          "on": "Not surface here.",
+          "at": "Possible at home/work, but room uses in."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'll meet you ___ the station.",
+        "options": [
+          "at",
+          "in",
+          "on"
+        ],
+        "correct_answer": "at",
+        "explanation_correct": "Meeting point = at.",
+        "explanation_wrong": {
+          "in": "Inside station possible, but meeting point usually at.",
+          "on": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There is a picture ___ the wall.",
+        "options": [
+          "on",
+          "in",
+          "at"
+        ],
+        "correct_answer": "on",
+        "explanation_correct": "On the wall.",
+        "explanation_wrong": {
+          "in": "Not inside wall.",
+          "at": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He lives ___ London.",
+        "options": [
+          "in",
+          "at",
+          "on"
+        ],
+        "correct_answer": "in",
+        "explanation_correct": "City = in.",
+        "explanation_wrong": {
+          "at": "At address/small point, not city.",
+          "on": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She is ___ work.",
+        "options": [
+          "at",
+          "in",
+          "on"
+        ],
+        "correct_answer": "at",
+        "explanation_correct": "At work.",
+        "explanation_wrong": {
+          "in": "In work not in this meaning.",
+          "on": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "The cat is in the box.",
+          "The cat is on the box.",
+          "The cat is at the box."
+        ],
+        "correct_answer": "The cat is in the box.",
+        "explanation_correct": "If inside the box: in.",
+        "explanation_wrong": {
+          "The cat is on the box.": "Would mean on top.",
+          "The cat is at the box.": "Near point, not inside."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Write your name ___ the top of the page.",
+        "options": [
+          "at",
+          "in",
+          "on"
+        ],
+        "correct_answer": "at",
+        "explanation_correct": "At the top.",
+        "explanation_wrong": {
+          "in": "Not phrase.",
+          "on": "On top of = physically above, not this phrase."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 100,
+    "level": "A1",
+    "topic": "prepositions place 2",
+    "title_ru": "In / at / on: places 2",
+    "explanation_ru": "Некоторые выражения с местом надо запоминать: in bed, in hospital, at home, at school, on a bus/train/plane, in a car/taxi.",
+    "formula": "in bed/hospital/prison\nat home/work/school/university\non a bus/train/plane\nin a car/taxi",
+    "examples": [
+      {
+        "en": "She is in bed.",
+        "ru": "Она в постели.",
+        "note": "in bed."
+      },
+      {
+        "en": "I'm at home.",
+        "ru": "Я дома.",
+        "note": "at home."
+      },
+      {
+        "en": "We were on the bus.",
+        "ru": "Мы были в автобусе.",
+        "note": "on public transport."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "at home",
+        "correct": "at home",
+        "explanation": "Correct fixed phrase."
+      },
+      {
+        "wrong": "in the bus",
+        "correct": "on the bus",
+        "explanation": "For public transport use on."
+      },
+      {
+        "wrong": "on a taxi",
+        "correct": "in a taxi",
+        "explanation": "Taxi/car use in."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I stayed ___ home.",
+        "options": [
+          "at",
+          "in",
+          "on"
+        ],
+        "correct_answer": "at",
+        "explanation_correct": "At home.",
+        "explanation_wrong": {
+          "in": "In home wrong.",
+          "on": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She is ___ bed.",
+        "options": [
+          "in",
+          "at",
+          "on"
+        ],
+        "correct_answer": "in",
+        "explanation_correct": "In bed.",
+        "explanation_wrong": {
+          "at": "Wrong.",
+          "on": "Could be physically on top, but phrase is in bed."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We travelled ___ train.",
+        "options": [
+          "by",
+          "on",
+          "in"
+        ],
+        "correct_answer": "by",
+        "explanation_correct": "By train = способом.",
+        "explanation_wrong": {
+          "on": "On the train possible, but travelled by train is common.",
+          "in": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I saw him ___ the bus.",
+        "options": [
+          "on",
+          "in",
+          "at"
+        ],
+        "correct_answer": "on",
+        "explanation_correct": "On the bus.",
+        "explanation_wrong": {
+          "in": "Usually on bus.",
+          "at": "At bus stop, not bus."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They came ___ a taxi.",
+        "options": [
+          "in",
+          "on",
+          "at"
+        ],
+        "correct_answer": "in",
+        "explanation_correct": "In a taxi.",
+        "explanation_wrong": {
+          "on": "Not for taxi.",
+          "at": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He is ___ university.",
+        "options": [
+          "at",
+          "in",
+          "on"
+        ],
+        "correct_answer": "at",
+        "explanation_correct": "At university.",
+        "explanation_wrong": {
+          "in": "Possible in American English sometimes, but unit basic = at.",
+          "on": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I was in a car.",
+          "I was on a car.",
+          "I was at a car."
+        ],
+        "correct_answer": "I was in a car.",
+        "explanation_correct": "Car/taxi use in.",
+        "explanation_wrong": {
+          "I was on a car.": "Means on top of car.",
+          "I was at a car.": "Near a car."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She works ___ a hospital.",
+        "options": [
+          "in",
+          "on",
+          "at"
+        ],
+        "correct_answer": "in",
+        "explanation_correct": "Works in a hospital as building/institution; at also possible, but in is safe here.",
+        "explanation_wrong": {
+          "on": "Wrong.",
+          "at": "Possible, but this example focuses in a hospital."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 101,
+    "level": "A2",
+    "topic": "to in at places 3",
+    "title_ru": "To / in / at: movement and position",
+    "explanation_ru": "To показывает движение к месту. In/at показывают нахождение. Не используем to после arrive: arrive in/at. Home часто без to: go home.",
+    "formula": "go/come/travel to\nbe/stay/live in/at\narrive in city/country\narrive at place/building",
+    "examples": [
+      {
+        "en": "I went to London.",
+        "ru": "Я поехал в Лондон.",
+        "note": "movement to."
+      },
+      {
+        "en": "I arrived in London.",
+        "ru": "Я прибыл в Лондон.",
+        "note": "arrive in city."
+      },
+      {
+        "en": "I arrived at the station.",
+        "ru": "Я прибыл на станцию.",
+        "note": "arrive at point/building."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I arrived to London.",
+        "correct": "I arrived in London.",
+        "explanation": "After arrive use in/at, not to."
+      },
+      {
+        "wrong": "I went in London.",
+        "correct": "I went to London.",
+        "explanation": "Movement destination = to."
+      },
+      {
+        "wrong": "I went to home.",
+        "correct": "I went home.",
+        "explanation": "Home without to."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "We went ___ Paris.",
+        "options": [
+          "to",
+          "in",
+          "at"
+        ],
+        "correct_answer": "to",
+        "explanation_correct": "Movement destination.",
+        "explanation_wrong": {
+          "in": "Position, not movement.",
+          "at": "Point, not movement."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They live ___ Rome.",
+        "options": [
+          "in",
+          "to",
+          "at"
+        ],
+        "correct_answer": "in",
+        "explanation_correct": "Position in city.",
+        "explanation_wrong": {
+          "to": "Movement.",
+          "at": "Not for city."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I arrived ___ the airport.",
+        "options": [
+          "at",
+          "to",
+          "in"
+        ],
+        "correct_answer": "at",
+        "explanation_correct": "Arrive at airport.",
+        "explanation_wrong": {
+          "to": "Not after arrive.",
+          "in": "City/country use in."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She arrived ___ Italy yesterday.",
+        "options": [
+          "in",
+          "at",
+          "to"
+        ],
+        "correct_answer": "in",
+        "explanation_correct": "Arrive in country.",
+        "explanation_wrong": {
+          "at": "At point/building.",
+          "to": "Not after arrive."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Let's go ___ home.",
+        "options": [
+          "-",
+          "to",
+          "at"
+        ],
+        "correct_answer": "-",
+        "explanation_correct": "Go home.",
+        "explanation_wrong": {
+          "to": "Home without to.",
+          "at": "At home = position."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Are you going ___ the party?",
+        "options": [
+          "to",
+          "in",
+          "at"
+        ],
+        "correct_answer": "to",
+        "explanation_correct": "Movement to event.",
+        "explanation_wrong": {
+          "in": "Position.",
+          "at": "Be at the party, not go at."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I arrived at the hotel.",
+          "I arrived to the hotel.",
+          "I arrived in the hotel."
+        ],
+        "correct_answer": "I arrived at the hotel.",
+        "explanation_correct": "Arrive at a place/building.",
+        "explanation_wrong": {
+          "I arrived to the hotel.": "Arrive doesn't take to.",
+          "I arrived in the hotel.": "Can mean inside, but arrive at hotel is standard."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He is ___ work now.",
+        "options": [
+          "at",
+          "to",
+          "in"
+        ],
+        "correct_answer": "at",
+        "explanation_correct": "Position: at work.",
+        "explanation_wrong": {
+          "to": "Movement.",
+          "in": "Not basic phrase."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 102,
+    "level": "A1",
+    "topic": "prepositions position",
+    "title_ru": "Under / behind / opposite",
+    "explanation_ru": "Эти предлоги показывают положение предметов: under — под, behind — за, in front of — перед, next to — рядом, between — между, opposite — напротив.",
+    "formula": "under / behind / in front of / next to / between / opposite",
+    "examples": [
+      {
+        "en": "The cat is under the table.",
+        "ru": "Кот под столом.",
+        "note": "under."
+      },
+      {
+        "en": "The bank is opposite the station.",
+        "ru": "Банк напротив станции.",
+        "note": "opposite."
+      },
+      {
+        "en": "She is sitting between Tom and Anna.",
+        "ru": "Она сидит между Томом и Анной.",
+        "note": "between two."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "under of the table",
+        "correct": "under the table",
+        "explanation": "No of after under."
+      },
+      {
+        "wrong": "between Tom",
+        "correct": "between Tom and Anna",
+        "explanation": "Between needs two sides/items."
+      },
+      {
+        "wrong": "opposite to the station",
+        "correct": "opposite the station",
+        "explanation": "In basic British usage no to."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "The shoes are ___ the bed.",
+        "options": [
+          "under",
+          "between",
+          "opposite"
+        ],
+        "correct_answer": "under",
+        "explanation_correct": "Under = под.",
+        "explanation_wrong": {
+          "between": "Between two things.",
+          "opposite": "Напротив."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The car is ___ the house.",
+        "options": [
+          "behind",
+          "under",
+          "between"
+        ],
+        "correct_answer": "behind",
+        "explanation_correct": "Behind = за.",
+        "explanation_wrong": {
+          "under": "Под.",
+          "between": "Между."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The hotel is ___ the station.",
+        "options": [
+          "opposite",
+          "under",
+          "inside"
+        ],
+        "correct_answer": "opposite",
+        "explanation_correct": "Opposite = напротив.",
+        "explanation_wrong": {
+          "under": "Под.",
+          "inside": "Внутри."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She sat ___ me.",
+        "options": [
+          "next to",
+          "under",
+          "over"
+        ],
+        "correct_answer": "next to",
+        "explanation_correct": "Next to = рядом.",
+        "explanation_wrong": {
+          "under": "Под.",
+          "over": "Над/через."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The letter is ___ the books.",
+        "options": [
+          "between",
+          "opposite",
+          "behind of"
+        ],
+        "correct_answer": "between",
+        "explanation_correct": "Between the books.",
+        "explanation_wrong": {
+          "opposite": "Напротив.",
+          "behind of": "Usually behind without of."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "There is a tree ___ the house.",
+        "options": [
+          "in front of",
+          "between",
+          "under"
+        ],
+        "correct_answer": "in front of",
+        "explanation_correct": "In front of = перед.",
+        "explanation_wrong": {
+          "between": "Между.",
+          "under": "Под."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "The shop is opposite the bank.",
+          "The shop is opposite to the bank.",
+          "The shop is under the bank."
+        ],
+        "correct_answer": "The shop is opposite the bank.",
+        "explanation_correct": "Opposite + noun.",
+        "explanation_wrong": {
+          "The shop is opposite to the bank.": "В базовом варианте без to.",
+          "The shop is under the bank.": "Смысл другой."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The ball is ___ the box.",
+        "options": [
+          "inside",
+          "between",
+          "opposite"
+        ],
+        "correct_answer": "inside",
+        "explanation_correct": "Inside = внутри.",
+        "explanation_wrong": {
+          "between": "Между.",
+          "opposite": "Напротив."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 103,
+    "level": "A2",
+    "topic": "prepositions movement",
+    "title_ru": "Up / over / through: movement",
+    "explanation_ru": "Эти предлоги показывают движение: up/down — вверх/вниз, into/out of — внутрь/наружу, through — через внутри пространства, across — через поверхность/пространство, over — над/через сверху.",
+    "formula": "into / out of / up / down / through / across / over / along / past",
+    "examples": [
+      {
+        "en": "She walked into the room.",
+        "ru": "Она вошла в комнату.",
+        "note": "movement inside."
+      },
+      {
+        "en": "We walked across the bridge.",
+        "ru": "Мы прошли через мост.",
+        "note": "across surface."
+      },
+      {
+        "en": "The bird flew over the house.",
+        "ru": "Птица пролетела над домом.",
+        "note": "over."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "go in the room",
+        "correct": "go into the room",
+        "explanation": "Movement from outside to inside = into."
+      },
+      {
+        "wrong": "walk through the street",
+        "correct": "walk along the street",
+        "explanation": "Along = вдоль улицы."
+      },
+      {
+        "wrong": "across the tunnel",
+        "correct": "through the tunnel",
+        "explanation": "Through = внутри туннеля."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "He went ___ the room.",
+        "options": [
+          "into",
+          "in",
+          "at"
+        ],
+        "correct_answer": "into",
+        "explanation_correct": "Movement into.",
+        "explanation_wrong": {
+          "in": "Position, not movement.",
+          "at": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She came ___ the house.",
+        "options": [
+          "out of",
+          "out",
+          "from out"
+        ],
+        "correct_answer": "out of",
+        "explanation_correct": "Movement from inside to outside.",
+        "explanation_wrong": {
+          "out": "Need out of + noun.",
+          "from out": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We walked ___ the park.",
+        "options": [
+          "through",
+          "over",
+          "up"
+        ],
+        "correct_answer": "through",
+        "explanation_correct": "Through = через парк внутри него.",
+        "explanation_wrong": {
+          "over": "Over = над/через сверху.",
+          "up": "Вверх."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They walked ___ the road.",
+        "options": [
+          "across",
+          "through",
+          "into"
+        ],
+        "correct_answer": "across",
+        "explanation_correct": "Across road.",
+        "explanation_wrong": {
+          "through": "Through inside something.",
+          "into": "Into = внутрь."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The plane flew ___ the mountains.",
+        "options": [
+          "over",
+          "into",
+          "along"
+        ],
+        "correct_answer": "over",
+        "explanation_correct": "Over = над.",
+        "explanation_wrong": {
+          "into": "Внутрь/врезался бы.",
+          "along": "Вдоль."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Walk ___ this street until the end.",
+        "options": [
+          "along",
+          "through",
+          "over"
+        ],
+        "correct_answer": "along",
+        "explanation_correct": "Along the street.",
+        "explanation_wrong": {
+          "through": "Через внутри, not best.",
+          "over": "Над."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "She ran out of the room.",
+          "She ran out the room.",
+          "She ran outside of room."
+        ],
+        "correct_answer": "She ran out of the room.",
+        "explanation_correct": "Out of + noun.",
+        "explanation_wrong": {
+          "She ran out the room.": "Need of.",
+          "She ran outside of room.": "Need the; not basic."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The dog jumped ___ the wall.",
+        "options": [
+          "over",
+          "through",
+          "into"
+        ],
+        "correct_answer": "over",
+        "explanation_correct": "Jump over the wall.",
+        "explanation_wrong": {
+          "through": "Through would be through an opening.",
+          "into": "Into = внутрь."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 104,
+    "level": "A2",
+    "topic": "prepositions mixed",
+    "title_ru": "On / at / by / with / about",
+    "explanation_ru": "Многие предлоги используются в устойчивых выражениях: by car, on foot, with someone, about something, at a party, on holiday. Их нужно запоминать блоками.",
+    "formula": "by + transport\non foot\nwith + person/tool\nabout + topic\nat + event/place",
+    "examples": [
+      {
+        "en": "I go to work by car.",
+        "ru": "Я езжу на работу на машине.",
+        "note": "by transport."
+      },
+      {
+        "en": "I went on foot.",
+        "ru": "Я пошёл пешком.",
+        "note": "on foot."
+      },
+      {
+        "en": "We talked about music.",
+        "ru": "Мы говорили о музыке.",
+        "note": "about topic."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "by foot",
+        "correct": "on foot",
+        "explanation": "Пешком = on foot."
+      },
+      {
+        "wrong": "with car",
+        "correct": "by car",
+        "explanation": "Transport method = by car."
+      },
+      {
+        "wrong": "discuss about it",
+        "correct": "discuss it / talk about it",
+        "explanation": "Discuss без about, talk about."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I came ___ bus.",
+        "options": [
+          "by",
+          "on",
+          "with"
+        ],
+        "correct_answer": "by",
+        "explanation_correct": "By bus = способом.",
+        "explanation_wrong": {
+          "on": "On the bus possible, but came by bus is method.",
+          "with": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "We went ___ foot.",
+        "options": [
+          "on",
+          "by",
+          "with"
+        ],
+        "correct_answer": "on",
+        "explanation_correct": "On foot.",
+        "explanation_wrong": {
+          "by": "Not by foot.",
+          "with": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She cut it ___ a knife.",
+        "options": [
+          "with",
+          "by",
+          "on"
+        ],
+        "correct_answer": "with",
+        "explanation_correct": "Tool = with.",
+        "explanation_wrong": {
+          "by": "By for agent/method, but tool usually with.",
+          "on": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I went there ___ my friend.",
+        "options": [
+          "with",
+          "by",
+          "about"
+        ],
+        "correct_answer": "with",
+        "explanation_correct": "Together with a person.",
+        "explanation_wrong": {
+          "by": "By my friend = сделано другом, wrong.",
+          "about": "About = о."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "They talked ___ the weather.",
+        "options": [
+          "about",
+          "with",
+          "on"
+        ],
+        "correct_answer": "about",
+        "explanation_correct": "Talk about a topic.",
+        "explanation_wrong": {
+          "with": "Talk with person.",
+          "on": "Can be formal topic, but basic = about."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I met her ___ a party.",
+        "options": [
+          "at",
+          "on",
+          "by"
+        ],
+        "correct_answer": "at",
+        "explanation_correct": "At a party.",
+        "explanation_wrong": {
+          "on": "On a party wrong.",
+          "by": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I paid by credit card.",
+          "I paid with credit card.",
+          "I paid on credit card."
+        ],
+        "correct_answer": "I paid by credit card.",
+        "explanation_correct": "Payment method = by credit card.",
+        "explanation_wrong": {
+          "I paid with credit card.": "Need a/my credit card, but basic phrase by credit card.",
+          "I paid on credit card.": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She is ___ holiday.",
+        "options": [
+          "on",
+          "at",
+          "in"
+        ],
+        "correct_answer": "on",
+        "explanation_correct": "On holiday.",
+        "explanation_wrong": {
+          "at": "Wrong.",
+          "in": "Wrong."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 105,
+    "level": "A2",
+    "topic": "adjective preposition ing",
+    "title_ru": "Afraid of / good at + -ing",
+    "explanation_ru": "После многих прилагательных нужен конкретный предлог: afraid of, good at, interested in, fed up with. Если после предлога идёт глагол, он принимает -ing.",
+    "formula": "adjective + preposition + noun/V-ing\ngood at doing\nafraid of doing\ninterested in doing",
+    "examples": [
+      {
+        "en": "I'm good at cooking.",
+        "ru": "Я хорошо готовлю.",
+        "note": "good at + -ing."
+      },
+      {
+        "en": "She is afraid of flying.",
+        "ru": "Она боится летать.",
+        "note": "afraid of + -ing."
+      },
+      {
+        "en": "I'm interested in learning English.",
+        "ru": "Мне интересно учить английский.",
+        "note": "interested in + -ing."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "good in cooking",
+        "correct": "good at cooking",
+        "explanation": "Good at."
+      },
+      {
+        "wrong": "afraid to dogs",
+        "correct": "afraid of dogs",
+        "explanation": "Afraid of."
+      },
+      {
+        "wrong": "interested in learn",
+        "correct": "interested in learning",
+        "explanation": "After preposition use -ing."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I'm good ___ English.",
+        "options": [
+          "at",
+          "in",
+          "of"
+        ],
+        "correct_answer": "at",
+        "explanation_correct": "Good at.",
+        "explanation_wrong": {
+          "in": "Not in this phrase.",
+          "of": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She is afraid ___ dogs.",
+        "options": [
+          "of",
+          "at",
+          "from"
+        ],
+        "correct_answer": "of",
+        "explanation_correct": "Afraid of.",
+        "explanation_wrong": {
+          "at": "Wrong.",
+          "from": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'm interested ___ music.",
+        "options": [
+          "in",
+          "at",
+          "of"
+        ],
+        "correct_answer": "in",
+        "explanation_correct": "Interested in.",
+        "explanation_wrong": {
+          "at": "Wrong.",
+          "of": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He is tired ___ waiting.",
+        "options": [
+          "of",
+          "at",
+          "in"
+        ],
+        "correct_answer": "of",
+        "explanation_correct": "Tired of + -ing.",
+        "explanation_wrong": {
+          "at": "Wrong.",
+          "in": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She's fed up ___ her job.",
+        "options": [
+          "with",
+          "of",
+          "at"
+        ],
+        "correct_answer": "with",
+        "explanation_correct": "Fed up with.",
+        "explanation_wrong": {
+          "of": "Not basic phrase.",
+          "at": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'm not very good at ___.",
+        "options": [
+          "driving",
+          "drive",
+          "to drive"
+        ],
+        "correct_answer": "driving",
+        "explanation_correct": "After preposition at use -ing.",
+        "explanation_wrong": {
+          "drive": "Need -ing.",
+          "to drive": "Not after at."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I'm interested in learning.",
+          "I'm interested to learn.",
+          "I'm interested in learn."
+        ],
+        "correct_answer": "I'm interested in learning.",
+        "explanation_correct": "Preposition in + -ing.",
+        "explanation_wrong": {
+          "I'm interested to learn.": "Possible in some contexts, but basic structure here is interested in -ing.",
+          "I'm interested in learn.": "After preposition need -ing."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Are you afraid ___ flying?",
+        "options": [
+          "of",
+          "to",
+          "at"
+        ],
+        "correct_answer": "of",
+        "explanation_correct": "Afraid of + -ing.",
+        "explanation_wrong": {
+          "to": "Afraid to do possible, but with flying as activity use of.",
+          "at": "Wrong."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 106,
+    "level": "A2",
+    "topic": "verb preposition",
+    "title_ru": "Listen to / look at: verb + preposition",
+    "explanation_ru": "Некоторые глаголы требуют определённый предлог: listen to, look at, wait for, belong to, depend on. В русском предлог может быть другим или отсутствовать.",
+    "formula": "listen to\nlook at\nwait for\nbelong to\ndepend on\nask for",
+    "examples": [
+      {
+        "en": "Listen to me.",
+        "ru": "Слушай меня.",
+        "note": "listen to."
+      },
+      {
+        "en": "Look at this picture.",
+        "ru": "Посмотри на эту картинку.",
+        "note": "look at."
+      },
+      {
+        "en": "I'm waiting for the bus.",
+        "ru": "Я жду автобус.",
+        "note": "wait for."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "Listen me",
+        "correct": "Listen to me",
+        "explanation": "Listen requires to."
+      },
+      {
+        "wrong": "Look this picture",
+        "correct": "Look at this picture",
+        "explanation": "Look at."
+      },
+      {
+        "wrong": "Wait me",
+        "correct": "Wait for me",
+        "explanation": "Wait for someone."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "Listen ___ this song.",
+        "options": [
+          "to",
+          "at",
+          "for"
+        ],
+        "correct_answer": "to",
+        "explanation_correct": "Listen to.",
+        "explanation_wrong": {
+          "at": "Look at, not listen at.",
+          "for": "Wait for."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Look ___ the board.",
+        "options": [
+          "at",
+          "to",
+          "for"
+        ],
+        "correct_answer": "at",
+        "explanation_correct": "Look at.",
+        "explanation_wrong": {
+          "to": "Not here.",
+          "for": "Look for = search."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'm waiting ___ Anna.",
+        "options": [
+          "for",
+          "to",
+          "at"
+        ],
+        "correct_answer": "for",
+        "explanation_correct": "Wait for.",
+        "explanation_wrong": {
+          "to": "Wrong.",
+          "at": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "This book belongs ___ me.",
+        "options": [
+          "to",
+          "for",
+          "at"
+        ],
+        "correct_answer": "to",
+        "explanation_correct": "Belong to.",
+        "explanation_wrong": {
+          "for": "Wrong.",
+          "at": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It depends ___ the weather.",
+        "options": [
+          "on",
+          "of",
+          "from"
+        ],
+        "correct_answer": "on",
+        "explanation_correct": "Depend on.",
+        "explanation_wrong": {
+          "of": "Wrong.",
+          "from": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She asked ___ help.",
+        "options": [
+          "for",
+          "to",
+          "at"
+        ],
+        "correct_answer": "for",
+        "explanation_correct": "Ask for help.",
+        "explanation_wrong": {
+          "to": "Ask someone to do, but ask for noun.",
+          "at": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I'm looking for my keys.",
+          "I'm looking my keys.",
+          "I'm looking at my keys."
+        ],
+        "correct_answer": "I'm looking for my keys.",
+        "explanation_correct": "Look for = искать.",
+        "explanation_wrong": {
+          "I'm looking my keys.": "Need preposition.",
+          "I'm looking at my keys.": "Look at = смотреть на, not искать."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Who are you talking ___?",
+        "options": [
+          "to",
+          "at",
+          "for"
+        ],
+        "correct_answer": "to",
+        "explanation_correct": "Talk to someone.",
+        "explanation_wrong": {
+          "at": "Talk at = говорить в сторону, not normal conversation.",
+          "for": "Wrong."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 107,
+    "level": "A2",
+    "topic": "phrasal verbs 1",
+    "title_ru": "Phrasal verbs 1: go in / fall off / run away",
+    "explanation_ru": "Фразовые глаголы состоят из глагола и частицы: go in, come back, sit down, run away. Частица часто сильно меняет значение.",
+    "formula": "verb + particle\ncome back, sit down, get up, run away, fall off",
+    "examples": [
+      {
+        "en": "Please come in.",
+        "ru": "Пожалуйста, входите.",
+        "note": "come in."
+      },
+      {
+        "en": "He fell off his bike.",
+        "ru": "Он упал с велосипеда.",
+        "note": "fall off."
+      },
+      {
+        "en": "The dog ran away.",
+        "ru": "Собака убежала.",
+        "note": "run away."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "come to in",
+        "correct": "come in",
+        "explanation": "Phrasal verb come in."
+      },
+      {
+        "wrong": "fall down his bike",
+        "correct": "fall off his bike",
+        "explanation": "С велосипеда = off."
+      },
+      {
+        "wrong": "run from away",
+        "correct": "run away",
+        "explanation": "Run away = убежать."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "Please come ___.",
+        "options": [
+          "in",
+          "on",
+          "off"
+        ],
+        "correct_answer": "in",
+        "explanation_correct": "Come in = войти.",
+        "explanation_wrong": {
+          "on": "Come on другой смысл.",
+          "off": "Come off другой смысл."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He fell ___ the ladder.",
+        "options": [
+          "off",
+          "in",
+          "away"
+        ],
+        "correct_answer": "off",
+        "explanation_correct": "Fall off.",
+        "explanation_wrong": {
+          "in": "Fall in = упасть внутрь.",
+          "away": "Fall away uncommon."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The children ran ___.",
+        "options": [
+          "away",
+          "off",
+          "in"
+        ],
+        "correct_answer": "away",
+        "explanation_correct": "Run away = убежать.",
+        "explanation_wrong": {
+          "off": "Run off possible, but away basic.",
+          "in": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Sit ___, please.",
+        "options": [
+          "down",
+          "off",
+          "away"
+        ],
+        "correct_answer": "down",
+        "explanation_correct": "Sit down.",
+        "explanation_wrong": {
+          "off": "Wrong.",
+          "away": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Wake ___!",
+        "options": [
+          "up",
+          "off",
+          "out"
+        ],
+        "correct_answer": "up",
+        "explanation_correct": "Wake up.",
+        "explanation_wrong": {
+          "off": "Wrong.",
+          "out": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He went ___ of the room.",
+        "options": [
+          "out",
+          "away",
+          "off"
+        ],
+        "correct_answer": "out",
+        "explanation_correct": "Go out of.",
+        "explanation_wrong": {
+          "away": "Go away = уйти прочь, but not of the room.",
+          "off": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "The plane took off.",
+          "The plane took out.",
+          "The plane took away."
+        ],
+        "correct_answer": "The plane took off.",
+        "explanation_correct": "Take off = взлететь.",
+        "explanation_wrong": {
+          "The plane took out.": "Wrong meaning.",
+          "The plane took away.": "Wrong meaning."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Can you come ___ tomorrow?",
+        "options": [
+          "back",
+          "off",
+          "down"
+        ],
+        "correct_answer": "back",
+        "explanation_correct": "Come back = вернуться.",
+        "explanation_wrong": {
+          "off": "Wrong.",
+          "down": "Come down = спуститься."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 108,
+    "level": "A2",
+    "topic": "phrasal verbs object",
+    "title_ru": "Phrasal verbs 2: put on your shoes / put your shoes on",
+    "explanation_ru": "У некоторых фразовых глаголов объект может стоять между глаголом и частицей или после частицы: put on your shoes / put your shoes on. Но местоимение почти всегда ставим между: put them on.",
+    "formula": "verb + particle + noun\nverb + noun + particle\nverb + pronoun + particle",
+    "examples": [
+      {
+        "en": "Put on your coat.",
+        "ru": "Надень пальто.",
+        "note": "noun after particle."
+      },
+      {
+        "en": "Put your coat on.",
+        "ru": "Надень пальто.",
+        "note": "noun between."
+      },
+      {
+        "en": "Put it on.",
+        "ru": "Надень это.",
+        "note": "pronoun between."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "Put on it",
+        "correct": "Put it on",
+        "explanation": "Pronoun goes between verb and particle."
+      },
+      {
+        "wrong": "Turn off it",
+        "correct": "Turn it off",
+        "explanation": "Pronoun between."
+      },
+      {
+        "wrong": "Take off your shoes / Take your shoes off",
+        "correct": "Both OK with noun.",
+        "explanation": "Noun can be in two positions."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "Put ___ your shoes.",
+        "options": [
+          "on",
+          "off",
+          "away"
+        ],
+        "correct_answer": "on",
+        "explanation_correct": "Put on = надеть.",
+        "explanation_wrong": {
+          "off": "Take off = снять.",
+          "away": "Put away = убрать."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Put your shoes ___.",
+        "options": [
+          "on",
+          "off",
+          "away"
+        ],
+        "correct_answer": "on",
+        "explanation_correct": "Put your shoes on.",
+        "explanation_wrong": {
+          "off": "Would mean снять? take off, not put off shoes.",
+          "away": "Put away = убрать."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Put ___ on.",
+        "options": [
+          "them",
+          "they",
+          "their"
+        ],
+        "correct_answer": "them",
+        "explanation_correct": "Pronoun object them.",
+        "explanation_wrong": {
+          "they": "Subject form.",
+          "their": "Possessive adjective."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Turn ___ off.",
+        "options": [
+          "it",
+          "its",
+          "itself"
+        ],
+        "correct_answer": "it",
+        "explanation_correct": "Turn it off.",
+        "explanation_wrong": {
+          "its": "Possessive.",
+          "itself": "Reflexive not here."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Can you fill ___ this form?",
+        "options": [
+          "in",
+          "on",
+          "at"
+        ],
+        "correct_answer": "in",
+        "explanation_correct": "Fill in a form.",
+        "explanation_wrong": {
+          "on": "Wrong.",
+          "at": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Can you fill this form ___?",
+        "options": [
+          "in",
+          "on",
+          "at"
+        ],
+        "correct_answer": "in",
+        "explanation_correct": "Fill this form in.",
+        "explanation_wrong": {
+          "on": "Wrong.",
+          "at": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "Take them off.",
+          "Take off them.",
+          "Take they off."
+        ],
+        "correct_answer": "Take them off.",
+        "explanation_correct": "Pronoun goes between.",
+        "explanation_wrong": {
+          "Take off them.": "Wrong with pronoun.",
+          "Take they off.": "Need object form them."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Please turn ___ the light.",
+        "options": [
+          "on",
+          "in",
+          "at"
+        ],
+        "correct_answer": "on",
+        "explanation_correct": "Turn on the light.",
+        "explanation_wrong": {
+          "in": "Wrong.",
+          "at": "Wrong."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 109,
+    "level": "A1",
+    "topic": "and but or so because",
+    "title_ru": "And / but / or / so / because",
+    "explanation_ru": "Эти союзы соединяют идеи. And добавляет, but показывает контраст, or выбор, so результат, because причину.",
+    "formula": "and = addition\nbut = contrast\nor = choice\nso = result\nbecause = reason",
+    "examples": [
+      {
+        "en": "I was tired, so I went home.",
+        "ru": "Я устал, поэтому пошёл домой.",
+        "note": "result."
+      },
+      {
+        "en": "I went home because I was tired.",
+        "ru": "Я пошёл домой, потому что устал.",
+        "note": "reason."
+      },
+      {
+        "en": "She is nice but very quiet.",
+        "ru": "Она милая, но очень тихая.",
+        "note": "contrast."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "I was tired because I went home.",
+        "correct": "I went home because I was tired.",
+        "explanation": "Because gives reason."
+      },
+      {
+        "wrong": "I was tired, because I went home.",
+        "correct": "I was tired, so I went home.",
+        "explanation": "So gives result."
+      },
+      {
+        "wrong": "Tea but coffee?",
+        "correct": "Tea or coffee?",
+        "explanation": "Choice = or."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "I was hungry, ___ I ate.",
+        "options": [
+          "so",
+          "because",
+          "but"
+        ],
+        "correct_answer": "so",
+        "explanation_correct": "Result: hungry → ate.",
+        "explanation_wrong": {
+          "because": "Would introduce reason, not result here.",
+          "but": "No contrast."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I ate ___ I was hungry.",
+        "options": [
+          "because",
+          "so",
+          "but"
+        ],
+        "correct_answer": "because",
+        "explanation_correct": "Reason: I was hungry.",
+        "explanation_wrong": {
+          "so": "So gives result.",
+          "but": "No contrast."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Do you want tea ___ coffee?",
+        "options": [
+          "or",
+          "but",
+          "so"
+        ],
+        "correct_answer": "or",
+        "explanation_correct": "Choice.",
+        "explanation_wrong": {
+          "but": "Contrast.",
+          "so": "Result."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She is poor ___ happy.",
+        "options": [
+          "but",
+          "because",
+          "so"
+        ],
+        "correct_answer": "but",
+        "explanation_correct": "Contrast.",
+        "explanation_wrong": {
+          "because": "Reason.",
+          "so": "Result."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I bought bread ___ milk.",
+        "options": [
+          "and",
+          "or",
+          "but"
+        ],
+        "correct_answer": "and",
+        "explanation_correct": "Addition.",
+        "explanation_wrong": {
+          "or": "Choice.",
+          "but": "Contrast."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "It was late, ___ we took a taxi.",
+        "options": [
+          "so",
+          "because",
+          "or"
+        ],
+        "correct_answer": "so",
+        "explanation_correct": "Result.",
+        "explanation_wrong": {
+          "because": "Reason would need because it was late.",
+          "or": "Choice."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I stayed home because it was raining.",
+          "I stayed home so it was raining.",
+          "I stayed home but it was raining."
+        ],
+        "correct_answer": "I stayed home because it was raining.",
+        "explanation_correct": "Rain is reason.",
+        "explanation_wrong": {
+          "I stayed home so it was raining.": "Means my staying caused rain.",
+          "I stayed home but it was raining.": "Contrast not logical."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Hurry up, ___ you'll be late.",
+        "options": [
+          "or",
+          "because",
+          "and"
+        ],
+        "correct_answer": "or",
+        "explanation_correct": "Or = иначе.",
+        "explanation_wrong": {
+          "because": "Reason not here.",
+          "and": "Could be, but or gives warning."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 110,
+    "level": "A2",
+    "topic": "when",
+    "title_ru": "When",
+    "explanation_ru": "When может вводить время: When I arrived, she was cooking. В придаточном времени о будущем обычно используем Present Simple, не will: When I see him, I will tell him.",
+    "formula": "When + clause\nFuture meaning: When + Present Simple, ... will ...",
+    "examples": [
+      {
+        "en": "When I arrived, she was cooking.",
+        "ru": "Когда я пришёл, она готовила.",
+        "note": "Past time clause."
+      },
+      {
+        "en": "When I see him, I will tell him.",
+        "ru": "Когда я его увижу, я скажу ему.",
+        "note": "Future time clause uses present."
+      },
+      {
+        "en": "Call me when you get home.",
+        "ru": "Позвони, когда доберёшься домой.",
+        "note": "get, not will get."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "When I will see him",
+        "correct": "When I see him",
+        "explanation": "After when for future use Present Simple."
+      },
+      {
+        "wrong": "Call me when you will arrive",
+        "correct": "Call me when you arrive",
+        "explanation": "No will in time clause."
+      },
+      {
+        "wrong": "When I arrived, she cooked",
+        "correct": "When I arrived, she was cooking",
+        "explanation": "If action was in progress."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "When I ___ him, I will tell him.",
+        "options": [
+          "see",
+          "will see",
+          "saw"
+        ],
+        "correct_answer": "see",
+        "explanation_correct": "Future time clause uses Present Simple.",
+        "explanation_wrong": {
+          "will see": "No will after when in time clause.",
+          "saw": "Past, not future."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Call me when you ___ home.",
+        "options": [
+          "get",
+          "will get",
+          "got"
+        ],
+        "correct_answer": "get",
+        "explanation_correct": "Future meaning, present form.",
+        "explanation_wrong": {
+          "will get": "No will after when.",
+          "got": "Past."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "When I arrived, they ___ dinner.",
+        "options": [
+          "were having",
+          "will have",
+          "have"
+        ],
+        "correct_answer": "were having",
+        "explanation_correct": "Past background action.",
+        "explanation_wrong": {
+          "will have": "Not past.",
+          "have": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I was sleeping when the phone ___.",
+        "options": [
+          "rang",
+          "was ringing",
+          "rings"
+        ],
+        "correct_answer": "rang",
+        "explanation_correct": "Short completed action in past.",
+        "explanation_wrong": {
+          "was ringing": "Could describe background, but phone started ringing = rang.",
+          "rings": "Present."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "When she ___ tomorrow, we will start.",
+        "options": [
+          "comes",
+          "will come",
+          "came"
+        ],
+        "correct_answer": "comes",
+        "explanation_correct": "After when use present for future.",
+        "explanation_wrong": {
+          "will come": "No will in time clause.",
+          "came": "Past."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'll wait here until you ___.",
+        "options": [
+          "come back",
+          "will come back",
+          "came back"
+        ],
+        "correct_answer": "come back",
+        "explanation_correct": "Until like when: present for future.",
+        "explanation_wrong": {
+          "will come back": "No will in time clause.",
+          "came back": "Past."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "When I finish, I'll call you.",
+          "When I will finish, I'll call you.",
+          "When I finished, I'll call you."
+        ],
+        "correct_answer": "When I finish, I'll call you.",
+        "explanation_correct": "Future time clause uses Present Simple.",
+        "explanation_wrong": {
+          "When I will finish, I'll call you.": "No will after when.",
+          "When I finished, I'll call you.": "Past + future mismatch."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "What will you do when you ___ school?",
+        "options": [
+          "leave",
+          "will leave",
+          "left"
+        ],
+        "correct_answer": "leave",
+        "explanation_correct": "When + present for future.",
+        "explanation_wrong": {
+          "will leave": "No will in when-clause.",
+          "left": "Past."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 111,
+    "level": "A2",
+    "topic": "first conditional",
+    "title_ru": "First conditional: If we go...",
+    "explanation_ru": "First conditional говорит о реальном возможном будущем: if + Present Simple, will + verb. В части с if обычно не используем will.",
+    "formula": "if + Present Simple, will + verb\nwill + verb if + Present Simple",
+    "examples": [
+      {
+        "en": "If it rains, I will stay home.",
+        "ru": "Если пойдёт дождь, я останусь дома.",
+        "note": "real future possibility."
+      },
+      {
+        "en": "If I see him, I'll tell him.",
+        "ru": "Если я его увижу, я ему скажу.",
+        "note": "if + present."
+      },
+      {
+        "en": "I'll call you if I need help.",
+        "ru": "Я позвоню, если понадобится помощь.",
+        "note": "will in main clause."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "If it will rain",
+        "correct": "If it rains",
+        "explanation": "No will in if-clause for real future."
+      },
+      {
+        "wrong": "If I see him, I tell him",
+        "correct": "If I see him, I will tell him",
+        "explanation": "Main future result uses will."
+      },
+      {
+        "wrong": "I will call if I will need",
+        "correct": "I will call if I need",
+        "explanation": "No will after if."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "If it ___, we'll stay home.",
+        "options": [
+          "rains",
+          "will rain",
+          "rained"
+        ],
+        "correct_answer": "rains",
+        "explanation_correct": "If-clause uses Present Simple.",
+        "explanation_wrong": {
+          "will rain": "No will after if.",
+          "rained": "Second conditional/past."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "If I see her, I ___ tell her.",
+        "options": [
+          "will",
+          "do",
+          "am"
+        ],
+        "correct_answer": "will",
+        "explanation_correct": "Main clause future.",
+        "explanation_wrong": {
+          "do": "Not future here.",
+          "am": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I'll help you if I ___ time.",
+        "options": [
+          "have",
+          "will have",
+          "had"
+        ],
+        "correct_answer": "have",
+        "explanation_correct": "After if use present for future.",
+        "explanation_wrong": {
+          "will have": "No will after if.",
+          "had": "Second conditional."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "What will you do if you ___ the exam?",
+        "options": [
+          "fail",
+          "will fail",
+          "failed"
+        ],
+        "correct_answer": "fail",
+        "explanation_correct": "First conditional.",
+        "explanation_wrong": {
+          "will fail": "No will after if.",
+          "failed": "Second conditional."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "If he ___ late, we won't wait.",
+        "options": [
+          "is",
+          "will be",
+          "was"
+        ],
+        "correct_answer": "is",
+        "explanation_correct": "After if use present.",
+        "explanation_wrong": {
+          "will be": "No will in if-clause.",
+          "was": "Second conditional/past."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "She will be happy if you ___.",
+        "options": [
+          "come",
+          "will come",
+          "came"
+        ],
+        "correct_answer": "come",
+        "explanation_correct": "If + present.",
+        "explanation_wrong": {
+          "will come": "No will after if.",
+          "came": "Second conditional/past."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "If I have money, I'll buy it.",
+          "If I will have money, I'll buy it.",
+          "If I had money, I'll buy it."
+        ],
+        "correct_answer": "If I have money, I'll buy it.",
+        "explanation_correct": "First conditional = if + present, will.",
+        "explanation_wrong": {
+          "If I will have money, I'll buy it.": "No will in if-clause.",
+          "If I had money, I'll buy it.": "Mixed conditional forms."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "If you don't hurry, you ___ miss the train.",
+        "options": [
+          "will",
+          "do",
+          "are"
+        ],
+        "correct_answer": "will",
+        "explanation_correct": "Future result.",
+        "explanation_wrong": {
+          "do": "Not future.",
+          "are": "Wrong."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 112,
+    "level": "B1",
+    "topic": "second conditional",
+    "title_ru": "Second conditional: If I had...",
+    "explanation_ru": "Second conditional говорит о нереальной или маловероятной ситуации сейчас/в будущем: If I had more money, I would travel. После if используем Past Simple, в результате would + verb.",
+    "formula": "if + Past Simple, would + verb\nwould + verb if + Past Simple",
+    "examples": [
+      {
+        "en": "If I had more money, I would travel.",
+        "ru": "Если бы у меня было больше денег, я бы путешествовал.",
+        "note": "unreal present/future."
+      },
+      {
+        "en": "If I were you, I would wait.",
+        "ru": "На твоём месте я бы подождал.",
+        "note": "If I were you."
+      },
+      {
+        "en": "She would buy it if it was cheaper.",
+        "ru": "Она бы купила это, если бы оно было дешевле.",
+        "note": "hypothetical."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "If I will have money, I would travel.",
+        "correct": "If I had money, I would travel.",
+        "explanation": "Second conditional uses past after if."
+      },
+      {
+        "wrong": "If I had money, I will travel.",
+        "correct": "If I had money, I would travel.",
+        "explanation": "Result uses would."
+      },
+      {
+        "wrong": "If I was you",
+        "correct": "If I were you",
+        "explanation": "Fixed/formal phrase: If I were you."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "If I ___ rich, I would travel.",
+        "options": [
+          "were",
+          "am",
+          "will be"
+        ],
+        "correct_answer": "were",
+        "explanation_correct": "Unreal condition uses past; were is standard.",
+        "explanation_wrong": {
+          "am": "Present form not for second conditional.",
+          "will be": "No will after if."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "If she had time, she ___ help us.",
+        "options": [
+          "would",
+          "will",
+          "does"
+        ],
+        "correct_answer": "would",
+        "explanation_correct": "Second conditional result = would.",
+        "explanation_wrong": {
+          "will": "First conditional.",
+          "does": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I would buy it if it ___ cheaper.",
+        "options": [
+          "was",
+          "is",
+          "will be"
+        ],
+        "correct_answer": "was",
+        "explanation_correct": "If + past simple.",
+        "explanation_wrong": {
+          "is": "Present form gives first conditional-ish meaning.",
+          "will be": "No will after if."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "If I ___ you, I wouldn't go.",
+        "options": [
+          "were",
+          "am",
+          "will be"
+        ],
+        "correct_answer": "were",
+        "explanation_correct": "Fixed phrase: If I were you.",
+        "explanation_wrong": {
+          "am": "Not in hypothetical advice.",
+          "will be": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "What would you do if you ___ your job?",
+        "options": [
+          "lost",
+          "lose",
+          "will lose"
+        ],
+        "correct_answer": "lost",
+        "explanation_correct": "Second conditional uses past.",
+        "explanation_wrong": {
+          "lose": "Present, first conditional.",
+          "will lose": "No will after if."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "If we lived near the sea, we ___ swim every day.",
+        "options": [
+          "would",
+          "will",
+          "do"
+        ],
+        "correct_answer": "would",
+        "explanation_correct": "Hypothetical result.",
+        "explanation_wrong": {
+          "will": "Not second conditional.",
+          "do": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "If I knew, I would tell you.",
+          "If I know, I would tell you.",
+          "If I would know, I told you."
+        ],
+        "correct_answer": "If I knew, I would tell you.",
+        "explanation_correct": "If + past, would + verb.",
+        "explanation_wrong": {
+          "If I know, I would tell you.": "Mixed forms.",
+          "If I would know, I told you.": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "He would be happier if he ___ more free time.",
+        "options": [
+          "had",
+          "has",
+          "will have"
+        ],
+        "correct_answer": "had",
+        "explanation_correct": "Unreal present: if he had.",
+        "explanation_wrong": {
+          "has": "Present form.",
+          "will have": "No will after if."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 113,
+    "level": "A2",
+    "topic": "relative clauses 1",
+    "title_ru": "Relative clauses 1: a person who / a thing that",
+    "explanation_ru": "Relative clauses добавляют информацию о человеке или вещи. Who — для людей, which/that — для вещей/животных. На русском часто переводится «который».",
+    "formula": "person + who/that + verb\nthing + which/that + verb",
+    "examples": [
+      {
+        "en": "A teacher is a person who teaches.",
+        "ru": "Учитель — человек, который учит.",
+        "note": "who for person."
+      },
+      {
+        "en": "This is the book that I bought.",
+        "ru": "Это книга, которую я купил.",
+        "note": "that for thing."
+      },
+      {
+        "en": "I met a woman who lives next door.",
+        "ru": "Я встретил женщину, которая живёт рядом.",
+        "note": "who."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "a person which teaches",
+        "correct": "a person who teaches",
+        "explanation": "Who for people."
+      },
+      {
+        "wrong": "a thing who opens bottles",
+        "correct": "a thing that opens bottles",
+        "explanation": "That/which for things."
+      },
+      {
+        "wrong": "the man which called",
+        "correct": "the man who called",
+        "explanation": "People = who/that."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "A doctor is a person ___ helps sick people.",
+        "options": [
+          "who",
+          "which",
+          "where"
+        ],
+        "correct_answer": "who",
+        "explanation_correct": "Person = who.",
+        "explanation_wrong": {
+          "which": "Which for things.",
+          "where": "Where for places."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "This is the camera ___ I bought.",
+        "options": [
+          "that",
+          "who",
+          "where"
+        ],
+        "correct_answer": "that",
+        "explanation_correct": "Thing = that/which.",
+        "explanation_wrong": {
+          "who": "Who for people.",
+          "where": "Where for places."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "I know a woman ___ speaks five languages.",
+        "options": [
+          "who",
+          "which",
+          "what"
+        ],
+        "correct_answer": "who",
+        "explanation_correct": "Woman = person.",
+        "explanation_wrong": {
+          "which": "Which for things.",
+          "what": "Not relative pronoun here."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "A fridge is a thing ___ keeps food cold.",
+        "options": [
+          "that",
+          "who",
+          "where"
+        ],
+        "correct_answer": "that",
+        "explanation_correct": "Thing = that/which.",
+        "explanation_wrong": {
+          "who": "Who for people.",
+          "where": "Where for places."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The man ___ lives upstairs is noisy.",
+        "options": [
+          "who",
+          "which",
+          "where"
+        ],
+        "correct_answer": "who",
+        "explanation_correct": "Man = person.",
+        "explanation_wrong": {
+          "which": "Things.",
+          "where": "Places."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The film ___ we saw was good.",
+        "options": [
+          "that",
+          "who",
+          "where"
+        ],
+        "correct_answer": "that",
+        "explanation_correct": "Film = thing.",
+        "explanation_wrong": {
+          "who": "People.",
+          "where": "Place."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "I need a phone that takes good photos.",
+          "I need a phone who takes good photos.",
+          "I need a phone what takes good photos."
+        ],
+        "correct_answer": "I need a phone that takes good photos.",
+        "explanation_correct": "Thing = that/which.",
+        "explanation_wrong": {
+          "I need a phone who takes good photos.": "Who for people.",
+          "I need a phone what takes good photos.": "What not used this way."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "A waiter is someone ___ serves food.",
+        "options": [
+          "who",
+          "which",
+          "where"
+        ],
+        "correct_answer": "who",
+        "explanation_correct": "Someone/person = who.",
+        "explanation_wrong": {
+          "which": "Things.",
+          "where": "Places."
+        }
+      }
+    ]
+  },
+  {
+    "unit": 114,
+    "level": "B1",
+    "topic": "relative clauses 2",
+    "title_ru": "Relative clauses 2: the people we met",
+    "explanation_ru": "В object relative clauses who/that/which часто можно опустить: The people we met. The hotel we stayed at. Если есть предлог, он часто стоит в конце.",
+    "formula": "object relative: noun + subject + verb\nThe man I saw\nThe hotel we stayed at",
+    "examples": [
+      {
+        "en": "The people we met were nice.",
+        "ru": "Люди, которых мы встретили, были милыми.",
+        "note": "who/that omitted."
+      },
+      {
+        "en": "The hotel we stayed at was cheap.",
+        "ru": "Отель, в котором мы остановились, был дешёвым.",
+        "note": "preposition at at end."
+      },
+      {
+        "en": "The book I told you about is good.",
+        "ru": "Книга, о которой я тебе говорил, хорошая.",
+        "note": "about at end."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "The people we met them",
+        "correct": "The people we met",
+        "explanation": "Не нужен object pronoun them."
+      },
+      {
+        "wrong": "The hotel where we stayed at",
+        "correct": "The hotel we stayed at / the hotel where we stayed",
+        "explanation": "Не используем where и at вместе."
+      },
+      {
+        "wrong": "The book about I told you",
+        "correct": "The book I told you about",
+        "explanation": "Preposition often at end."
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "question": "The people ___ we met were friendly.",
+        "options": [
+          "-",
+          "they",
+          "them"
+        ],
+        "correct_answer": "-",
+        "explanation_correct": "Object relative pronoun can be omitted.",
+        "explanation_wrong": {
+          "they": "Don't add subject/object pronoun.",
+          "them": "Object already included in relative clause."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The book I told you ___ is on the table.",
+        "options": [
+          "about",
+          "for",
+          "-"
+        ],
+        "correct_answer": "about",
+        "explanation_correct": "Tell someone about something.",
+        "explanation_wrong": {
+          "for": "Wrong preposition.",
+          "-": "Need about."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The hotel we stayed ___ was expensive.",
+        "options": [
+          "at",
+          "in",
+          "to"
+        ],
+        "correct_answer": "at",
+        "explanation_correct": "Stay at a hotel.",
+        "explanation_wrong": {
+          "in": "Stay in possible, but unit phrase uses at.",
+          "to": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The woman I spoke ___ was kind.",
+        "options": [
+          "to",
+          "at",
+          "for"
+        ],
+        "correct_answer": "to",
+        "explanation_correct": "Speak to someone.",
+        "explanation_wrong": {
+          "at": "Speak at different meaning.",
+          "for": "Wrong."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The film we watched ___ boring.",
+        "options": [
+          "was",
+          "it was",
+          "were"
+        ],
+        "correct_answer": "was",
+        "explanation_correct": "The film was; no extra it.",
+        "explanation_wrong": {
+          "it was": "Don't repeat subject.",
+          "were": "Film singular."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The man ___ I saw was tall.",
+        "options": [
+          "-",
+          "he",
+          "him"
+        ],
+        "correct_answer": "-",
+        "explanation_correct": "Object relative can omit who/that.",
+        "explanation_wrong": {
+          "he": "Don't repeat subject.",
+          "him": "Object already in relative clause."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Choose correct.",
+        "options": [
+          "The restaurant we went to was full.",
+          "The restaurant where we went to was full.",
+          "The restaurant we went was full."
+        ],
+        "correct_answer": "The restaurant we went to was full.",
+        "explanation_correct": "Go to a restaurant; preposition at end.",
+        "explanation_wrong": {
+          "The restaurant where we went to was full.": "Don't use where + to together.",
+          "The restaurant we went was full.": "Missing to."
+        }
+      },
+      {
+        "type": "multiple_choice",
+        "question": "The music we listened ___ was beautiful.",
+        "options": [
+          "to",
+          "at",
+          "for"
+        ],
+        "correct_answer": "to",
+        "explanation_correct": "Listen to music.",
+        "explanation_wrong": {
+          "at": "Wrong.",
+          "for": "Wrong."
+        }
+      }
+    ]
+  }
+]
