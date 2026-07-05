@@ -75,5 +75,3 @@ language_bot/
 ├── services/
 └── data/
 ```
-
-`data/words_seed.json` содержит 1000 слов: A1 - 300, A2 - 300, B1 - 250, B2 - 150.
