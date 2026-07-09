@@ -19,7 +19,7 @@ from services.learning_service import (
     build_learning_session_id,
     get_active_learning_session_for_topic,
 )
-from services.user_service import add_user_xp, get_or_create_user
+from services.user_service import add_user_xp, get_or_create_user, is_admin_telegram_id
 from services.word_format_service import format_word_card as build_word_card
 from services.word_service import (
     count_words,
@@ -487,6 +487,10 @@ async def debug_words_command(update: Update, context: ContextTypes.DEFAULT_TYPE
     telegram_user = update.effective_user
     message = update.effective_message
     if not telegram_user or not message:
+        return
+
+    if not is_admin_telegram_id(telegram_user.id):
+        await message.reply_text("Команда доступна только администратору.", reply_markup=back_to_menu_keyboard())
         return
 
     topic = get_saved_learn_topic(context)

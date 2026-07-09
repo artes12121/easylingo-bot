@@ -104,7 +104,7 @@ def format_question_text(lesson: GrammarLesson, question_index: int) -> tuple[st
 
 async def grammar_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     context.user_data.clear()
-    await show_grammar_levels(update, context)
+    await show_grammar_entry(update, context)
 
 
 async def grammar_menu_callback(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
@@ -114,6 +114,18 @@ async def grammar_menu_callback(update: Update, context: ContextTypes.DEFAULT_TY
 
     await query.answer()
     context.user_data.clear()
+    await show_grammar_entry(update, context)
+
+
+async def show_grammar_entry(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    telegram_user = update.effective_user
+    if telegram_user:
+        with SessionLocal() as db:
+            user = get_or_create_user(db, telegram_user)
+            if user.level:
+                await show_grammar_sections(update, context, user.level)
+                return
+
     await show_grammar_levels(update, context)
 
 
@@ -272,7 +284,6 @@ async def show_current_lessons_or_levels(update: Update, context: ContextTypes.D
 
 def lesson_section_id(lesson: GrammarLesson) -> str:
     return get_grammar_section_id(lesson.unit, lesson.level, lesson.topic, lesson.title_ru)
-    return InlineKeyboardMarkup(rows)
 
 
 async def show_lesson(update: Update, context: ContextTypes.DEFAULT_TYPE, lesson_value: int) -> None:
@@ -459,6 +470,15 @@ async def grammar_lessons_callback(update: Update, context: ContextTypes.DEFAULT
     query = update.callback_query
     if query:
         await query.answer()
+
+    telegram_user = update.effective_user
+    if telegram_user:
+        with SessionLocal() as db:
+            user = get_or_create_user(db, telegram_user)
+            if user.level:
+                await show_grammar_sections(update, context, user.level)
+                return
+
     await show_current_lessons_or_levels(update, context)
 
 

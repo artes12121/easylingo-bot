@@ -34,11 +34,15 @@ pip install -r requirements.txt
 cp .env.example .env
 ```
 
-6. Вставьте токен Telegram-бота в `.env`:
+6. Вставьте токен Telegram-бота и другие переменные в `.env`:
 
 ```env
 BOT_TOKEN=your_real_telegram_bot_token
+YANDEX_TRANSLATE_API_KEY=your_yandex_translate_api_key
+YANDEX_FOLDER_ID=your_yandex_folder_id
 ```
+
+Полный список переменных — в `.env.example`.
 
 7. Создайте таблицы и загрузите стартовые данные:
 

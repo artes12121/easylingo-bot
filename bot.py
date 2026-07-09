@@ -1,4 +1,9 @@
-from telegram.ext import ApplicationBuilder, CallbackQueryHandler, CommandHandler, MessageHandler, filters
+from __future__ import annotations
+
+import logging
+
+from telegram import Update
+from telegram.ext import ApplicationBuilder, CallbackQueryHandler, CommandHandler, ContextTypes, MessageHandler, filters
 
 from config import BOT_TOKEN
 from database import init_db
@@ -26,6 +31,17 @@ from handlers.settings import settings_callback, settings_command
 from handlers.start import level_callback, start_command
 from handlers.translator import translator_callback, translator_command
 from handlers.words import debug_words_command, learn_words_callback, words_command
+
+
+logger = logging.getLogger(__name__)
+
+
+async def error_handler(update: object, context: ContextTypes.DEFAULT_TYPE) -> None:
+    logger.exception("Unhandled bot error", exc_info=context.error)
+    if isinstance(update, Update) and update.effective_message:
+        await update.effective_message.reply_text(
+            "Произошла ошибка. Попробуй ещё раз или открой /menu."
+        )
 
 
 def main() -> None:
@@ -99,6 +115,7 @@ def main() -> None:
         )
     )
     application.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, review_answer_handler))
+    application.add_error_handler(error_handler)
 
     print("Бот запущен. Нажми Ctrl+C для остановки.")
     application.run_polling()

@@ -13,19 +13,7 @@ async def review_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> 
     await start_review(update, context)
 
 
-def normalize_answer(value: str) -> str:
-    cleaned = value.lower().strip()
-    for char in ".,!?":
-        cleaned = cleaned.replace(char, "")
-    return " ".join(cleaned.split())
-
-
-def is_correct_translation(answer: str, russian: str) -> bool:
-    normalized_answer = normalize_answer(answer)
-    variants = {normalize_answer(russian)}
-    variants.update(normalize_answer(part) for part in russian.split(","))
-    variants.discard("")
-    return normalized_answer in variants
+from services.answer_service import is_correct_translation
 
 
 def format_review_question(user_word: UserWord) -> str:
@@ -43,7 +31,12 @@ def format_days(days: int) -> str:
 def format_review_result(user_word: UserWord, is_correct: bool, user_answer: str, status_before: str) -> str:
     word = user_word.word
     if is_correct:
-        if status_before == "learning":
+        if status_before == "known":
+            progress_text = (
+                f"Слово закреплено!\n"
+                f"Следующее повторение через: {format_days(max(user_word.interval_days, 1))}."
+            )
+        elif status_before == "learning":
             if user_word.status == "review":
                 progress_text = "3 / 3 правильных ответов.\n🎉 Слово вернулось в повторение."
             else:
@@ -53,8 +46,8 @@ def format_review_result(user_word: UserWord, is_correct: bool, user_answer: str
                 )
         elif user_word.status == "known":
             progress_text = (
-                f"{user_word.review_streak} / 3 правильных повторений.\n"
-                "🎉 Слово закреплено!"
+                f"Слово закреплено!\n"
+                f"Следующее повторение через: {format_days(max(user_word.interval_days, 1))}."
             )
         else:
             progress_text = (
@@ -67,6 +60,17 @@ def format_review_result(user_word: UserWord, is_correct: bool, user_answer: str
             f"{format_word_card(word)}\n\n"
             f"{progress_text}\n"
             "+5 XP"
+        )
+
+    if status_before == "known":
+        return (
+            "❌ Неверно.\n\n"
+            "Правильный ответ:\n"
+            f"{format_word_card(word)}\n\n"
+            "Твой ответ:\n"
+            f"{user_answer}\n\n"
+            "Слово снова отправлено в повторение.\n"
+            "+1 XP"
         )
 
     return (

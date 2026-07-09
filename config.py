@@ -10,3 +10,13 @@ OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
 YANDEX_TRANSLATE_API_KEY = os.getenv("YANDEX_TRANSLATE_API_KEY")
 YANDEX_FOLDER_ID = os.getenv("YANDEX_FOLDER_ID")
 DATABASE_URL = os.getenv("DATABASE_URL", "sqlite:///language_bot.db")
+
+
+def get_admin_telegram_ids() -> set[int]:
+    raw_value = os.getenv("ADMIN_TELEGRAM_IDS", "")
+    admin_ids: set[int] = set()
+    for part in raw_value.split(","):
+        part = part.strip()
+        if part.isdigit():
+            admin_ids.add(int(part))
+    return admin_ids
