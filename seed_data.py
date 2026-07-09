@@ -12,6 +12,7 @@ from models import GrammarLesson, Word
 
 BASE_DIR = Path(__file__).resolve().parent
 WORDS_PATH = BASE_DIR / "data" / "words_seed.json"
+WORD_PACKS_DIR = BASE_DIR / "data" / "word_packs"
 GRAMMAR_PATH = BASE_DIR / "data" / "grammar_seed.json"
 GRAMMAR_PACKS_DIR = BASE_DIR / "data" / "grammar_packs"
 GRAMMAR_PACKS_B1B2_DIR = BASE_DIR / "data" / "grammar_packs_b1b2"
@@ -80,8 +81,27 @@ def load_grammar_items() -> list[dict]:
     return grammar_items
 
 
-def seed_words(db) -> tuple[int, int]:
+def load_word_items() -> list[dict]:
     words = load_json_array(WORDS_PATH, required=True)
+    if not WORD_PACKS_DIR.exists():
+        return words
+
+    pack_paths = sorted(path for path in WORD_PACKS_DIR.glob("*.json") if path.is_file())
+    if not pack_paths:
+        return words
+
+    print("Loading word packs:")
+    for pack_path in pack_paths:
+        pack_items = load_json_array(pack_path, required=True)
+        print(f"- {pack_path.name}: {len(pack_items)} words")
+        words.extend(pack_items)
+
+    print(f"Total word cards loaded: {len(words)}")
+    return words
+
+
+def seed_words(db) -> tuple[int, int]:
+    words = load_word_items()
     existing_words = {
         (word.english.lower(), word.level): word
         for word in db.scalars(select(Word))

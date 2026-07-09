@@ -23,23 +23,11 @@ from services.learning_service import (
     get_next_learning_word,
 )
 from services.review_service import count_due_reviews, get_user_word
-from services.user_service import add_user_xp, get_or_create_user
+from services.user_service import add_user_xp, get_or_create_user, is_admin_telegram_id
 from services.word_format_service import format_word_card, format_word_question, get_word_translation
 
 
-def normalize_answer(value: str) -> str:
-    cleaned = value.lower().strip()
-    for char in ".,!?":
-        cleaned = cleaned.replace(char, "")
-    return " ".join(cleaned.split())
-
-
-def is_correct_translation(answer: str, russian: str) -> bool:
-    normalized_answer = normalize_answer(answer)
-    variants = {normalize_answer(russian)}
-    variants.update(normalize_answer(part) for part in russian.split(","))
-    variants.discard("")
-    return normalized_answer in variants
+from services.answer_service import is_correct_translation
 
 
 def format_learning_question(user_word: UserWord) -> str:
@@ -246,6 +234,10 @@ async def debug_learning_command(update: Update, context: ContextTypes.DEFAULT_T
     telegram_user = update.effective_user
     message = update.effective_message
     if not telegram_user or not message:
+        return
+
+    if not is_admin_telegram_id(telegram_user.id):
+        await message.reply_text("Команда доступна только администратору.", reply_markup=back_to_menu_keyboard())
         return
 
     with SessionLocal() as db:

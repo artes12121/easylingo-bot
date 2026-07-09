@@ -1,10 +1,11 @@
-from datetime import datetime
+from datetime import date, datetime, timedelta
 from typing import Optional
 
 from sqlalchemy import delete, select
 from sqlalchemy.orm import Session
 from telegram import User as TelegramUser
 
+from config import get_admin_telegram_ids
 from models import GrammarProgress, TranslationHistory, User, UserGrammarResult, UserWord
 
 
@@ -45,9 +46,30 @@ def set_user_level(db: Session, telegram_id: int, level: str) -> Optional[User]:
     return user
 
 
+def record_study_activity(user: User) -> None:
+    today = date.today()
+    if user.last_study_date == today:
+        return
+
+    if user.last_study_date == today - timedelta(days=1):
+        user.streak += 1
+    else:
+        user.streak = 1
+
+    user.last_study_date = today
+
+
 def add_user_xp(db: Session, user: User, amount: int) -> None:
     user.xp += amount
+    record_study_activity(user)
     user.last_active_at = datetime.utcnow()
+
+
+def is_admin_telegram_id(telegram_id: int) -> bool:
+    admin_ids = get_admin_telegram_ids()
+    if not admin_ids:
+        return True
+    return telegram_id in admin_ids
 
 
 def reset_user_progress(db: Session, user: User) -> None:

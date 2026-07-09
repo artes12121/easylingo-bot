@@ -34,11 +34,15 @@ pip install -r requirements.txt
 cp .env.example .env
 ```
 
-6. Вставьте токен Telegram-бота в `.env`:
+6. Вставьте токен Telegram-бота и другие переменные в `.env`:
 
 ```env
 BOT_TOKEN=your_real_telegram_bot_token
+YANDEX_TRANSLATE_API_KEY=your_yandex_translate_api_key
+YANDEX_FOLDER_ID=your_yandex_folder_id
 ```
+
+Полный список переменных — в `.env.example`.
 
 7. Создайте таблицы и загрузите стартовые данные:
 
@@ -57,6 +61,30 @@ python bot.py
 ```text
 BOT_TOKEN не найден. Укажи BOT_TOKEN в .env
 ```
+
+## Если бот падает с `telegram.error.TimedOut`
+
+1. Проверь интернет и доступ к Telegram API:
+
+```bash
+curl -I https://api.telegram.org
+```
+
+2. Если запрос зависает или не открывается — включи VPN или укажи прокси в `.env`:
+
+```env
+TELEGRAM_PROXY_URL=socks5://127.0.0.1:1080
+```
+
+3. Обнови код бота и проверь подключение:
+
+```bash
+git pull
+python check_telegram.py
+python bot.py
+```
+
+Бот теперь использует увеличенные таймауты и автоматически переподключается при старте.
 
 ## Структура
 

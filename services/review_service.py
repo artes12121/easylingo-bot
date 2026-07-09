@@ -7,6 +7,33 @@ from sqlalchemy.orm import Session, selectinload
 from models import UserWord
 from services.learning_service import build_learning_session_id
 
+MIN_EASE_FACTOR = 1.3
+DEFAULT_EASE_FACTOR = 2.5
+
+
+def _due_review_status_filter():
+    return or_(
+        UserWord.status == "review",
+        and_(UserWord.status == "learning", UserWord.is_learning_done.is_(False)),
+        UserWord.status == "known",
+    )
+
+
+def _schedule_short_review(user_word: UserWord, now: datetime) -> None:
+    user_word.interval_days = 0
+    user_word.next_review_at = now + timedelta(minutes=5)
+
+
+def _apply_sm2_success(user_word: UserWord, now: datetime) -> None:
+    if user_word.interval_days <= 0:
+        user_word.interval_days = 1
+    elif user_word.interval_days == 1:
+        user_word.interval_days = 3
+    else:
+        user_word.interval_days = max(1, int(round(user_word.interval_days * user_word.ease_factor)))
+    user_word.ease_factor = min(2.5, user_word.ease_factor + 0.1)
+    user_word.next_review_at = now + timedelta(days=user_word.interval_days)
+
 
 def count_due_reviews(db: Session, user_id: int) -> int:
     statement = (
@@ -14,10 +41,7 @@ def count_due_reviews(db: Session, user_id: int) -> int:
         .select_from(UserWord)
         .where(
             UserWord.user_id == user_id,
-            or_(
-                UserWord.status == "review",
-                and_(UserWord.status == "learning", UserWord.is_learning_done.is_(False)),
-            ),
+            _due_review_status_filter(),
             UserWord.next_review_at <= datetime.utcnow(),
         )
     )
@@ -39,10 +63,7 @@ def get_next_due_review(db: Session, user_id: int) -> Optional[UserWord]:
         .options(selectinload(UserWord.word))
         .where(
             UserWord.user_id == user_id,
-            or_(
-                UserWord.status == "review",
-                and_(UserWord.status == "learning", UserWord.is_learning_done.is_(False)),
-            ),
+            _due_review_status_filter(),
             UserWord.next_review_at <= datetime.utcnow(),
         )
         .order_by(UserWord.next_review_at.asc(), UserWord.id.asc())
@@ -99,12 +120,15 @@ def update_review_result(user_word: UserWord, is_correct: bool) -> None:
 
         if user_word.status == "learning":
             user_word.learning_stage += 1
-            user_word.interval_days = 0
-            user_word.next_review_at = now + timedelta(minutes=5)
+            _schedule_short_review(user_word, now)
             if user_word.learning_stage >= 3:
                 user_word.status = "review"
                 user_word.is_learning_done = True
                 user_word.review_streak = 0
+            return
+
+        if user_word.status == "known":
+            _apply_sm2_success(user_word, now)
             return
 
         user_word.review_streak += 1
@@ -112,24 +136,30 @@ def update_review_result(user_word: UserWord, is_correct: bool) -> None:
             user_word.status = "known"
             user_word.interval_days = 7
             user_word.next_review_at = now + timedelta(days=7)
+            user_word.ease_factor = max(user_word.ease_factor, DEFAULT_EASE_FACTOR)
             return
 
         user_word.status = "review"
-        user_word.interval_days = 0
-        user_word.next_review_at = now + timedelta(minutes=5)
+        _schedule_short_review(user_word, now)
         return
 
     user_word.wrong_count += 1
     user_word.review_streak = 0
     user_word.learning_stage = 0
+
+    if user_word.status == "known":
+        user_word.status = "review"
+        user_word.ease_factor = max(MIN_EASE_FACTOR, user_word.ease_factor - 0.2)
+        _schedule_short_review(user_word, now)
+        return
+
     user_word.status = "learning"
     user_word.is_learning_done = False
     user_word.learning_session_id = build_learning_session_id(
         user_word.user_id,
         user_word.word.topic if user_word.word else "review",
     )
-    user_word.interval_days = 0
-    user_word.next_review_at = now + timedelta(minutes=5)
+    _schedule_short_review(user_word, now)
 
 
 def get_user_word_stats(db: Session, user_id: int) -> Dict[str, int]:
