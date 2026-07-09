@@ -3,9 +3,19 @@ from __future__ import annotations
 import logging
 
 from telegram import Update
+from telegram.error import NetworkError, TimedOut
 from telegram.ext import ApplicationBuilder, CallbackQueryHandler, CommandHandler, ContextTypes, MessageHandler, filters
+from telegram.request import HTTPXRequest
 
-from config import BOT_TOKEN
+from config import (
+    BOT_TOKEN,
+    TELEGRAM_CONNECT_TIMEOUT,
+    TELEGRAM_GET_UPDATES_READ_TIMEOUT,
+    TELEGRAM_POOL_TIMEOUT,
+    TELEGRAM_PROXY_URL,
+    TELEGRAM_READ_TIMEOUT,
+    TELEGRAM_WRITE_TIMEOUT,
+)
 from database import init_db
 from handlers.grammar import (
     grammar_answer_callback,
@@ -37,11 +47,45 @@ logger = logging.getLogger(__name__)
 
 
 async def error_handler(update: object, context: ContextTypes.DEFAULT_TYPE) -> None:
-    logger.exception("Unhandled bot error", exc_info=context.error)
+    error = context.error
+    if isinstance(error, (TimedOut, NetworkError)):
+        logger.warning("Сетевая ошибка Telegram: %s", error)
+        return
+
+    logger.exception("Unhandled bot error", exc_info=error)
     if isinstance(update, Update) and update.effective_message:
         await update.effective_message.reply_text(
             "Произошла ошибка. Попробуй ещё раз или открой /menu."
         )
+
+
+def build_application():
+    request_kwargs = {}
+    if TELEGRAM_PROXY_URL:
+        request_kwargs["proxy"] = TELEGRAM_PROXY_URL
+
+    request = HTTPXRequest(
+        connect_timeout=TELEGRAM_CONNECT_TIMEOUT,
+        read_timeout=TELEGRAM_READ_TIMEOUT,
+        write_timeout=TELEGRAM_WRITE_TIMEOUT,
+        pool_timeout=TELEGRAM_POOL_TIMEOUT,
+        **request_kwargs,
+    )
+    get_updates_request = HTTPXRequest(
+        connect_timeout=TELEGRAM_CONNECT_TIMEOUT,
+        read_timeout=TELEGRAM_GET_UPDATES_READ_TIMEOUT,
+        write_timeout=TELEGRAM_WRITE_TIMEOUT,
+        pool_timeout=TELEGRAM_POOL_TIMEOUT,
+        **request_kwargs,
+    )
+
+    return (
+        ApplicationBuilder()
+        .token(BOT_TOKEN)
+        .request(request)
+        .get_updates_request(get_updates_request)
+        .build()
+    )
 
 
 def main() -> None:
@@ -51,7 +95,7 @@ def main() -> None:
 
     init_db()
 
-    application = ApplicationBuilder().token(BOT_TOKEN).build()
+    application = build_application()
     application.add_handler(CommandHandler("start", start_command))
     application.add_handler(CommandHandler("menu", menu_command))
     application.add_handler(CommandHandler("help", help_command))
@@ -118,7 +162,9 @@ def main() -> None:
     application.add_error_handler(error_handler)
 
     print("Бот запущен. Нажми Ctrl+C для остановки.")
-    application.run_polling()
+    if TELEGRAM_PROXY_URL:
+        print("Используется прокси для Telegram API.")
+    application.run_polling(drop_pending_updates=True, bootstrap_retries=-1)
 
 
 if __name__ == "__main__":
