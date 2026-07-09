@@ -76,9 +76,11 @@ curl -I https://api.telegram.org
 TELEGRAM_PROXY_URL=socks5://127.0.0.1:1080
 ```
 
-3. Обнови код бота и перезапусти:
+3. Обнови код бота и проверь подключение:
 
 ```bash
+git pull
+python check_telegram.py
 python bot.py
 ```
 
